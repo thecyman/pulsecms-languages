@@ -5,6 +5,7 @@ $lang_cancel = "Zrušiť";
 $lang_help = "Pomocník";
 $lang_save = "Uložiť";
 $lang_rename_btn = "Premenovať";
+$lang_title = "Pulse CMS";
 
 // Login
 
@@ -14,7 +15,7 @@ $lang_login_button = "Prihlásenie";
 $lang_nav_logout = "Oddhlásenie";
 
 // Home
-$lang_home_emptyfold = "Táto zložka je prázdna."; 
+$lang_home_emptyfold = "Táto zložka je prázdna.";
 $lang_home_new = "Nový";
 $lang_home_upload_button = "Nahrať";
 $lang_home_preview = "Náhľad";
@@ -28,7 +29,6 @@ $lang_nav_blog = "Blog";
 $lang_nav_pages = "Stránky";
 $lang_nav_stats = "Štatistiky";
 
-
 // Gallery
 
 $lang_gal_caption_gallery = "Tu vložte titulok";
@@ -39,7 +39,6 @@ $lang_gal_img = "IMG";
 $lang_gal_link = "Odkaz";
 $lang_gallery_tool_tip = "Ak chcete vytvoriť lightbox galériu, vytvorte zložku obrázkov a použite embed tag.";
 
-
 // Pages
 
 $lang_pages_title = "Názov stránky";
@@ -48,7 +47,7 @@ $lang_pages_description = "Popis stránky";
 // Create
 
 $lang_create_file_or_folder = 'Nový súbor alebo priečinok';
-$lang_create_button = "Vytvoriť"; 
+$lang_create_button = "Vytvoriť";
 $lang_create_tool_tip = "Názov novej stránky, bloku a blogu musia končiť príponou '.txt'. Ak chcete vytvoriť priečinok neuvádzajte príponu.";
 
 // Delete
@@ -71,7 +70,6 @@ $lang_blog_newer = 'Novšie';
 $lang_blog_error_folder = "Nedá sa vytvoriť priečinok v Blogu";
 $lang_blog_tool_tip = "Príspevky blogu sú zoradené podľa číslovania, najvyššie číslovanie predstavuje najnovší príspevok.";
 
-
 //Form
 
 $lang_form_error1 = 'Prisim vyplnte toto pole ';
@@ -93,4 +91,6 @@ $lang_stats_online = "Online";
 $lang_stats_thisweek = "Tento týždeň";
 $lang_stats_todays_stats = "Dnes";
 $lang_stats_nodata = "Žiadne dáta";
+
+
 ?>
