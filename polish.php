@@ -5,6 +5,7 @@ $lang_cancel = "Anuluj";
 $lang_help = "Pomoc";
 $lang_save = "Oszczędzać";
 $lang_rename_btn = "Zmień nazwę";
+$lang_title = "Pulse CMS";
 
 // Login
 
@@ -14,7 +15,7 @@ $lang_login_button = "Zaloguj";
 $lang_nav_logout = "Wyloguj";
 
 // Home
-$lang_home_emptyfold = "Ten folder jest pusty."; 
+$lang_home_emptyfold = "Ten folder jest pusty.";
 $lang_home_new = "Nowy";
 $lang_home_upload_button = "Prześlij";
 $lang_home_preview = "Podgląd";
@@ -38,7 +39,6 @@ $lang_gal_img = "IMG";
 $lang_gal_link = "Powiązanie";
 $lang_gallery_tool_tip = "Aby utworzyć galerię lightbox, utwórz folder zdjęć i użyć embed.";
 
-
 // Pages
 
 $lang_pages_title = "Nagłówek strony";
@@ -47,7 +47,7 @@ $lang_pages_description = "Opis strony";
 // Create
 
 $lang_create_file_or_folder = 'Nowy plik lub folder';
-$lang_create_button = "Utwórz"; 
+$lang_create_button = "Utwórz";
 $lang_create_tool_tip = "Nowa strona, bloky i bogach muszą kończyć '.txt'. Aby utworzyć folder dodać żadnego rozszerzenia.";
 
 // Delete
@@ -70,7 +70,6 @@ $lang_blog_newer = 'Nowsze';
 $lang_blog_error_folder = "Nie można utworzyć folder w Blog";
 $lang_blog_tool_tip = "Wpisy na blogu są sortowane według liczby, najwyższy numeracji będącego najnowszym postu.";
 
-
 //Form
 
 $lang_form_error1 = 'Proszę wypełnić pole ';
@@ -92,4 +91,6 @@ $lang_stats_online = "Online";
 $lang_stats_thisweek = "Ten tydzień";
 $lang_stats_todays_stats = "Dzisiaj";
 $lang_stats_nodata = "Brak danych";
+
+
 ?>
