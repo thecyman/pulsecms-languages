@@ -5,6 +5,7 @@ $lang_cancel = "Zrušit";
 $lang_help = "Nápověda";
 $lang_save = "Uložit";
 $lang_rename_btn = "Přejmenovat";
+$lang_title = "Pulse CMS";
 
 // Login
 
@@ -14,7 +15,7 @@ $lang_login_button = "Přihlášení";
 $lang_nav_logout = "Odhlášení";
 
 // Home
-$lang_home_emptyfold = "Tato složka je prázdná."; 
+$lang_home_emptyfold = "Tato složka je prázdná.";
 $lang_home_new = "Nový";
 $lang_home_upload_button = "Nahrát";
 $lang_home_preview = "Náhled";
@@ -38,7 +39,6 @@ $lang_gal_img = "IMG";
 $lang_gal_link = "Odkaz";
 $lang_gallery_tool_tip = "Chcete-li vytvořit lightbox galerii, vytvořte složku obrázků a použijte embed tag.";
 
-
 // Pages
 
 $lang_pages_title = "Název stránky";
@@ -47,7 +47,7 @@ $lang_pages_description = "Popis stránky";
 // Create
 
 $lang_create_file_or_folder = 'Nový soubor nebo složka';
-$lang_create_button = "Vytvořit"; 
+$lang_create_button = "Vytvořit";
 $lang_create_tool_tip = "Nové stránky, bloky a příspěvky blogu musí končit '.txt'. Chcete-li vytvořit složku přidejte bez přípony.";
 
 // Delete
@@ -70,7 +70,6 @@ $lang_blog_newer = 'Novější';
 $lang_blog_error_folder = "V Blogu nelze vytvořit složku";
 $lang_blog_tool_tip = "Položky blogu jsou řazeny podle čísla, nejvyšší číslování prozatím nejnovější příspěvek.";
 
-
 //Form
 
 $lang_form_error1 = 'Prosím vyplňte toto pole ';
@@ -92,4 +91,5 @@ $lang_stats_online = "Online";
 $lang_stats_thisweek = "Tento týden";
 $lang_stats_todays_stats = "Dnešní statistiky";
 $lang_stats_nodata = "Žádná data";
+
 ?>
