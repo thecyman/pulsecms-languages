@@ -5,6 +5,7 @@ $lang_cancel = "Mégsem";
 $lang_help = "Segítség";
 $lang_save = "Mentés";
 $lang_rename_btn = "Átnevezés";
+$lang_title = "Pulse CMS";
 
 // Login
 
@@ -14,7 +15,7 @@ $lang_login_button = "Bejelentkezés";
 $lang_nav_logout = "Kijelentkezés";
 
 // Home
-$lang_home_emptyfold = "Ez a mappa üres."; 
+$lang_home_emptyfold = "Ez a mappa üres.";
 $lang_home_new = "Új";
 $lang_home_upload_button = "Feltöltés";
 $lang_home_preview = "Előnézetet";
@@ -38,7 +39,6 @@ $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
 $lang_gallery_tool_tip = "Hogy hozzon létre egy lightbox galéria, hozzon létre egy képek mappát, és használja az embed tag";
 
-
 // Pages
 
 $lang_pages_title = "Oldal címe";
@@ -47,7 +47,7 @@ $lang_pages_description = "Oldal leírása";
 // Create
 
 $lang_create_file_or_folder = 'Új fájl vagy mappa';
-$lang_create_button = "Létrehoz"; 
+$lang_create_button = "Létrehoz";
 $lang_create_tool_tip = "Új oldalak, blokkok és blogbejegyzések kell végződnie '.txt'. Mappat létrehozni a kiterjesztés nélkül.";
 
 // Delete
@@ -70,7 +70,6 @@ $lang_blog_newer = 'Újabb';
 $lang_blog_error_folder = "Nem hozhat létre mappát a Blogba";
 $lang_blog_tool_tip = "Blog bejegyzések megrendelt száma, a legmagasabb számozás hogy a legújabb post.";
 
-
 //Form
 
 $lang_form_error1 = 'Kérjük, töltse ki mezőt ';
@@ -92,4 +91,6 @@ $lang_stats_online = "Online";
 $lang_stats_thisweek = "Ezen a héten";
 $lang_stats_todays_stats = "A mai statisztika";
 $lang_stats_nodata = "Nincs adat";
+
+
 ?>
