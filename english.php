@@ -5,6 +5,7 @@ $lang_cancel = "Cancel";
 $lang_help = "Help";
 $lang_save = "Save";
 $lang_rename_btn = "Rename";
+$lang_title = "Pulse CMS";
 
 // Login
 
@@ -26,6 +27,8 @@ $lang_nav_blocks = "Blocks";
 $lang_nav_img = "Media";
 $lang_nav_blog = "Blog";
 $lang_nav_pages = "Pages";
+$lang_nav_stats = "Stats";
+
 
 // Gallery
 
@@ -35,6 +38,7 @@ $lang_gal_dimensions = "Dimensions";
 $lang_gal_size = "Size";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
+$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
 
 // Pages
 
@@ -45,7 +49,7 @@ $lang_pages_description = "Page Description";
 
 $lang_create_file_or_folder = 'New file or folder';
 $lang_create_button = "Create"; 
-$lang_create_tool_tip = "New pages, blocks and blog posts must end with '.txt'. To create a folder add no extension.";
+$lang_create_tool_tip = "Pages, blocks and blog posts must end with '.txt'. To create a folder, add no extension.";
 
 // Delete
 
@@ -54,7 +58,7 @@ $lang_del_button = "Delete";
 
 // Errors
 
-$lang_error_create_ext = 'You can only create txt files and folders.';
+$lang_error_create_ext = 'Invalid file extention.';
 $lang_error_file_exists = 'A file with this name in this folder already exists.';
 $lang_error_upload = 'You need to be in a Gallery to upload an image.';
 $lang_no_content = 'no content found';
@@ -65,6 +69,7 @@ $lang_blog_read_more = 'Read more';
 $lang_blog_older = 'Older';
 $lang_blog_newer = 'Newer';
 $lang_blog_error_folder = "You can't create a folder in Blog";
+$lang_blog_tool_tip = "Blog entries are ordered by number, the highest numbering being the newest post.";
 
 //Form
 
@@ -74,6 +79,19 @@ $lang_form_error2b = ' is too long.';
 $lang_form_subject_line = 'Contact';
 $lang_form_email_sent = 'Email was sent';
 $lang_form_sent_button = 'Send';
+
+// Stats
+
+$lang_stats_today = "Visitors";
+$lang_stats_refers = "Top Referrers";
+$lang_stats_pages = "Top Pages";
+$lang_stats_refresh = "Refresh";
+$lang_stats_pageviews = "Pageviews";
+$lang_stats_per_visit = "Pages / Visit";
+$lang_stats_online = "Online";
+$lang_stats_thisweek = "This Week";
+$lang_stats_todays_stats = "Today";
+$lang_stats_nodata = "No Data";
 
 
 ?>
