@@ -6,6 +6,8 @@ $lang_help = "Допомога";
 $lang_save = "Зберегти";
 $lang_rename_btn = "Перейменувати";
 $lang_title = "Pulse CMS";
+$lang_version = "Pulse CMS 4.5.2";
+$lang_update = "Update";
 
 // Login
 
@@ -38,6 +40,8 @@ $lang_gal_dimensions = "Розмірність";
 $lang_gal_size = "Розмір";
 $lang_gal_img = "Вставити";
 $lang_gal_link = "Посилання";
+$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
+
 
 // Pages
 
@@ -68,6 +72,7 @@ $lang_blog_read_more = 'Читати далі';
 $lang_blog_older = 'Попередні';
 $lang_blog_newer = 'Новіші';
 $lang_blog_error_folder = "Неможливо створити теку в Блозі";
+$lang_blog_tool_tip = "Blog entries are ordered by number, the highest numbering being the newest post.";
 
 //Form
 

@@ -5,6 +5,9 @@ $lang_cancel = "İptal";
 $lang_help = "Yardım";
 $lang_save = "Kaydet";
 $lang_rename_btn = "Yeniden Adlandır";
+$lang_title = "Pulse CMS";
+$lang_version = "Pulse CMS 4.5.2";
+$lang_update = "Update";
 
 // Login
 
@@ -37,6 +40,7 @@ $lang_gal_dimensions = "Ölçüler";
 $lang_gal_size = "Boyut";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Bağlantı";
+$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
 
 // Pages
 
@@ -67,6 +71,7 @@ $lang_blog_read_more = 'Daha Fazlası';
 $lang_blog_older = 'Eski';
 $lang_blog_newer = 'Yeni';
 $lang_blog_error_folder = "Blogta bir klasör oluşturamazsınız.";
+$lang_blog_tool_tip = "Blog entries are ordered by number, the highest numbering being the newest post.";
 
 //Form
 

@@ -5,6 +5,9 @@ $lang_cancel = "Annuler";
 $lang_help = "Aide";
 $lang_save = "Enregistrer";
 $lang_rename_btn = "Renommer";
+$lang_title = "Pulse CMS";
+$lang_version = "Pulse CMS 4.5.2";
+$lang_update = "Update";
 
 // Connexion
 
@@ -37,6 +40,8 @@ $lang_gal_dimensions = "Dimensions";
 $lang_gal_size = "Poids";
 $lang_gal_img = "Code Image";
 $lang_gal_link = "Code Lien";
+$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
+
 
 // Pages
 
@@ -67,6 +72,7 @@ $lang_blog_read_more = 'Lire la suite';
 $lang_blog_older = 'Articles anciens';
 $lang_blog_newer = 'Articles récents';
 $lang_blog_error_folder = "Vous ne pouvez pas créer un dossier dans le blog";
+$lang_blog_tool_tip = "Blog entries are ordered by number, the highest numbering being the newest post.";
 
 //Formulaire
 

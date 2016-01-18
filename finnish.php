@@ -7,6 +7,8 @@ $lang_help = "Help";
 $lang_save = "Tallenna";
 $lang_rename_btn = "Nimeä uudelleen";
 $lang_title = "Pulse CMS";
+$lang_version = "Pulse CMS 4.5.2";
+$lang_update = "Update";
 
 // Login
 

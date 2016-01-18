@@ -5,6 +5,9 @@ $lang_cancel = "Cancella";
 $lang_help = "Aiuto";
 $lang_save = "Salva";
 $lang_rename_btn = "Rinomina";
+$lang_title = "Pulse CMS";
+$lang_version = "Pulse CMS 4.5.2";
+$lang_update = "Update";
 
 // Login
 
@@ -35,6 +38,7 @@ $lang_gal_dimensions = "Dimensione";
 $lang_gal_size = "Dimensione";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
+$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
 
 // Pages
 
@@ -65,6 +69,7 @@ $lang_blog_read_more = 'Leggi tutto ';
 $lang_blog_older = 'Vecchi ';
 $lang_blog_newer = 'Nuovi ';
 $lang_blog_error_folder = "Non puoi creare una cartella nel Blog ";
+$lang_blog_tool_tip = "Blog entries are ordered by number, the highest numbering being the newest post.";
 
 //Form
 
@@ -74,6 +79,19 @@ $lang_form_error2b = ' è troppo lungo.';
 $lang_form_subject_line = 'Contatti ';
 $lang_form_email_sent = 'Email inviata ';
 $lang_form_sent_button = 'Invia ';
+
+// Stats
+
+$lang_stats_today = "Visitors";
+$lang_stats_refers = "Top Referrers";
+$lang_stats_pages = "Top Pages";
+$lang_stats_refresh = "Refresh";
+$lang_stats_pageviews = "Pageviews";
+$lang_stats_per_visit = "Pages / Visit";
+$lang_stats_online = "Online";
+$lang_stats_thisweek = "This Week";
+$lang_stats_todays_stats = "Today";
+$lang_stats_nodata = "No Data";
 
 
 ?>

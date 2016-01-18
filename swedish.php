@@ -6,6 +6,8 @@ $lang_help = "Hjälp";
 $lang_save = "Spara";
 $lang_rename_btn = "Byt Namn";
 $lang_title = "Pulse CMS";
+$lang_version = "Pulse CMS 4.5.2";
+$lang_update = "Update";
 
 // Login
 
@@ -38,6 +40,7 @@ $lang_gal_dimensions = "Dimensioner";
 $lang_gal_size = "Storlek";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Länk";
+$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
 
 // Pages
 
@@ -68,6 +71,7 @@ $lang_blog_read_more = 'Läs Mer';
 $lang_blog_older = 'Äldre';
 $lang_blog_newer = 'Nyare';
 $lang_blog_error_folder = "You can't create a folder in Blog";
+$lang_blog_tool_tip = "Blog entries are ordered by number, the highest numbering being the newest post.";
 
 //Form
 

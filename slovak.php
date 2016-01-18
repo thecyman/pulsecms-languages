@@ -6,6 +6,8 @@ $lang_help = "Pomocník";
 $lang_save = "Uložiť";
 $lang_rename_btn = "Premenovať";
 $lang_title = "Pulse CMS";
+$lang_version = "Pulse CMS 4.5.2";
+$lang_update = "Update";
 
 // Login
 
