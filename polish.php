@@ -7,7 +7,7 @@ $lang_save = "Oszczędzać";
 $lang_rename_btn = "Zmień nazwę";
 $lang_title = "Pulse CMS";
 $lang_version = "Pulse CMS 4.5.2";
-$lang_update = "Update";
+$lang_update = "Aktualizacja";
 
 // Login
 

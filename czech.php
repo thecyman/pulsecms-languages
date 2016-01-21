@@ -7,7 +7,7 @@ $lang_save = "Uložit";
 $lang_rename_btn = "Přejmenovat";
 $lang_title = "Pulse CMS";
 $lang_version = "Pulse CMS 4.5.2";
-$lang_update = "Update";
+$lang_update = "Aktualizovat";
 
 // Login
 
@@ -74,7 +74,7 @@ $lang_blog_tool_tip = "Položky blogu jsou řazeny podle čísla, nejvyšší č
 
 //Form
 
-$lang_form_error1 = 'Prosím vyplňte toto pole ';
+$lang_form_error1 = 'Prosím vyplňte pole ';
 $lang_form_error2a = 'Vaše pole ';
 $lang_form_error2b = ' je příliš dlouhé.';
 $lang_form_subject_line = 'Kontakt';
