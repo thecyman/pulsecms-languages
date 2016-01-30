@@ -1,99 +1,98 @@
 <?php
 //Global
 
-$lang_cancel = "Cancel";
-$lang_help = "Help";
-$lang_save = "Save";
-$lang_rename_btn = "Rename";
+$lang_cancel = "キャンセル";
+$lang_help = "ヘルプ";
+$lang_save = "保存";
+$lang_rename_btn = "名前の変更";
 $lang_title = "Pulse CMS";
 $lang_version = "Pulse CMS 4.5.2";
-$lang_update = "Update";
+$lang_update = "アップデート";
 
 // Login
 
-$lang_login_incorrect = "Your Password is Incorrect!";
-$lang_login_password = "Password";
-$lang_login_button = "Login";
-$lang_nav_logout = "Logout";
+$lang_login_incorrect = "パスワードが違います!";
+$lang_login_password = "パスワード";
+$lang_login_button = "ログイン";
+$lang_nav_logout = "ログアウト";
 
 // Home
-$lang_home_emptyfold = "This folder is empty."; 
-$lang_home_new = "New";
-$lang_home_upload_button = "Upload";
-$lang_home_preview = "Preview";
+$lang_home_emptyfold = "フォルダーは空です."; 
+$lang_home_new = "新規";
+$lang_home_upload_button = "アップロード";
+$lang_home_preview = "戻る";
 
 // Navigation
 
-$lang_nav_home = "Home";
-$lang_nav_blocks = "Blocks";
-$lang_nav_img = "Media";
-$lang_nav_blog = "Blog";
-$lang_nav_pages = "Pages";
-$lang_nav_stats = "Stats";
+$lang_nav_home = "ホーム";
+$lang_nav_blocks = "ブロック";
+$lang_nav_img = "メディア";
+$lang_nav_blog = "ブログ";
+$lang_nav_pages = "ページ";
+$lang_nav_stats = "ステータス";
 
 
 // Gallery
 
-$lang_gal_caption_gallery = "Insert caption here";
-$lang_gal_filename = "Filename";
-$lang_gal_dimensions = "Dimensions";
-$lang_gal_size = "Size";
+$lang_gal_caption_gallery = "キャプションの挿入";
+$lang_gal_filename = "ファイル名";
+$lang_gal_dimensions = "画質";
+$lang_gal_size = "サイズ";
 $lang_gal_img = "IMG";
-$lang_gal_link = "Link";
-$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
+$lang_gal_link = "リンク";
+$lang_gallery_tool_tip = "ライトボックスの作成、イメージフォルダの作成、エンベッドタグの使用.";
 
 // Pages
 
-$lang_pages_title = "Page Title";
-$lang_pages_description = "Page Description";
+$lang_pages_title = "タイトル";
+$lang_pages_description = "ディスクリプション";
 
 // Create
 
-$lang_create_file_or_folder = 'New file or folder';
-$lang_create_button = "Create"; 
-$lang_create_tool_tip = "Pages, blocks and blog posts must end with '.txt'. To create a folder, add no extension.";
+$lang_create_file_or_folder = '新規ファイル、フォルダ';
+$lang_create_button = "新規作成"; 
+$lang_create_tool_tip = "ページ、ブロック、ブログの投稿は最後に'.txt'を入力して下さい。フォルダを新規作成する際は拡張子を使用しないで下さい。";
 
 // Delete
 
-$lang_delete = 'Are you sure you want to delete ';
-$lang_del_button = "Delete";
+$lang_delete = '削除します。よろしいですか？ ';
+$lang_del_button = "削除";
 
 // Errors
 
-$lang_error_create_ext = 'Invalid file extention.';
-$lang_error_file_exists = 'A file with this name in this folder already exists.';
-$lang_error_upload = 'You need to be in a Gallery to upload an image.';
-$lang_no_content = 'no content found';
+$lang_error_create_ext = 'ファイル拡張子は無効です.';
+$lang_error_file_exists = '同じ名前のファイルが既に存在します.';
+$lang_error_upload = 'ギャラリーに画像をアップロードする必要があります.';
+$lang_no_content = 'コンテンツが見つかりません';
 
 //Blog
 
-$lang_blog_read_more = 'Read more';
-$lang_blog_older = 'Older';
-$lang_blog_newer = 'Newer';
-$lang_blog_error_folder = "You can't create a folder in Blog";
-$lang_blog_tool_tip = "Blog entries are ordered by number, the highest numbering being the newest post.";
+$lang_blog_read_more = 'もっと読む';
+$lang_blog_older = '前へ';
+$lang_blog_newer = '次へ';
+$lang_blog_error_folder = "ブログ内にファイルを作る事はできません";
+$lang_blog_tool_tip = "ブログエントリーは番号順に並んでいます。最も大きい番号が最新のエントリーです。";
 
 //Form
 
-$lang_form_error1 = 'Please fill out field ';
-$lang_form_error2a = 'Your field ';
-$lang_form_error2b = ' is too long.';
-$lang_form_subject_line = 'Contact';
-$lang_form_email_sent = 'Email was sent';
-$lang_form_sent_button = 'Send';
+$lang_form_error1 = '項目を埋めて下さい';
+$lang_form_error2a = '項目 ';
+$lang_form_error2b = ' 長すぎます。';
+$lang_form_subject_line = 'コンタクト';
+$lang_form_email_sent = '送信されました';
+$lang_form_sent_button = '送信';
 
 // Stats
 
-$lang_stats_today = "Visitors";
-$lang_stats_refers = "Top Referrers";
-$lang_stats_pages = "Top Pages";
-$lang_stats_refresh = "Refresh";
-$lang_stats_pageviews = "Pageviews";
-$lang_stats_per_visit = "Pages / Visit";
-$lang_stats_online = "Online";
-$lang_stats_thisweek = "This Week";
-$lang_stats_todays_stats = "Today";
-$lang_stats_nodata = "No Data";
-
+$lang_stats_today = "訪問者";
+$lang_stats_refers = "トップリファラ";
+$lang_stats_pages = "トップページ";
+$lang_stats_refresh = "再読み込み";
+$lang_stats_pageviews = "ページビュー";
+$lang_stats_per_visit = "平均ページビュー";
+$lang_stats_online = "オンライン";
+$lang_stats_thisweek = "今週";
+$lang_stats_todays_stats = "今日";
+$lang_stats_nodata = "データがありません";
 
 ?>
