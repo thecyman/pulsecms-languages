@@ -38,7 +38,7 @@ $lang_gal_dimensions = "Dimenzije";
 $lang_gal_size = "Veličina";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
-$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
+$lang_gallery_tool_tip = "Kako biste stvorili lightbox galeriju, stvorite folder sa slikama i upotrijebite embed tag.";
 
 // Pages
 
@@ -69,7 +69,7 @@ $lang_blog_read_more = 'Pročitaj više';
 $lang_blog_older = 'Stariji';
 $lang_blog_newer = 'Noviji';
 $lang_blog_error_folder = "Ne možete stvoriti folder u Blogu";
-$lang_blog_tool_tip = "Blog entries are ordered by number, the highest numbering being the newest post.";
+$lang_blog_tool_tip = "Blog unosi su poredani po broju, najveći broj označava najnoviji post.";
 
 //Form
 
@@ -82,15 +82,15 @@ $lang_form_sent_button = 'Pošalji';
 
 // Stats
 
-$lang_stats_today = "Visitors";
-$lang_stats_refers = "Top Referrers";
-$lang_stats_pages = "Top Pages";
-$lang_stats_refresh = "Refresh";
-$lang_stats_pageviews = "Pageviews";
-$lang_stats_per_visit = "Pages / Visit";
+$lang_stats_today = "Posjetitelji";
+$lang_stats_refers = "Top Referali";
+$lang_stats_pages = "Top Stranice";
+$lang_stats_refresh = "Osvježi";
+$lang_stats_pageviews = "Pregledi stranice";
+$lang_stats_per_visit = "Stranice / Posjeti";
 $lang_stats_online = "Online";
-$lang_stats_thisweek = "This Week";
-$lang_stats_todays_stats = "Today";
-$lang_stats_nodata = "No Data";
+$lang_stats_thisweek = "Ovaj tjedan";
+$lang_stats_todays_stats = "Danas";
+$lang_stats_nodata = "Nema podataka";
 
 ?>
