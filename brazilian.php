@@ -30,7 +30,7 @@ $lang_nav_blocks = "Blocos";
 $lang_nav_img = "Mídias";
 $lang_nav_blog = "Blog";
 $lang_nav_pages = "Páginas";
-$lang_nav_stats = "Statísticas";
+$lang_nav_stats = "Estatísticas";
 
 
 // Gallery
