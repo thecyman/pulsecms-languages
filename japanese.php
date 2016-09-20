@@ -20,7 +20,7 @@ $lang_nav_logout = "ログアウト";
 $lang_home_emptyfold = "フォルダーは空です."; 
 $lang_home_new = "新規";
 $lang_home_upload_button = "アップロード";
-$lang_home_preview = "戻る";
+$lang_home_preview = "プレビュー";
 
 // Navigation
 
