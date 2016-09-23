@@ -68,14 +68,14 @@ $lang_no_content = 'No hay contenido.';
 $lang_blog_read_more = 'Leer más';
 $lang_blog_older = 'Anteriores';
 $lang_blog_newer = 'Nuevos';
-$lang_blog_error_folder = "No puedes crear una carpeta en Blog";
-$lang_blog_tool_tip = "Las entradas de Blog están ordenadas por número, el más alto corresponde a la más nueva.";
+$lang_blog_error_folder = "No puedes crear una carpeta en el Blog";
+$lang_blog_tool_tip = "Las entradas del Blog están ordenadas por número, el más alto corresponde a la más nueva.";
 
 
 //Form
 
-$lang_form_error1 = 'Completa el campo.';
-$lang_form_error2a = 'El campo ';
+$lang_form_error1 = 'Completa el campo de texto.';
+$lang_form_error2a = 'El campo de texto';
 $lang_form_error2b = ' es demasiado largo.';
 $lang_form_subject_line = 'Contacto';
 $lang_form_email_sent = 'Correo enviado';
