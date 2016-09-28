@@ -1,26 +1,26 @@
 <?php
 //Global
 
-$lang_cancel = "Ångra";
+$lang_cancel = "Avbryt";
 $lang_help = "Hjälp";
 $lang_save = "Spara";
 $lang_rename_btn = "Byt Namn";
 $lang_title = "Pulse CMS";
 $lang_version = "Pulse CMS 4.5.2";
-$lang_update = "Update";
+$lang_update = "Uppdatera";
 
 // Login
 
-$lang_login_incorrect = "Ditt Password är fel!";
-$lang_login_password = "Password";
-$lang_login_button = "Logga inn";
-$lang_nav_logout = "Loga ut";
+$lang_login_incorrect = "Felaktigt lösenord!";
+$lang_login_password = "Lösenord";
+$lang_login_button = "Logga in";
+$lang_nav_logout = "Logga ut";
 
 // Home
-$lang_home_emptyfold = "Denna folder är tom."; 
+$lang_home_emptyfold = "Denna mapp är tom."; 
 $lang_home_new = "Ny";
-$lang_home_upload_button = "Ladda up";
-$lang_home_preview = "För titta";
+$lang_home_upload_button = "Ladda upp";
+$lang_home_preview = "Förhandsgranska";
 
 // Navigation
 
@@ -34,66 +34,66 @@ $lang_nav_stats = "Statistik";
 
 // Gallery
 
-$lang_gal_caption_gallery = "Sätt in caption här";
-$lang_gal_filename = "Fil namn";
+$lang_gal_caption_gallery = "Skriv bildtext här";
+$lang_gal_filename = "Filnamn";
 $lang_gal_dimensions = "Dimensioner";
 $lang_gal_size = "Storlek";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Länk";
-$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
+$lang_gallery_tool_tip = "För att skapa ett lightbox-galleri, skapa först en mapp med bilder och använd sedan taggen embed.";
 
 // Pages
 
-$lang_pages_title = "Sid Title";
-$lang_pages_description = "Sid beskrivning";
+$lang_pages_title = "Sidtitle";
+$lang_pages_description = "Sidbeskrivning";
 
 // Create
 
-$lang_create_file_or_folder = 'Ny fil eller folder';
+$lang_create_file_or_folder = 'Ny fil eller mapp';
 $lang_create_button = "Skapa"; 
-$lang_create_tool_tip = "Nya sidor, block och blog post måste sluta med '.txt'. Ta bort ändelse för att skapa sida.";
+$lang_create_tool_tip = "Nya sidor, block och blogginlägg måste sluta med ändelsen '.txt'. Ta bort ändelsen för att skapa en sida.";
 
 // Delete
 
-$lang_delete = 'Är du säker på att du vill radera ';
+$lang_delete = 'Är du säker på att du vill radera?';
 $lang_del_button = "Radera";
 
 // Errors
 
-$lang_error_create_ext = 'Ogiltlig fil ändelse.';
-$lang_error_file_exists = 'A file with this name in this folder already exists.';
-$lang_error_upload = 'You need to be in a Gallery to upload an image.';
-$lang_no_content = 'inget innehåll hittas';
+$lang_error_create_ext = 'Ogiltlig filändelse.';
+$lang_error_file_exists = 'En fil med detta namn finns redan i den här mappen.';
+$lang_error_upload = 'Du måste befinna dig i ett galleri för att ladda upp en bild.';
+$lang_no_content = 'Inget innehåll hittades.';
 
 //Blog
 
 $lang_blog_read_more = 'Läs Mer';
 $lang_blog_older = 'Äldre';
 $lang_blog_newer = 'Nyare';
-$lang_blog_error_folder = "You can't create a folder in Blog";
-$lang_blog_tool_tip = "Blog entries are ordered by number, the highest numbering being the newest post.";
+$lang_blog_error_folder = "Du kan inte skapa en mapp i bloggen.";
+$lang_blog_tool_tip = "Blogginlägg sorteras i nummerordning, det nyaste inlägget har det högsta numret.";
 
 //Form
 
-$lang_form_error1 = 'Snälla fyll i korrekt ';
+$lang_form_error1 = 'Snälla, fyll i korrekt ';
 $lang_form_error2a = 'Ditt fält ';
-$lang_form_error2b = ' För lång.';
+$lang_form_error2b = ' är för långt.';
 $lang_form_subject_line = 'Kontakt';
-$lang_form_email_sent = 'Email är sänt';
-$lang_form_sent_button = 'Sänd';
+$lang_form_email_sent = 'E-postmeddelande är skickat.';
+$lang_form_sent_button = 'Skicka';
 
 // Stats
 
 $lang_stats_today = "Besökare";
 $lang_stats_refers = "Top Referrers";
-$lang_stats_pages = "Top Sidor";
-$lang_stats_refresh = "Updatera";
-$lang_stats_pageviews = "Sedda Sidor";
-$lang_stats_per_visit = "sidor / Besök";
+$lang_stats_pages = "Mest besökta sidor";
+$lang_stats_refresh = "Uppdatera";
+$lang_stats_pageviews = "Visade sidor";
+$lang_stats_per_visit = "Sidor per besök";
 $lang_stats_online = "Online";
-$lang_stats_thisweek = "Denna Vecka";
+$lang_stats_thisweek = "Denna vecka";
 $lang_stats_todays_stats = "Idag";
-$lang_stats_nodata = "Ingen Data";
+$lang_stats_nodata = "Ingen data";
 
 
 ?>
