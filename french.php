@@ -40,7 +40,7 @@ $lang_gal_dimensions = "Dimensions";
 $lang_gal_size = "Poids";
 $lang_gal_img = "Code Image";
 $lang_gal_link = "Code Lien";
-$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
+$lang_gallery_tool_tip = "Pour créer une galerie lightbox, créez un dossier d'images et utilisez la balise embed.";
 
 
 // Pages
