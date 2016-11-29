@@ -74,6 +74,7 @@ $lang_blog_error_folder = "ブログ内にファイルを作る事はできま�
 $lang_blog_tool_tip = "ブログエントリーは番号順に並んでいます。最も大きい番号が最新のエントリーです。";
 $lang_blog_import = 'インポート';
 $lang_blog_import_tool_tip = 'ブログエントリーをRSSからインポート。 RSSとATOMフォーマットからインポーターをインポートします。';
+$lang_blog_import_url = 'URL';
 
 //Form
 

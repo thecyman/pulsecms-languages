@@ -73,6 +73,7 @@ $lang_blog_tool_tip = "Las entradas del Blog están ordenadas por número, el m�
 $lang_blog_import = 'Import';
 $lang_blog_import_tool_tip = 'Import blog entries from RSS.
 The importer will import from RSS and ATOM formats.';
+$lang_blog_import_url = 'URL';
 
 
 //Form

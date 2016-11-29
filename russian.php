@@ -75,6 +75,7 @@ $lang_blog_tool_tip = "Записи в блоге отсортированы п�
 $lang_blog_import = 'Import';
 $lang_blog_import_tool_tip = 'Import blog entries from RSS.
 The importer will import from RSS and ATOM formats.';
+$lang_blog_import_url = 'URL';
 
 //Form
 

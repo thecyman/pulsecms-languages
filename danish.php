@@ -56,6 +56,7 @@ $lang_blog_tool_tip = "Blog indlæg er i nummereret orden, det højeste nummer e
 $lang_blog_import = 'Import';
 $lang_blog_import_tool_tip = 'Import blog entries from RSS.
 The importer will import from RSS and ATOM formats.';
+$lang_blog_import_url = 'URL';
 //Form
 $lang_form_error1 = 'Udfyld venligst feltet ';
 $lang_form_error2a = 'Dit felt ';
