@@ -6,7 +6,7 @@ $lang_help = "Помощь";
 $lang_save = "Сохранить";
 $lang_rename_btn = "Переименовать";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.5.2";
+$lang_version = "Pulse CMS 4.6";
 $lang_update = "Update";
 
 // Login
@@ -72,6 +72,9 @@ $lang_blog_older = 'Ранние заметки';
 $lang_blog_newer = 'Новые заметки';
 $lang_blog_error_folder = "Вы не можете создать папку в разделе блог";
 $lang_blog_tool_tip = "Записи в блоге отсортированы по нумерации, высшая будет создана с новой записью.";
+$lang_blog_import = 'Import';
+$lang_blog_import_tool_tip = 'Import blog entries from RSS.
+The importer will import from RSS and ATOM formats.';
 
 //Form
 

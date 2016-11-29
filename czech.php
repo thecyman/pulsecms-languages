@@ -6,7 +6,7 @@ $lang_help = "Nápověda";
 $lang_save = "Uložit";
 $lang_rename_btn = "Přejmenovat";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.5.2";
+$lang_version = "Pulse CMS 4.6";
 $lang_update = "Aktualizovat";
 
 // Login
@@ -71,6 +71,9 @@ $lang_blog_older = 'Starší';
 $lang_blog_newer = 'Novější';
 $lang_blog_error_folder = "V Blogu nelze vytvořit složku";
 $lang_blog_tool_tip = "Položky blogu jsou řazeny podle čísla, nejvyšší číslování prozatím nejnovější příspěvek.";
+$lang_blog_import = 'Import';
+$lang_blog_import_tool_tip = 'Import blog entries from RSS.
+The importer will import from RSS and ATOM formats.';
 
 //Form
 

@@ -5,7 +5,7 @@ $lang_cancel = "Annuleren";
 $lang_help = "Help";
 $lang_save = "Opslaan";
 $lang_rename_btn = "Hernoemen";
-$lang_version = "Pulse CMS 4.5.2";
+$lang_version = "Pulse CMS 4.6";
 $lang_update = "Update";
 
 // Login
@@ -69,6 +69,9 @@ $lang_blog_older = 'Ouder';
 $lang_blog_newer = 'Nieuwer';
 $lang_blog_error_folder = "Je kunt binnen 'Blog' geen folder aanmaken.";
 $lang_blog_tool_tip = "Blog entries worden automatisch genummerd, het hoogste nummer is de nieuwste post.";
+$lang_blog_import = 'Import';
+$lang_blog_import_tool_tip = 'Import blog entries from RSS.
+The importer will import from RSS and ATOM formats.';
 
 
 //Form

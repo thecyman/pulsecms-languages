@@ -6,7 +6,7 @@ $lang_help = "Hjälp";
 $lang_save = "Spara";
 $lang_rename_btn = "Byt Namn";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.5.2";
+$lang_version = "Pulse CMS 4.6";
 $lang_update = "Uppdatera";
 
 // Login
@@ -72,6 +72,9 @@ $lang_blog_older = 'Äldre';
 $lang_blog_newer = 'Nyare';
 $lang_blog_error_folder = "Du kan inte skapa en mapp i bloggen.";
 $lang_blog_tool_tip = "Blogginlägg sorteras i nummerordning, det nyaste inlägget har det högsta numret.";
+$lang_blog_import = 'Import';
+$lang_blog_import_tool_tip = 'Import blog entries from RSS.
+The importer will import from RSS and ATOM formats.';
 
 //Form
 

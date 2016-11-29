@@ -6,7 +6,7 @@ $lang_help = "ヘルプ";
 $lang_save = "保存";
 $lang_rename_btn = "名前の変更";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.5.2";
+$lang_version = "Pulse CMS 4.6";
 $lang_update = "アップデート";
 
 // Login
@@ -72,6 +72,8 @@ $lang_blog_older = '前へ';
 $lang_blog_newer = '次へ';
 $lang_blog_error_folder = "ブログ内にファイルを作る事はできません";
 $lang_blog_tool_tip = "ブログエントリーは番号順に並んでいます。最も大きい番号が最新のエントリーです。";
+$lang_blog_import = 'インポート';
+$lang_blog_import_tool_tip = 'ブログエントリーをRSSからインポート。 RSSとATOMフォーマットからインポーターをインポートします。';
 
 //Form
 

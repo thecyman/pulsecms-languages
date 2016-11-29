@@ -7,7 +7,7 @@ $lang_help = "Hilfe";
 $lang_save = "Speichern";
 $lang_rename_btn = "Umbenennen";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.5.2";
+$lang_version = "Pulse CMS 4.6";
 $lang_update = "Aktualisieren";
 
 // Login
@@ -74,6 +74,9 @@ $lang_blog_older = '&Auml;ltere Beitr&auml;ge';
 $lang_blog_newer = 'Neuere Beitr&auml;ge';
 $lang_blog_error_folder = "Sie k&ouml;nnen keine Ordner im $lang_nav_blog erstellen.";
 $lang_blog_tool_tip = "Blogbeitr&auml;ge sind numerisch geordnet, die h&ouml;chste Nummer ist der neuste Beitrag.";
+$lang_blog_import = 'Import';
+$lang_blog_import_tool_tip = 'Import blog entries from RSS.
+The importer will import from RSS and ATOM formats.';
 
 
 //Form

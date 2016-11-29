@@ -6,7 +6,7 @@ $lang_help = "Segítség";
 $lang_save = "Mentés";
 $lang_rename_btn = "Átnevezés";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.5.2";
+$lang_version = "Pulse CMS 4.6";
 $lang_update = "Frissítés";
 
 // Login
@@ -71,6 +71,9 @@ $lang_blog_older = 'Régebbi';
 $lang_blog_newer = 'Újabb';
 $lang_blog_error_folder = "Nem hozhat létre mappát a Blogba";
 $lang_blog_tool_tip = "Blog bejegyzések megrendelt száma, a legmagasabb számozás hogy a legújabb post.";
+$lang_blog_import = 'Import';
+$lang_blog_import_tool_tip = 'Import blog entries from RSS.
+The importer will import from RSS and ATOM formats.';
 
 //Form
 

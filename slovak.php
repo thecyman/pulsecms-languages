@@ -6,7 +6,7 @@ $lang_help = "Pomocník";
 $lang_save = "Uložiť";
 $lang_rename_btn = "Premenovať";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.5.2";
+$lang_version = "Pulse CMS 4.6";
 $lang_update = "Aktualizovať";
 
 // Login
@@ -71,6 +71,9 @@ $lang_blog_older = 'Staršie';
 $lang_blog_newer = 'Novšie';
 $lang_blog_error_folder = "Nedá sa vytvoriť priečinok v Blogu";
 $lang_blog_tool_tip = "Príspevky blogu sú zoradené podľa číslovania, najvyššie číslovanie predstavuje najnovší príspevok.";
+$lang_blog_import = 'Import';
+$lang_blog_import_tool_tip = 'Import blog entries from RSS.
+The importer will import from RSS and ATOM formats.';
 
 //Form
 

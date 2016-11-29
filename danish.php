@@ -5,7 +5,7 @@ $lang_help = "Hjælp";
 $lang_save = "Gem";
 $lang_rename_btn = "Omdøb";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.5.2";
+$lang_version = "Pulse CMS 4.6";
 $lang_update = "Opdatér";
 // Login
 $lang_login_incorrect = "Dit password er forkert!";
@@ -53,6 +53,9 @@ $lang_blog_older = 'Ældre';
 $lang_blog_newer = 'Nyere';
 $lang_blog_error_folder = "Du kan ikke lav en mappe i Blog";
 $lang_blog_tool_tip = "Blog indlæg er i nummereret orden, det højeste nummer er det nyeste indlæg.";
+$lang_blog_import = 'Import';
+$lang_blog_import_tool_tip = 'Import blog entries from RSS.
+The importer will import from RSS and ATOM formats.';
 //Form
 $lang_form_error1 = 'Udfyld venligst feltet ';
 $lang_form_error2a = 'Dit felt ';

@@ -7,7 +7,7 @@ $lang_help = "Help";
 $lang_save = "Tallenna";
 $lang_rename_btn = "Nimeä uudelleen";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.5.2";
+$lang_version = "Pulse CMS 4.6";
 $lang_update = "Update";
 
 // Login
@@ -72,6 +72,9 @@ $lang_blog_older = "Vanhemmat";
 $lang_blog_newer = "Uudemmat";
 $lang_blog_error_folder = "Et voi luoda kansiota Blogiin";
 $lang_blog_tool_tip = "Blogiartikkelit on numerojärjestyksessä ja suurin numero on uusin artikkeli.";
+$lang_blog_import = 'Import';
+$lang_blog_import_tool_tip = 'Import blog entries from RSS.
+The importer will import from RSS and ATOM formats.';
 
 //Form
 
