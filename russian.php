@@ -6,7 +6,7 @@ $lang_help = "Помощь";
 $lang_save = "Сохранить";
 $lang_rename_btn = "Переименовать";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Update";
 
 // Login
@@ -44,6 +44,7 @@ $lang_gallery_tool_tip = "Для создания лайтбокс галере�
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Заголовок страницы";
 $lang_pages_description = "Описание страницы";
 
@@ -52,6 +53,7 @@ $lang_pages_description = "Описание страницы";
 $lang_create_file_or_folder = 'Новый файл или раздел';
 $lang_create_button = "Создать";
 $lang_create_tool_tip = "Страницы, блоки и сообщения в блоге должны заканчиваться на '.txt '. Чтобы создать папку , не добавляйте расширение.";
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -67,6 +69,8 @@ $lang_no_content = 'контент не найден';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Читать далее';
 $lang_blog_older = 'Ранние заметки';
 $lang_blog_newer = 'Новые заметки';
@@ -94,6 +98,7 @@ $lang_stats_pages = "Топовые страницы";
 $lang_stats_refresh = "Обновить";
 $lang_stats_pageviews = "Просматриваемые";
 $lang_stats_per_visit = "Страницы / Посещения";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Онлайн";
 $lang_stats_thisweek = "Эта неделя";
 $lang_stats_todays_stats = "Сегодня";

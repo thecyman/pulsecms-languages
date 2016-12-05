@@ -44,6 +44,7 @@ $lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of image
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Page Title";
 $lang_pages_description = "Page Description";
 
@@ -52,6 +53,8 @@ $lang_pages_description = "Page Description";
 $lang_create_file_or_folder = 'New file or folder';
 $lang_create_button = "Create"; 
 $lang_create_tool_tip = "Pages, blocks and blog posts must end with '.txt'. To create a folder, add no extension.";
+$lang_create_embed_tag = "Embed Tag";
+
 
 // Delete
 
@@ -67,6 +70,8 @@ $lang_no_content = 'no content found';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Read more';
 $lang_blog_older = 'Older';
 $lang_blog_newer = 'Newer';
@@ -94,6 +99,7 @@ $lang_stats_pages = "Top Pages";
 $lang_stats_refresh = "Refresh";
 $lang_stats_pageviews = "Pageviews";
 $lang_stats_per_visit = "Pages / Visit";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "This Week";
 $lang_stats_todays_stats = "Today";

@@ -6,7 +6,7 @@ $lang_help = "Nápověda";
 $lang_save = "Uložit";
 $lang_rename_btn = "Přejmenovat";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Aktualizovat";
 
 // Login
@@ -43,6 +43,7 @@ $lang_gallery_tool_tip = "Chcete-li vytvořit lightbox galerii, vytvořte složk
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Název stránky";
 $lang_pages_description = "Popis stránky";
 
@@ -51,6 +52,7 @@ $lang_pages_description = "Popis stránky";
 $lang_create_file_or_folder = 'Nový soubor nebo složka';
 $lang_create_button = "Vytvořit";
 $lang_create_tool_tip = "Nové stránky, bloky a příspěvky blogu musí končit '.txt'. Chcete-li vytvořit složku přidejte bez přípony.";
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -66,6 +68,8 @@ $lang_no_content = 'nenalezen žádný obsah';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Čtěte více';
 $lang_blog_older = 'Starší';
 $lang_blog_newer = 'Novější';
@@ -94,6 +98,7 @@ $lang_stats_pages = "Top stránek";
 $lang_stats_refresh = "Aktualizovat";
 $lang_stats_pageviews = "obrazení stránek";
 $lang_stats_per_visit = "Stránek / Návštěva";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Tento týden";
 $lang_stats_todays_stats = "Dnešní statistiky";

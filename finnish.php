@@ -7,7 +7,7 @@ $lang_help = "Help";
 $lang_save = "Tallenna";
 $lang_rename_btn = "Nimeä uudelleen";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Update";
 
 // Login
@@ -44,6 +44,7 @@ $lang_gallery_tool_tip = "Luodaksesi lightbox-gallerian, luo kuvakansio ja käyt
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Sivun otsikko";
 $lang_pages_description = "Sivun kuvaus";
 
@@ -52,6 +53,7 @@ $lang_pages_description = "Sivun kuvaus";
 $lang_create_file_or_folder = "Luo uusi tiedosto tai kansio";
 $lang_create_button = "Luo";
 $lang_create_tool_tip = 'Sivuilla, osioilla ja blogiartikkeleilla tulee olla ".txt" -tiedostopääte. Kansion luodaksesi jätä tiedostopääte pois.';
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -67,6 +69,8 @@ $lang_no_content = "sisältöä ei löydetty";
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = "Lue lisää";
 $lang_blog_older = "Vanhemmat";
 $lang_blog_newer = "Uudemmat";
@@ -94,6 +98,7 @@ $lang_stats_pages = "Suosituimmat sivut";
 $lang_stats_refresh = "Päivitä";
 $lang_stats_pageviews = "Sivulataukset";
 $lang_stats_per_visit = "Sivuja / vierailu";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Tämä viikko";
 $lang_stats_todays_stats = "Tänään";

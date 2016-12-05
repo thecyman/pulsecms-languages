@@ -6,7 +6,7 @@ $lang_help = "Tulong";
 $lang_save = "Save";
 $lang_rename_btn = "Palitan ang Pangalan";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Update";
 
 // Login
@@ -43,6 +43,7 @@ $lang_gallery_tool_tip = "Upang lumikha ng isang lightbox gallery, lumikha ng is
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Pamagat ng Pahina";
 $lang_pages_description = "Paglalarawan ng Pahina";
 
@@ -51,6 +52,7 @@ $lang_pages_description = "Paglalarawan ng Pahina";
 $lang_create_file_or_folder = 'New file o folder';
 $lang_create_button = "Lumikha"; 
 $lang_create_tool_tip = "Mga Pahina, mga blocks at mga post sa blog ay dapat magtapos sa 'txt'. Upang lumikha ng isang folder, magdagdag ng walang extension.";
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -66,6 +68,8 @@ $lang_no_content = 'Walang laman';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Magbasa Nang Higit pa';
 $lang_blog_older = 'Luma';
 $lang_blog_newer = 'Bago';
@@ -93,6 +97,7 @@ $lang_stats_pages = "Top Pages";
 $lang_stats_refresh = "Refresh";
 $lang_stats_pageviews = "Pageviews";
 $lang_stats_per_visit = "Mga Pahina / Bisita";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Ngayong Linggo";
 $lang_stats_todays_stats = "Ngayon";

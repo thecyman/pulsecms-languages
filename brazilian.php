@@ -6,7 +6,7 @@ $lang_help = "Ajuda";
 $lang_save = "Salvar";
 $lang_rename_btn = "Renomear";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Atualizar";
 
 // Login
@@ -45,6 +45,7 @@ $lang_gallery_tool_tip = "Para criar uma galeria de fotos, crie uma pasta de ima
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Titlo da Página";
 $lang_pages_description = "Descrição da Página";
 
@@ -53,6 +54,7 @@ $lang_pages_description = "Descrição da Página";
 $lang_create_file_or_folder = 'Novo arquivo ou pasta';
 $lang_create_button = "Criar"; 
 $lang_create_tool_tip = "Páginas, blocos e postagens do Blog devem ter a extenção '.txt', para criar uma pasta não adicione extenção.";
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -68,6 +70,8 @@ $lang_no_content = 'conteúdo não encontrado';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Ler mais';
 $lang_blog_older = 'Anteriores';
 $lang_blog_newer = 'Recentes';
@@ -96,6 +100,7 @@ $lang_stats_pages = "Páginas Principais";
 $lang_stats_refresh = "Refrescar";
 $lang_stats_pageviews = "Visualizações";
 $lang_stats_per_visit = "Páginas / Visita";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Conectado";
 $lang_stats_thisweek = "Essa Semana";
 $lang_stats_todays_stats = "Hoje";

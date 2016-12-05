@@ -6,7 +6,7 @@ $lang_help = "Допомога";
 $lang_save = "Зберегти";
 $lang_rename_btn = "Перейменувати";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Update";
 
 // Login
@@ -45,6 +45,7 @@ $lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of image
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Назва сторінки";
 $lang_pages_description = "Опис сторінки";
 
@@ -53,6 +54,7 @@ $lang_pages_description = "Опис сторінки";
 $lang_create_file_or_folder = 'Новий файл або теку';
 $lang_create_button = "Створити"; 
 $lang_create_tool_tip = "Нову сторінку, блок або запис блогу з роширенням '.txt'. Також можна створити теку без розширення.";
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -68,6 +70,8 @@ $lang_no_content = 'вміст не знайдено';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Читати далі';
 $lang_blog_older = 'Попередні';
 $lang_blog_newer = 'Новіші';
@@ -95,6 +99,7 @@ $lang_stats_pages = "Топ сторінок";
 $lang_stats_refresh = "Оновити";
 $lang_stats_pageviews = "Перегляд";
 $lang_stats_per_visit = "Сторінки / Відвідувачі";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Зараз на сайті";
 $lang_stats_thisweek = "Тиждень";
 $lang_stats_todays_stats = "Сьогодні";

@@ -6,7 +6,7 @@ $lang_help = "Ndihmë";
 $lang_save = "Ruaje";
 $lang_rename_btn = "Riemërto";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Përditëso";
 
 // Identifikimi
@@ -45,12 +45,14 @@ $lang_gallery_tool_tip = "Për të krijuar një lightbox gallery, krijoni një d
 
 $lang_pages_title = "Titulli i faqës";
 $lang_pages_description = "Përshkrimi i faqës";
+$lang_pages_meta = "Meta";
 
 // Krijo
 
 $lang_create_file_or_folder = 'Krijo skedar ose dosje';
 $lang_create_button = "Krijo"; 
 $lang_create_tool_tip = "Faqet, dosje dhe blog postimet duhet të përfundojnë me '.txt'. Për të krijuar një dosje, vetëm të shkruani emrin.";
+$lang_create_embed_tag = "Embed Tag";
 
 // Fshi
 
@@ -66,6 +68,8 @@ $lang_no_content = 'asnjë përmbajtje nuk u gjet';
 
 // Blogu
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Lexo më shumë';
 $lang_blog_older = 'Më të vjetra';
 $lang_blog_newer = 'Më të reja';
@@ -93,6 +97,7 @@ $lang_stats_pages = "Top Faqet";
 $lang_stats_refresh = "Rifresko";
 $lang_stats_pageviews = "Faqe të shikuara";
 $lang_stats_per_visit = "Faqe / Vizita";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Në Linjë";
 $lang_stats_thisweek = "Këtë Javë";
 $lang_stats_todays_stats = "Sot";

@@ -5,7 +5,7 @@ $lang_cancel = "Annuleren";
 $lang_help = "Help";
 $lang_save = "Opslaan";
 $lang_rename_btn = "Hernoemen";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Update";
 
 // Login
@@ -41,6 +41,7 @@ $lang_gallery_tool_tip = "Om een nieuwe lightbox-gallery te maken maak je een ma
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Paginatitel";
 $lang_pages_description = "Paginabeschrijving";
 
@@ -49,6 +50,7 @@ $lang_pages_description = "Paginabeschrijving";
 $lang_create_file_or_folder = 'Nieuw bestand of folder';
 $lang_create_button = "Aanmaken"; 
 $lang_create_tool_tip = "Nieuwe pagina's, elementen of blog-posts moeten eindigen op '.txt'. Nieuwe folders krijgen géén bestands-extentie.";
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -64,6 +66,8 @@ $lang_no_content = 'Geen inhoud gevonden';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Lees verder';
 $lang_blog_older = 'Ouder';
 $lang_blog_newer = 'Nieuwer';
@@ -92,6 +96,7 @@ $lang_stats_pages = "Top pagina's";
 $lang_stats_refresh = "Verversen";
 $lang_stats_pageviews = "Pageviews";
 $lang_stats_per_visit = "Pagina's / Bezoek";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Deze week";
 $lang_stats_todays_stats = "Vandaag";

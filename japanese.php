@@ -44,6 +44,7 @@ $lang_gallery_tool_tip = "ライトボックスの作成、イメージフォル
 
 // Pages
 
+$lang_pages_meta = "メタ";
 $lang_pages_title = "タイトル";
 $lang_pages_description = "ディスクリプション";
 
@@ -52,6 +53,7 @@ $lang_pages_description = "ディスクリプション";
 $lang_create_file_or_folder = '新規ファイル、フォルダ';
 $lang_create_button = "新規作成"; 
 $lang_create_tool_tip = "ページ、ブロック、ブログの投稿は最後に'.txt'を入力して下さい。フォルダを新規作成する際は拡張子を使用しないで下さい。";
+$lang_create_embed_tag = "埋め込みタグ";
 
 // Delete
 
@@ -67,6 +69,8 @@ $lang_no_content = 'コンテンツが見つかりません';
 
 //Blog
 
+$lang_blog_title = 'ブログのタイトル';
+$lang_blog_date = '日付';
 $lang_blog_read_more = 'もっと読む';
 $lang_blog_older = '前へ';
 $lang_blog_newer = '次へ';
@@ -93,6 +97,7 @@ $lang_stats_pages = "トップページ";
 $lang_stats_refresh = "再読み込み";
 $lang_stats_pageviews = "ページビュー";
 $lang_stats_per_visit = "平均ページビュー";
+$lang_stats_bounce_rate = "直帰率";
 $lang_stats_online = "オンライン";
 $lang_stats_thisweek = "今週";
 $lang_stats_todays_stats = "今日";

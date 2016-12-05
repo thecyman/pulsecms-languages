@@ -6,7 +6,7 @@ $lang_help = "Yardım";
 $lang_save = "Kaydet";
 $lang_rename_btn = "Yeniden Adlandır";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Update";
 
 // Login
@@ -44,6 +44,7 @@ $lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of image
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Sayfa Başlığı";
 $lang_pages_description = "Sayfa Tanımı";
 
@@ -52,6 +53,7 @@ $lang_pages_description = "Sayfa Tanımı";
 $lang_create_file_or_folder = 'Yeni dosya veya klasör';
 $lang_create_button = "Yarat"; 
 $lang_create_tool_tip = "Yeni sayfalar, bloklar ve blog yazıları '.txt' uzantısı ile bitmelidir. Klasör yaratmak için uzantı kullanmayın.";
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -67,6 +69,8 @@ $lang_no_content = 'içerik bulunamadı';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Daha Fazlası';
 $lang_blog_older = 'Eski';
 $lang_blog_newer = 'Yeni';
@@ -94,6 +98,7 @@ $lang_stats_pages = "En Çok Ziyaret Edilenler";
 $lang_stats_refresh = "Yenile";
 $lang_stats_pageviews = "Sayfa Görüntülenme";
 $lang_stats_per_visit = "Sayfa / Ziyaret";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Çevrimiçi";
 $lang_stats_thisweek = "Bu Hafta";
 $lang_stats_todays_stats = "Bugün";

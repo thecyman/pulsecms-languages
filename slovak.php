@@ -6,7 +6,7 @@ $lang_help = "Pomocník";
 $lang_save = "Uložiť";
 $lang_rename_btn = "Premenovať";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Aktualizovať";
 
 // Login
@@ -43,6 +43,7 @@ $lang_gallery_tool_tip = "Ak chcete vytvoriť lightbox galériu, vytvorte zložk
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Názov stránky";
 $lang_pages_description = "Popis stránky";
 
@@ -51,6 +52,7 @@ $lang_pages_description = "Popis stránky";
 $lang_create_file_or_folder = 'Nový súbor alebo priečinok';
 $lang_create_button = "Vytvoriť";
 $lang_create_tool_tip = "Názov novej stránky, bloku a blogu musia končiť príponou '.txt'. Ak chcete vytvoriť priečinok neuvádzajte príponu.";
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -66,6 +68,8 @@ $lang_no_content = 'nenašiel žiadny obsah';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Čítajte ďalej';
 $lang_blog_older = 'Staršie';
 $lang_blog_newer = 'Novšie';
@@ -93,6 +97,7 @@ $lang_stats_pages = "Top stránky";
 $lang_stats_refresh = "Aktualizovať";
 $lang_stats_pageviews = "Zobrazenie stránok";
 $lang_stats_per_visit = "Stránky / Návštevnosť";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Tento týždeň";
 $lang_stats_todays_stats = "Dnes";

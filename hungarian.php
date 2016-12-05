@@ -6,7 +6,7 @@ $lang_help = "Segítség";
 $lang_save = "Mentés";
 $lang_rename_btn = "Átnevezés";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Frissítés";
 
 // Login
@@ -43,6 +43,7 @@ $lang_gallery_tool_tip = "Hogy hozzon létre egy lightbox galéria, hozzon létr
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Oldal címe";
 $lang_pages_description = "Oldal leírása";
 
@@ -51,6 +52,7 @@ $lang_pages_description = "Oldal leírása";
 $lang_create_file_or_folder = 'Új fájl vagy mappa';
 $lang_create_button = "Létrehoz";
 $lang_create_tool_tip = "Új oldalak, blokkok és blogbejegyzések kell végződnie '.txt'. Mappat létrehozni a kiterjesztés nélkül.";
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -66,6 +68,8 @@ $lang_no_content = 'nem található tartalom';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Olvassa tovább';
 $lang_blog_older = 'Régebbi';
 $lang_blog_newer = 'Újabb';
@@ -93,6 +97,7 @@ $lang_stats_pages = "Top oldalak";
 $lang_stats_refresh = "Frissítés";
 $lang_stats_pageviews = "Oldalmegtekintések";
 $lang_stats_per_visit = "Oldalak / Látogatás";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Ezen a héten";
 $lang_stats_todays_stats = "A mai statisztika";

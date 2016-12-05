@@ -6,7 +6,7 @@ $lang_help = "Aiuto";
 $lang_save = "Salva";
 $lang_rename_btn = "Rinomina";
 $lang_title = "Pulse CMS"; // Admin pages <title>
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Aggiorna"; // Admin Pulse download link
 
 // Login
@@ -44,6 +44,7 @@ $lang_gallery_tool_tip = "Per creare una galleria Lightbox, crea una cartella di
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Titolo pagina";
 $lang_pages_description = "Descrizione pagina";
 
@@ -52,6 +53,7 @@ $lang_pages_description = "Descrizione pagina";
 $lang_create_file_or_folder = 'Nuovo file o cartella';
 $lang_create_button = "Crea"; 
 $lang_create_tool_tip = "Pagine, blocchi e post devono terminare con '.txt'. Per creare una cartella non aggiungere estensioni. ";
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -67,6 +69,8 @@ $lang_no_content = 'Nessun contenuto trovato';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Leggi tutto';
 $lang_blog_older = 'Vecchi';
 $lang_blog_newer = 'Nuovi';
@@ -94,6 +98,7 @@ $lang_stats_pages = "Pagine più viste";
 $lang_stats_refresh = "Aggiorna";
 $lang_stats_pageviews = "Pagine visualizzate";
 $lang_stats_per_visit = "Pagine per Visita";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Questa settimana";
 $lang_stats_todays_stats = "Oggi";

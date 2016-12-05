@@ -6,7 +6,7 @@ $lang_help = "Pomoć";
 $lang_save = "Sačuvaj";
 $lang_rename_btn = "Preimenuj";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Update";
 
 // Login
@@ -42,6 +42,7 @@ $lang_gallery_tool_tip = "Kako biste stvorili lightbox galeriju, stvorite folder
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Ime Stranice";
 $lang_pages_description = "Opis Stranice";
 
@@ -50,6 +51,7 @@ $lang_pages_description = "Opis Stranice";
 $lang_create_file_or_folder = 'Novi fajl ili folder';
 $lang_create_button = "Stvori"; 
 $lang_create_tool_tip = "Nove stranice, blokovi i blog postovi moraju završavati sa '.txt'. Da bi stvorili folder nemojte dodati extenziju.";
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -65,6 +67,8 @@ $lang_no_content = 'sadržaj nije nađen';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Pročitaj više';
 $lang_blog_older = 'Stariji';
 $lang_blog_newer = 'Noviji';
@@ -93,6 +97,7 @@ $lang_stats_pages = "Top Stranice";
 $lang_stats_refresh = "Osvježi";
 $lang_stats_pageviews = "Pregledi stranice";
 $lang_stats_per_visit = "Stranice / Posjeti";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Ovaj tjedan";
 $lang_stats_todays_stats = "Danas";

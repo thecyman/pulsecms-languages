@@ -5,7 +5,7 @@ $lang_help = "Hjælp";
 $lang_save = "Gem";
 $lang_rename_btn = "Omdøb";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Opdatér";
 // Login
 $lang_login_incorrect = "Dit password er forkert!";
@@ -33,12 +33,14 @@ $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
 $lang_gallery_tool_tip = "For at oprette et Lightbox galleri, skal du oprette en mappe med billeder og bruge et 'EMBED' tag.";
 // Pages
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Sidetitel";
 $lang_pages_description = "Sidebeskrivelse";
 // Create
 $lang_create_file_or_folder = 'Ny fil eller mappe';
 $lang_create_button = "Lav"; 
 $lang_create_tool_tip = "Sider, blokke og blog indlæg skal ende med '.txt'. Undlad endelsen, for at lave en mappe.";
+$lang_create_embed_tag = "Embed Tag";
 // Delete
 $lang_delete = 'Er du sikker på du vil slette ';
 $lang_del_button = "Slet";
@@ -48,6 +50,8 @@ $lang_error_file_exists = 'En fil med det navn eksisterer allerede i denne mappe
 $lang_error_upload = 'Du skal stå i en galleri for at lægge et billede op .';
 $lang_no_content = 'ingen indhold fundet';
 //Blog
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Læs mere';
 $lang_blog_older = 'Ældre';
 $lang_blog_newer = 'Nyere';
@@ -71,6 +75,7 @@ $lang_stats_pages = "Top sider";
 $lang_stats_refresh = "Genindlæs";
 $lang_stats_pageviews = "Sidevisninger";
 $lang_stats_per_visit = "Sider / Besøg";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Denne uge";
 $lang_stats_todays_stats = "I dag";

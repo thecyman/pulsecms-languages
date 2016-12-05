@@ -6,7 +6,7 @@ $lang_help = "Hjälp";
 $lang_save = "Spara";
 $lang_rename_btn = "Byt Namn";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
+$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Uppdatera";
 
 // Login
@@ -44,6 +44,7 @@ $lang_gallery_tool_tip = "För att skapa ett lightbox-galleri, skapa först en m
 
 // Pages
 
+$lang_pages_meta = "Meta";
 $lang_pages_title = "Sidtitle";
 $lang_pages_description = "Sidbeskrivning";
 
@@ -52,6 +53,7 @@ $lang_pages_description = "Sidbeskrivning";
 $lang_create_file_or_folder = 'Ny fil eller mapp';
 $lang_create_button = "Skapa"; 
 $lang_create_tool_tip = "Nya sidor, block och blogginlägg måste sluta med ändelsen '.txt'. Ta bort ändelsen för att skapa en sida.";
+$lang_create_embed_tag = "Embed Tag";
 
 // Delete
 
@@ -67,6 +69,8 @@ $lang_no_content = 'Inget innehåll hittades.';
 
 //Blog
 
+$lang_blog_title = 'Blog Title';
+$lang_blog_date = 'Date';
 $lang_blog_read_more = 'Läs Mer';
 $lang_blog_older = 'Äldre';
 $lang_blog_newer = 'Nyare';
@@ -94,6 +98,7 @@ $lang_stats_pages = "Mest besökta sidor";
 $lang_stats_refresh = "Uppdatera";
 $lang_stats_pageviews = "Visade sidor";
 $lang_stats_per_visit = "Sidor per besök";
+$lang_stats_bounce_rate ="Bounce Rate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Denna vecka";
 $lang_stats_todays_stats = "Idag";
