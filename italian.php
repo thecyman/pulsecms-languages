@@ -53,7 +53,7 @@ $lang_pages_description = "Descrizione pagina";
 $lang_create_file_or_folder = 'Nuovo file o cartella';
 $lang_create_button = "Crea"; 
 $lang_create_tool_tip = "Pagine, blocchi e post devono terminare con '.txt'. Per creare una cartella non aggiungere estensioni. ";
-$lang_create_embed_tag = "Embed Tag";
+$lang_create_embed_tag = "Tag corrispondente";
 
 // Delete
 
@@ -69,16 +69,15 @@ $lang_no_content = 'Nessun contenuto trovato';
 
 //Blog
 
-$lang_blog_title = 'Blog Title';
-$lang_blog_date = 'Date';
+$lang_blog_title = 'Titolo Blog';
+$lang_blog_date = 'Data';
 $lang_blog_read_more = 'Leggi tutto';
 $lang_blog_older = 'Vecchi';
 $lang_blog_newer = 'Nuovi';
 $lang_blog_error_folder = "Non puoi creare una cartella in Blog";
 $lang_blog_tool_tip = "I post del blog sono ordinati per numero, un numero maggiore indica un post più recente.";
-$lang_blog_import = 'Import';
-$lang_blog_import_tool_tip = 'Import blog entries from RSS.
-The importer will import from RSS and ATOM formats.';
+$lang_blog_import = 'Importa';
+$lang_blog_import_tool_tip = 'Importa i post del blog tramite RSS. L\'importer accetta i formati RSS e ATOM.';
 $lang_blog_import_url = 'URL';
 
 //Form
