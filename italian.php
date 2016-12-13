@@ -77,7 +77,7 @@ $lang_blog_newer = 'Nuovi';
 $lang_blog_error_folder = "Non puoi creare una cartella in Blog";
 $lang_blog_tool_tip = "I post del blog sono ordinati per numero, un numero maggiore indica un post più recente.";
 $lang_blog_import = 'Importa';
-$lang_blog_import_tool_tip = 'Importa i post del blog tramite RSS. L\'importer accetta i formati RSS e ATOM.';
+$lang_blog_import_tool_tip = "Importa i post del blog tramite RSS. L'importer accetta i formati RSS e ATOM.";
 $lang_blog_import_url = 'URL';
 
 //Form
