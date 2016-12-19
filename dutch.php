@@ -5,7 +5,6 @@ $lang_cancel = "Annuleren";
 $lang_help = "Help";
 $lang_save = "Opslaan";
 $lang_rename_btn = "Hernoemen";
-$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Update";
 
 // Login
@@ -76,6 +75,8 @@ $lang_blog_tool_tip = "Blog entries worden automatisch genummerd, het hoogste nu
 $lang_blog_import = 'Import';
 $lang_blog_import_tool_tip = 'Import blog entries from RSS.
 The importer will import from RSS and ATOM formats.';
+$lang_blog_import_page_max = 'Max number of pages';
+$lang_blog_import_page_var = 'Paging variable name';
 $lang_blog_import_url = 'URL';
 
 

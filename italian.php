@@ -6,7 +6,6 @@ $lang_help = "Aiuto";
 $lang_save = "Salva";
 $lang_rename_btn = "Rinomina";
 $lang_title = "Pulse CMS"; // Admin pages <title>
-$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Aggiorna"; // Admin Pulse download link
 
 // Login
@@ -78,6 +77,8 @@ $lang_blog_error_folder = "Non puoi creare una cartella in Blog";
 $lang_blog_tool_tip = "I post del blog sono ordinati per numero, un numero maggiore indica un post più recente.";
 $lang_blog_import = 'Importa';
 $lang_blog_import_tool_tip = "Importa i post del blog tramite RSS. L'importer accetta i formati RSS e ATOM.";
+$lang_blog_import_page_max = 'Max number of pages';
+$lang_blog_import_page_var = 'Paging variable name';
 $lang_blog_import_url = 'URL';
 
 //Form

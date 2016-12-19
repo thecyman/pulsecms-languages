@@ -7,7 +7,6 @@ $lang_help = "Hilfe";
 $lang_save = "Speichern";
 $lang_rename_btn = "Umbenennen";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
 $lang_update = "Aktualisieren";
 
 // Login
@@ -46,7 +45,7 @@ $lang_gallery_tool_tip = "Um eine Lightbox Gallerie zu erstellen, erstellen Sie 
 
 // Pages
 
-$lang_pages_meta = "Meta";
+$lang_pages_meta = "Meta Daten";
 $lang_pages_title = "Seitentitel";
 $lang_pages_description = "Seitenbeschreibung";
 
@@ -55,7 +54,7 @@ $lang_pages_description = "Seitenbeschreibung";
 $lang_create_file_or_folder = 'Neue Datei oder Ordner';
 $lang_create_button = "Erstellen";
 $lang_create_tool_tip = " Neue Seiten, Bl&ouml;cke und Blogposts m&uuml;ssen mit einem '.txt' enden. Um ein Ordner zu erstellen einfach keine Extention hinz&uuml;fugen. ";
-$lang_create_embed_tag = "Embed Tag";
+$lang_create_embed_tag = "Tag zum Einfügen";
 
 // Delete
 
@@ -71,8 +70,8 @@ $lang_no_content = 'Kein Inhalt gefunden.';
 
 //Blog
 
-$lang_blog_title = 'Blog Title';
-$lang_blog_date = 'Date';
+$lang_blog_title = 'Blog Titel';
+$lang_blog_date = 'Datum';
 $lang_blog_read_more = 'Weiterlesen';
 $lang_blog_older = '&Auml;ltere Beitr&auml;ge';
 $lang_blog_newer = 'Neuere Beitr&auml;ge';
@@ -80,6 +79,8 @@ $lang_blog_error_folder = "Sie k&ouml;nnen keine Ordner im $lang_nav_blog erstel
 $lang_blog_tool_tip = "Blog Beitr&auml;ge sind numerisch geordnet, die h&ouml;hste Nummer ist der neuste Beitrag.";
 $lang_blog_import = 'Importieren';
 $lang_blog_import_tool_tip = 'Importiere Blog Einträge aus RSS. Der Importer importiert RSS und Atom Format.';
+$lang_blog_import_page_max = 'Maximale Anzahl von Seiten';
+$lang_blog_import_page_var = 'URL Variable Name für Seiten';
 $lang_blog_import_url = 'URL';
 
 
@@ -100,7 +101,7 @@ $lang_stats_pages = "Beliebteste Seiten:";
 $lang_stats_refresh = "Aktualisieren";
 $lang_stats_pageviews = "Besuchte Seiten";
 $lang_stats_per_visit = "Seiten / Besuch";
-$lang_stats_bounce_rate ="Bounce Rate";
+$lang_stats_bounce_rate ="Abweisungsrate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Diese Woche";
 $lang_stats_todays_stats = "Heutige Stats";

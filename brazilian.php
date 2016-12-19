@@ -6,7 +6,6 @@ $lang_help = "Ajuda";
 $lang_save = "Salvar";
 $lang_rename_btn = "Renomear";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Atualizar";
 
 // Login
@@ -80,6 +79,8 @@ $lang_blog_tool_tip = "Postagens do Blog são numeradas, números mais altos sen
 $lang_blog_import = 'Importar';
 $lang_blog_import_tool_tip = 'Importar postagens do blog pela RSS.
 O sistema vai importar em formatos RSS e ATOM.';
+$lang_blog_import_page_max = 'Max number of pages';
+$lang_blog_import_page_var = 'Paging variable name';
 $lang_blog_import_url = 'URL';
 
 

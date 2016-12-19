@@ -5,7 +5,6 @@ $lang_help = "Hjælp";
 $lang_save = "Gem";
 $lang_rename_btn = "Omdøb";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Opdatér";
 // Login
 $lang_login_incorrect = "Dit password er forkert!";
@@ -60,6 +59,8 @@ $lang_blog_tool_tip = "Blog indlæg er i nummereret orden, det højeste nummer e
 $lang_blog_import = 'Import';
 $lang_blog_import_tool_tip = 'Import blog entries from RSS.
 The importer will import from RSS and ATOM formats.';
+$lang_blog_import_page_max = 'Max number of pages';
+$lang_blog_import_page_var = 'Paging variable name';
 $lang_blog_import_url = 'URL';
 //Form
 $lang_form_error1 = 'Udfyld venligst feltet ';

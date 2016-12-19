@@ -6,7 +6,6 @@ $lang_help = "Ndihmë";
 $lang_save = "Ruaje";
 $lang_rename_btn = "Riemërto";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6.1";
 $lang_update = "Përditëso";
 
 // Identifikimi
@@ -78,6 +77,8 @@ $lang_blog_tool_tip = "Blog postimet janë të renditura nga numri, me i lartë 
 $lang_blog_import = 'Importo';
 $lang_blog_import_tool_tip = 'Importo blog postimet nga RSS.
 Importuesi do të importojë nga RSS dhe ATOM formatet.';
+$lang_blog_import_page_max = 'Max number of pages';
+$lang_blog_import_page_var = 'Paging variable name';
 $lang_blog_import_url = 'URL';
 
 // Forma
