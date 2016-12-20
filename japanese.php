@@ -6,7 +6,6 @@ $lang_help = "ヘルプ";
 $lang_save = "保存";
 $lang_rename_btn = "名前の変更";
 $lang_title = "Pulse CMS";
-$lang_version = "Pulse CMS 4.6";
 $lang_update = "アップデート";
 
 // Login
@@ -17,6 +16,7 @@ $lang_login_button = "ログイン";
 $lang_nav_logout = "ログアウト";
 
 // Home
+
 $lang_home_emptyfold = "フォルダーは空です."; 
 $lang_home_new = "新規";
 $lang_home_upload_button = "アップロード";
@@ -78,6 +78,8 @@ $lang_blog_error_folder = "ブログ内にファイルを作る事はできま�
 $lang_blog_tool_tip = "ブログエントリーは番号順に並んでいます。最も大きい番号が最新のエントリーです。";
 $lang_blog_import = 'インポート';
 $lang_blog_import_tool_tip = 'ブログエントリーをRSSからインポート。 RSSとATOMフォーマットからインポーターをインポートします。';
+$lang_blog_import_page_max = '最大ページ数';
+$lang_blog_import_page_var = 'ページ名';
 $lang_blog_import_url = 'URL';
 
 //Form
