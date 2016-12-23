@@ -65,7 +65,7 @@ $lang_del_button = "L&ouml;schen";
 
 $lang_error_create_ext = 'Ung&uuml;ltige Dateierweiterung.';
 $lang_error_file_exists = 'Eine Datei mit diesem Namen in diesem Ordner existiert bereits.';
-$lang_error_upload = 'Sie m&uuml;ssen in einer Gallerie sein um ein Bild hochzuladen.';
+$lang_error_upload = 'Sie m&uuml;ssen in einer Galerie sein um ein Bild hochzuladen.';
 $lang_no_content = 'Kein Inhalt gefunden.';
 
 //Blog
