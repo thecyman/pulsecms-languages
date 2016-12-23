@@ -18,7 +18,7 @@ $lang_nav_logout = "Abmelden";
 
 // Home
 
-$lang_home_emptyfold = "Dieser Ordner ist leer."; 
+$lang_home_emptyfold = "Dieser Ordner ist leer.";
 $lang_home_new = "Neu";
 $lang_home_upload_button = "Hochladen";
 $lang_home_preview = "Vorschau";
@@ -53,12 +53,12 @@ $lang_pages_description = "Seitenbeschreibung";
 
 $lang_create_file_or_folder = 'Neue Datei oder Ordner';
 $lang_create_button = "Erstellen";
-$lang_create_tool_tip = " Neue Seiten, Bl&ouml;cke und Blogposts m&uuml;ssen mit einem '.txt' enden. Um ein Ordner zu erstellen einfach keine Extention hinz&uuml;fugen. ";
+$lang_create_tool_tip = " Neue Seiten, Bl&ouml;cke und Blogposts m&uuml;ssen mit einem '.txt' enden. Um ein Ordner zu erstellen einfach keine Erweiterung hinz&uuml;fugen. ";
 $lang_create_embed_tag = "Tag zum Einfügen";
 
 // Delete
 
-$lang_delete = 'Sind Sie sicher Sie m&ouml;chten diese Datei l&ouml;schen: ';
+$lang_delete = 'Sind Sie sicher dass Sie diese Datei l&ouml;schen m&ouml;chten: ';
 $lang_del_button = "L&ouml;schen";
 
 // Errors
@@ -78,9 +78,9 @@ $lang_blog_newer = 'Neuere Beitr&auml;ge';
 $lang_blog_error_folder = "Sie k&ouml;nnen keine Ordner im $lang_nav_blog erstellen.";
 $lang_blog_tool_tip = "Blog Beitr&auml;ge sind numerisch geordnet, die h&ouml;hste Nummer ist der neuste Beitrag.";
 $lang_blog_import = 'Importieren';
-$lang_blog_import_tool_tip = 'Importiere Blog Einträge aus RSS. Der Importer importiert RSS und Atom Format.';
-$lang_blog_import_page_max = 'Maximale Anzahl von Seiten';
-$lang_blog_import_page_var = 'URL Variable Name für Seiten';
+$lang_blog_import_tool_tip = 'Importiere Blog Einträge aus RSS. Der Importer importiert RSS und Atom Formate.';
+$lang_blog_import_page_max = 'Maximale Seitenanzahl';
+$lang_blog_import_page_var = 'Variable fuer Paginierung';
 $lang_blog_import_url = 'URL';
 
 
@@ -90,7 +90,7 @@ $lang_form_error1 = 'Bitte f&uuml;llen Sie das Feld aus: ';
 $lang_form_error2a = 'Das Feld ';
 $lang_form_error2b = ' ist zu lang.';
 $lang_form_subject_line = 'Kontakt';
-$lang_form_email_sent = 'Ihre Email wurde gesendet.';
+$lang_form_email_sent = 'Ihre E-Mail wurde gesendet.';
 $lang_form_sent_button = 'Abschicken';
 
 // Stats
@@ -101,10 +101,10 @@ $lang_stats_pages = "Beliebteste Seiten:";
 $lang_stats_refresh = "Aktualisieren";
 $lang_stats_pageviews = "Besuchte Seiten";
 $lang_stats_per_visit = "Seiten / Besuch";
-$lang_stats_bounce_rate ="Abweisungsrate";
+$lang_stats_bounce_rate ="Absprungrate";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Diese Woche";
-$lang_stats_todays_stats = "Heutige Stats";
+$lang_stats_todays_stats = "Heutige Statistik";
 $lang_stats_nodata = "Keine Daten";
 
 ?>
