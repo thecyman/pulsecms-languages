@@ -26,7 +26,7 @@ $lang_home_preview = "Vorschau";
 // Navigation
 
 $lang_nav_home = "Home";
-$lang_nav_blocks = "Blöcke";
+$lang_nav_blocks = "Bl&ouml;cke";
 $lang_nav_img = "Medien";
 $lang_nav_blog = "Blog";
 $lang_nav_pages = "Seiten";
