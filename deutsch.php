@@ -26,11 +26,11 @@ $lang_home_preview = "Vorschau";
 // Navigation
 
 $lang_nav_home = "Home";
-$lang_nav_blocks = "Blocks";
-$lang_nav_img = "Media";
+$lang_nav_blocks = "Blöcke";
+$lang_nav_img = "Medien";
 $lang_nav_blog = "Blog";
-$lang_nav_pages = "Pages";
-$lang_nav_stats = "Stats";
+$lang_nav_pages = "Seiten";
+$lang_nav_stats = "Statistiken";
 
 // Gallery
 
@@ -40,12 +40,12 @@ $lang_gal_dimensions = "Dimensionen";
 $lang_gal_size = "Gr&ouml;sse";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
-$lang_gallery_tool_tip = "Um eine Lightbox Gallerie zu erstellen, erstellen Sie hier einen neuen Ordner mit Bildern und nutzen Sie den gebenen Embed code.";
+$lang_gallery_tool_tip = "Um eine Lightbox Galerie zu erstellen, erstellen Sie hier einen neuen Ordner mit Bildern und nutzen Sie den gebenen einbettungscode.";
 
 
 // Pages
 
-$lang_pages_meta = "Meta Daten";
+$lang_pages_meta = "Metadaten";
 $lang_pages_title = "Seitentitel";
 $lang_pages_description = "Seitenbeschreibung";
 
@@ -64,7 +64,7 @@ $lang_del_button = "L&ouml;schen";
 // Errors
 
 $lang_error_create_ext = 'Ung&uuml;ltige Dateierweiterung.';
-$lang_error_file_exists = 'Eine Datei mit diesen Namen in diesen Ordner existiert bereits.';
+$lang_error_file_exists = 'Es existiert bereits eine Datei mit diesem Namen in diesem Ordner.';
 $lang_error_upload = 'Sie m&uuml;ssen in einer Gallerie sein um ein Bild hochzuladen.';
 $lang_no_content = 'Kein Inhalt gefunden.';
 
