@@ -69,6 +69,7 @@ $lang_form_error2b = ' er for langt.';
 $lang_form_subject_line = 'Kontakt';
 $lang_form_email_sent = 'Din mail er sendt';
 $lang_form_sent_button = 'Send';
+$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
 // Stats
 $lang_stats_today = "Besøgende";
 $lang_stats_refers = "Top henvisninger";

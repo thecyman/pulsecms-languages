@@ -89,6 +89,7 @@ $lang_form_error2b = ' je predugo.';
 $lang_form_subject_line = 'Kontakt';
 $lang_form_email_sent = 'Email je poslan';
 $lang_form_sent_button = 'Pošalji';
+$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
 
 // Stats
 

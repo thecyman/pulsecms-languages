@@ -90,6 +90,7 @@ $lang_form_error2b = ' är för långt.';
 $lang_form_subject_line = 'Kontakt';
 $lang_form_email_sent = 'E-postmeddelande är skickat.';
 $lang_form_sent_button = 'Skicka';
+$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
 
 // Stats
 

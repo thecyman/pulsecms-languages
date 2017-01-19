@@ -90,6 +90,7 @@ $lang_form_error2b = ' çok uzun.';
 $lang_form_subject_line = 'İletişim';
 $lang_form_email_sent = 'Eposta gönderildi';
 $lang_form_sent_button = 'Gönder';
+$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
 
 // Stats
 

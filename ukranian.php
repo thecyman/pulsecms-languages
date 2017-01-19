@@ -91,6 +91,7 @@ $lang_form_error2b = ' занадто багато.';
 $lang_form_subject_line = 'Контакт';
 $lang_form_email_sent = 'Повідомлення надіслано';
 $lang_form_sent_button = 'Відправити';
+$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
 
 // Stats
 

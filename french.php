@@ -91,6 +91,7 @@ $lang_form_error2b = ' est trop long.';
 $lang_form_subject_line = 'Contact';
 $lang_form_email_sent = 'L\'email a été envoyé';
 $lang_form_sent_button = 'Envoyer';
+$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
 
 // Statistiques
 

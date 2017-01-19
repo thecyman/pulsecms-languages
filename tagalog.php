@@ -89,6 +89,7 @@ $lang_form_error2b = ' ay masyadong mahaba.';
 $lang_form_subject_line = 'Contact';
 $lang_form_email_sent = 'Napadala na ang Email';
 $lang_form_sent_button = 'Ipadala';
+$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
 
 // Stats
 

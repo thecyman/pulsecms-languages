@@ -88,6 +88,7 @@ $lang_form_error2b = ' is te lang.';
 $lang_form_subject_line = 'Contact';
 $lang_form_email_sent = 'Email is verzonden';
 $lang_form_sent_button = 'Verzenden';
+$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
 
 // Stats
 

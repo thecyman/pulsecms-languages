@@ -90,6 +90,7 @@ $lang_form_error2b = " on liian pitkä.";
 $lang_form_subject_line = "Ota yhteyttä";
 $lang_form_email_sent = "Sähköposti lähetettiin";
 $lang_form_sent_button = "Lähetä";
+$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
 
 // Stats
 
