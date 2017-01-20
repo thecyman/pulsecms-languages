@@ -92,6 +92,7 @@ $lang_form_error2b = ' ist zu lang.';
 $lang_form_subject_line = 'Kontakt';
 $lang_form_email_sent = 'Ihre E-Mail wurde gesendet.';
 $lang_form_sent_button = 'Abschicken';
+$lang_auto_thank_contact = 'Danke für Ihre Email - Wir haben Ihre Email empfangen und Ihnen bald antworten.';
 
 // Stats
 
