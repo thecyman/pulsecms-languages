@@ -90,6 +90,7 @@ $lang_form_error2b = ' 長すぎます。';
 $lang_form_subject_line = 'コンタクト';
 $lang_form_email_sent = '送信されました';
 $lang_form_sent_button = '送信';
+$lang_auto_thank_contact = 'お問い合わせを受け付けました。順番に確認し、お返事申し上げます。暫くお待ち頂きますようお願い致します。';
 
 // Stats
 
