@@ -12,7 +12,7 @@ $lang_update = "Aktualisieren";
 // Login
 
 $lang_login_incorrect = "Falsches Passwort";
-$lang_login_password = "Password";
+$lang_login_password = "Passwort";
 $lang_login_button = "Weiter";
 $lang_nav_logout = "Abmelden";
 
