@@ -67,18 +67,18 @@ $lang_no_content = 'nem található tartalom';
 
 //Blog
 
-$lang_blog_title = 'Blog Title';
-$lang_blog_date = 'Date';
+$lang_blog_title = 'Blogcím';
+$lang_blog_date = 'Dátum';
 $lang_blog_read_more = 'Olvassa tovább';
 $lang_blog_older = 'Régebbi';
 $lang_blog_newer = 'Újabb';
 $lang_blog_error_folder = "Nem hozhat létre mappát a Blogba";
 $lang_blog_tool_tip = "Blog bejegyzések megrendelt száma, a legmagasabb számozás hogy a legújabb post.";
 $lang_blog_import = 'Import';
-$lang_blog_import_tool_tip = 'Import blog entries from RSS.
-The importer will import from RSS and ATOM formats.';
-$lang_blog_import_page_max = 'Max number of pages';
-$lang_blog_import_page_var = 'Paging variable name';
+$lang_blog_import_tool_tip = 'Import blog bejegyzések RSS.
+Az importőr fog importálni RSS és Atom formátumba.';
+$lang_blog_import_page_max = 'Max oldalak száma';
+$lang_blog_import_page_var = 'Oldal változó neve';
 $lang_blog_import_url = 'URL';
 
 //Form
@@ -99,7 +99,7 @@ $lang_stats_pages = "Top oldalak";
 $lang_stats_refresh = "Frissítés";
 $lang_stats_pageviews = "Oldalmegtekintések";
 $lang_stats_per_visit = "Oldalak / Látogatás";
-$lang_stats_bounce_rate ="Bounce Rate";
+$lang_stats_bounce_rate ="Visszafordulási arány";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Ezen a héten";
 $lang_stats_todays_stats = "A mai statisztika";

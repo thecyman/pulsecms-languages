@@ -68,7 +68,7 @@ $lang_no_content = 'Zawartości nie znaleziono';
 
 //Blog
 
-$lang_blog_title = 'Blog Title';
+$lang_blog_title = 'Tituł bloga';
 $lang_blog_date = 'Date';
 $lang_blog_read_more = 'Czytaj więcej';
 $lang_blog_older = 'Starsze';
@@ -76,10 +76,10 @@ $lang_blog_newer = 'Nowsze';
 $lang_blog_error_folder = "Nie można utworzyć folderu w Blogu";
 $lang_blog_tool_tip = "Wpisy na blogu są sortowane według liczby, najwyższy numer to najnowszy post.";
 $lang_blog_import = 'Import';
-$lang_blog_import_tool_tip = 'Import blog entries from RSS.
-The importer will import from RSS and ATOM formats.';
-$lang_blog_import_page_max = 'Max number of pages';
-$lang_blog_import_page_var = 'Paging variable name';
+$lang_blog_import_tool_tip = 'Wpisy na blogach z importu RSS.
+Importer będzie importovać z RSS i Atom formatów.';
+$lang_blog_import_page_max = 'Maksymalna liczba stron';
+$lang_blog_import_page_var = 'Nazwa zmiennej stronicowanie';
 $lang_blog_import_url = 'URL';
 
 //Form
@@ -100,7 +100,7 @@ $lang_stats_pages = "Najlepsze strony";
 $lang_stats_refresh = "Odśwież";
 $lang_stats_pageviews = "Odsłon strony";
 $lang_stats_per_visit = "Strony / Odwiedziny";
-$lang_stats_bounce_rate ="Bounce Rate";
+$lang_stats_bounce_rate ="Współczynnik odruceń";
 $lang_stats_online = "Online";
 $lang_stats_thisweek = "Ten tydzień";
 $lang_stats_todays_stats = "Dzisiaj";
