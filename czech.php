@@ -67,18 +67,18 @@ $lang_no_content = 'nenalezen žádný obsah';
 
 //Blog
 
-$lang_blog_title = 'Blog Title';
-$lang_blog_date = 'Date';
+$lang_blog_title = 'Název Blogu';
+$lang_blog_date = 'Datum';
 $lang_blog_read_more = 'Čtěte více';
 $lang_blog_older = 'Starší';
 $lang_blog_newer = 'Novější';
 $lang_blog_error_folder = "V Blogu nelze vytvořit složku";
 $lang_blog_tool_tip = "Položky blogu jsou řazeny podle čísla, nejvyšší číslování prozatím nejnovější příspěvek.";
-$lang_blog_import = 'Import';
-$lang_blog_import_tool_tip = 'Import blog entries from RSS.
-The importer will import from RSS and ATOM formats.';
-$lang_blog_import_page_max = 'Max number of pages';
-$lang_blog_import_page_var = 'Paging variable name';
+$lang_blog_import = 'Importovat';
+$lang_blog_import_tool_tip = 'Položky blogu importovat z RSS.
+Importér bude importovat z RSS a Atom formátů.';
+$lang_blog_import_page_max = 'Maximální počet stránek';
+$lang_blog_import_page_var = 'Název proměnné stránkováni';
 $lang_blog_import_url = 'URL';
 
 
@@ -92,6 +92,7 @@ $lang_form_email_sent = 'E-mail byl odeslán';
 $lang_form_sent_button = 'Odeslat';
 $lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
 
+
 // Stats
 
 $lang_stats_today = "Návštěvníci";
@@ -100,8 +101,8 @@ $lang_stats_pages = "Top stránek";
 $lang_stats_refresh = "Aktualizovat";
 $lang_stats_pageviews = "obrazení stránek";
 $lang_stats_per_visit = "Stránek / Návštěva";
-$lang_stats_bounce_rate ="Bounce Rate";
-$lang_stats_online = "Online";
+$lang_stats_bounce_rate ="Míra hodnocení";
+$lang_stats_online = "Přímý";
 $lang_stats_thisweek = "Tento týden";
 $lang_stats_todays_stats = "Dnešní statistiky";
 $lang_stats_nodata = "Žádná data";
