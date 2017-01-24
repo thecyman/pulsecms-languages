@@ -89,7 +89,7 @@ $lang_form_error2b = ' je príliš dlhé.';
 $lang_form_subject_line = 'Kontakt';
 $lang_form_email_sent = 'E-mail bol odoslaný';
 $lang_form_sent_button = 'Odoslať';
-$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
+$lang_auto_thank_contact = 'Ďakujem za zaslanie e-mailu! Na Váš e-mail odpoviem hneď ako to bude možné.';
 
 // Stats
 
