@@ -89,7 +89,7 @@ $lang_form_error2b = ' túl hosszú.';
 $lang_form_subject_line = 'Kapcsolat';
 $lang_form_email_sent = 'E-mail volt elküldve';
 $lang_form_sent_button = 'Küld';
-$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
+$lang_auto_thank_contact = 'Köszönjük, hogy elküldte mailt! A mailre mihamarabb válaszolni fogok.';
 
 // Stats
 
