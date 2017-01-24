@@ -53,7 +53,7 @@ $lang_pages_description = "Seitenbeschreibung";
 
 $lang_create_file_or_folder = 'Neue Datei oder Ordner';
 $lang_create_button = "Erstellen";
-$lang_create_tool_tip = " Neue Seiten, Bl&ouml;cke und Blogposts m&uuml;ssen mit einem '.txt' enden. Um ein Ordner zu erstellen einfach keine Erweiterung hinz&uuml;fugen. ";
+$lang_create_tool_tip = " Neue Seiten, Bl&ouml;cke und Blogposts m&uuml;ssen mit einem '.txt' enden. Um ein Ordner zu erstellen einfach keine Erweiterung hinzuf&uuml;gen. ";
 $lang_create_embed_tag = "Tag zum Einfügen";
 
 // Delete
