@@ -90,7 +90,7 @@ $lang_form_error2b = ' jest zbyt długi.';
 $lang_form_subject_line = 'Kontakt';
 $lang_form_email_sent = 'E-mail został wysłany';
 $lang_form_sent_button = 'Wyślij';
-$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
+$lang_auto_thank_contact = 'Dzięki za wysyłanie wiadomości e-mail! Na Twój adres email odpowie jak najszybciej.';
 
 // Stats
 
