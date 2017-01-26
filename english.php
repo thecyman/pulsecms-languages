@@ -72,6 +72,7 @@ $lang_no_content = 'no content found';
 $lang_blog_title = 'Blog Title';
 $lang_blog_date = 'Date';
 $lang_blog_read_more = 'Read more';
+$lang_blog_back_button = 'Back';
 $lang_blog_older = 'Older';
 $lang_blog_newer = 'Newer';
 $lang_blog_error_folder = "You can't create a folder in Blog";
@@ -91,6 +92,7 @@ $lang_form_error2b = ' is too long.';
 $lang_form_subject_line = 'Contact';
 $lang_form_email_sent = 'Email was sent';
 $lang_form_sent_button = 'Send';
+
 $lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
 
 // Stats

@@ -73,6 +73,7 @@ $lang_no_content = 'Kein Inhalt gefunden.';
 $lang_blog_title = 'Blog Titel';
 $lang_blog_date = 'Datum';
 $lang_blog_read_more = 'Weiterlesen';
+$lang_blog_back_button = 'Zur&uuml;ck';
 $lang_blog_older = '&Auml;ltere Beitr&auml;ge';
 $lang_blog_newer = 'Neuere Beitr&auml;ge';
 $lang_blog_error_folder = "Sie k&ouml;nnen keine Ordner im $lang_nav_blog erstellen.";
