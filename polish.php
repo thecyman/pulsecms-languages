@@ -71,6 +71,7 @@ $lang_no_content = 'Zawartości nie znaleziono';
 $lang_blog_title = 'Tituł bloga';
 $lang_blog_date = 'Date';
 $lang_blog_read_more = 'Czytaj więcej';
+$lang_blog_back_button = 'Powrot';
 $lang_blog_older = 'Starsze';
 $lang_blog_newer = 'Nowsze';
 $lang_blog_error_folder = "Nie można utworzyć folderu w Blogu";

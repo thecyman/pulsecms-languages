@@ -70,6 +70,7 @@ $lang_no_content = 'nenalezen žádný obsah';
 $lang_blog_title = 'Název Blogu';
 $lang_blog_date = 'Datum';
 $lang_blog_read_more = 'Čtěte více';
+$lang_blog_back_button = 'Zpět';
 $lang_blog_older = 'Starší';
 $lang_blog_newer = 'Novější';
 $lang_blog_error_folder = "V Blogu nelze vytvořit složku";

@@ -71,6 +71,7 @@ $lang_blog_title = 'Blogcím';
 $lang_blog_date = 'Dátum';
 $lang_blog_read_more = 'Olvassa tovább';
 $lang_blog_older = 'Régebbi';
+$lang_blog_back_button = 'Vissza';
 $lang_blog_newer = 'Újabb';
 $lang_blog_error_folder = "Nem hozhat létre mappát a Blogba";
 $lang_blog_tool_tip = "Blog bejegyzések megrendelt száma, a legmagasabb számozás hogy a legújabb post.";

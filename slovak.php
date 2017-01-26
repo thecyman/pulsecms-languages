@@ -70,6 +70,7 @@ $lang_no_content = 'nenašiel žiadny obsah';
 $lang_blog_title = 'Názov Blogu';
 $lang_blog_date = 'Dátum';
 $lang_blog_read_more = 'Čítajte ďalej';
+$lang_blog_back_button = 'Späť';
 $lang_blog_older = 'Staršie';
 $lang_blog_newer = 'Novšie';
 $lang_blog_error_folder = "Nedá sa vytvoriť priečinok v Blogu";
