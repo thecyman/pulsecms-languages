@@ -160,3 +160,5 @@ $lang_dashboard_media = 'メディア';
 $lang_dashboard_edit_media = 'メディアを編集';
 $lang_dashboard_pages = 'ページ';
 $lang_dashboard_edit_page = 'ページを編集';
+
+?>
