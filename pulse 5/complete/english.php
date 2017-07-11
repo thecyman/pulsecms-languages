@@ -161,5 +161,3 @@ $lang_dashboard_media = 'Media';
 $lang_dashboard_edit_media = 'Edit Media';
 $lang_dashboard_pages = 'Pages';
 $lang_dashboard_edit_page = 'Edit Page';
-
-?>

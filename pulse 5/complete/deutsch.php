@@ -162,5 +162,3 @@ $lang_dashboard_media = 'Medien';
 $lang_dashboard_edit_media = 'Medien editieren';
 $lang_dashboard_pages = 'Seiten';
 $lang_dashboard_edit_page = 'Seiten editieren';
-
-?>
