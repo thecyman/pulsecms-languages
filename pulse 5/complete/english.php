@@ -1,4 +1,5 @@
 <?php
+
 //Global
 
 $lang_cancel = "Cancel";
@@ -11,7 +12,8 @@ $lang_save = "Save";
 $lang_rename_btn = "Rename";
 $lang_title = "Pulse CMS";
 
-# auto backup
+// Auto backup
+
 $lang_autobackup_email_subject_line = 'Pulse auto-backup reminder';
 $lang_autobackup_email_text =<<<EOD
 Hi,
@@ -23,7 +25,8 @@ The Pulse CMS Team
 EOD;
 
 // Login
-$lang_login_forgot_password = "Forgot your password ?";
+
+$lang_login_forgot_password = "Forgot your password?";
 $lang_login_forgot_password_email_body =<<<EOD
 	Hi,
 	
@@ -39,6 +42,7 @@ $lang_login_welcome = "Hi!";
 $lang_login_name = "Pulse User";
 
 // Home
+
 $lang_home_emptyfold = "This folder is empty."; 
 $lang_home_new = "New";
 $lang_home_upload_button = "Upload";
@@ -54,12 +58,12 @@ $lang_nav_blog = "Blog";
 $lang_nav_pages = "Pages";
 $lang_nav_stats = "Stats";
 
-# navigation logged in bar
+// Navigation logged in bar
+
 $lang_nav_logged_in_add_block     = 'Add new block';
 $lang_nav_logged_in_add_blog_post = 'Add new blog post';
 $lang_nav_logged_in_add_media     = 'Add new media';
 $lang_nav_logged_in_add_page      = 'Add new page';
-
 
 // Gallery
 
@@ -71,6 +75,8 @@ $lang_gal_size = "Size";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
 $lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
+$lang_crop = 'Crop';
+$lang_media_order = 'Order';
 
 // Pages
 
@@ -97,7 +103,7 @@ $lang_error_file_exists = 'A file with this name in this folder already exists.'
 $lang_error_upload = 'You need to be in a Gallery to upload an image.';
 $lang_no_content = 'no content found';
 
-//Blog
+// Blog
 
 $lang_blog_title = 'Blog Title';
 $lang_blog_date = 'Date';
@@ -113,7 +119,7 @@ $lang_blog_import_page_max = 'Max number of pages';
 $lang_blog_import_page_var = 'Paging variable name';
 $lang_blog_import_url = 'URL';
 
-//Form
+// Form
 
 $lang_form_error1 = 'Please fill out field ';
 $lang_form_error2a = 'Your field ';
@@ -123,7 +129,7 @@ $lang_form_email_sent = 'Email was sent';
 $lang_form_sent_button = 'Send';
 $lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
 
-//Newsletter Form
+// Newsletter Form
 
 $lang_newsletter_thanks ='Thanks!';
 $lang_newsletter_try_again ='Try again';
@@ -143,41 +149,31 @@ $lang_stats_online = "Online";
 $lang_stats_thisweek = "This Week";
 $lang_stats_todays_stats = "Today";
 $lang_stats_nodata = "No Data";
-
 $lang_stats_browsers  = "browsers";
 $lang_stats_countries = "countries";
 $lang_stats_devices   = "devices";
 $lang_stats_systems   = "systems";
 
-#custom post types
+// Custom post types
+
 $lang_custom_post_type_error_illegal_characters = 'Custom post type name has illegal characters';
 $lang_custom_post_type_error_illegal_name       = 'Custom post type name has an illegal name';
 $lang_custom_post_type_error_unknown_entry      = 'This custom post type entry is unknown';
 
-# status messages
+// Status messages
+
 $lang_status_ok = 'Data saved';
 
-# media gallery
-$lang_media_order = 'Order';
+// Dashboard
 
-# dashboard
 $lang_dashboard_backups = 'Backups';
-
 $lang_dashboard_blocks = 'Blocks';
 $lang_dashboard_edit_blocks = 'Edit Blocks';
-
 $lang_dashboard_blog = 'Blog';
 $lang_dashboard_edit_blog = 'Edit Blog';
-
 $lang_dashboard_notes = 'Dashboard notes';
-
 $lang_dashboard_file_storage = 'File Storage';
-
 $lang_dashboard_media = 'Media';
 $lang_dashboard_edit_media = 'Edit Media';
-
 $lang_dashboard_pages = 'Pages';
 $lang_dashboard_edit_page = 'Edit Page';
-
-#
-$lang_crop = 'Crop';
