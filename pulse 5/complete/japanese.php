@@ -2,41 +2,40 @@
 
 //Global
 $lang_cancel = "キャンセル";
-$lang_duplicate = "Duplicate";
+$lang_duplicate = "重複";
 $lang_help = "ヘルプ";
 $lang_help_url ="http://help.pulsecms.com/";
-$lang_settings = "Settings";
-$lang_account = "Account";
+$lang_settings = "設定";
+$lang_account = "アカウント";
 $lang_save = "保存";
 $lang_rename_btn = "名前の変更";
 $lang_title = "Pulse CMS";
 
 // Auto backup
-$lang_autobackup_email_subject_line = 'Pulse auto-backup reminder';
+$lang_autobackup_email_subject_line = 'Pulse自動バックアップ通知';
 $lang_autobackup_email_text =<<<EOD
-Hi,
+こんにちは,
 
-Your Pulse install has generated a backup zip file.
+バックアップzipファイルのインストールが完了しました.
 
-Regards,
-The Pulse CMS Team
+Pulse CMSチーム
 EOD;
 
 // Login
-$lang_login_forgot_password = "Forgot your password ?";
+$lang_login_forgot_password = "パスワードを忘れた";
 $lang_login_forgot_password_email_body =<<<EOD
-	Hi,
+	こんにちは,
 	
-	Your Pulse password is PASSWORD
+	あなたのPulseパスワードは PASSWORD
 EOD;
-$lang_login_forgot_password_email_subject_line = "Forgot your Pulse password ?"; 
+$lang_login_forgot_password_email_subject_line = "あなたのPulseパスワードを忘れた"; 
 $lang_login_incorrect = "パスワードが違います!";
 $lang_login_password = "パスワード";
 $lang_login_button = "ログイン";
 $lang_nav_logout = "ログアウト";
-$lang_login_otp = "OTP Password";
-$lang_login_welcome = "Hi!";
-$lang_login_name = "Pulse User";
+$lang_login_otp = "OTP パスワード";
+$lang_login_welcome = "こんにちは!";
+$lang_login_name = "Pulseユーザーの皆様";
 
 // Home
 $lang_home_emptyfold = "フォルダーは空です."; 
@@ -45,7 +44,7 @@ $lang_home_upload_button = "アップロード";
 $lang_home_preview = "プレビュー";
 
 // Navigation
-$lang_nav_title = "Navigation";
+$lang_nav_title = "ナビゲーション";
 $lang_nav_home = "ホーム";
 $lang_nav_blocks = "ブロック";
 $lang_nav_img = "メディア";
@@ -54,10 +53,10 @@ $lang_nav_pages = "ページ";
 $lang_nav_stats = "ステータス";
 
 // Navigation logged in bar
-$lang_nav_logged_in_add_block     = 'Add new block';
-$lang_nav_logged_in_add_blog_post = 'Add new blog post';
-$lang_nav_logged_in_add_media     = 'Add new media';
-$lang_nav_logged_in_add_page      = 'Add new page';
+$lang_nav_logged_in_add_block     = '新規ブロックを追加';
+$lang_nav_logged_in_add_blog_post = '新規ブログポストを追加';
+$lang_nav_logged_in_add_media     = '新規メディアを追加';
+$lang_nav_logged_in_add_page      = '新規ページを追加';
 
 
 // Gallery
@@ -69,8 +68,8 @@ $lang_gal_size = "サイズ";
 $lang_gal_img = "IMG";
 $lang_gal_link = "リンク";
 $lang_gallery_tool_tip = "ライトボックスの作成、イメージフォルダの作成、エンベッドタグの使用.";
-$lang_crop = 'Crop';
-$lang_media_order = 'Order';
+$lang_crop = '切り取り';
+$lang_media_order = '並べ替え';
 
 // Pages
 $lang_pages_meta = "メタ";
@@ -118,10 +117,10 @@ $lang_form_sent_button = '送信';
 $lang_auto_thank_contact = 'お問い合わせを受け付けました。順番に確認し、お返事申し上げます。暫くお待ち頂きますようお願い致します。';
 
 //Newsletter Form
-$lang_newsletter_thanks ='Thanks!';
-$lang_newsletter_try_again ='Try again';
-$lang_newsletter_placeholder ='Enter Email';
-$lang_newsletter_send ='Sign Up';
+$lang_newsletter_thanks ='ありがとうございます';
+$lang_newsletter_try_again ='再試行';
+$lang_newsletter_placeholder ='メールアドレス';
+$lang_newsletter_send ='サインアップ';
 
 // Stats
 $lang_stats_today = "訪問者";
@@ -136,28 +135,28 @@ $lang_stats_thisweek = "今週";
 $lang_stats_todays_stats = "今日";
 $lang_stats_nodata = "データがありません";
 
-$lang_stats_browsers  = "browsers";
-$lang_stats_countries = "countries";
-$lang_stats_devices   = "devices";
-$lang_stats_systems   = "systems";
+$lang_stats_browsers  = "ブラウザー";
+$lang_stats_countries = "国";
+$lang_stats_devices   = "デバイス";
+$lang_stats_systems   = "システム";
 
 // Custom post types
-$lang_custom_post_type_error_illegal_characters = 'Custom post type name has illegal characters';
-$lang_custom_post_type_error_illegal_name       = 'Custom post type name has an illegal name';
-$lang_custom_post_type_error_unknown_entry      = 'This custom post type entry is unknown';
+$lang_custom_post_type_error_illegal_characters = 'カスタム投稿の種類名に不正な名前があります';
+$lang_custom_post_type_error_illegal_name       = 'カスタム投稿の種類名に不正な名前があります';
+$lang_custom_post_type_error_unknown_entry      = 'このカスタム投稿のエントリーは不明です';
 
 // Status messages
-$lang_status_ok = 'Data saved';
+$lang_status_ok = 'データを保存しました';
 
 // Dashboard
-$lang_dashboard_backups = 'Backups';
-$lang_dashboard_blocks = 'Blocks';
-$lang_dashboard_edit_blocks = 'Edit Blocks';
-$lang_dashboard_blog = 'Blog';
-$lang_dashboard_edit_blog = 'Edit Blog';
-$lang_dashboard_notes = 'Dashboard notes';
-$lang_dashboard_file_storage = 'File Storage';
-$lang_dashboard_media = 'Media';
-$lang_dashboard_edit_media = 'Edit Media';
-$lang_dashboard_pages = 'Pages';
-$lang_dashboard_edit_page = 'Edit Page';
+$lang_dashboard_backups = 'バックアップ';
+$lang_dashboard_blocks = 'ブロックス';
+$lang_dashboard_edit_blocks = 'ブロックスを編集';
+$lang_dashboard_blog = 'ブログ';
+$lang_dashboard_edit_blog = 'ブログを編集';
+$lang_dashboard_notes = 'ダッシュボードメモ';
+$lang_dashboard_file_storage = 'ファイルストレージ';
+$lang_dashboard_media = 'メディア';
+$lang_dashboard_edit_media = 'メディアを編集';
+$lang_dashboard_pages = 'ページ';
+$lang_dashboard_edit_page = 'ページを編集';
