@@ -1,7 +1,6 @@
 <?php
 
 //Global
-
 $lang_cancel = "Abbrechen";
 $lang_duplicate = "Duplizieren";
 $lang_help = "Hilfe";
@@ -13,7 +12,6 @@ $lang_rename_btn = "Umbenennen";
 $lang_title = "Pulse CMS";
 
 // Auto backup
-
 $lang_autobackup_email_subject_line = 'Pulse automatische Backup Erinnerung';
 $lang_autobackup_email_text =<<<EOD
 Hallo,
@@ -25,7 +23,6 @@ Das Pulse CMS Team
 EOD;
 
 // Login
-
 $lang_login_forgot_password = "Haben Sie Ihr Passwort vergessen?";
 $lang_login_forgot_password_email_body =<<<EOD
 	Hallo,
@@ -42,14 +39,12 @@ $lang_login_welcome = "Hi!";
 $lang_login_name = "Pulse Benutzer";
 
 // Home
-
 $lang_home_emptyfold = "Dieser Ordner ist leer."; 
 $lang_home_new = "Neu";
 $lang_home_upload_button = "Hochladen";
 $lang_home_preview = "Vorschau";
 
 // Navigation
-
 $lang_nav_title = "Navigation";
 $lang_nav_home = "Home";
 $lang_nav_blocks = "Bl&ouml;cke";
@@ -59,14 +54,13 @@ $lang_nav_pages = "Seiten";
 $lang_nav_stats = "Statistik";
 
 // Navigation logged in bar
-
 $lang_nav_logged_in_add_block     = 'Neuen Block hinzuf&uuml;gen';
 $lang_nav_logged_in_add_blog_post = 'Neuen Blog Eintrag hinzuf&uuml;gen';
 $lang_nav_logged_in_add_media     = 'Neue Medien hinzuf&uuml;gen';
 $lang_nav_logged_in_add_page      = 'Neue Seite hinzuf&uuml;gen';
 
-// Gallery
 
+// Gallery
 $lang_gal_alt_gallery = "Alt Tag";
 $lang_gal_caption_gallery = "Bildbeschreibung hier eingeben.";
 $lang_gal_filename = "Dateiname";
@@ -76,32 +70,31 @@ $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
 $lang_gallery_tool_tip = "Um eine Lightbox Galerie zu erstellen, m&uuml;ssen Sie hier einen neuen Ordner mit Bildern erstellen. Zum einf&uuml;gen der Galerie nutzen Sie die Embed Tags.";
 $lang_crop = 'Zuschneiden';
-$lang_media_order = 'Order';
-$lang_media_replace = 'Replace';
+$lang_media_order = 'Reihenfolge';
+$lang_media_replace = 'Austauschen';
 
 // Pages
-
 $lang_pages_meta = "Metadaten";
 $lang_pages_title = "Seitentitel";
 $lang_pages_description = "Seitenbeschreibung";
 
 $lang_pages_css = 'Inline CSS';
 $lang_pages_js = 'Inline JS';
-$lang_pages_template = 'Page Template';
+$lang_pages_template = 'Seitenvorlage';
+
 
 // Create
-
 $lang_create_file_or_folder = 'Neue Seite';
 
-$lang_create_file_or_folder_block = "New Block";
-$lang_create_file_or_folder_blog  = "New Blog";
-$lang_create_file_or_folder_page  = "New Page";
-$lang_create_file_or_folder_media = "New Media";
+$lang_create_file_or_folder_block = "Neuer Block";
+$lang_create_file_or_folder_blog  = "Neuer Blog";
+$lang_create_file_or_folder_page  = "Neue Seite";
+$lang_create_file_or_folder_media = "Neue Medien";
 
-$lang_create_item_block = 'Block Item';
+$lang_create_item_block = 'Block';
 $lang_create_item_blog  = 'Blog Item';
-$lang_create_item_page  = 'Page';
-$lang_create_item_media = 'Media Item';
+$lang_create_item_page  = 'Seite';
+$lang_create_item_media = 'Medieneintrag';
 
 $lang_create_button = "Erstellen";
 $lang_create_tool_tip = "Pages, blocks and blog posts must end with '.txt', which will be automatically added. To create a folder or new blog, select Folder or Blog and Create.";
@@ -114,19 +107,16 @@ $lang_create_embed_php = "Embed PHP:";
 $lang_create_block_move = "Move block to"; 
 
 // Delete
-
 $lang_delete = 'Sind Sie sicher, dass Sie diese Datei l&ouml;schen m&ouml;chten: ';
 $lang_del_button = "L&ouml;schen";
 
 // Errors
-
 $lang_error_create_ext = 'Ung&uuml;ltige Dateierweiterung.';
 $lang_error_file_exists = 'Eine Datei mit diesen Namen in diesen Ordner existiert bereits.';
 $lang_error_upload = 'Sie m&uuml;ssen in einer Gallerie sein um ein Bild hochzuladen.';
 $lang_no_content = 'Kein Inhalt gefunden.';
 
-// Blog
-
+//Blog
 $lang_blog_title = 'Blog Titel';
 $lang_blog_date = 'Datum';
 $lang_blog_read_more = 'Weiterlesen';
@@ -141,7 +131,6 @@ $lang_blog_import_page_max = 'Maximale Seitenanzahl';
 $lang_blog_import_page_var = 'Variable f&uuml;r Paginierung';
 $lang_blog_import_url = 'URL';
 
-<<<<<<< HEAD
 $lang_blog_description = 'Blog Description';
 $lang_blog_tags = 'Blog Tags (Comma separated)';
 $lang_blog_url = 'Blog URL';
@@ -150,10 +139,6 @@ $lang_blog_nofollow = 'Do you want this "no follow?"';
 $lang_blog_custom = 'Custom META description';
 
 //Form
-=======
-// Form
-
->>>>>>> origin/master
 $lang_form_error1 = 'Bitte f&uuml;llen Sie das Feld aus: ';
 $lang_form_error2a = 'Das Feld ';
 $lang_form_error2b = ' ist zu lang.';
@@ -162,15 +147,13 @@ $lang_form_email_sent = 'Ihre E-Mail wurde gesendet.';
 $lang_form_sent_button = 'Abschicken';
 $lang_auto_thank_contact = 'Danke für Ihre E-Mail - Wir haben diese empfangen und werden Ihnen bald antworten.';
 
-// Newsletter Form
-
+//Newsletter Form
 $lang_newsletter_thanks ='Danke!';
 $lang_newsletter_try_again ='Erneut versuchen';
 $lang_newsletter_placeholder ='E-Mail eintragen';
 $lang_newsletter_send ='Einschreiben';
 
 // Stats
-
 $lang_stats_today = "Besucher";
 $lang_stats_refers = "Meiste Referrer:";
 $lang_stats_pages = "Beliebteste Seiten:";
@@ -182,6 +165,7 @@ $lang_stats_online = "Online";
 $lang_stats_thisweek = "Diese Woche";
 $lang_stats_todays_stats = "Heutige Stats";
 $lang_stats_nodata = "Keine Daten";
+
 $lang_stats_browsers  = "Browser";
 $lang_stats_countries = "L&auml;nder";
 $lang_stats_devices   = "Ger&auml;te";
@@ -192,17 +176,14 @@ $lang_sweetalert_ok    = "OK";
 $lang_sweetalert_saved = "Saved";
 
 // Custom post types
-
 $lang_custom_post_type_error_illegal_characters = 'Eigener Eintragstyp enth&auml;lt unerlaubte Zeichen';
 $lang_custom_post_type_error_illegal_name       = 'Eigener Eintragstyp enth&auml;lt unerlaubten Namen';
 $lang_custom_post_type_error_unknown_entry      = 'Dieser eigene Eintragstyp ist unbekannt';
 
 // Status messages
-
 $lang_status_ok = 'Daten gespeichert';
 
 // Dashboard
-
 $lang_dashboard_backups = 'Backups';
 $lang_dashboard_blocks = 'Blocks';
 $lang_dashboard_edit_blocks = 'Blocks editieren';
@@ -281,6 +262,17 @@ $lang_settings_google_tooltip = 'Paste your Google Analytics tracking code snipp
 $lang_settings_title_ogp = 'OGP';
 $lang_settings_ogp = 'OGP default image';
 $lang_settings_ogp_tooltip = 'Relative or absolute link';
+
+//// Settings: Blog
+$lang_settings_title_blog = 'Blog';
+$lang_settings_blogresults = 'Results per page';
+$lang_settings_blogresults_tooltip = 'Blog posts per page';
+$lang_settings_blogdisqus = 'Enable Disqus comments';
+$lang_settings_blogdisqususer = 'Disqus username';
+$lang_settings_blogdisqususer_tooltip = 'Add your Disqus account shortname';
+$lang_settings_blogdate = 'Date format';
+$lang_settings_blogdate_tooltip = 'PHP date format. For more see: https://php.net/manual/en/function.date.php';
+$lang_settings_blogmasonry = 'Enable Blog masonry layout';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';
