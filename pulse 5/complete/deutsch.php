@@ -98,13 +98,13 @@ $lang_create_item_media = 'Medieneintrag';
 
 $lang_create_button = "Erstellen";
 $lang_create_tool_tip = "Pages, blocks and blog posts must end with '.txt', which will be automatically added. To create a folder or new blog, select Folder or Blog and Create.";
-$lang_create_embed = "Embed";
+$lang_create_embed = "Einbetten";
 $lang_create_embed_tag = "Embed Tag";
 $lang_create_embed_url = "Embed URL:";
 $lang_create_embed_html = "Embed HTML:";
 $lang_create_embed_php = "Embed PHP:";
 
-$lang_create_block_move = "Move block to"; 
+$lang_create_block_move = "Block hochschieben"; 
 
 // Delete
 $lang_delete = 'Sind Sie sicher, dass Sie diese Datei l&ouml;schen m&ouml;chten: ';
@@ -131,12 +131,12 @@ $lang_blog_import_page_max = 'Maximale Seitenanzahl';
 $lang_blog_import_page_var = 'Variable f&uuml;r Paginierung';
 $lang_blog_import_url = 'URL';
 
-$lang_blog_description = 'Blog Description';
-$lang_blog_tags = 'Blog Tags (Comma separated)';
+$lang_blog_description = 'Blog Beschreibung';
+$lang_blog_tags = 'Blog Tags (mit Komma getrennt)';
 $lang_blog_url = 'Blog URL';
-$lang_blog_index = 'Do you want this indexed?';
-$lang_blog_nofollow = 'Do you want this "no follow?"';
-$lang_blog_custom = 'Custom META description';
+$lang_blog_index = 'M&ouml;chten Sie dies indizieren?';
+$lang_blog_nofollow = 'M&ouml;chten Sie dies als "no follow?" kennzeichnen?';
+$lang_blog_custom = 'Eigene META Beschreibung';
 
 //Form
 $lang_form_error1 = 'Bitte f&uuml;llen Sie das Feld aus: ';
@@ -173,7 +173,7 @@ $lang_stats_systems   = "Systeme";
 
 // Sweet Alert
 $lang_sweetalert_ok    = "OK";
-$lang_sweetalert_saved = "Saved";
+$lang_sweetalert_saved = "Gespeichert";
 
 // Custom post types
 $lang_custom_post_type_error_illegal_characters = 'Eigener Eintragstyp enth&auml;lt unerlaubte Zeichen';
@@ -197,220 +197,220 @@ $lang_dashboard_pages = 'Seiten';
 $lang_dashboard_edit_page = 'Seiten editieren';
 
 // Settings
-$lang_settings_title = 'Pulse Settings';
-$lang_settings_general = 'General';
-$lang_settings_forms = 'Forms';
-$lang_settings_security = 'Security';
-$lang_settings_permissions = 'Permissions';
-$lang_settings_extend = 'Extend';
+$lang_settings_title = 'Pulse Einstellungen';
+$lang_settings_general = 'Allgemein';
+$lang_settings_forms = 'Formulare';
+$lang_settings_security = 'Sicherheit';
+$lang_settings_permissions = 'Berechtigungen';
+$lang_settings_extend = 'Weiteres';
 
 //// Settings: General
-$lang_settings_path = 'Path';
-$lang_settings_path_tooltip = 'Leave blank if installed in root folder';
+$lang_settings_path = 'Pfad';
+$lang_settings_path_tooltip = 'Leer lassen, falls im Root Verzeichnis installiert';
 $lang_settings_admin = 'Admin';
-$lang_settings_admin_tooltip = 'Admin folder name';
-$lang_settings_password = 'Password';
-$lang_settings_password_tooltip = 'Something difficult to guess';
-$lang_settings_backup_tooltip = 'Automatic site backup';
-$lang_settings_backupemail = 'Backup email';
-$lang_settings_backupemail_tooltip = 'The place to send the ZIP backup';
-$lang_settings_time = 'Default timezone';
-$lang_settings_language = 'Language';
-$lang_settings_ip = 'Anonymize IP';
-$lang_settings_frontpage = 'Front page display';
-$lang_settings_adminfrontpage = 'Admin front page display';
-$lang_settings_adminname = 'Admin username';
-$lang_settings_adminname_tooltip = 'Used to display name for Blog posts';
-$lang_settings_css = 'CSS overwrite for whole site';
-$lang_settings_css_tooltip = 'Paste your CSS in here';
-$lang_settings_js = 'JS overwrite for whole site';
-$lang_settings_js_tooltip = 'Paste your JS in here';
+$lang_settings_admin_tooltip = 'Admin Verzeichnis Name';
+$lang_settings_password = 'Passwort';
+$lang_settings_password_tooltip = 'Etwas schweres zu ahnen';
+$lang_settings_backup_tooltip = 'Automatisches Bckup';
+$lang_settings_backupemail = 'Backup E-Mail';
+$lang_settings_backupemail_tooltip = 'Wo das ZIP Backup hingeschickt werden soll';
+$lang_settings_time = 'Standard Zeitzone';
+$lang_settings_language = 'Sprache';
+$lang_settings_ip = 'IP Anonymisieren';
+$lang_settings_frontpage = 'Anzeige auf erster Seite';
+$lang_settings_adminfrontpage = 'Anzeige auf erster Admin Seite';
+$lang_settings_adminname = 'Admin Benutzername';
+$lang_settings_adminname_tooltip = 'Wird als Anzeigename f&uuml;r Blog Posts benutzt';
+$lang_settings_css = 'CSS Code fuuml;r gesamte Seite';
+$lang_settings_css_tooltip = 'Fuuml;ge den CSS Code hier ein';
+$lang_settings_js = 'JS Code fuuml;r gesamte Seite';
+$lang_settings_js_tooltip = 'Fuuml;ge den JS Code hier ein';
 
 //// Settings: Cache
 $lang_settings_title_cache = 'Cache';
-$lang_settings_cache = 'Enable frontend cache';
+$lang_settings_cache = 'Frontend Cache einschalten';
 
 //// Settings: Editor
 $lang_settings_title_editor = 'Editor';
-$lang_settings_wysiwyg = 'Enable WYSIWYG editor on Blocks (otherwise HTML and Markdown)';
-$lang_settings_upload = 'Allowed files to upload';
-$lang_settings_upload_tooltip = 'Use comma to separate file extensions';
-$lang_settings_wysiwygpages = 'Enable WYSIWYG editor on Pages (otherwise HTML and Markdown)';
+$lang_settings_wysiwyg = 'WYSIWYG Editor in Blocks einschalten (ansonsten HTML und Markdown)';
+$lang_settings_upload = 'Erlaubte Dateien für den Upload';
+$lang_settings_upload_tooltip = 'Benutze Komma und die Dateiendungen zu separieren';
+$lang_settings_wysiwygpages = 'WYSIWYG Editor in Seiten einschalten (ansonsten HTML und Markdown)';
 
 //// Settings: Media
 $lang_settings_title_media = 'Media';
-$lang_settings_jpeg = 'JPEG quality';
-$lang_settings_jpeg_tooltip = 'Use 100 for full JPEG quality (larger files)';
-$lang_settings_jpegresample = 'JPEG resampling "off"';
-$lang_settings_jpegsize = 'JPEG quality';
-$lang_settings_jpegsize_tooltip = 'Scale JPEGs to a max pixel size (height)';
-$lang_settings_thumbheight = 'Thumbnail height';
-$lang_settings_thumbheight_tooltip = 'Height in px';
-$lang_settings_thumb = 'Create thumbnails';
+$lang_settings_jpeg = 'JPEG Qualit&auml;t';
+$lang_settings_jpeg_tooltip = 'Benutze 100 fuuml;r volle JPEG Qualit&auml;t (grouml;ssere Dateien)';
+$lang_settings_jpegresample = 'JPEG Uuml;berarbeitung "aus"';
+$lang_settings_jpegsize = 'JPEG Qualit&auml;t';
+$lang_settings_jpegsize_tooltip = 'Skaliere JPEGs zu einer mximalen Bildgrouml;sse (Houml;he)';
+$lang_settings_thumbheight = 'Houml;he des Vorschaubildes';
+$lang_settings_thumbheight_tooltip = 'Houml;he in px';
+$lang_settings_thumb = 'Vorschaubilder generieren';
 
 //// Settings: Navigation
 $lang_settings_title_navigation = 'Navigation';
-$lang_settings_navigationmenu = 'Enable frontend editing';
-$lang_settings_title_managenavigation = 'Manage site navigation';
+$lang_settings_navigationmenu = 'Frontend Editierung einschalten';
+$lang_settings_title_managenavigation = 'Seitennavigation bearbeiten';
 
 //// Settings: Google Analytics
 $lang_settings_title_google = 'Google Analytics';
-$lang_settings_google = 'Analytics tracking code';
-$lang_settings_google_tooltip = 'Paste your Google Analytics tracking code snippet here';
+$lang_settings_google = 'Analytics Tracking Code';
+$lang_settings_google_tooltip = 'Fuuml;ge den Analytics Tracking Code hier ein';
 
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';
-$lang_settings_ogp = 'OGP default image';
-$lang_settings_ogp_tooltip = 'Relative or absolute link';
+$lang_settings_ogp = 'OGP Standard Bild';
+$lang_settings_ogp_tooltip = 'Relativer oder absoluter Link';
 
 //// Settings: Blog
 $lang_settings_title_blog = 'Blog';
-$lang_settings_blogresults = 'Results per page';
-$lang_settings_blogresults_tooltip = 'Blog posts per page';
-$lang_settings_blogdisqus = 'Enable Disqus comments';
-$lang_settings_blogdisqususer = 'Disqus username';
-$lang_settings_blogdisqususer_tooltip = 'Add your Disqus account shortname';
-$lang_settings_blogdate = 'Date format';
-$lang_settings_blogdate_tooltip = 'PHP date format. For more see: https://php.net/manual/en/function.date.php';
-$lang_settings_blogmasonry = 'Enable Blog masonry layout';
+$lang_settings_blogresults = 'Resultate pro Seite';
+$lang_settings_blogresults_tooltip = 'Blog Posts pro Seite';
+$lang_settings_blogdisqus = 'Disqus Kommentare einschalten';
+$lang_settings_blogdisqususer = 'Disqus Benutzername';
+$lang_settings_blogdisqususer_tooltip = 'Fuuml;ge den Disqus Konto Kurznamen hier ein';
+$lang_settings_blogdate = 'Datumsformat';
+$lang_settings_blogdate_tooltip = 'PHP Datumsformat. Weitere Informationen: https://php.net/manual/en/function.date.php';
+$lang_settings_blogmasonry = 'Blog Masonry Layout einschalten';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';
-$lang_settings_rsstitle = 'RSS blog title';
-$lang_settings_rsstitle_tooltip = 'My Blog';
-$lang_settings_rssdescription = 'RSS blog description';
-$lang_settings_rssdescription_tooltip = 'This is my blog.';
+$lang_settings_rsstitle = 'RSS Blog Titel';
+$lang_settings_rsstitle_tooltip = 'Mein Blog';
+$lang_settings_rssdescription = 'RSS Blog Beschreibung';
+$lang_settings_rssdescription_tooltip = 'Dies ist mein Blog.';
 $lang_settings_rssurl = 'Blog URL';
 $lang_settings_rssurl_tooltip = 'http://example.com/blog';
-$lang_settings_rsslang = 'Date format';
+$lang_settings_rsslang = 'Datumsformat';
 $lang_settings_rsslang_tooltip = 'en-gb';
-$lang_settings_rssurlprefix = 'Blog URL prefix';
-$lang_settings_rssurlprefix_tooltip = '(blog) would be blog-1-post-title, also edit in htaccess';
+$lang_settings_rssurlprefix = 'Blog URL Prefix';
+$lang_settings_rssurlprefix_tooltip = '(blog) wird zu blog-1-post-title, auch in htaccess Datei anpassen';
 
 //// Settings: SMTP Settings
-$lang_settings_title_smtp = 'SMTP Settings';
-$lang_settings_smtpusername = 'SMTP username';
-$lang_settings_smtpusername_tooltip = 'Only fill in if want to use SMTP';
-$lang_settings_smtppassword = 'SMTP password';
-$lang_settings_smtppassword_tooltip = 'Password';
-$lang_settings_smtphost = 'SMTP host';
+$lang_settings_title_smtp = 'SMTP Einstellungen';
+$lang_settings_smtpusername = 'SMTP Benutzername';
+$lang_settings_smtpusername_tooltip = 'Nur ausfuuml;llen, wenn SMTP benutzt wird';
+$lang_settings_smtppassword = 'SMTP Passwort';
+$lang_settings_smtppassword_tooltip = 'Passwort';
+$lang_settings_smtphost = 'SMTP Host';
 $lang_settings_smtphost_tooltip = 'mail.server.com';
-$lang_settings_smtpport = 'SMTP port';
+$lang_settings_smtpport = 'SMTP Port';
 $lang_settings_smtpport_tooltip = '465';
 
 //// Settings: Pagination
-$lang_settings_title_pagination = 'Pagination';
-$lang_settings_paginationlinks = 'Page links to show';
-$lang_settings_paginationlinks_tooltip = 'Appears on Blocks and Pages navigation for example';
-$lang_settings_paginationpages = 'Results per page';
-$lang_settings_paginationpages_tooltip = 'How many pages to appear per link';
+$lang_settings_title_pagination = 'Seitenumbruch';
+$lang_settings_paginationlinks = 'Angezeigte Seitenlinks';
+$lang_settings_paginationlinks_tooltip = 'Wird z.B. auf Blocks und Seiten Navigation angezeigt';
+$lang_settings_paginationpages = 'Resultate pro Seite';
+$lang_settings_paginationpages_tooltip = 'Anzahl angezeigter Seiten pro Link';
 
 //// Settings: Forms
-$lang_settings_forminputname = 'Name input';
-$lang_settings_forminputname_tooltip = 'text';
-$lang_settings_forminputemail = 'Email input';
-$lang_settings_forminputemail_tooltip = 'email';
-$lang_settings_forminputtel = 'Tel input';
-$lang_settings_forminputtel_tooltip = 'text';
+$lang_settings_forminputname = 'Namensfeld';
+$lang_settings_forminputname_tooltip = 'Text';
+$lang_settings_forminputemail = 'E-Mail Eingabefeld';
+$lang_settings_forminputemail_tooltip = 'E-Mail';
+$lang_settings_forminputtel = 'Telefon Eingabefeld';
+$lang_settings_forminputtel_tooltip = 'Text';
 
-$lang_settings_formnamename = 'Text for Name';
+$lang_settings_formnamename = 'Text fuuml;r Name';
 $lang_settings_formnamename_tooltip = 'Name';
-$lang_settings_formemailname = 'Text for Email';
+$lang_settings_formemailname = 'Text fuuml;r Email';
 $lang_settings_formemailname_tooltip = 'Email';
-$lang_settings_formtextarea = 'Textarea size';
-$lang_settings_formtextarea_tooltip = 'Number of rows in comment textarea';
-$lang_settings_formemail = 'Form recipient';
-$lang_settings_formemail_tooltip = 'Separate multiple recipients by a comma';
-$lang_settings_formsubject = 'Form subject line';
-$lang_settings_formsubject_tooltip = 'You received an email';
-$lang_settings_formthanks = 'Enable automatic thank you reply after submission';
-$lang_settings_formredirect = 'Submission redirect';
+$lang_settings_formtextarea = 'Houml;he Eingabefeld';
+$lang_settings_formtextarea_tooltip = 'Anzahl der Reihen in Kommentar Eingabefeld';
+$lang_settings_formemail = 'Empfänger Kontaktformular';
+$lang_settings_formemail_tooltip = 'Mehere Empfauml;nger per Komma separieren';
+$lang_settings_formsubject = 'Betreffzeile Kontaktformular';
+$lang_settings_formsubject_tooltip = 'Du hast eine E-Mail bekommen';
+$lang_settings_formthanks = 'Automatische Bestauml;tigung nach Absendung einschalten';
+$lang_settings_formredirect = 'Weiterleitung nach Absendung';
 $lang_settings_formredirect_tooltip = 'http://yoursite.com/thanks';
 
 //// Settings: OTP One-Time Password
-$lang_settings_title_otp = 'One Time Password settings (Admin)';
-$lang_settings_otpactivate = 'Activate One Time Password';
-$lang_settings_otpsecret = 'One Time Password secret';
-$lang_settings_otpsecret_tooltip = 'Get from OTP mobile app, such as Google Authenticator';
+$lang_settings_title_otp = 'Einmal Passwort Einstellungen (Admin)';
+$lang_settings_otpactivate = 'Einmal Passwort einschalten';
+$lang_settings_otpsecret = 'Einmal Passwort Geheimnis';
+$lang_settings_otpsecret_tooltip = 'Zu bekommen von OTP Mobilapplikationen, wie bspw. Google Authenticator';
 
 //// Settings: reCAPTCHA
 $lang_settings_title_recap = 'reCAPTCHA';
-$lang_settings_recapkey = 'reCAPTCHA Site Key';
-$lang_settings_recapkey_tooltip = 'Get from Google account: https://www.google.com/recaptcha';
-$lang_settings_recapkeysecret = 'reCAPTCHA Secret Key';
-$lang_settings_recapkeysecret_tooltip = 'Get from Google account: https://www.google.com/recaptcha';
+$lang_settings_recapkey = 'reCAPTCHA Seitenschluuml;ssel';
+$lang_settings_recapkey_tooltip = 'Zu bekommen uuml;ber Google Konto: https://www.google.com/recaptcha';
+$lang_settings_recapkeysecret = 'reCAPTCHA Geheimnis';
+$lang_settings_recapkeysecret_tooltip = 'Zu bekommen uuml;ber Google Konto: https://www.google.com/recaptcha';
 
 //// Settings: Permissions
-$lang_settings_title_editor = 'Editor User';
-$lang_settings_editor = 'Enable Editor user';
-$lang_settings_editorpass = 'Editor password';
-$lang_settings_editorpass_tooltip = 'Something difficult to guess';
-$lang_settings_editoruser = 'Editor username';
-$lang_settings_editoruser_tooltip = 'Used to display name for Blog posts';
+$lang_settings_title_editor = 'Editor Benutzer';
+$lang_settings_editor = 'Editor Benutzer einschalten';
+$lang_settings_editorpass = 'Editor Passwort';
+$lang_settings_editorpass_tooltip = 'Etwas schweres zu ahnen';
+$lang_settings_editoruser = 'Editor Benutzername';
+$lang_settings_editoruser_tooltip = 'Benutzt als Anzeigename fuuml;r Blog Posts';
 
-$lang_settings_title_editorotp = 'One Time Password settings (Editor)';
-$lang_settings_editorotpactivate = 'Activate One Time Password';
-$lang_settings_editorotpsecret = 'One Time Password secret';
-$lang_settings_editorotpsecret_tooltip = 'Get from OTP mobile app, such as Google Authenticator';
+$lang_settings_title_editorotp = 'Einmal Passwort Einstellungen (Editor)';
+$lang_settings_editorotpactivate = 'Einmal Passwort einschalten';
+$lang_settings_editorotpsecret = 'Einmal Passwort Geheimnis';
+$lang_settings_editorotpsecret_tooltip = 'Zu bekommen von OTP Mobilapplikationen, wie bspw. Google Authenticator';
 
-$lang_settings_title_editoraccess = 'Allow Editor to access any (or all) of these blocks:';
-$lang_settings_title_editorpagesaccess = 'Allow Editor to access any (or all) of these pages:';
+$lang_settings_title_editoraccess = 'Dem Editor erlauben, auf einige (oder alle) dieser Blocks zuzugreifen:';
+$lang_settings_title_editorpagesaccess = 'Dem Editor erlauben, auf einige (oder alle) dieser Blocks zuzugreifen:';
 
 //// Settings: Extend
-$lang_settings_title_themes = 'Themes';
-$lang_settings_themeselect = 'Theme selected';
-$lang_settings_themeupload = 'Upload theme ZIP';
+$lang_settings_title_themes = 'Themen';
+$lang_settings_themeselect = 'Ausgewauml;hltes Theme';
+$lang_settings_themeupload = 'Theme ZIP hochladen';
 
-$lang_settings_title_plugins = 'Edit a custom post type entry in:';
-$lang_settings_pluginupload = 'Upload plugin ZIP';
+$lang_settings_title_plugins = 'Einen eigenen Post Typen pflegen:';
+$lang_settings_pluginupload = 'Update ZIP hochladen';
 
-$lang_settings_title_customposts = 'Custom Post Types';
-$lang_settings_managecustomposts = 'Manage custom post types';
+$lang_settings_title_customposts = 'Eigene Post Typen';
+$lang_settings_managecustomposts = 'Eigene Post Typen pflegen';
 
-$lang_settings_themeuploader = 'Upload a new theme ZIP file';
-$lang_settings_pluginupload = 'Upload a new plugin ZIP file';
+$lang_settings_themeuploader = 'Eine neue Theme ZIP Datei hochladen';
+$lang_settings_pluginupload = 'Eine neue Plugin ZIP Datei hochladen';
 
 //// Settings: Media
-$lang_settings_mediaupload = 'Upload a media file';
+$lang_settings_mediaupload = 'Eine Mediendatei hochladen';
 
 //// Settings: Navigation
-$lang_settings_navigationtitle = 'Manage the navigation links';
-$lang_settings_navigationsubtitle = 'Drag and drop to re-order the list.';
-$lang_settings_navigationsubmenu = 'Add sub-menu';
+$lang_settings_navigationtitle = 'Die Navigationslinks bearbeiten';
+$lang_settings_navigationsubtitle = 'Ziehen und verschieben, um die Liste neu zu ordnen.';
+$lang_settings_navigationsubmenu = 'Unter Menuuml;punkt anlegen';
 
 //// Settings: Custom Post Type
-$lang_settings_custompostentries = 'Custom post type entries for:';
-$lang_settings_custompostadd = 'Add a new entry';
+$lang_settings_custompostentries = 'Eigener Post Typ fuuml;r:';
+$lang_settings_custompostadd = 'Neuen Eintrag hinzufuuml;gen';
 
-$lang_settings_title_custompostedit = 'Custom post type entries for:';
-$lang_settings_custompostback = '< Back to the list page';
-$lang_settings_custompostname = 'Post Name';
+$lang_settings_title_custompostedit = 'Eigener Post Typ fuuml;r:';
+$lang_settings_custompostback = '< Zuruuml;ck zur Liste';
+$lang_settings_custompostname = 'Name des Post';
 
-$lang_settings_custompostdelete = 'custom post type entry';
+$lang_settings_custompostdelete = 'eigener Post Typ';
 
-$lang_settings_custompostaddentry = 'Add a custom post type entry for:';
+$lang_settings_custompostaddentry = 'Eigener Post Typ anlegen fuuml;r:';
 
-$lang_settings_customposttypes = 'Custom post types';
-$lang_settings_custompostmanage = 'manage entries';
-$lang_settings_custompostmanageedit = 'edit';
+$lang_settings_customposttypes = 'Eigene Post Typen';
+$lang_settings_custompostmanage = 'Eintrauml;ge verwalten';
+$lang_settings_custompostmanageedit = 'Editieren';
 $lang_settings_custompostmanageadd = 'Add a new custom post type';
 
 $lang_settings_title_custompostedit_title = 'Edit a custom post type';
 
-$lang_settings_custompostdefadd = 'Add a custom post type';
-$lang_settings_custompostdeftypename = 'Post type name';
+$lang_settings_custompostdefadd = 'Eigener Post Typ anlegen';
+$lang_settings_custompostdeftypename = 'Post Typ Name';
 $lang_settings_custompostdefname = 'Name';
-$lang_settings_custompostdeftype = 'Type';
-$lang_settings_custompostdeffield = 'Field';
-$lang_settings_custompostcontent = 'Content';
+$lang_settings_custompostdeftype = 'Typ';
+$lang_settings_custompostdeffield = 'Feld';
+$lang_settings_custompostcontent = 'Inhalt';
 
 // Search
-$lang_search_title = 'Search';
-$lang_search_placeholder = 'Search Term';
-$lang_search_cta = 'Search';
-$lang_search_noresults = 'No results found';
-$lang_search_results = 'Search results';
-$lang_search_links = 'Link to';
+$lang_search_title = 'Suche';
+$lang_search_placeholder = 'Suchbegriff';
+$lang_search_cta = 'Suche';
+$lang_search_noresults = 'Keine Ergebnisse gefunden';
+$lang_search_results = 'Suchergebnisse';
+$lang_search_links = 'Link zu';
 
 // Page List
-$lang_pagelist = 'Page List';
+$lang_pagelist = 'Seitenliste';
