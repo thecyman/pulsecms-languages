@@ -361,14 +361,14 @@ $lang_settings_title_themes = 'Themes';
 $lang_settings_themeselect = 'Theme selected';
 $lang_settings_themeupload = 'Upload theme ZIP';
 
-$lang_settings_title_plugins = 'Edit a custom post type entry in:';
+$lang_settings_title_plugins = 'Plugins';
 $lang_settings_pluginupload = 'Upload plugin ZIP';
 
 $lang_settings_title_customposts = 'Custom Post Types';
 $lang_settings_managecustomposts = 'Manage custom post types';
 
 $lang_settings_themeuploader = 'Upload a new theme ZIP file';
-$lang_settings_pluginupload = 'Upload a new plugin ZIP file';
+$lang_settings_pluginuploader = 'Upload a new plugin ZIP file';
 
 //// Settings: Media
 $lang_settings_mediaupload = 'Upload a media file';
@@ -396,6 +396,7 @@ $lang_settings_custompostmanageedit = 'edit';
 $lang_settings_custompostmanageadd = 'Add a new custom post type';
 
 $lang_settings_title_custompostedit_title = 'Edit a custom post type';
+$lang_settings_title_custompostedit_titlein = 'Edit a custom post type entry in:';
 
 $lang_settings_custompostdefadd = 'Add a custom post type';
 $lang_settings_custompostdeftypename = 'Post type name';

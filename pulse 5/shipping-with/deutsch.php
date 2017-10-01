@@ -361,14 +361,14 @@ $lang_settings_title_themes = 'Themen';
 $lang_settings_themeselect = 'Ausgewauml;hltes Theme';
 $lang_settings_themeupload = 'Theme ZIP hochladen';
 
-$lang_settings_title_plugins = 'Einen eigenen Post Typen pflegen:';
-$lang_settings_pluginupload = 'Update ZIP hochladen';
+$lang_settings_title_plugins = 'Plugins';
+$lang_settings_pluginupload = 'Plugin ZIP hochladen';
 
 $lang_settings_title_customposts = 'Eigene Post Typen';
 $lang_settings_managecustomposts = 'Eigene Post Typen pflegen';
 
 $lang_settings_themeuploader = 'Eine neue Theme ZIP Datei hochladen';
-$lang_settings_pluginupload = 'Eine neue Plugin ZIP Datei hochladen';
+$lang_settings_pluginuploader = 'Eine neue Plugin ZIP Datei hochladen';
 
 //// Settings: Media
 $lang_settings_mediaupload = 'Eine Mediendatei hochladen';
@@ -395,7 +395,8 @@ $lang_settings_custompostmanage = 'Eintrauml;ge verwalten';
 $lang_settings_custompostmanageedit = 'Editieren';
 $lang_settings_custompostmanageadd = 'Add a new custom post type';
 
-$lang_settings_title_custompostedit_title = 'Edit a custom post type';
+$lang_settings_title_custompostedit_title = 'Einen eigenen Post Typen';
+$lang_settings_title_custompostedit_titlein = 'Einen eigenen Post Typen pflegen:';
 
 $lang_settings_custompostdefadd = 'Eigener Post Typ anlegen';
 $lang_settings_custompostdeftypename = 'Post Typ Name';

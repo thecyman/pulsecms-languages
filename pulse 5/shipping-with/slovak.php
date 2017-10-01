@@ -1,12 +1,4 @@
 <?php
-/*
-	* PulseCMS 5 jazyky
-	* Prekľad: Slovenčina
-	* Autor: IvaRo
-	* Kontakt: ivarosoft@gmail.com
-	* Copyright (c) 2017 IvaRo Soft Slovakia	
-	* Licencia: MIT
-*/
 
 // Global - Všeobecné
 $lang_cancel = "Zrušiť";
@@ -356,12 +348,12 @@ $lang_settings_title_editorpagesaccess = 'Povoliť editoru prístup k ľubovoľn
 $lang_settings_title_themes = 'Motívy (motívy stránok)';
 $lang_settings_themeselect = 'Motív vybraný';
 $lang_settings_themeupload = 'Nahrať motív ZIP';
-$lang_settings_title_plugins = 'Upraviť položku vlastného príspevku napíšte:';
+$lang_settings_title_plugins = 'Plugins';
 $lang_settings_pluginupload = 'Nahrať plugin ZIP';
 $lang_settings_title_customposts = 'Vlastné typy príspevkov';
 $lang_settings_managecustomposts = 'Spravovať vlastné typy príspevkov';
 $lang_settings_themeuploader = 'Nahrajte nový súbor ZIP s motívom';
-$lang_settings_pluginupload = 'Nahrať nový plugin, súbor ZIP';
+$lang_settings_pluginuploader = 'Nahrať nový plugin, súbor ZIP';
 
 // Settings: Media
 $lang_settings_mediaupload = 'Nahrajte mediálny súbor';
@@ -384,6 +376,7 @@ $lang_settings_custompostmanage = 'spravovať záznamy';
 $lang_settings_custompostmanageedit = 'editovať';
 $lang_settings_custompostmanageadd = 'Pridať nový vlastný typ príspevku';
 $lang_settings_title_custompostedit_title = 'Upravte svoj vlastný typ príspevku';
+$lang_settings_title_custompostedit_titlein = 'Upraviť položku vlastného príspevku napíšte:';
 $lang_settings_custompostdefadd = 'Pridajte svoj vlastný typ príspevku';
 $lang_settings_custompostdeftypename = 'Názov typu príspevku';
 $lang_settings_custompostdefname = 'Názov';
@@ -401,4 +394,3 @@ $lang_search_links = 'Odkaz na';
 
 // Page List
 $lang_pagelist = 'Zoznam stránok';
-?>

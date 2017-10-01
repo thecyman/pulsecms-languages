@@ -1,12 +1,4 @@
-<? Php
-/*
-  * PulseCMS 5 języki
-  * Tłumaczenie: Polski
-  * Autor: IvaRo
-  * Kontakt: ivarosoft@gmail.com
-  * Copyright (c) 2017 IvaRo Soft Slovakia
-  * Licencja: MIT
-*/
+<?php
 
 // Global - Globalne
 $lang_cancel = "Anuluj";
@@ -356,12 +348,12 @@ $lang_settings_title_editorpagesaccess = 'Zezwalaj Edytorowi na dostęp do dowol
 $lang_settings_title_themes = 'Motywy';
 $lang_settings_themeselect = 'Wybrany motyw';
 $lang_settings_themeupload = 'Prześlij motyw ZIP';
-$lang_settings_title_plugins = 'Edytuj niestandardowy wpis typu wpis w:';
+$lang_settings_title_plugins = 'Plugins';
 $lang_settings_pluginupload = 'Prześlij wtyczkę ZIP';
 $lang_settings_title_customposts = 'Własne posty';
 $lang_settings_managecustomposts = 'Zarządzaj własnymi wpisami';
 $lang_settings_themeuploader = 'Prześlij nowy motyw pliku ZIP';
-$lang_settings_pluginupload = 'Prześlij nowy plik ZIP plugin';
+$lang_settings_pluginuploader = 'Prześlij nowy plik ZIP plugin';
 
 // Settings: Media
 $lang_settings_mediaupload = 'Prześlij plik medialny';
@@ -384,6 +376,7 @@ $lang_settings_custompostmanage = 'zarządzać wpisami';
 $lang_settings_custompostmanageedit = 'edytować';
 $lang_settings_custompostmanageadd = 'Dodaj nowy własny typ wpisu';
 $lang_settings_title_custompostedit_title = 'Edycja własnych postów';
+$lang_settings_title_custompostedit_titlein = 'Edytuj niestandardowy wpis typu wpis w:';
 $lang_settings_custompostdefadd = 'Dodaj własnych postów typ wpisu';
 $lang_settings_custompostdeftypename = 'Nazwa typu wpisu';
 $lang_settings_custompostdefname = 'Nazwisko';
@@ -401,4 +394,3 @@ $lang_search_links = 'Link do';
 
 // Page List
 $lang_pagelist = 'Lista stron';
-?>

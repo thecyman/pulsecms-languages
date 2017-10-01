@@ -349,12 +349,12 @@ $lang_settings_title_editorpagesaccess = "Geef de Editor toegang tot deze (of al
 $lang_settings_title_themes = "Thema's";
 $lang_settings_themeselect = "Geselecteerde thema's";
 $lang_settings_themeupload = 'Upload thema ZIP';
-$lang_settings_title_plugins = 'Edit een custom post-type entry in:';
+$lang_settings_title_plugins = 'Plugins';
 $lang_settings_pluginupload = 'Upload plugin ZIP';
 $lang_settings_title_customposts = 'Custom Post Types';
 $lang_settings_managecustomposts = 'Beheer custom post-types';
 $lang_settings_themeuploader = 'Upload nieuw thema-ZIP file';
-$lang_settings_pluginupload = 'Upload nieuwe plugin-ZIP file';
+$lang_settings_pluginuploader = 'Upload nieuwe plugin-ZIP file';
 
 // Settings: Media
 $lang_settings_mediaupload = 'Upload een media bestand';
@@ -377,6 +377,7 @@ $lang_settings_custompostmanage = 'beheer entries';
 $lang_settings_custompostmanageedit = 'edit';
 $lang_settings_custompostmanageadd = 'Voeg een nieuw custom post-type toe';
 $lang_settings_title_custompostedit_title = 'Edit een custom post-type';
+$lang_settings_title_custompostedit_titlein = 'Edit een custom post-type entry in:';
 $lang_settings_custompostdefadd = 'Voeg een custom post-type toe';
 $lang_settings_custompostdeftypename = 'Post type naam';
 $lang_settings_custompostdefname = 'Naam';
@@ -394,4 +395,3 @@ $lang_search_links = 'Link naar';
 
 // Page List
 $lang_pagelist = 'Pagina Lijst';
-?>

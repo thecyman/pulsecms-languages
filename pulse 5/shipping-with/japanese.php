@@ -347,14 +347,14 @@ $lang_settings_title_themes = 'テーマ';
 $lang_settings_themeselect = '選択されたテーマ';
 $lang_settings_themeupload = 'テーマのZIPをアップロード';
 
-$lang_settings_title_plugins = 'カスタム投稿タイプのエントリーを編集する:';
+$lang_settings_title_plugins = 'プラグイン';
 $lang_settings_pluginupload = 'プラグインのZIPをアップロード';
 
 $lang_settings_title_customposts = 'カスタム投稿タイプ';
 $lang_settings_managecustomposts = 'カスタム投稿タイプを管理';
 
 $lang_settings_themeuploader = '新規テーマのZIPファイルをアップロード';
-$lang_settings_pluginupload = '新規プラグインのZIPファイルをアップロード';
+$lang_settings_pluginuploader = '新規プラグインのZIPファイルをアップロード';
 
 //// Settings: Media
 $lang_settings_mediaupload = 'メディアファイルをアップロード';
@@ -382,6 +382,7 @@ $lang_settings_custompostmanageedit = '編集';
 $lang_settings_custompostmanageadd = '新規カスタム投稿タイプを追加';
 
 $lang_settings_title_custompostedit_title = 'カスタム投稿タイプを編集';
+$lang_settings_title_custompostedit_titlein = 'カスタム投稿タイプのエントリーを編集する:';
 
 $lang_settings_custompostdefadd = 'カスタム投稿タイプを追加';
 $lang_settings_custompostdeftypename = '投稿タイプ名';

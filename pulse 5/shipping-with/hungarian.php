@@ -1,12 +1,4 @@
 <?php
-/*
-  * PulseCMS 5 nyelvek
-  * Fordítás: Magyar
-  * Szerző: IvaRo
-  * Kapcsolat: ivarosoft@gmail.com
-  * Copyright (c) 2017 IvaRo Soft Slovakia
-  * Engedély: Licence MIT
-*/
 
 // Global - Globális
 $lang_cancel = "Mégse";
@@ -356,12 +348,12 @@ $lang_settings_title_editorpagesaccess = 'Engedélyezze a szerkesztőnek, hogy h
 $lang_settings_title_themes = 'Témák';
 $lang_settings_themeselect = 'Téma kiválasztva';
 $lang_settings_themeupload = 'Téma ZIP feltöltése';
-$lang_settings_title_plugins = 'Edit a custom post type Egyéni bejegyzéstípushoz tartozó bejegyzés szerkesztése:entry in:';
+$lang_settings_title_plugins = 'Plugins';
 $lang_settings_pluginupload = 'Feltöltés plugin ZIP';
 $lang_settings_title_customposts = 'Saját bejegyzések';
 $lang_settings_managecustomposts = 'Egyéni bejegyzések kezelése';
 $lang_settings_themeuploader = 'Tölts fel egy új témát ZIP fájl';
-$lang_settings_pluginupload = 'Új plugin ZIP fájl feltöltése';
+$lang_settings_pluginuploader = 'Új plugin ZIP fájl feltöltése';
 
 // Settings: Media
 $lang_settings_mediaupload = 'Médiafájl feltöltése';
@@ -384,6 +376,7 @@ $lang_settings_custompostmanage = 'kezelése bejegyzés';
 $lang_settings_custompostmanageedit = 'szerkesztés';
 $lang_settings_custompostmanageadd = 'Adjon hozzá egy új egyéni bejegyzést';
 $lang_settings_title_custompostedit_title = 'A hozzájárulások egyedi kiigazítása';
+$lang_settings_title_custompostedit_titlein = 'Egyéni bejegyzéstípushoz tartozó bejegyzés szerkesztése:';
 $lang_settings_custompostdefadd = 'Adjon meg egyéni bejegyzési típust';
 $lang_settings_custompostdeftypename = 'Hozzászólás típus neve';
 $lang_settings_custompostdefname = 'Név';
@@ -401,4 +394,3 @@ $lang_search_links = 'Link ehhez';
 
 // Page List
 $lang_pagelist = 'Webhelylista';
-?>
