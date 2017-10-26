@@ -228,6 +228,11 @@ $lang_settings_upload = 'Engedélyezett fájlok feltöltéséhez';
 $lang_settings_upload_tooltip = 'Használjon vesszőt a fájlkiterjesztések szétválasztásához';
 $lang_settings_wysiwygpages = 'Engedélyezze a WYSIWYG szerkesztőt a lapokon (egyébként HTML és Markdown)';
 
+//// Settings: Made in Pulse
+$lang_settings_title_made_in_pulse = 'Made in Pulse';
+$lang_settings_made_in_pulse       = 'Made in Pulse badge added';
+$lang_settings_made_in_pulse_label = 'Enable made-in-pulse content for template';
+
 // Settings: Media - Média
 $lang_settings_title_media = 'Média';
 $lang_settings_jpeg = 'JPEG minőség';
@@ -248,6 +253,11 @@ $lang_settings_title_managenavigation = 'Webhely-navigáció kezelése';
 $lang_settings_title_google = 'Google Analitika';
 $lang_settings_google = 'Analytics követési kód';
 $lang_settings_google_tooltip = 'Illessze be ide a Google Analytics követőkódrészletét';
+
+//// Settings: GeoIP
+$lang_settings_title_geoip = 'GeoIP';
+$lang_settings_geoip       = 'GeoIP data for site stats';
+$lang_settings_geoip_label = 'Enable GeoIP for stats here';
 
 // Settings: OGP - Open Graph protocol >> http://ogp.me/
 $lang_settings_title_ogp = '(OGP) Nytot grafikus protokollok';

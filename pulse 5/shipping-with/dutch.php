@@ -229,6 +229,11 @@ $lang_settings_upload = 'Toegestane bestanden voor upload';
 $lang_settings_upload_tooltip = 'Gebruik een komma om de file extensies van elkaar te scheiden';
 $lang_settings_wysiwygpages = "Inschakelen WYSIWYG editor op Pagina's (of HTML en Markdown)";
 
+//// Settings: Made in Pulse
+$lang_settings_title_made_in_pulse = 'Made in Pulse';
+$lang_settings_made_in_pulse       = 'Made in Pulse badge added';
+$lang_settings_made_in_pulse_label = 'Enable made-in-pulse content for template';
+
 // Settings: Media
 $lang_settings_title_media = 'Media';
 $lang_settings_jpeg = 'JPG kwaliteit';
@@ -249,6 +254,11 @@ $lang_settings_title_managenavigation = 'Beheer site navigatie';
 $lang_settings_title_google = 'Google Analytics';
 $lang_settings_google = 'Analytics tracking code';
 $lang_settings_google_tooltip = 'Plaats hier je Google Analytics tracking code';
+
+//// Settings: GeoIP
+$lang_settings_title_geoip = 'GeoIP';
+$lang_settings_geoip       = 'GeoIP data for site stats';
+$lang_settings_geoip_label = 'Enable GeoIP for stats here';
 
 // Settings: OGP
 $lang_settings_title_ogp = 'OGP';

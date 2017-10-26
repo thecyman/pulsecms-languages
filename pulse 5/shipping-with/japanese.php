@@ -49,7 +49,7 @@ $lang_nav_blocks = "ブロック";
 $lang_nav_img = "メディア";
 $lang_nav_blog = "ブログ";
 $lang_nav_pages = "ページ";
-$lang_nav_stats = "ステータス";
+$lang_nav_stats = "スタッツ";
 
 // Navigation logged in bar
 $lang_nav_logged_in_add_block     = '新規ブロックを追加';
@@ -234,6 +234,11 @@ $lang_settings_upload = '許可されたファイルをアップロード';
 $lang_settings_upload_tooltip = 'カンマを使用してファイル拡張子を区切る';
 $lang_settings_wysiwygpages = 'ページでのWYSIWYG編集を有効にする（それ以外の場合はHTMLとMarkdown）';
 
+//// Settings: Made in Pulse
+$lang_settings_title_made_in_pulse = 'Made in Pulse';
+$lang_settings_made_in_pulse       = 'Made in Pulseバッジを付ける';
+$lang_settings_made_in_pulse_label = 'Enable made-in-pulse content for template';
+
 //// Settings: Media
 $lang_settings_title_media = 'メディア';
 $lang_settings_jpeg = 'JPEG画質';
@@ -254,6 +259,11 @@ $lang_settings_title_managenavigation = 'サイトのナビゲーションを管
 $lang_settings_title_google = 'Googleアナリティクス';
 $lang_settings_google = 'アナリティクストラッキングコード';
 $lang_settings_google_tooltip = 'Googleアナリティクストラッキングコードのスニペットをここに貼り付け';
+
+//// Settings: GeoIP
+$lang_settings_title_geoip = 'GeoIP';
+$lang_settings_geoip       = 'サイトスタッツへのGeoIPデータ';
+$lang_settings_geoip_label = 'Enable GeoIP for stats here';
 
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';

@@ -228,6 +228,11 @@ $lang_settings_upload = 'Povolené súbory na nahrávanie';
 $lang_settings_upload_tooltip = 'Použite čiarku na oddelenie prípony súborov';
 $lang_settings_wysiwygpages = 'V Stránkach povoliť WYSIWYG editor (inak HTML a Markdown)';
 
+//// Settings: Made in Pulse
+$lang_settings_title_made_in_pulse = 'Made in Pulse';
+$lang_settings_made_in_pulse       = 'Made in Pulse badge added';
+$lang_settings_made_in_pulse_label = 'Enable made-in-pulse content for template';
+
 // Settings: Media
 $lang_settings_title_media = 'Media';
 $lang_settings_jpeg = 'Kvalita JPEG';
@@ -248,6 +253,11 @@ $lang_settings_title_managenavigation = 'Úprava navigácie na stránkach';
 $lang_settings_title_google = 'Google Analýza';
 $lang_settings_google = 'Kód služby Analytics';
 $lang_settings_google_tooltip = 'Tu pridajte útržok kódu služby Google Analytics';
+
+//// Settings: GeoIP
+$lang_settings_title_geoip = 'GeoIP';
+$lang_settings_geoip       = 'GeoIP data for site stats';
+$lang_settings_geoip_label = 'Enable GeoIP for stats here';
 
 // Settings: OGP - Open Graph protocol >> http://ogp.me/
 $lang_settings_title_ogp = '(OGP) Otvorené grafické protokoly';
