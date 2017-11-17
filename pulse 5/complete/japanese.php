@@ -14,9 +14,9 @@ $lang_title = "Pulse CMS";
 // Auto backup
 $lang_autobackup_email_subject_line = 'Pulse自動バックアップ通知';
 $lang_autobackup_email_text =<<<EOD
-こんにちは,
+こんにちは。
 
-バックアップzipファイルのインストールが完了しました.
+バックアップzipファイルのインストールが完了しました。
 
 Pulse CMSチーム
 EOD;
@@ -24,12 +24,11 @@ EOD;
 // Login
 $lang_login_forgot_password = "パスワードを忘れた";
 $lang_login_forgot_password_email_body =<<<EOD
-	こんにちは,
-	
-	あなたのPulseパスワードは PASSWORD
+	こんにちは。
+	あなたのPulseのログインパスワードは PASSWORD
 EOD;
-$lang_login_forgot_password_email_subject_line = "あなたのPulseパスワードを忘れた"; 
-$lang_login_incorrect = "パスワードが違います!";
+$lang_login_forgot_password_email_subject_line = "パスワードを忘れた"; 
+$lang_login_incorrect = "パスワードが違います";
 $lang_login_password = "パスワード";
 $lang_login_button = "ログイン";
 $lang_nav_logout = "ログアウト";
@@ -38,7 +37,7 @@ $lang_login_welcome = "こんにちは!";
 $lang_login_name = "Pulseユーザーの皆様";
 
 // Home
-$lang_home_emptyfold = "フォルダーは空です."; 
+$lang_home_emptyfold = "フォルダーは空です。"; 
 $lang_home_new = "新規";
 $lang_home_upload_button = "アップロード";
 $lang_home_preview = "プレビュー";
@@ -50,11 +49,11 @@ $lang_nav_blocks = "ブロック";
 $lang_nav_img = "メディア";
 $lang_nav_blog = "ブログ";
 $lang_nav_pages = "ページ";
-$lang_nav_stats = "ステータス";
+$lang_nav_stats = "スタッツ";
 
 // Navigation logged in bar
 $lang_nav_logged_in_add_block     = '新規ブロックを追加';
-$lang_nav_logged_in_add_blog_post = '新規ブログポストを追加';
+$lang_nav_logged_in_add_blog_post = '新規ブログ投稿を追加';
 $lang_nav_logged_in_add_media     = '新規メディアを追加';
 $lang_nav_logged_in_add_page      = '新規ページを追加';
 
@@ -67,51 +66,59 @@ $lang_gal_dimensions = "画質";
 $lang_gal_size = "サイズ";
 $lang_gal_img = "IMG";
 $lang_gal_link = "リンク";
-$lang_gallery_tool_tip = "ライトボックスの作成、イメージフォルダの作成、エンベッドタグの使用.";
+$lang_gallery_tool_tip = "ライトボックスの作成、イメージフォルダの作成、エンベッドタグの使用";
 $lang_crop = '切り取り';
 $lang_media_order = '並べ替え';
-$lang_media_replace = 'Replace';
+$lang_media_replace = '置き換え';
 
 // Pages
 $lang_pages_meta = "メタ";
 $lang_pages_title = "タイトル";
-$lang_pages_description = "ディスクリプション";
+$lang_pages_description = "説明";
 
-$lang_pages_css = 'Inline CSS';
-$lang_pages_js = 'Inline JS';
-$lang_pages_template = 'Page Template';
+$lang_pages_css = 'インラインCSS';
+$lang_pages_js = 'インラインJS';
+$lang_pages_template = 'ページテンプレート';
 
 // Create
 $lang_create_file_or_folder = '新規ページ';
 
-$lang_create_file_or_folder_block = "New Block";
-$lang_create_file_or_folder_blog  = "New Blog";
-$lang_create_file_or_folder_page  = "New Page";
-$lang_create_file_or_folder_media = "New Media";
+$lang_create_file_or_folder_block = "新規ブロック";
+$lang_create_file_or_folder_blog  = "新規ブログ";
+$lang_create_file_or_folder_page  = "新規ページ";
+$lang_create_file_or_folder_media = "新規メディア";
 
-$lang_create_item_block = 'Block Item';
-$lang_create_item_blog  = 'Blog Item';
-$lang_create_item_page  = 'Page';
-$lang_create_item_media = 'Media Item';
+$lang_create_item_block = 'ブロックアイテム';
+$lang_create_item_blog  = 'ブログアイテム';
+$lang_create_item_page  = 'ページ';
+$lang_create_item_media = 'メディアアイテム';
 
 $lang_create_button = "新規作成"; 
-$lang_create_tool_tip = "Pages, blocks and blog posts must end with '.txt', which will be automatically added. To create a folder or new blog, select Folder or Blog and Create.";
-$lang_create_embed = "Embed";
-$lang_create_embed_tag = "Embed Tag";
-$lang_create_embed_url = "Embed URL:";
-$lang_create_embed_html = "Embed HTML:";
-$lang_create_embed_php = "Embed PHP:";
+$lang_create_tool_tip = "'.txt'形式で入力したページ、ブロック、ブログの投稿は自動的に追加されます。フォルダまたは新しいブログを作成するには、[フォルダ]または[ブログ]を選択して[作成]を選択します。";
+$lang_create_embed = "埋め込み";
+$lang_create_embed_tag = "埋め込みタグ";
+$lang_create_embed_url = "埋め込みURL:";
+$lang_create_embed_html = "埋め込みHTML:";
+$lang_create_embed_php = "埋め込みPHP:";
 
-$lang_create_block_move = "Move block to"; 
+$lang_create_block_move = "ブロックの移動";
+
+$lang_create_media_move = "メディアを移動";
+
+$lang_create_folder_error        = '新規フォルダを作成できません';
+$lang_create_folder_error_exists = '新規フォルダが既に存在します';
+
+$lang_create_folder_error_no_base   = '元となるフォルダが存在しません';
+$lang_create_folder_error_no_folder = 'フォルダ名が入力されていません';
 
 // Delete
 $lang_delete = '削除します。よろしいですか？ ';
 $lang_del_button = "削除";
 
 // Errors
-$lang_error_create_ext = 'ファイル拡張子は無効です.';
-$lang_error_file_exists = '同じ名前のファイルが既に存在します.';
-$lang_error_upload = 'ギャラリーに画像をアップロードする必要があります.';
+$lang_error_create_ext = 'ファイル拡張子は無効です。';
+$lang_error_file_exists = '同じ名前のファイルが既に存在します。';
+$lang_error_upload = 'ギャラリーに画像をアップロードする必要があります。';
 $lang_no_content = 'コンテンツが見つかりません';
 
 //Blog
@@ -129,27 +136,31 @@ $lang_blog_import_page_max = '最大ページ数';
 $lang_blog_import_page_var = 'ページ名';
 $lang_blog_import_url = 'URL';
 
-$lang_blog_description = 'Blog Description';
-$lang_blog_tags = 'Blog Tags (Comma separated)';
-$lang_blog_url = 'Blog URL';
-$lang_blog_index = 'Do you want this indexed?';
-$lang_blog_nofollow = 'Do you want this "no follow?"';
-$lang_blog_custom = 'Custom META description';
+$lang_blog_description = 'ブログの説明';
+$lang_blog_tags = 'ブログタグ (カンマ区切り)';
+$lang_blog_url = 'ブログURL';
+$lang_blog_index = 'インデックスに登録しますか？';
+$lang_blog_nofollow = 'フォローを解除しますか？';
+$lang_blog_custom = 'カスタムMETAの説明';
 
 //Form
 $lang_form_error1 = '項目を埋めて下さい';
-$lang_form_error2a = '項目 ';
+$lang_form_error2a = '項目';
 $lang_form_error2b = ' 長すぎます。';
 $lang_form_subject_line = 'コンタクト';
 $lang_form_email_sent = '送信されました';
 $lang_form_sent_button = '送信';
-$lang_auto_thank_contact = 'お問い合わせを受け付けました。順番に確認し、お返事申し上げます。暫くお待ち頂きますようお願い致します。';
+$lang_auto_thank_contact = 'お問い合わせを受け付けました。順番に確認し、折り返しご連絡を差し上げます。今暫くお待ち頂きますよう、よろしくお願い申し上げます。';
 
 //Newsletter Form
 $lang_newsletter_thanks ='ありがとうございます';
 $lang_newsletter_try_again ='再試行';
 $lang_newsletter_placeholder ='メールアドレス';
 $lang_newsletter_send ='サインアップ';
+
+// Redactor
+$lang_redactor_mail_button     = 'メールアドレスを追加';
+$lang_redactor_mail_link_title = 'このメールアドレスに送信';
 
 // Stats
 $lang_stats_today = "訪問者";
@@ -171,10 +182,10 @@ $lang_stats_systems   = "システム";
 
 // Sweet Alert
 $lang_sweetalert_ok    = "OK";
-$lang_sweetalert_saved = "Saved";
+$lang_sweetalert_saved = "保存しました";
 
 // Custom post types
-$lang_custom_post_type_error_illegal_characters = 'カスタム投稿の種類名に不正な名前があります';
+$lang_custom_post_type_error_illegal_characters = 'カスタム投稿の種類名に不正な文字があります';
 $lang_custom_post_type_error_illegal_name       = 'カスタム投稿の種類名に不正な名前があります';
 $lang_custom_post_type_error_unknown_entry      = 'このカスタム投稿のエントリーは不明です';
 
@@ -183,8 +194,8 @@ $lang_status_ok = 'データを保存しました';
 
 // Dashboard
 $lang_dashboard_backups = 'バックアップ';
-$lang_dashboard_blocks = 'ブロックス';
-$lang_dashboard_edit_blocks = 'ブロックスを編集';
+$lang_dashboard_blocks = 'ブロック';
+$lang_dashboard_edit_blocks = 'ブロックを編集';
 $lang_dashboard_blog = 'ブログ';
 $lang_dashboard_edit_blog = 'ブログを編集';
 $lang_dashboard_notes = 'ダッシュボードメモ';
@@ -195,209 +206,220 @@ $lang_dashboard_pages = 'ページ';
 $lang_dashboard_edit_page = 'ページを編集';
 
 // Settings
-$lang_settings_title = 'Pulse Settings';
-$lang_settings_general = 'General';
-$lang_settings_forms = 'Forms';
-$lang_settings_security = 'Security';
-$lang_settings_permissions = 'Permissions';
-$lang_settings_extend = 'Extend';
+$lang_settings_title = 'Pulse設定';
+$lang_settings_general = '一般';
+$lang_settings_forms = 'フォーム';
+$lang_settings_security = 'セキュリティ';
+$lang_settings_permissions = '許可';
+$lang_settings_extend = '拡張';
 
 //// Settings: General
-$lang_settings_path = 'Path';
-$lang_settings_path_tooltip = 'Leave blank if installed in root folder';
-$lang_settings_admin = 'Admin';
-$lang_settings_admin_tooltip = 'Admin folder name';
-$lang_settings_password = 'Password';
-$lang_settings_password_tooltip = 'Something difficult to guess';
-$lang_settings_backup_tooltip = 'Automatic site backup';
-$lang_settings_backupemail = 'Backup email';
-$lang_settings_backupemail_tooltip = 'The place to send the ZIP backup';
-$lang_settings_time = 'Default timezone';
-$lang_settings_language = 'Language';
-$lang_settings_ip = 'Anonymize IP';
-$lang_settings_frontpage = 'Front page display';
-$lang_settings_adminfrontpage = 'Admin front page display';
-$lang_settings_adminname = 'Admin username';
-$lang_settings_adminname_tooltip = 'Used to display name for Blog posts';
-$lang_settings_css = 'CSS overwrite for whole site';
-$lang_settings_css_tooltip = 'Paste your CSS in here';
-$lang_settings_js = 'JS overwrite for whole site';
-$lang_settings_js_tooltip = 'Paste your JS in here';
+$lang_settings_path = 'パス';
+$lang_settings_path_tooltip = 'ルートフォルダにインストールされている場合は空白のままにしてください';
+$lang_settings_admin = 'アドミン';
+$lang_settings_admin_tooltip = '管理者のフォルダ名';
+$lang_settings_password = 'パスワード';
+$lang_settings_password_tooltip = '他人から推測されにくい文字列を選んでください';
+$lang_settings_backup_tooltip = '自動サイトバックアップ';
+$lang_settings_backupemail = 'バックアップメール';
+$lang_settings_backupemail_tooltip = 'バックアップZIPを送信する場所';
+$lang_settings_time = 'デフォルトタイムゾーン';
+$lang_settings_language = '言語';
+$lang_settings_ip = 'IP匿名化';
+$lang_settings_frontpage = 'フロントページ表示';
+$lang_settings_adminfrontpage = 'アドミンフロントページ表示';
+$lang_settings_adminname = 'アドミンユーザー名';
+$lang_settings_adminname_tooltip = 'この名前はブログ投稿時に表示されます';
+$lang_settings_css = 'サイト全体のCSS上書き';
+$lang_settings_css_tooltip = 'CSSをここに貼り付け';
+$lang_settings_js = 'サイト全体のJS上書き';
+$lang_settings_js_tooltip = 'JSをここに貼り付け';
 
 //// Settings: Cache
-$lang_settings_title_cache = 'Cache';
-$lang_settings_cache = 'Enable frontend cache';
+$lang_settings_title_cache = 'キャッシュ';
+$lang_settings_cache = 'フロントエンドキャッシュを有効にする';
 
 //// Settings: Editor
-$lang_settings_title_editor = 'Editor';
-$lang_settings_wysiwyg = 'Enable WYSIWYG editor on Blocks (otherwise HTML and Markdown)';
-$lang_settings_upload = 'Allowed files to upload';
-$lang_settings_upload_tooltip = 'Use comma to separate file extensions';
-$lang_settings_wysiwygpages = 'Enable WYSIWYG editor on Pages (otherwise HTML and Markdown)';
+$lang_settings_title_editor = '編集者';
+$lang_settings_wysiwyg = 'ブロックでのWYSIWYG編集を有効にする（それ以外の場合はHTMLとMarkdown）';
+$lang_settings_upload = '許可されたファイルをアップロード';
+$lang_settings_upload_tooltip = 'カンマを使用してファイル拡張子を区切る';
+$lang_settings_wysiwygpages = 'ページでのWYSIWYG編集を有効にする（それ以外の場合はHTMLとMarkdown）';
+
+//// Settings: Made in Pulse
+$lang_settings_title_made_in_pulse = 'Made in Pulse';
+$lang_settings_made_in_pulse       = 'Made in Pulseバッジを付ける';
+$lang_settings_made_in_pulse_label = 'Enable made-in-pulse content for template';
 
 //// Settings: Media
-$lang_settings_title_media = 'Media';
-$lang_settings_jpeg = 'JPEG quality';
-$lang_settings_jpeg_tooltip = 'Use 100 for full JPEG quality (larger files)';
-$lang_settings_jpegresample = 'JPEG resampling "off"';
-$lang_settings_jpegsize = 'JPEG quality';
-$lang_settings_jpegsize_tooltip = 'Scale JPEGs to a max pixel size (height)';
-$lang_settings_thumbheight = 'Thumbnail height';
-$lang_settings_thumbheight_tooltip = 'Height in px';
-$lang_settings_thumb = 'Create thumbnails';
+$lang_settings_title_media = 'メディア';
+$lang_settings_jpeg = 'JPEG画質';
+$lang_settings_jpeg_tooltip = 'JPEGフル画質には100を使用（大きいファイル）';
+$lang_settings_jpegresample = 'JPEG再サンプリング"オフ"';
+$lang_settings_jpegsize = 'JPEG画質';
+$lang_settings_jpegsize_tooltip = 'JPEGを最大ピクセルサイズ（高さ）に縮尺';
+$lang_settings_thumbheight = 'サムネイルの高さ';
+$lang_settings_thumbheight_tooltip = '高さ(px)';
+$lang_settings_thumb = 'サムネイルの作成';
 
 //// Settings: Navigation
-$lang_settings_title_navigation = 'Navigation';
-$lang_settings_navigationmenu = 'Enable frontend editing';
-$lang_settings_title_managenavigation = 'Manage site navigation';
+$lang_settings_title_navigation = 'ナビゲーション';
+$lang_settings_navigationmenu = 'フロントエンド編集を有効にする';
+$lang_settings_title_managenavigation = 'サイトのナビゲーションを管理';
 
 //// Settings: Google Analytics
-$lang_settings_title_google = 'Google Analytics';
-$lang_settings_google = 'Analytics tracking code';
-$lang_settings_google_tooltip = 'Paste your Google Analytics tracking code snippet here';
+$lang_settings_title_google = 'Googleアナリティクス';
+$lang_settings_google = 'アナリティクストラッキングコード';
+$lang_settings_google_tooltip = 'Googleアナリティクストラッキングコードのスニペットをここに貼り付け';
+
+//// Settings: GeoIP
+$lang_settings_title_geoip = 'GeoIP';
+$lang_settings_geoip       = 'サイトスタッツへのGeoIPデータ';
+$lang_settings_geoip_label = 'Enable GeoIP for stats here';
 
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';
-$lang_settings_ogp = 'OGP default image';
-$lang_settings_ogp_tooltip = 'Relative or absolute link';
+$lang_settings_ogp = 'OGPデフォルトイメージ';
+$lang_settings_ogp_tooltip = '相対リンクまたは絶対リンク';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';
-$lang_settings_rsstitle = 'RSS blog title';
-$lang_settings_rsstitle_tooltip = 'My Blog';
-$lang_settings_rssdescription = 'RSS blog description';
-$lang_settings_rssdescription_tooltip = 'This is my blog.';
-$lang_settings_rssurl = 'Blog URL';
+$lang_settings_rsstitle = 'RSSブログタイトル';
+$lang_settings_rsstitle_tooltip = 'マイブログ';
+$lang_settings_rssdescription = 'RSS ブログの説明';
+$lang_settings_rssdescription_tooltip = 'マイブログ.';
+$lang_settings_rssurl = 'ブログURL';
 $lang_settings_rssurl_tooltip = 'http://example.com/blog';
-$lang_settings_rsslang = 'Date format';
+$lang_settings_rsslang = '日付フォーマット形式';
 $lang_settings_rsslang_tooltip = 'en-gb';
-$lang_settings_rssurlprefix = 'Blog URL prefix';
-$lang_settings_rssurlprefix_tooltip = '(blog) would be blog-1-post-title, also edit in htaccess';
+$lang_settings_rssurlprefix = 'ブログURLプレフィックス';
+$lang_settings_rssurlprefix_tooltip = '(ブログ) blog-1-post-title, htaccessで編集';
 
 //// Settings: SMTP Settings
-$lang_settings_title_smtp = 'SMTP Settings';
-$lang_settings_smtpusername = 'SMTP username';
-$lang_settings_smtpusername_tooltip = 'Only fill in if want to use SMTP';
-$lang_settings_smtppassword = 'SMTP password';
-$lang_settings_smtppassword_tooltip = 'Password';
-$lang_settings_smtphost = 'SMTP host';
+$lang_settings_title_smtp = 'SMTP設定';
+$lang_settings_smtpusername = 'SMTPユーザー名';
+$lang_settings_smtpusername_tooltip = 'SMTPを使用する場合にのみ入力';
+$lang_settings_smtppassword = 'SMTPパスワード';
+$lang_settings_smtppassword_tooltip = 'パスワード';
+$lang_settings_smtphost = 'SMTPホスト';
 $lang_settings_smtphost_tooltip = 'mail.server.com';
-$lang_settings_smtpport = 'SMTP port';
+$lang_settings_smtpport = 'SMTPポート';
 $lang_settings_smtpport_tooltip = '465';
 
 //// Settings: Pagination
-$lang_settings_title_pagination = 'Pagination';
-$lang_settings_paginationlinks = 'Page links to show';
-$lang_settings_paginationlinks_tooltip = 'Appears on Blocks and Pages navigation for example';
-$lang_settings_paginationpages = 'Results per page';
-$lang_settings_paginationpages_tooltip = 'How many pages to appear per link';
+$lang_settings_title_pagination = 'ページネーション';
+$lang_settings_paginationlinks = '表示するページのリンク';
+$lang_settings_paginationlinks_tooltip = 'ブロックとページナビゲーションに例を表示';
+$lang_settings_paginationpages = 'ページごとの結果';
+$lang_settings_paginationpages_tooltip = 'リンクごとに表示されるページ数';
 
 //// Settings: Forms
-$lang_settings_forminputname = 'Name input';
-$lang_settings_forminputname_tooltip = 'text';
-$lang_settings_forminputemail = 'Email input';
-$lang_settings_forminputemail_tooltip = 'email';
-$lang_settings_forminputtel = 'Tel input';
-$lang_settings_forminputtel_tooltip = 'text';
+$lang_settings_forminputname = '名前を入力';
+$lang_settings_forminputname_tooltip = 'テキスト';
+$lang_settings_forminputemail = 'Eメールを入力';
+$lang_settings_forminputemail_tooltip = 'Eメール';
+$lang_settings_forminputtel = '電話を入力';
+$lang_settings_forminputtel_tooltip = 'テキスト';
 
-$lang_settings_formnamename = 'Text for Name';
-$lang_settings_formnamename_tooltip = 'Name';
-$lang_settings_formemailname = 'Text for Email';
-$lang_settings_formemailname_tooltip = 'Email';
-$lang_settings_formtextarea = 'Textarea size';
-$lang_settings_formtextarea_tooltip = 'Number of rows in comment textarea';
-$lang_settings_formemail = 'Form recipient';
-$lang_settings_formemail_tooltip = 'Separate multiple recipients by a comma';
-$lang_settings_formsubject = 'Form subject line';
-$lang_settings_formsubject_tooltip = 'You received an email';
-$lang_settings_formthanks = 'Enable automatic thank you reply after submission';
-$lang_settings_formredirect = 'Submission redirect';
-$lang_settings_formredirect_tooltip = 'http://yoursite.com/thanks';
+$lang_settings_formnamename = '名前のテキスト';
+$lang_settings_formnamename_tooltip = '名前';
+$lang_settings_formemailname = 'Eメールのテキスト';
+$lang_settings_formemailname_tooltip = 'Eメール';
+$lang_settings_formtextarea = 'テキストエリアのサイズ';
+$lang_settings_formtextarea_tooltip = 'コメントテキストエリアの行数';
+$lang_settings_formemail = 'フォーム受信者';
+$lang_settings_formemail_tooltip = '複数の受信者をカンマで区切る';
+$lang_settings_formsubject = 'フォームの件名';
+$lang_settings_formsubject_tooltip = 'Eメールを受信しました。';
+$lang_settings_formthanks = '自動返信メールの送信を有効にする';
+$lang_settings_formredirect = '送信リダイレクト';
+$lang_settings_formredirect_tooltip = 'http://site.com/thanks';
 
 //// Settings: OTP One-Time Password
-$lang_settings_title_otp = 'One Time Password settings (Admin)';
-$lang_settings_otpactivate = 'Activate One Time Password';
-$lang_settings_otpsecret = 'One Time Password secret';
-$lang_settings_otpsecret_tooltip = 'Get from OTP mobile app, such as Google Authenticator';
+$lang_settings_title_otp = 'ワンタイムパスワードの設定 (アドミン)';
+$lang_settings_otpactivate = 'ワンタイムパスワードを有効にする';
+$lang_settings_otpsecret = 'ワンタイムキー';
+$lang_settings_otpsecret_tooltip = 'Google認証システムなどのOTPモバイルアプリを取得';
 
 //// Settings: reCAPTCHA
 $lang_settings_title_recap = 'reCAPTCHA';
-$lang_settings_recapkey = 'reCAPTCHA Site Key';
-$lang_settings_recapkey_tooltip = 'Get from Google account: https://www.google.com/recaptcha';
-$lang_settings_recapkeysecret = 'reCAPTCHA Secret Key';
-$lang_settings_recapkeysecret_tooltip = 'Get from Google account: https://www.google.com/recaptcha';
+$lang_settings_recapkey = 'reCAPTCHAサイトキー';
+$lang_settings_recapkey_tooltip = 'Googleアカウントから取得: https://www.google.com/recaptcha';
+$lang_settings_recapkeysecret = 'reCAPTCHAシークレットキー';
+$lang_settings_recapkeysecret_tooltip = 'Googleアカウントから取得: https://www.google.com/recaptcha';
 
 //// Settings: Permissions
-$lang_settings_title_editor = 'Editor User';
-$lang_settings_editor = 'Enable Editor user';
-$lang_settings_editorpass = 'Editor password';
-$lang_settings_editorpass_tooltip = 'Something difficult to guess';
-$lang_settings_editoruser = 'Editor username';
-$lang_settings_editoruser_tooltip = 'Used to display name for Blog posts';
+$lang_settings_title_editor = 'エディタユーザー';
+$lang_settings_editor = 'エディタユーザーを有効にする';
+$lang_settings_editorpass = 'エディタパスワード';
+$lang_settings_editorpass_tooltip = '他人から推測されにくい文字列を選んでください';
+$lang_settings_editoruser = 'エディタユーザー名';
+$lang_settings_editoruser_tooltip = 'この名前はブログ投稿時に表示されます';
 
-$lang_settings_title_editorotp = 'One Time Password settings (Editor)';
-$lang_settings_editorotpactivate = 'Activate One Time Password';
-$lang_settings_editorotpsecret = 'One Time Password secret';
-$lang_settings_editorotpsecret_tooltip = 'Get from OTP mobile app, such as Google Authenticator';
+$lang_settings_title_editorotp = 'ワンタイムパスワード設定 (エディタ)';
+$lang_settings_editorotpactivate = 'ワンタイムパスワードを有効にする';
+$lang_settings_editorotpsecret = 'ワンタイムキー';
+$lang_settings_editorotpsecret_tooltip = 'Google認証システムなどのOTPモバイルアプリを取得';
 
-$lang_settings_title_editoraccess = 'Allow Editor to access any (or all) of these blocks:';
-$lang_settings_title_editorpagesaccess = 'Allow Editor to access any (or all) of these pages:';
+$lang_settings_title_editoraccess = 'エディタがブロックのいずれか（または全て）にアクセスできるようにする:';
+$lang_settings_title_editorpagesaccess = 'エディタがページのいずれか（または全て）にアクセスできるようにする:';
 
 //// Settings: Extend
-$lang_settings_title_themes = 'Themes';
-$lang_settings_themeselect = 'Theme selected';
-$lang_settings_themeupload = 'Upload theme ZIP';
+$lang_settings_title_themes = 'テーマ';
+$lang_settings_themeselect = '選択されたテーマ';
+$lang_settings_themeupload = 'テーマのZIPをアップロード';
 
-$lang_settings_title_plugins = 'Edit a custom post type entry in:';
-$lang_settings_pluginupload = 'Upload plugin ZIP';
+$lang_settings_title_plugins = 'プラグイン';
+$lang_settings_pluginupload = 'プラグインのZIPをアップロード';
 
-$lang_settings_title_customposts = 'Custom Post Types';
-$lang_settings_managecustomposts = 'Manage custom post types';
+$lang_settings_title_customposts = 'カスタム投稿タイプ';
+$lang_settings_managecustomposts = 'カスタム投稿タイプを管理';
 
-$lang_settings_themeuploader = 'Upload a new theme ZIP file';
-$lang_settings_pluginupload = 'Upload a new plugin ZIP file';
+$lang_settings_themeuploader = '新規テーマのZIPファイルをアップロード';
+$lang_settings_pluginuploader = '新規プラグインのZIPファイルをアップロード';
 
 //// Settings: Media
-$lang_settings_mediaupload = 'Upload a media file';
+$lang_settings_mediaupload = 'メディアファイルをアップロード';
 
 //// Settings: Navigation
-$lang_settings_navigationtitle = 'Manage the navigation links';
-$lang_settings_navigationsubtitle = 'Drag and drop to re-order the list.';
-$lang_settings_navigationsubmenu = 'Add sub-menu';
+$lang_settings_navigationtitle = 'ナビゲーションリンクを管理';
+$lang_settings_navigationsubtitle = 'ドラッグ＆ドロップでリストを並べ替え.';
+$lang_settings_navigationsubmenu = 'サブメニューを追加';
 
 //// Settings: Custom Post Type
-$lang_settings_custompostentries = 'Custom post type entries for:';
-$lang_settings_custompostadd = 'Add a new entry';
+$lang_settings_custompostentries = 'カスタム投稿タイプのエントリ:';
+$lang_settings_custompostadd = '新規エントリを追加';
 
-$lang_settings_title_custompostedit = 'Custom post type entries for:';
-$lang_settings_custompostback = '< Back to the list page';
-$lang_settings_custompostname = 'Post Name';
+$lang_settings_title_custompostedit = 'カスタム投稿タイプのエントリ:';
+$lang_settings_custompostback = '< リストページに戻る';
+$lang_settings_custompostname = 'ポスト名';
 
-$lang_settings_custompostdelete = 'custom post type entry';
+$lang_settings_custompostdelete = 'カスタム投稿タイプ';
 
-$lang_settings_custompostaddentry = 'Add a custom post type entry for:';
+$lang_settings_custompostaddentry = 'カスタム投稿タイプを追加:';
 
-$lang_settings_customposttypes = 'Custom post types';
-$lang_settings_custompostmanage = 'manage entries';
-$lang_settings_custompostmanageedit = 'edit';
-$lang_settings_custompostmanageadd = 'Add a new custom post type';
+$lang_settings_customposttypes = 'カスタム投稿タイプ';
+$lang_settings_custompostmanage = 'エントリを管理';
+$lang_settings_custompostmanageedit = '編集';
+$lang_settings_custompostmanageadd = '新規カスタム投稿タイプを追加';
 
-$lang_settings_title_custompostedit_title = 'Edit a custom post type';
+$lang_settings_title_custompostedit_title = 'カスタム投稿タイプを編集';
+$lang_settings_title_custompostedit_titlein = 'カスタム投稿タイプのエントリーを編集する:';
 
-$lang_settings_custompostdefadd = 'Add a custom post type';
-$lang_settings_custompostdeftypename = 'Post type name';
-$lang_settings_custompostdefname = 'Name';
-$lang_settings_custompostdeftype = 'Type';
-$lang_settings_custompostdeffield = 'Field';
-$lang_settings_custompostcontent = 'Content';
+$lang_settings_custompostdefadd = 'カスタム投稿タイプを追加';
+$lang_settings_custompostdeftypename = '投稿タイプ名';
+$lang_settings_custompostdefname = '名前';
+$lang_settings_custompostdeftype = 'タイプ';
+$lang_settings_custompostdeffield = 'フィールド';
+$lang_settings_custompostcontent = 'コンテンツ';
 
 // Search
-$lang_search_title = 'Search';
-$lang_search_placeholder = 'Search Term';
-$lang_search_cta = 'Search';
-$lang_search_noresults = 'No results found';
-$lang_search_results = 'Search results';
-$lang_search_links = 'Link to';
+$lang_search_title = '検索';
+$lang_search_placeholder = '検索語句';
+$lang_search_cta = '検索';
+$lang_search_noresults = '結果が見つかりません';
+$lang_search_results = '検索結果';
+$lang_search_links = 'リンク';
 
 // Page List
-$lang_pagelist = 'Page List';
+$lang_pagelist = 'ページリスト';

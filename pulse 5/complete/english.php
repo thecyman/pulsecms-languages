@@ -104,7 +104,14 @@ $lang_create_embed_url = "Embed URL:";
 $lang_create_embed_html = "Embed HTML:";
 $lang_create_embed_php = "Embed PHP:";
 
-$lang_create_block_move = "Move block to"; 
+$lang_create_block_move = "Move block to";
+$lang_create_media_move = "Move media to";
+
+$lang_create_folder_error        = 'Unable to create new folder';
+$lang_create_folder_error_exists = 'New folder already exists';
+
+$lang_create_folder_error_no_base   = 'No base folder found';
+$lang_create_folder_error_no_folder = 'No folder name entered';
 
 // Delete
 $lang_delete = 'Are you sure you want to delete ';
@@ -152,6 +159,10 @@ $lang_newsletter_thanks ='Thanks!';
 $lang_newsletter_try_again ='Try again';
 $lang_newsletter_placeholder ='Enter Email';
 $lang_newsletter_send ='Sign Up';
+
+// Redactor
+$lang_redactor_mail_button     = 'Adds an Email address';
+$lang_redactor_mail_link_title = 'Send Email to me';
 
 // Stats
 $lang_stats_today = "Visitors";
@@ -237,6 +248,11 @@ $lang_settings_upload = 'Allowed files to upload';
 $lang_settings_upload_tooltip = 'Use comma to separate file extensions';
 $lang_settings_wysiwygpages = 'Enable WYSIWYG editor on Pages (otherwise HTML and Markdown)';
 
+//// Settings: Made in Pulse
+$lang_settings_title_made_in_pulse = 'Made in Pulse';
+$lang_settings_made_in_pulse       = 'Made in Pulse badge added';
+$lang_settings_made_in_pulse_label = 'Enable made-in-pulse content for template';
+
 //// Settings: Media
 $lang_settings_title_media = 'Media';
 $lang_settings_jpeg = 'JPEG quality';
@@ -253,10 +269,15 @@ $lang_settings_title_navigation = 'Navigation';
 $lang_settings_navigationmenu = 'Enable frontend editing';
 $lang_settings_title_managenavigation = 'Manage site navigation';
 
-//// Settings: Google Analytics
+/// Settings: Google Analytics
 $lang_settings_title_google = 'Google Analytics';
 $lang_settings_google = 'Analytics tracking code';
 $lang_settings_google_tooltip = 'Paste your Google Analytics tracking code snippet here';
+
+//// Settings: GeoIP
+$lang_settings_title_geoip = 'GeoIP';
+$lang_settings_geoip       = 'GeoIP data for site stats';
+$lang_settings_geoip_label = 'Enable GeoIP for stats here';
 
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';
@@ -361,14 +382,14 @@ $lang_settings_title_themes = 'Themes';
 $lang_settings_themeselect = 'Theme selected';
 $lang_settings_themeupload = 'Upload theme ZIP';
 
-$lang_settings_title_plugins = 'Edit a custom post type entry in:';
+$lang_settings_title_plugins = 'Plugins';
 $lang_settings_pluginupload = 'Upload plugin ZIP';
 
 $lang_settings_title_customposts = 'Custom Post Types';
 $lang_settings_managecustomposts = 'Manage custom post types';
 
 $lang_settings_themeuploader = 'Upload a new theme ZIP file';
-$lang_settings_pluginupload = 'Upload a new plugin ZIP file';
+$lang_settings_pluginuploader = 'Upload a new plugin ZIP file';
 
 //// Settings: Media
 $lang_settings_mediaupload = 'Upload a media file';
@@ -396,6 +417,7 @@ $lang_settings_custompostmanageedit = 'edit';
 $lang_settings_custompostmanageadd = 'Add a new custom post type';
 
 $lang_settings_title_custompostedit_title = 'Edit a custom post type';
+$lang_settings_title_custompostedit_titlein = 'Edit a custom post type entry in:';
 
 $lang_settings_custompostdefadd = 'Add a custom post type';
 $lang_settings_custompostdeftypename = 'Post type name';
