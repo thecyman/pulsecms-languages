@@ -11,14 +11,14 @@ $lang_rename_btn = "Hernoem";
 $lang_title = "Pulse CMS";
 
 // Auto backup
-$lang_autobackup_email_subject_line = 'Pulse auto-backup reminder';
+$lang_autobackup_email_subject_line = 'Pulse auto-backup herinnering';
 $lang_autobackup_email_text =<<<EOD
-Hi,
+Hallo,
 
-Your Pulse install has generated a backup zip file.
+Je  Pulse installatie heeft een backup zip-file gemaakt.
 
-Regards,
-The Pulse CMS Team
+Groet,
+Het Pulse CMS Team
 EOD;
 
 // Login
@@ -26,7 +26,7 @@ $lang_login_forgot_password = "Wachtwoord vergeten?";
 $lang_login_forgot_password_email_body =<<<EOD
 	Hi,
 	
-	Your Pulse password is PASSWORD
+	Je Pulse wachtwoord is PASSWORD
 EOD;
 $lang_login_forgot_password_email_subject_line = "Je Pulse wachtwoord vergeten?"; 
 $lang_login_incorrect = "Je wachtwoord is onjuist!";
@@ -54,7 +54,7 @@ $lang_nav_stats = "Statistieken";
 
 // Navigation logged in bar
 $lang_nav_logged_in_add_block     = 'Voeg een nieuw block toe';
-$lang_nav_logged_in_add_blog_post = 'Voeg nieuwe blog-post toe';
+$lang_nav_logged_in_add_blog_post = 'Voeg een nieuwe blog-post toe';
 $lang_nav_logged_in_add_media     = 'Voeg nieuwe media toe';
 $lang_nav_logged_in_add_page      = 'Voeg een nieuwe pagina toe';
 
@@ -66,7 +66,7 @@ $lang_gal_dimensions = "Dimensies";
 $lang_gal_size = "Afmeting";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
-$lang_gallery_tool_tip = "Maak een map met foto's om een foto-gallery aan te maken, en gebruik de Invoeg-tag.";
+$lang_gallery_tool_tip = "Maak eerst een map met foto's voor je foto-gallery, en gebruik dan de Invoeg-tag.";
 $lang_crop = 'Crop';
 $lang_media_order = 'Verplaats';
 $lang_media_replace = 'Vervang';
@@ -100,10 +100,10 @@ $lang_create_embed_html = "Voeg HTML in:";
 $lang_create_embed_php = "Voeg PHP in:";
 $lang_create_block_move = "Verplaats block naar";
 
-$lang_create_media_move = "Move media to";
+$lang_create_media_move = "Verplaats media naar";
 
-$lang_create_folder_error        = 'Unable to create new folder';
-$lang_create_folder_error_exists = 'New folder already exists';
+$lang_create_folder_error        = 'Niet gelukt om een nieuwe map aan te maken';
+$lang_create_folder_error_exists = 'Die map bestaat al';
 
 $lang_create_folder_error_no_base   = 'No base folder found';
 $lang_create_folder_error_no_folder = 'No folder name entered';
@@ -299,7 +299,7 @@ $lang_settings_rssurl_tooltip = 'http://example.com/blog';
 $lang_settings_rsslang = 'Datum notatie';
 $lang_settings_rsslang_tooltip = 'nl';
 $lang_settings_rssurlprefix = 'Blog URL prefix';
-$lang_settings_rssurlprefix_tooltip = '(blog) zal blog-1-post-title zijn, je kunt dit ook aanpassen in htaccess';
+$lang_settings_rssurlprefix_tooltip = '(blog) zal blog-1-post-titel zijn, je kunt dit aanpassen in htaccess';
 
 // Settings: SMTP Settings
 $lang_settings_title_smtp = 'SMTP instellingen';
