@@ -97,7 +97,15 @@ $lang_create_embed_tag = "Vložiť tag.";
 $lang_create_embed_url = "Vložiť URL:";
 $lang_create_embed_html = "Vložiť HTML:";
 $lang_create_embed_php = "Vložiť PHP:";
-$lang_create_block_move = "Presunúť blok do"; 
+$lang_create_block_move = "Presunúť blok do";
+
+$lang_create_media_move = "Move media to";
+
+$lang_create_folder_error        = 'Unable to create new folder';
+$lang_create_folder_error_exists = 'New folder already exists';
+
+$lang_create_folder_error_no_base   = 'No base folder found';
+$lang_create_folder_error_no_folder = 'No folder name entered';
 
 // Delete - Vymazať
 $lang_delete = 'Skutočne chcete odstrániť ';
@@ -144,6 +152,10 @@ $lang_newsletter_thanks ='Vďaka!';
 $lang_newsletter_try_again ='Skúste to znova';
 $lang_newsletter_placeholder ='Zadajte e-mail';
 $lang_newsletter_send ='Prihlásiť sa';
+
+// Redactor
+$lang_redactor_mail_button     = 'Fügt eine E-Mail in einen Text';
+$lang_redactor_mail_link_title = 'E-Mail an mich senden';
 
 // Stats - Štatistika
 $lang_stats_today = "Návštevníci";

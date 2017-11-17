@@ -99,6 +99,14 @@ $lang_create_embed_html = "HTML beágyazása:";
 $lang_create_embed_php = "PHP beágyazása:";
 $lang_create_block_move = "Blokkot áthelyezni a";
 
+$lang_create_media_move = "Move media to";
+
+$lang_create_folder_error        = 'Unable to create new folder';
+$lang_create_folder_error_exists = 'New folder already exists';
+
+$lang_create_folder_error_no_base   = 'No base folder found';
+$lang_create_folder_error_no_folder = 'No folder name entered';
+
 // Delete - Törlés
 $lang_delete = 'Biztosan törölni akarja';
 $lang_del_button = "Törlés";
@@ -144,6 +152,10 @@ $lang_newsletter_thanks = "Köszönöm!";
 $lang_newsletter_try_again = 'Próbálja újra';
 $lang_newsletter_placeholder = 'E-mail írása';
 $lang_newsletter_send = "Regisztráció";
+
+// Redactor
+$lang_redactor_mail_button     = 'Fügt eine E-Mail in einen Text';
+$lang_redactor_mail_link_title = 'E-Mail an mich senden';
 
 // Stats - Statisztika
 $lang_stats_today = "Látogatók";

@@ -97,7 +97,15 @@ $lang_create_embed_tag = "Wstaw link"; /* Embed Tag */
 $lang_create_embed_url = "Umieść URL:";
 $lang_create_embed_html = "Umieść HTML:";
 $lang_create_embed_php = "Umieść PHP:";
-$lang_create_block_move = "Przenieś blok do"; 
+$lang_create_block_move = "Przenieś blok do";
+
+$lang_create_media_move = "Move media to";
+
+$lang_create_folder_error        = 'Unable to create new folder';
+$lang_create_folder_error_exists = 'New folder already exists';
+
+$lang_create_folder_error_no_base   = 'No base folder found';
+$lang_create_folder_error_no_folder = 'No folder name entered';
 
 // Delete - Usuń
 $lang_delete = "Czy na pewno chcesz usunąć";
@@ -144,6 +152,10 @@ $lang_newsletter_thanks = 'Dzięki!';
 $lang_newsletter_try_again = 'Spróbuj ponownie';
 $lang_newsletter_placeholder = 'E-mail';
 $lang_newsletter_send = 'Zapisz';
+
+// Redactor
+$lang_redactor_mail_button     = 'Fügt eine E-Mail in einen Text';
+$lang_redactor_mail_link_title = 'E-Mail an mich senden';
 
 // Stats - Statystyki
 $lang_stats_today = "Goście dzisiaj";

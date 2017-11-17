@@ -101,7 +101,15 @@ $lang_create_embed_url = "埋め込みURL:";
 $lang_create_embed_html = "埋め込みHTML:";
 $lang_create_embed_php = "埋め込みPHP:";
 
-$lang_create_block_move = "ブロックの移動"; 
+$lang_create_block_move = "ブロックの移動";
+
+$lang_create_media_move = "メディアを移動";
+
+$lang_create_folder_error        = '新規フォルダを作成できません';
+$lang_create_folder_error_exists = '新規フォルダが既に存在します';
+
+$lang_create_folder_error_no_base   = '元となるフォルダが存在しません';
+$lang_create_folder_error_no_folder = 'フォルダ名が入力されていません';
 
 // Delete
 $lang_delete = '削除します。よろしいですか？ ';
@@ -149,6 +157,10 @@ $lang_newsletter_thanks ='ありがとうございます';
 $lang_newsletter_try_again ='再試行';
 $lang_newsletter_placeholder ='メールアドレス';
 $lang_newsletter_send ='サインアップ';
+
+// Redactor
+$lang_redactor_mail_button     = 'メールアドレスを追加';
+$lang_redactor_mail_link_title = 'このメールアドレスに送信';
 
 // Stats
 $lang_stats_today = "訪問者";

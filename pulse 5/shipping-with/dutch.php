@@ -98,7 +98,15 @@ $lang_create_embed_tag = "Invoeg Tag";
 $lang_create_embed_url = "Voeg URL in:";
 $lang_create_embed_html = "Voeg HTML in:";
 $lang_create_embed_php = "Voeg PHP in:";
-$lang_create_block_move = "Verplaats block naar"; 
+$lang_create_block_move = "Verplaats block naar";
+
+$lang_create_media_move = "Move media to";
+
+$lang_create_folder_error        = 'Unable to create new folder';
+$lang_create_folder_error_exists = 'New folder already exists';
+
+$lang_create_folder_error_no_base   = 'No base folder found';
+$lang_create_folder_error_no_folder = 'No folder name entered';
 
 // Delete
 $lang_delete = 'Weet je zeker dat je dit wilt deleten? ';
@@ -145,6 +153,10 @@ $lang_newsletter_thanks = 'Bedankt!';
 $lang_newsletter_try_again = 'Probeer opnieuw';
 $lang_newsletter_placeholder = 'Je Email-adres';
 $lang_newsletter_send = 'Inschrijven';
+
+// Redactor
+$lang_redactor_mail_button     = 'Fügt eine E-Mail in einen Text';
+$lang_redactor_mail_link_title = 'E-Mail an mich senden';
 
 // Stats
 $lang_stats_today = "Bezoekers";

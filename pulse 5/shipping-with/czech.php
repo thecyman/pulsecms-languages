@@ -99,6 +99,14 @@ $lang_create_embed_html = "Odkaz HTML:";
 $lang_create_embed_php = "Odkaz PHP:";
 $lang_create_block_move = "Přesuňte blok do";
 
+$lang_create_media_move = "Move media to";
+
+$lang_create_folder_error        = 'Unable to create new folder';
+$lang_create_folder_error_exists = 'New folder already exists';
+
+$lang_create_folder_error_no_base   = 'No base folder found';
+$lang_create_folder_error_no_folder = 'No folder name entered';
+
 // Delete - Vymazat
 $lang_delete = 'Jste si jisti, že to chcete smazat ';
 $lang_del_button = "Vymazat";
@@ -144,6 +152,10 @@ $lang_newsletter_thanks ='Díky!';
 $lang_newsletter_try_again ='Zkuste to znovu';
 $lang_newsletter_placeholder ='Zadejte e-mail';
 $lang_newsletter_send ='Přihlásit se';
+
+// Redactor
+$lang_redactor_mail_button     = 'Fügt eine E-Mail in einen Text';
+$lang_redactor_mail_link_title = 'E-Mail an mich senden';
 
 // Stats - Statistiky
 $lang_stats_today = "Návštěvníci";
