@@ -104,7 +104,15 @@ $lang_create_embed_url = "Embed URL:";
 $lang_create_embed_html = "Embed HTML:";
 $lang_create_embed_php = "Embed PHP:";
 
-$lang_create_block_move = "Block hochschieben"; 
+$lang_create_block_move = "Block hochschieben";
+
+$lang_create_media_move = "Move media to";
+
+$lang_create_folder_error        = 'Unable to create new folder';
+$lang_create_folder_error_exists = 'New folder already exists';
+
+$lang_create_folder_error_no_base   = 'No base folder found';
+$lang_create_folder_error_no_folder = 'No folder name entered';
 
 // Delete
 $lang_delete = 'Sind Sie sicher, dass Sie diese Datei l&ouml;schen m&ouml;chten: ';
@@ -152,6 +160,10 @@ $lang_newsletter_thanks ='Danke!';
 $lang_newsletter_try_again ='Erneut versuchen';
 $lang_newsletter_placeholder ='E-Mail eintragen';
 $lang_newsletter_send ='Einschreiben';
+
+// Redactor
+$lang_redactor_mail_button     = 'Fügt eine E-Mail in einen Text';
+$lang_redactor_mail_link_title = 'E-Mail an mich senden';
 
 // Stats
 $lang_stats_today = "Besucher";

@@ -104,7 +104,14 @@ $lang_create_embed_url = "Embed URL:";
 $lang_create_embed_html = "Embed HTML:";
 $lang_create_embed_php = "Embed PHP:";
 
-$lang_create_block_move = "Move block to"; 
+$lang_create_block_move = "Move block to";
+$lang_create_media_move = "Move media to";
+
+$lang_create_folder_error        = 'Unable to create new folder';
+$lang_create_folder_error_exists = 'New folder already exists';
+
+$lang_create_folder_error_no_base   = 'No base folder found';
+$lang_create_folder_error_no_folder = 'No folder name entered';
 
 // Delete
 $lang_delete = 'Are you sure you want to delete ';
@@ -152,6 +159,10 @@ $lang_newsletter_thanks ='Thanks!';
 $lang_newsletter_try_again ='Try again';
 $lang_newsletter_placeholder ='Enter Email';
 $lang_newsletter_send ='Sign Up';
+
+// Redactor
+$lang_redactor_mail_button     = 'Adds an Email address';
+$lang_redactor_mail_link_title = 'Send Email to me';
 
 // Stats
 $lang_stats_today = "Visitors";
