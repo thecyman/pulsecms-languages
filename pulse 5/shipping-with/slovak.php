@@ -83,12 +83,12 @@ $lang_pages_template = 'Šablóna stránky';
 // Create - Vytvoriť
 $lang_create_file_or_folder = 'Nová stránka';
 $lang_create_file_or_folder_block = "Nový Blok";
-$lang_create_file_or_folder_blog  = "Nový Blog";
-$lang_create_file_or_folder_page  = "Nová Stránka";
+$lang_create_file_or_folder_blog = "Nový Blog";
+$lang_create_file_or_folder_page = "Nová Stránka";
 $lang_create_file_or_folder_media = "Nové Média";
 $lang_create_item_block = 'Vytvoriť Blok';
-$lang_create_item_blog  = 'Vytvoriť Blog';
-$lang_create_item_page  = 'Vytvoriť Stránku';
+$lang_create_item_blog = 'Vytvoriť Blog';
+$lang_create_item_page = 'Vytvoriť Stránku';
 $lang_create_item_media = 'Vložiť Média'; 
 $lang_create_button = "Vytvoriť"; 
 $lang_create_tool_tip = "Stránky, bloky a príspevky na blogu musia končiť príponou '.txt'. Ak chcete vytvoriť priečinok, neuvádzajte príponou '.txt'.";
@@ -98,14 +98,11 @@ $lang_create_embed_url = "Vložiť URL:";
 $lang_create_embed_html = "Vložiť HTML:";
 $lang_create_embed_php = "Vložiť PHP:";
 $lang_create_block_move = "Presunúť blok do";
-
-$lang_create_media_move = "Move media to";
-
-$lang_create_folder_error        = 'Unable to create new folder';
-$lang_create_folder_error_exists = 'New folder already exists';
-
-$lang_create_folder_error_no_base   = 'No base folder found';
-$lang_create_folder_error_no_folder = 'No folder name entered';
+$lang_create_media_move = "Presuňte média do";
+$lang_create_folder_error = 'Nie je možné vytvoriť novú zložku';
+$lang_create_folder_error_exists = 'Nový priečinok už existuje';
+$lang_create_folder_error_no_base = 'Neboli nájdené žiadne základné priečinky';
+$lang_create_folder_error_no_folder = 'Nebolo zadané žiadne meno priečinka';
 
 // Delete - Vymazať
 $lang_delete = 'Skutočne chcete odstrániť ';
@@ -142,20 +139,20 @@ $lang_blog_custom = 'Vlastný popis META';
 $lang_form_error1 = 'Prosim vyplnte údaje ';
 $lang_form_error2a = 'Vaše údaje ';
 $lang_form_error2b = ' je príliš dlhé.';
-$lang_form_subject_line = 'Kovtakt';
+$lang_form_subject_line = 'Kontakt';
 $lang_form_email_sent = 'E-mail bol odoslaný';
 $lang_form_sent_button = 'Odoslať';
 $lang_auto_thank_contact = 'Ďakujem za zaslanie e-mailu! Na Váš e-mail odpoviem hneď ako to bude možné.';
 
 // Newsletter Form - Informačný Formulár
-$lang_newsletter_thanks ='Vďaka!';
-$lang_newsletter_try_again ='Skúste to znova';
-$lang_newsletter_placeholder ='Zadajte e-mail';
-$lang_newsletter_send ='Prihlásiť sa';
+$lang_newsletter_thanks = 'Vďaka!';
+$lang_newsletter_try_again = 'Skúste to znova';
+$lang_newsletter_placeholder = 'Zadajte e-mail';
+$lang_newsletter_send = 'Prihlásiť sa';
 
 // Redactor
-$lang_redactor_mail_button     = 'Fügt eine E-Mail in einen Text';
-$lang_redactor_mail_link_title = 'E-Mail an mich senden';
+$lang_redactor_mail_button = 'Pridá e-mail do textu';
+$lang_redactor_mail_link_title = 'Pošlite mi e-mail';
 
 // Stats - Štatistika
 $lang_stats_today = "Návštevníci";
@@ -169,19 +166,19 @@ $lang_stats_online = "Prítomný";
 $lang_stats_thisweek = "Tento týždeň";
 $lang_stats_todays_stats = "Dnes";
 $lang_stats_nodata = "Žiadne dáta";
-$lang_stats_browsers  = "prehliadače";
+$lang_stats_browsers = "prehliadače";
 $lang_stats_countries = "Krajiny";
-$lang_stats_devices   = "zariadenia";
-$lang_stats_systems   = "systémy";
+$lang_stats_devices = "zariadenia";
+$lang_stats_systems = "systémy";
 
 // Sweet Alert  - Chybová správa
-$lang_sweetalert_ok    = "OK";
+$lang_sweetalert_ok = "OK";
 $lang_sweetalert_saved = "Uložené";
 
 // Custom post types - Vlastné typy príspevkov
 $lang_custom_post_type_error_illegal_characters = 'Názov príspevku má nepovolené znaky';
-$lang_custom_post_type_error_illegal_name       = 'Názov príspevku má nepovolený názov';
-$lang_custom_post_type_error_unknown_entry      = 'Tento príspevok nie je známy';
+$lang_custom_post_type_error_illegal_name = 'Názov príspevku má nepovolený názov';
+$lang_custom_post_type_error_unknown_entry = 'Tento príspevok nie je známy';
 
 // Status messages - Stavové správy
 $lang_status_ok = 'Údaje su uložené';
@@ -240,10 +237,10 @@ $lang_settings_upload = 'Povolené súbory na nahrávanie';
 $lang_settings_upload_tooltip = 'Použite čiarku na oddelenie prípony súborov';
 $lang_settings_wysiwygpages = 'V Stránkach povoliť WYSIWYG editor (inak HTML a Markdown)';
 
-//// Settings: Made in Pulse
-$lang_settings_title_made_in_pulse = 'Made in Pulse';
-$lang_settings_made_in_pulse       = 'Made in Pulse badge added';
-$lang_settings_made_in_pulse_label = 'Enable made-in-pulse content for template';
+// Settings: Made in Pulse
+$lang_settings_title_made_in_pulse = 'Vyrobené v Pulse';
+$lang_settings_made_in_pulse = 'Made in Pulse odznak pridané';
+$lang_settings_made_in_pulse_label = 'Povoliť odznak Made in Pulse pre šablónu';
 
 // Settings: Media
 $lang_settings_title_media = 'Media';
@@ -266,10 +263,10 @@ $lang_settings_title_google = 'Google Analýza';
 $lang_settings_google = 'Kód služby Analytics';
 $lang_settings_google_tooltip = 'Tu pridajte útržok kódu služby Google Analytics';
 
-//// Settings: GeoIP
+// Settings: GeoIP
 $lang_settings_title_geoip = 'GeoIP';
-$lang_settings_geoip       = 'GeoIP data for site stats';
-$lang_settings_geoip_label = 'Enable GeoIP for stats here';
+$lang_settings_geoip = 'Údaje GeoIP pre štatistiky webu';
+$lang_settings_geoip_label = 'Povoliť GeoIP pre štatistikách tu';
 
 // Settings: OGP - Open Graph protocol >> http://ogp.me/
 $lang_settings_title_ogp = '(OGP) Otvorené grafické protokoly';
@@ -296,7 +293,7 @@ $lang_settings_rssdescription_tooltip = 'Toto je môj Blog.';
 $lang_settings_rssurl = 'Blog URL';
 $lang_settings_rssurl_tooltip = 'http://example.com/blog';
 $lang_settings_rsslang = 'kód jazyka'; // Formát dátumu
-$lang_settings_rsslang_tooltip = 'sk (http://www.rssboard.org/rss-language-codes)';
+$lang_settings_rsslang_tooltip = 'sk_SK (http://www.rssboard.org/rss-language-codes)';
 $lang_settings_rssurlprefix = 'Predpona adresy URL blogu';
 $lang_settings_rssurlprefix_tooltip = '(blog) bude: blog-1-titulok-príspevku, tiež upraviť v htaccess';
 

@@ -98,14 +98,11 @@ $lang_create_embed_url = "Odkaz URL:";
 $lang_create_embed_html = "Odkaz HTML:";
 $lang_create_embed_php = "Odkaz PHP:";
 $lang_create_block_move = "Přesuňte blok do";
-
-$lang_create_media_move = "Move media to";
-
-$lang_create_folder_error        = 'Unable to create new folder';
-$lang_create_folder_error_exists = 'New folder already exists';
-
-$lang_create_folder_error_no_base   = 'No base folder found';
-$lang_create_folder_error_no_folder = 'No folder name entered';
+$lang_create_media_move = "Přesuňte média do";
+$lang_create_folder_error = 'Nelze vytvořit novou složku';
+$lang_create_folder_error_exists = 'Nová složka již existuje';
+$lang_create_folder_error_no_base = 'Žádná základna složka nalezeno';
+$lang_create_folder_error_no_folder = 'Nebyl zadán žádný název složky';
 
 // Delete - Vymazat
 $lang_delete = 'Jste si jisti, že to chcete smazat ';
@@ -154,8 +151,8 @@ $lang_newsletter_placeholder ='Zadejte e-mail';
 $lang_newsletter_send ='Přihlásit se';
 
 // Redactor
-$lang_redactor_mail_button     = 'Fügt eine E-Mail in einen Text';
-$lang_redactor_mail_link_title = 'E-Mail an mich senden';
+$lang_redactor_mail_button = 'Přidá e-mail do textu';
+$lang_redactor_mail_link_title = 'Pošlete mi e-mail';
 
 // Stats - Statistiky
 $lang_stats_today = "Návštěvníci";
@@ -171,11 +168,11 @@ $lang_stats_todays_stats = "Dnes";
 $lang_stats_nodata = "Žádná data";
 $lang_stats_browsers  = "prohlížeče";
 $lang_stats_countries = "země";
-$lang_stats_devices   = "zařízení";
-$lang_stats_systems   = "Systémy";
+$lang_stats_devices = "zařízení";
+$lang_stats_systems = "Systémy";
 
 // Sweet Alert
-$lang_sweetalert_ok    = "OK";
+$lang_sweetalert_ok = "OK";
 $lang_sweetalert_saved = "Uloženo";
 
 // Custom post types - Vlastní příspěvek
@@ -240,10 +237,10 @@ $lang_settings_upload = 'Povolit soubory nahrát';
 $lang_settings_upload_tooltip = 'Použijte čárku pro oddělené přípony souborů';
 $lang_settings_wysiwygpages = 'Povolit editor WYSIWYG na stránkách (jinak HTML a Markdown)';
 
-//// Settings: Made in Pulse
-$lang_settings_title_made_in_pulse = 'Made in Pulse';
-$lang_settings_made_in_pulse       = 'Made in Pulse badge added';
-$lang_settings_made_in_pulse_label = 'Enable made-in-pulse content for template';
+// Settings: Made in Pulse
+$lang_settings_title_made_in_pulse = 'Vyrobeno v Pulse';
+$lang_settings_made_in_pulse = 'Made in Pulse odznak přidáno';
+$lang_settings_made_in_pulse_label = 'Povolit odznak Made in Pulse pro šablonu';
 
 // Settings: Media
 $lang_settings_title_media = 'Media';
@@ -266,10 +263,10 @@ $lang_settings_title_google = 'Google analýza';
 $lang_settings_google = 'Kód sledování Analytics';
 $lang_settings_google_tooltip = 'Zde vložte úryvek kódu sledování Google Analytics';
 
-//// Settings: GeoIP
+// Settings: GeoIP
 $lang_settings_title_geoip = 'GeoIP';
-$lang_settings_geoip       = 'GeoIP data for site stats';
-$lang_settings_geoip_label = 'Enable GeoIP for stats here';
+$lang_settings_geoip = 'GeoIP data pro statistiky webu';
+$lang_settings_geoip_label = 'Povolit GeoIP pro statistikách zde';
 
 // Settings: OGP - Open Graph protocol >> http://ogp.me/
 $lang_settings_title_ogp = '(OGP) Otevřené protokoly grafika';
@@ -296,7 +293,7 @@ $lang_settings_rssdescription_tooltip = 'To je můj blog.';
 $lang_settings_rssurl = 'Adresa URL blogu';
 $lang_settings_rssurl_tooltip = 'http://example.com/blog';
 $lang_settings_rsslang = 'Kód jazyka'; // Formát dátumu
-$lang_settings_rsslang_tooltip = 'cs (http://www.rssboard.org/rss-language-codes)';
+$lang_settings_rsslang_tooltip = 'cs_CS (http://www.rssboard.org/rss-language-codes)';
 $lang_settings_rssurlprefix = 'Předpona adres URL blogu';
 $lang_settings_rssurlprefix_tooltip = '(blog) byl by blog-1-název-příspěvku, také editovat v htaccess';
 
