@@ -47,17 +47,17 @@ $lang_home_preview = "Vorschau";
 // Navigation
 $lang_nav_title = "Navigation";
 $lang_nav_home = "Home";
-$lang_nav_blocks = "Bl&ouml;cke";
+$lang_nav_blocks = "Blöcke";
 $lang_nav_img = "Medien";
 $lang_nav_blog = "Blog";
 $lang_nav_pages = "Seiten";
 $lang_nav_stats = "Statistik";
 
 // Navigation logged in bar
-$lang_nav_logged_in_add_block     = 'Neuen Block hinzuf&uuml;gen';
-$lang_nav_logged_in_add_blog_post = 'Neuen Blog Eintrag hinzuf&uuml;gen';
-$lang_nav_logged_in_add_media     = 'Neue Medien hinzuf&uuml;gen';
-$lang_nav_logged_in_add_page      = 'Neue Seite hinzuf&uuml;gen';
+$lang_nav_logged_in_add_block     = 'Neuen Block hinzufügen';
+$lang_nav_logged_in_add_blog_post = 'Neuen Blog Eintrag hinzufügen';
+$lang_nav_logged_in_add_media     = 'Neue Medien hinzufügen';
+$lang_nav_logged_in_add_page      = 'Neue Seite hinzufügen';
 
 
 // Gallery
@@ -65,10 +65,10 @@ $lang_gal_alt_gallery = "Alt Tag";
 $lang_gal_caption_gallery = "Bildbeschreibung hier eingeben.";
 $lang_gal_filename = "Dateiname";
 $lang_gal_dimensions = "Dimensionen";
-$lang_gal_size = "Gr&ouml;&szlig;e";
+$lang_gal_size = "Größe";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
-$lang_gallery_tool_tip = "Um eine Lightbox Galerie zu erstellen, m&uuml;sst Du hier einen neuen Ordner mit Bildern erstellen. Zum einf&uuml;gen der Galerie nutze die Embed Tags.";
+$lang_gallery_tool_tip = "Um eine Lightbox Galerie zu erstellen, müsst Du hier einen neuen Ordner mit Bildern erstellen. Zum einfügen der Galerie nutze die Embed Tags.";
 $lang_crop = 'Zuschneiden';
 $lang_media_order = 'Reihenfolge';
 $lang_media_replace = 'Austauschen';
@@ -97,7 +97,7 @@ $lang_create_item_page  = 'Seite';
 $lang_create_item_media = 'Medieneintrag';
 
 $lang_create_button = "Erstellen";
-$lang_create_tool_tip = "Seiten, Bl&ouml;cke und Blogeintr&auml;ge m&uuml;ssen mit '.txt' enden, was automatisch hinzugef&uuml;gt wird. Um einen Ordner oder neuen Blog zu erstellen, w&auml;hle Ordner oder Blog im Optionsfeld und klicke auf Erstellen.";
+$lang_create_tool_tip = "Seiten, Blöcke und Blogeinträge müssen mit '.txt' enden, was automatisch hinzugefügt wird. Um einen Ordner oder neuen Blog zu erstellen, wähle Ordner oder Blog im Optionsfeld und klicke auf Erstellen.";
 $lang_create_embed = "Einbetten";
 $lang_create_embed_tag = "Embed Tag";
 $lang_create_embed_url = "Embed URL:";
@@ -115,11 +115,11 @@ $lang_create_folder_error_no_base   = 'Kein Basis Ordner gefunden';
 $lang_create_folder_error_no_folder = 'Kein Orndernamen eingetragen';
 
 // Delete
-$lang_delete = 'Bist Du sicher, dass Du diese Datei l&ouml;schen m&ouml;chtest: ';
-$lang_del_button = "L&ouml;schen";
+$lang_delete = 'Bist Du sicher, dass Du diese Datei löschen möchtest: ';
+$lang_del_button = "Löschen";
 
 // Errors
-$lang_error_create_ext = 'Ung&uuml;ltige Dateierweiterung.';
+$lang_error_create_ext = 'Ungültige Dateierweiterung.';
 $lang_error_file_exists = 'Eine Datei mit diesem Namen in diesem Ordner existiert bereits.';
 $lang_error_upload = 'Du musst in einer Galerie sein um ein Bild hochzuladen.';
 $lang_no_content = 'Kein Inhalt gefunden.';
@@ -128,26 +128,26 @@ $lang_no_content = 'Kein Inhalt gefunden.';
 $lang_blog_title = 'Blog Titel';
 $lang_blog_date = 'Datum';
 $lang_blog_read_more = 'Weiterlesen';
-$lang_blog_back_button = 'Zur&uuml;ck';
-$lang_blog_older = '&Auml;ltere Beitr&auml;ge';
-$lang_blog_newer = 'Neuere Beitr&auml;ge';
-$lang_blog_error_folder = "Sie k&ouml;nnen keine Ordner im $lang_nav_blog erstellen.";
-$lang_blog_tool_tip = "Blogbeitr&auml;ge sind numerisch geordnet, die h&ouml;hste Nummer ist der neuste Beitrag.";
+$lang_blog_back_button = 'Zurück';
+$lang_blog_older = 'ältere Beiträge';
+$lang_blog_newer = 'Neuere Beiträge';
+$lang_blog_error_folder = "Sie können keine Ordner im $lang_nav_blog erstellen.";
+$lang_blog_tool_tip = "Blogbeiträge sind numerisch geordnet, die höhste Nummer ist der neuste Beitrag.";
 $lang_blog_import = 'Importieren';
 $lang_blog_import_tool_tip = 'Importiere Blog Einträge aus RSS. Der Importer importiert RSS und Atom Formate.';
 $lang_blog_import_page_max = 'Maximale Seitenanzahl';
-$lang_blog_import_page_var = 'Variable f&uuml;r Paginierung';
+$lang_blog_import_page_var = 'Variable für Paginierung';
 $lang_blog_import_url = 'URL';
 
 $lang_blog_description = 'Blog Beschreibung';
 $lang_blog_tags = 'Blog Tags (mit Komma getrennt)';
 $lang_blog_url = 'Blog URL';
-$lang_blog_index = 'M&ouml;chtest Du dies indizieren?';
-$lang_blog_nofollow = 'M&ouml;chtest Du dies als "no follow?" kennzeichnen?';
+$lang_blog_index = 'Möchtest Du dies indizieren?';
+$lang_blog_nofollow = 'Möchtest Du dies als "no follow?" kennzeichnen?';
 $lang_blog_custom = 'Eigene META Beschreibung';
 
 //Form
-$lang_form_error1 = 'Bitte f&uuml;llen Sie das Feld aus: ';
+$lang_form_error1 = 'Bitte füllen Sie das Feld aus: ';
 $lang_form_error2a = 'Das Feld ';
 $lang_form_error2b = ' ist zu lang.';
 $lang_form_subject_line = 'Kontakt';
@@ -179,8 +179,8 @@ $lang_stats_todays_stats = "Heutige Stats";
 $lang_stats_nodata = "Keine Daten";
 
 $lang_stats_browsers  = "Browser";
-$lang_stats_countries = "L&auml;nder";
-$lang_stats_devices   = "Ger&auml;te";
+$lang_stats_countries = "Länder";
+$lang_stats_devices   = "Geräte";
 $lang_stats_systems   = "Systeme";
 
 // Sweet Alert
@@ -188,8 +188,8 @@ $lang_sweetalert_ok    = "OK";
 $lang_sweetalert_saved = "Gespeichert";
 
 // Custom post types
-$lang_custom_post_type_error_illegal_characters = 'Eigener Eintragstyp enth&auml;lt unerlaubte Zeichen';
-$lang_custom_post_type_error_illegal_name       = 'Eigener Eintragstyp enth&auml;lt unerlaubten Namen';
+$lang_custom_post_type_error_illegal_characters = 'Eigener Eintragstyp enthält unerlaubte Zeichen';
+$lang_custom_post_type_error_illegal_name       = 'Eigener Eintragstyp enthält unerlaubten Namen';
 $lang_custom_post_type_error_unknown_entry      = 'Dieser eigene Eintragstyp ist unbekannt';
 
 // Status messages
@@ -197,8 +197,8 @@ $lang_status_ok = 'Daten gespeichert';
 
 // Dashboard
 $lang_dashboard_backups = 'Backups';
-$lang_dashboard_blocks = 'Bl&ouml;cke';
-$lang_dashboard_edit_blocks = 'Bl&ouml;cke editieren';
+$lang_dashboard_blocks = 'Blöcke';
+$lang_dashboard_edit_blocks = 'Blöcke editieren';
 $lang_dashboard_blog = 'Blog';
 $lang_dashboard_edit_blog = 'Blog editieren';
 $lang_dashboard_notes = 'Dashboard Notizen';
@@ -232,11 +232,11 @@ $lang_settings_ip = 'IP Anonymisieren';
 $lang_settings_frontpage = 'Anzeige auf erster Seite';
 $lang_settings_adminfrontpage = 'Anzeige auf erster Admin Seite';
 $lang_settings_adminname = 'Admin Benutzername';
-$lang_settings_adminname_tooltip = 'Wird als Anzeigename f&uuml;r Blogbeitr&auml;ge benutzt';
-$lang_settings_css = 'CSS Code f&uuml;r gesamte Seite';
-$lang_settings_css_tooltip = 'F&uuml;ge den CSS Code hier ein';
-$lang_settings_js = 'JS Code f&uuml;r gesamte Seite';
-$lang_settings_js_tooltip = 'F&uuml;ge den JS Code hier ein';
+$lang_settings_adminname_tooltip = 'Wird als Anzeigename für Blogbeiträge benutzt';
+$lang_settings_css = 'CSS Code für gesamte Seite';
+$lang_settings_css_tooltip = 'Füge den CSS Code hier ein';
+$lang_settings_js = 'JS Code für gesamte Seite';
+$lang_settings_js_tooltip = 'Füge den JS Code hier ein';
 
 //// Settings: Cache
 $lang_settings_title_cache = 'Cache';
@@ -244,25 +244,25 @@ $lang_settings_cache = 'Frontend Cache einschalten';
 
 //// Settings: Editor
 $lang_settings_title_editor = 'Editor';
-$lang_settings_wysiwyg = 'WYSIWYG Editor in Bl&ouml;cken einschalten (ansonsten HTML und Markdown)';
+$lang_settings_wysiwyg = 'WYSIWYG Editor in Blöcken einschalten (ansonsten HTML und Markdown)';
 $lang_settings_upload = 'Erlaubte Dateien für den Upload';
 $lang_settings_upload_tooltip = 'Benutze Komma und die Dateiendungen zu separieren';
 $lang_settings_wysiwygpages = 'WYSIWYG Editor in Seiten einschalten (ansonsten HTML und Markdown)';
 
 //// Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Made in Pulse';
-$lang_settings_made_in_pulse       = 'Made in Pulse Badge hinzugef&uuml;gt';
+$lang_settings_made_in_pulse       = 'Made in Pulse Badge hinzugefügt';
 $lang_settings_made_in_pulse_label = 'Aktiviere made-in-pulse Inhalt für Template';
 
 //// Settings: Media
 $lang_settings_title_media = 'Media';
-$lang_settings_jpeg = 'JPEG Qualit&auml;t';
-$lang_settings_jpeg_tooltip = 'Benutze 100 f&uuml;r volle JPEG Qualit&auml;t (gr&ouml;&szlig;ere Dateien)';
-$lang_settings_jpegresample = 'JPEG &Uuml;berarbeitung "aus"';
-$lang_settings_jpegsize = 'JPEG Qualit&auml;t';
-$lang_settings_jpegsize_tooltip = 'Skaliere JPEGs zu einer maximalen Bildgr&ouml;&szlig;e (H&ouml;he)';
-$lang_settings_thumbheight = 'H&ouml;he des Vorschaubildes';
-$lang_settings_thumbheight_tooltip = 'H&ouml;he in px';
+$lang_settings_jpeg = 'JPEG Qualität';
+$lang_settings_jpeg_tooltip = 'Benutze 100 für volle JPEG Qualität (größere Dateien)';
+$lang_settings_jpegresample = 'JPEG überarbeitung "aus"';
+$lang_settings_jpegsize = 'JPEG Qualität';
+$lang_settings_jpegsize_tooltip = 'Skaliere JPEGs zu einer maximalen Bildgröße (Höhe)';
+$lang_settings_thumbheight = 'Höhe des Vorschaubildes';
+$lang_settings_thumbheight_tooltip = 'Höhe in px';
 $lang_settings_thumb = 'Vorschaubilder generieren';
 
 //// Settings: Navigation
@@ -273,12 +273,12 @@ $lang_settings_title_managenavigation = 'Seitennavigation bearbeiten';
 //// Settings: Google Analytics
 $lang_settings_title_google = 'Google Analytics';
 $lang_settings_google = 'Analytics Tracking Code';
-$lang_settings_google_tooltip = 'F&uuml;ge den Analytics Tracking Code hier ein';
+$lang_settings_google_tooltip = 'Füge den Analytics Tracking Code hier ein';
 
 //// Settings: GeoIP
 $lang_settings_title_geoip = 'GeoIP';
-$lang_settings_geoip       = 'GeoIP Daten f&uuml;r Seitenstatistik';
-$lang_settings_geoip_label = 'Aktiviere GeoIP f&uuml;r Statistiken hier';
+$lang_settings_geoip       = 'GeoIP Daten für Seitenstatistik';
+$lang_settings_geoip_label = 'Aktiviere GeoIP für Statistiken hier';
 
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';
@@ -288,10 +288,10 @@ $lang_settings_ogp_tooltip = 'Relativer oder absoluter Link';
 //// Settings: Blog
 $lang_settings_title_blog = 'Blog';
 $lang_settings_blogresults = 'Resultate pro Seite';
-$lang_settings_blogresults_tooltip = 'Blogbeitr&auml;ge pro Seite';
+$lang_settings_blogresults_tooltip = 'Blogbeiträge pro Seite';
 $lang_settings_blogdisqus = 'Disqus Kommentare einschalten';
 $lang_settings_blogdisqususer = 'Disqus Benutzername';
-$lang_settings_blogdisqususer_tooltip = 'F&uuml;ge den Disqus Konto Kurznamen hier ein';
+$lang_settings_blogdisqususer_tooltip = 'Füge den Disqus Konto Kurznamen hier ein';
 $lang_settings_blogdate = 'Datumsformat';
 $lang_settings_blogdate_tooltip = 'PHP Datumsformat. Weitere Informationen: https://php.net/manual/en/function.date.php';
 $lang_settings_blogmasonry = 'Blog Masonry Layout einschalten';
@@ -312,7 +312,7 @@ $lang_settings_rssurlprefix_tooltip = '(blog) wird zu blog-1-post-title, auch in
 //// Settings: SMTP Settings
 $lang_settings_title_smtp = 'SMTP Einstellungen';
 $lang_settings_smtpusername = 'SMTP Benutzername';
-$lang_settings_smtpusername_tooltip = 'Nur ausf&uuml;llen, wenn SMTP benutzt wird';
+$lang_settings_smtpusername_tooltip = 'Nur ausfüllen, wenn SMTP benutzt wird';
 $lang_settings_smtppassword = 'SMTP Passwort';
 $lang_settings_smtppassword_tooltip = 'Passwort';
 $lang_settings_smtphost = 'SMTP Host';
@@ -335,17 +335,17 @@ $lang_settings_forminputemail_tooltip = 'E-Mail';
 $lang_settings_forminputtel = 'Telefon Eingabefeld';
 $lang_settings_forminputtel_tooltip = 'Text';
 
-$lang_settings_formnamename = 'Text f&uuml;r Name';
+$lang_settings_formnamename = 'Text für Name';
 $lang_settings_formnamename_tooltip = 'Name';
-$lang_settings_formemailname = 'Text f&uuml;r Email';
+$lang_settings_formemailname = 'Text für Email';
 $lang_settings_formemailname_tooltip = 'Email';
-$lang_settings_formtextarea = 'H&ouml;he Eingabefeld';
+$lang_settings_formtextarea = 'Höhe Eingabefeld';
 $lang_settings_formtextarea_tooltip = 'Anzahl der Reihen im Kommentar Eingabefeld';
-$lang_settings_formemail = 'Empf&auml;nger Kontaktformular';
-$lang_settings_formemail_tooltip = 'Mehere Empf&auml;nger mit Komma trennen';
+$lang_settings_formemail = 'Empfänger Kontaktformular';
+$lang_settings_formemail_tooltip = 'Mehere Empfänger mit Komma trennen';
 $lang_settings_formsubject = 'Betreffzeile Kontaktformular';
 $lang_settings_formsubject_tooltip = 'Du hast eine E-Mail bekommen';
-$lang_settings_formthanks = 'Automatische Best&auml;tigung nach Absendung einschalten';
+$lang_settings_formthanks = 'Automatische Bestätigung nach Absendung einschalten';
 $lang_settings_formredirect = 'Weiterleitung nach Absendung';
 $lang_settings_formredirect_tooltip = 'http://deineseite.de/danke';
 
@@ -357,10 +357,10 @@ $lang_settings_otpsecret_tooltip = 'Zu bekommen von OTP Mobilapplikationen, wie 
 
 //// Settings: reCAPTCHA
 $lang_settings_title_recap = 'reCAPTCHA';
-$lang_settings_recapkey = 'reCAPTCHA Seitenschl&uuml;ssel';
-$lang_settings_recapkey_tooltip = 'Zu bekommen &uuml;ber Google Konto: https://www.google.com/recaptcha';
+$lang_settings_recapkey = 'reCAPTCHA Seitenschlüssel';
+$lang_settings_recapkey_tooltip = 'Zu bekommen über Google Konto: https://www.google.com/recaptcha';
 $lang_settings_recapkeysecret = 'reCAPTCHA Geheimnis';
-$lang_settings_recapkeysecret_tooltip = 'Zu bekommen &uuml;ber Google Konto: https://www.google.com/recaptcha';
+$lang_settings_recapkeysecret_tooltip = 'Zu bekommen über Google Konto: https://www.google.com/recaptcha';
 
 //// Settings: Permissions
 $lang_settings_title_editor = 'Editor Benutzer';
@@ -368,19 +368,19 @@ $lang_settings_editor = 'Editor Benutzer einschalten';
 $lang_settings_editorpass = 'Editor Passwort';
 $lang_settings_editorpass_tooltip = 'Etwas, was schwer zu erahnen ist';
 $lang_settings_editoruser = 'Editor Benutzername';
-$lang_settings_editoruser_tooltip = 'Benutzt als Anzeigename f&uuml;r Blogbeitr&auml;ge';
+$lang_settings_editoruser_tooltip = 'Benutzt als Anzeigename für Blogbeiträge';
 
 $lang_settings_title_editorotp = 'Einmal Passwort Einstellungen (Editor)';
 $lang_settings_editorotpactivate = 'Einmal Passwort einschalten';
 $lang_settings_editorotpsecret = 'Einmal Passwort Geheimnis';
 $lang_settings_editorotpsecret_tooltip = 'Zu bekommen von OTP Mobilapplikationen, wie bspw. Google Authenticator';
 
-$lang_settings_title_editoraccess = 'Dem Editor erlauben, auf einige (oder alle) dieser Bl&ouml;cke zuzugreifen:';
+$lang_settings_title_editoraccess = 'Dem Editor erlauben, auf einige (oder alle) dieser Blöcke zuzugreifen:';
 $lang_settings_title_editorpagesaccess = 'Dem Editor erlauben, auf einige (oder alle) dieser Seiten zuzugreifen:';
 
 //// Settings: Extend
 $lang_settings_title_themes = 'Themen';
-$lang_settings_themeselect = 'Ausgew&auml;hltes Theme';
+$lang_settings_themeselect = 'Ausgewähltes Theme';
 $lang_settings_themeupload = 'Theme ZIP hochladen';
 
 $lang_settings_title_plugins = 'Plugins';
@@ -398,24 +398,24 @@ $lang_settings_mediaupload = 'Eine Mediendatei hochladen';
 //// Settings: Navigation
 $lang_settings_navigationtitle = 'Die Navigationslinks bearbeiten';
 $lang_settings_navigationsubtitle = 'Ziehen und verschieben, um die Liste neu zu ordnen.';
-$lang_settings_navigationsubmenu = 'Untermen&uuml;punkt anlegen';
+$lang_settings_navigationsubmenu = 'Untermenüpunkt anlegen';
 
 //// Settings: Custom Post Type
-$lang_settings_custompostentries = 'Eigener Post Typ f&uuml;r:';
-$lang_settings_custompostadd = 'Neuen Eintrag hinzuf&uuml;gen';
+$lang_settings_custompostentries = 'Eigener Post Typ für:';
+$lang_settings_custompostadd = 'Neuen Eintrag hinzufügen';
 
-$lang_settings_title_custompostedit = 'Eigener Post Typ f&uuml;r:';
-$lang_settings_custompostback = '< Zur&uuml;ck zur Liste';
+$lang_settings_title_custompostedit = 'Eigener Post Typ für:';
+$lang_settings_custompostback = '< Zurück zur Liste';
 $lang_settings_custompostname = 'Name des Post';
 
 $lang_settings_custompostdelete = 'eigener Post Typ';
 
-$lang_settings_custompostaddentry = 'Eigener Post Typ anlegen f&uuml;r:';
+$lang_settings_custompostaddentry = 'Eigener Post Typ anlegen für:';
 
 $lang_settings_customposttypes = 'Eigene Post Typen';
-$lang_settings_custompostmanage = 'Eintr&auml;ge verwalten';
+$lang_settings_custompostmanage = 'Einträge verwalten';
 $lang_settings_custompostmanageedit = 'Editieren';
-$lang_settings_custompostmanageadd = 'Einen neuen eigenen Post Typ hinzuf&uuml;gen';
+$lang_settings_custompostmanageadd = 'Einen neuen eigenen Post Typ hinzufügen';
 
 $lang_settings_title_custompostedit_title = 'Einen eigenen Post Typen';
 $lang_settings_title_custompostedit_titlein = 'Einen eigenen Post Typen pflegen:';
