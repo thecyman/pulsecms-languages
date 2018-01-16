@@ -87,10 +87,13 @@ $lang_create_file_or_folder_block = "Nieuw Block";
 $lang_create_file_or_folder_blog = "Nieuwe Blog";
 $lang_create_file_or_folder_page = "Nieuwe Pagina";
 $lang_create_file_or_folder_media = "Nieuwe Media";
+
 $lang_create_item_block = 'Block Item';
 $lang_create_item_blog = 'Blog Item';
 $lang_create_item_page = 'Pagina';
 $lang_create_item_media = 'Media Item';
+$lang_create_item_folder = 'Map';
+
 $lang_create_button = "Maak"; 
 $lang_create_tool_tip = "Pagina's, blocks en blog-posts moeten eindigen met '.txt', dat wordt automatisch toegevoegd. Om een map of blog aan te maken selecteer Map of Blog en Maak.";
 $lang_create_embed = "Invoegen";

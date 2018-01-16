@@ -95,6 +95,7 @@ $lang_create_item_block = 'Block';
 $lang_create_item_blog  = 'Blogeintrag';
 $lang_create_item_page  = 'Seite';
 $lang_create_item_media = 'Medieneintrag';
+$lang_create_item_folder = 'Ordner';
 
 $lang_create_button = "Erstellen";
 $lang_create_tool_tip = "Seiten, Blöcke und Blogeinträge müssen mit '.txt' enden, was automatisch hinzugefügt wird. Um einen Ordner oder neuen Blog zu erstellen, wähle Ordner oder Blog im Optionsfeld und klicke auf Erstellen.";

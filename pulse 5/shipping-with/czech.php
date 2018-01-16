@@ -86,10 +86,13 @@ $lang_create_file_or_folder_block = "Nový Blok";
 $lang_create_file_or_folder_blog  = "Nový Blog";
 $lang_create_file_or_folder_page  = "Nová Stránka";
 $lang_create_file_or_folder_media = "Nová Média";
+
 $lang_create_item_block = 'Vytvořit Blok';
 $lang_create_item_blog  = 'Vytvořit Blog';
 $lang_create_item_page  = 'Vytvoření stránky';
 $lang_create_item_media = 'Vytvořte položku Média';
+$lang_create_item_folder = 'Složka';
+
 $lang_create_button = "Vytvořit"; 
 $lang_create_tool_tip = "Stránky, bloky a příspěvky na blogu musí končit příponou '.txt'. Chcete-li vytvořit složku, neuvadejte příponou '.txt'.";
 $lang_create_embed = "Odkaz";

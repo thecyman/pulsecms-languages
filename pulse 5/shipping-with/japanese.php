@@ -92,6 +92,7 @@ $lang_create_item_block = 'ブロックアイテム';
 $lang_create_item_blog  = 'ブログアイテム';
 $lang_create_item_page  = 'ページ';
 $lang_create_item_media = 'メディアアイテム';
+$lang_create_item_folder = 'フォルダー';
 
 $lang_create_button = "新規作成"; 
 $lang_create_tool_tip = "'.txt'形式で入力したページ、ブロック、ブログの投稿は自動的に追加されます。フォルダまたは新しいブログを作成するには、[フォルダ]または[ブログ]を選択して[作成]を選択します。";

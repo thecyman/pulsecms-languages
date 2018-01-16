@@ -46,7 +46,7 @@ $lang_home_preview = "Preview";
 
 // Navigation
 $lang_nav_title = "Navigation";
-$lang_nav_home = "Home";
+$lang_nav_home = "Dashboard";
 $lang_nav_blocks = "Blocks";
 $lang_nav_img = "Media";
 $lang_nav_blog = "Blog";
@@ -95,6 +95,7 @@ $lang_create_item_block = 'Block Item';
 $lang_create_item_blog  = 'Blog Item';
 $lang_create_item_page  = 'Page';
 $lang_create_item_media = 'Media Item';
+$lang_create_item_folder = 'Folder';
 
 $lang_create_button = "Create"; 
 $lang_create_tool_tip = "Pages, blocks and blog posts must end with '.txt', which will be automatically added. To create a folder or new blog, select Folder or Blog and Create.";

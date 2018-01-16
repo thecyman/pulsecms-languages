@@ -86,10 +86,13 @@ $lang_create_file_or_folder_block = "Új Blokk";
 $lang_create_file_or_folder_blog = "Új Blog";
 $lang_create_file_or_folder_page = "Új Oldal";
 $lang_create_file_or_folder_media = "Új Média";
+
 $lang_create_item_block = 'Blokk létrehozása';
 $lang_create_item_blog = 'Blog létrehozása';
 $lang_create_item_page = 'Oldal létrehozása';
 $lang_create_item_media = 'Média létrehozása';
+$lang_create_item_folder = 'Mappa';
+
 $lang_create_button = "Létrehozása";
 $lang_create_tool_tip = "Az oldalak, blokkok és blogbejegyzéseknek '.txt'-el kell végződniük. Ahhoz, hogy hozzon létre egy mappát, ne adjon hozzá '.txt'";
 $lang_create_embed = "Beágyaz";

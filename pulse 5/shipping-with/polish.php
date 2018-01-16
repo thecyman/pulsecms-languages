@@ -86,10 +86,13 @@ $lang_create_file_or_folder_block = "Nowy Blok";
 $lang_create_file_or_folder_blog  = "Nowy Blog";
 $lang_create_file_or_folder_page  = "Nowa Strona";
 $lang_create_file_or_folder_media = "Nowe Media";
+
 $lang_create_item_block = 'Utwórz Blok';
 $lang_create_item_blog  = 'Utwórz Blog';
 $lang_create_item_page  = 'Stwórz stronę';
 $lang_create_item_media = 'Tworzyć Media';
+$lang_create_item_folder = 'Folder';
+
 $lang_create_button = "Utwórz";
 $lang_create_tool_tip = "Nowa strona, blog i blok musi kończyć się „.txt”. Aby utworzyć folder, nie należy dodawać żadnego przyrostka.";
 $lang_create_embed = "Osadzać";
