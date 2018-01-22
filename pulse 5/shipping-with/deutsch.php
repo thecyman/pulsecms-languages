@@ -255,6 +255,9 @@ $lang_settings_title_made_in_pulse = 'Made in Pulse';
 $lang_settings_made_in_pulse       = 'Made in Pulse Badge hinzugefügt';
 $lang_settings_made_in_pulse_label = 'Aktiviere made-in-pulse Inhalt für Template';
 
+$lang_settings_theme_meta_author_show       = 'Show author meta in theme';
+$lang_settings_theme_meta_author_show_label = 'Show author meta in theme';
+
 //// Settings: Media
 $lang_settings_title_media = 'Media';
 $lang_settings_jpeg = 'JPEG Qualität';
@@ -320,6 +323,13 @@ $lang_settings_smtphost = 'SMTP Host';
 $lang_settings_smtphost_tooltip = 'mail.server.com';
 $lang_settings_smtpport = 'SMTP Port';
 $lang_settings_smtpport_tooltip = '465';
+
+//// Settings: SweetAlert
+$lang_settings_title_sweetalert = 'SweetAlert Settings';
+$lang_settings_sweetalert_active_tooltip  = 'Activate alerts';
+$lang_settings_sweetalert_active          = 'Activate';
+$lang_settings_sweetalert_timeout_tooltip = 'Timeout delay (milliseconds)';
+$lang_settings_sweetalert_timeout         = 'Timeout';
 
 //// Settings: Pagination
 $lang_settings_title_pagination = 'Seitenumbruch';

@@ -252,6 +252,9 @@ $lang_settings_title_made_in_pulse = 'Made in Pulse';
 $lang_settings_made_in_pulse       = 'Made in Pulseバッジを付ける';
 $lang_settings_made_in_pulse_label = 'Enable made-in-pulse content for template';
 
+$lang_settings_theme_meta_author_show       = 'オーサーメタをテンプレートに表示する';
+$lang_settings_theme_meta_author_show_label = 'オーサーメタをテンプレートに表示する';
+
 //// Settings: Media
 $lang_settings_title_media = 'メディア';
 $lang_settings_jpeg = 'JPEG画質';
@@ -276,7 +279,7 @@ $lang_settings_google_tooltip = 'Googleアナリティクストラッキング�
 //// Settings: GeoIP
 $lang_settings_title_geoip = 'GeoIP';
 $lang_settings_geoip       = 'サイトスタッツへのGeoIPデータ';
-$lang_settings_geoip_label = 'Enable GeoIP for stats here';
+$lang_settings_geoip_label = 'サイトスタッツへのGeoIPデータ';
 
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';
@@ -306,6 +309,13 @@ $lang_settings_smtphost = 'SMTPホスト';
 $lang_settings_smtphost_tooltip = 'mail.server.com';
 $lang_settings_smtpport = 'SMTPポート';
 $lang_settings_smtpport_tooltip = '465';
+
+//// Settings: SweetAlert
+$lang_settings_title_sweetalert = 'ポップアップ通知を設定';
+$lang_settings_sweetalert_active_tooltip  = 'アクティベート通知';
+$lang_settings_sweetalert_active          = 'アクティベート';
+$lang_settings_sweetalert_timeout_tooltip = 'タイムアウトまでの時間を設定 (1/1000秒)';
+$lang_settings_sweetalert_timeout         = 'タイムアウト';
 
 //// Settings: Pagination
 $lang_settings_title_pagination = 'ページネーション';
