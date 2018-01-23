@@ -397,6 +397,12 @@ $lang_settings_navigationtitle = 'ナビゲーションリンクを管理';
 $lang_settings_navigationsubtitle = 'ドラッグ＆ドロップでリストを並べ替え.';
 $lang_settings_navigationsubmenu = 'サブメニューを追加';
 
+$lang_settings_navigation_non_pulse_page = '外部サイトを追加';
+$lang_settings_navigation_non_pulse_name = '表示名';
+$lang_settings_navigation_non_pulse_url  = 'URL';
+
+$lang_settings_navigation_activate = 'アクティベート';
+
 //// Settings: Custom Post Type
 $lang_settings_custompostentries = 'カスタム投稿タイプのエントリ:';
 $lang_settings_custompostadd = '新規エントリを追加';

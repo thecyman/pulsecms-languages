@@ -395,6 +395,12 @@ $lang_settings_navigationtitle = 'Zarządzaj linków nawigacyjnych';
 $lang_settings_navigationsubtitle = 'Przeciągnij i upuść, aby zmienić kolejność listy.';
 $lang_settings_navigationsubmenu = 'Dodaj podmenu';
 
+$lang_settings_navigation_non_pulse_page = 'Add non Pulse item';
+$lang_settings_navigation_non_pulse_name = 'Name';
+$lang_settings_navigation_non_pulse_url  = 'URL';
+
+$lang_settings_navigation_activate = 'Activate';
+
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Własne wpisy pocztowe dla:';
 $lang_settings_custompostadd = 'Dodaj nowy wpis';

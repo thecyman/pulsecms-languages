@@ -395,6 +395,12 @@ $lang_settings_navigationtitle = 'Správa navigačných odkazov';
 $lang_settings_navigationsubtitle = 'Potiahnutím a presunutím zmeňte poradie zoznamu.';
 $lang_settings_navigationsubmenu = 'Pridajte podmenu';
 
+$lang_settings_navigation_non_pulse_page = 'Add non Pulse item';
+$lang_settings_navigation_non_pulse_name = 'Name';
+$lang_settings_navigation_non_pulse_url  = 'URL';
+
+$lang_settings_navigation_activate = 'Activate';
+
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Vlastné príspevky pre položky typu:';
 $lang_settings_custompostadd = 'Pridajte nový záznam';

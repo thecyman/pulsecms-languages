@@ -395,6 +395,12 @@ $lang_settings_navigationtitle = 'A navigációs hivatkozások kezelése';
 $lang_settings_navigationsubtitle = 'A lista átrendezéséhez húzza és vidd.';
 $lang_settings_navigationsubmenu = 'Adja hozzá az almenüt';
 
+$lang_settings_navigation_non_pulse_page = 'Add non Pulse item';
+$lang_settings_navigation_non_pulse_name = 'Name';
+$lang_settings_navigation_non_pulse_url  = 'URL';
+
+$lang_settings_navigation_activate = 'Activate';
+
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Egyéni bejegyzéstípus bejegyzések:';
 $lang_settings_custompostadd = 'Új bejegyzés hozzáadása';

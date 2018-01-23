@@ -399,6 +399,12 @@ $lang_settings_navigationtitle = 'Beheer navigatie links';
 $lang_settings_navigationsubtitle = 'Sleep de menu-items om te herordenen.';
 $lang_settings_navigationsubmenu = 'Voeg sub-menu toe';
 
+$lang_settings_navigation_non_pulse_page = 'Add non Pulse item';
+$lang_settings_navigation_non_pulse_name = 'Name';
+$lang_settings_navigation_non_pulse_url  = 'URL';
+
+$lang_settings_navigation_activate = 'Activate';
+
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Custom post-type entries voor:';
 $lang_settings_custompostadd = 'Voeg een nieuwe entry toe';

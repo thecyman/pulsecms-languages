@@ -411,6 +411,12 @@ $lang_settings_navigationtitle = 'Die Navigationslinks bearbeiten';
 $lang_settings_navigationsubtitle = 'Ziehen und verschieben, um die Liste neu zu ordnen.';
 $lang_settings_navigationsubmenu = 'Untermenüpunkt anlegen';
 
+$lang_settings_navigation_non_pulse_page = 'Add non Pulse item';
+$lang_settings_navigation_non_pulse_name = 'Name';
+$lang_settings_navigation_non_pulse_url  = 'URL';
+
+$lang_settings_navigation_activate = 'Activate';
+
 //// Settings: Custom Post Type
 $lang_settings_custompostentries = 'Eigener Post Typ für:';
 $lang_settings_custompostadd = 'Neuen Eintrag hinzufügen';

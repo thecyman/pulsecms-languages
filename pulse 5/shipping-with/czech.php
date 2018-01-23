@@ -395,6 +395,12 @@ $lang_settings_navigationtitle = 'Spravovat navigační odkazy';
 $lang_settings_navigationsubtitle = 'Přetáhněte a přesunte, chcete-li změnit pořadí seznamu.';
 $lang_settings_navigationsubmenu = 'Přidat podnabídku';
 
+$lang_settings_navigation_non_pulse_page = 'Add non Pulse item';
+$lang_settings_navigation_non_pulse_name = 'Name';
+$lang_settings_navigation_non_pulse_url  = 'URL';
+
+$lang_settings_navigation_activate = 'Activate';
+
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Vlastní položky příspěvku pro:';
 $lang_settings_custompostadd = 'Přidat novou položku';
