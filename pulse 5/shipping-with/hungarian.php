@@ -349,6 +349,11 @@ $lang_settings_formthanks = 'Engedélyezze az automatikus köszönetet a válasz
 $lang_settings_formredirect = 'Átirányítani a köszönetet';
 $lang_settings_formredirect_tooltip = 'http://sajatwebhely.hu/kosz';
 
+$lang_settings_formcomment             = 'Text/Label for comment';
+$lang_settings_formcommentname_tooltip = 'Comment';
+$lang_settings_formphone               = 'Text/Label for phone';
+$lang_settings_formphonename_tooltip   = 'Phone';
+
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Egyszeri jelszó beállítása (Adminisztrátor)';
 $lang_settings_otpactivate = 'Az egyszeri jelszó aktiválása';

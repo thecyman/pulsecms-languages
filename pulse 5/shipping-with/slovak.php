@@ -349,6 +349,11 @@ $lang_settings_formthanks = 'Po odoslaní povoľte automatickú odpoveď poďako
 $lang_settings_formredirect = 'Presmerovanie na poďakovanie';
 $lang_settings_formredirect_tooltip = 'http://moj_web.sk/podakovanie';
 
+$lang_settings_formcomment             = 'Text/Label for comment';
+$lang_settings_formcommentname_tooltip = 'Comment';
+$lang_settings_formphone               = 'Text/Label for phone';
+$lang_settings_formphonename_tooltip   = 'Phone';
+
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Nastavenia jednorazového hesla (Admin)';
 $lang_settings_otpactivate = 'Aktivovať jednorazové heslo';

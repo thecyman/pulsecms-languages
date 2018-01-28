@@ -360,6 +360,11 @@ $lang_settings_formthanks = 'Automatische Bestätigung nach Absendung einschalte
 $lang_settings_formredirect = 'Weiterleitung nach Absendung';
 $lang_settings_formredirect_tooltip = 'http://deineseite.de/danke';
 
+$lang_settings_formcomment             = 'Text/Label for comment';
+$lang_settings_formcommentname_tooltip = 'Comment';
+$lang_settings_formphone               = 'Text/Label for phone';
+$lang_settings_formphonename_tooltip   = 'Phone';
+
 //// Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Einmal Passwort Einstellungen (Admin)';
 $lang_settings_otpactivate = 'Einmal Passwort einschalten';

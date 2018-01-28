@@ -349,6 +349,11 @@ $lang_settings_formthanks = 'Włącz automatyczną odpowiedź dziękuję po wys�
 $lang_settings_formredirect = 'Dzięki przekierowania';
 $lang_settings_formredirect_tooltip = 'http://twoj_portal.pl/dzięki';
 
+$lang_settings_formcomment             = 'Text/Label for comment';
+$lang_settings_formcommentname_tooltip = 'Comment';
+$lang_settings_formphone               = 'Text/Label for phone';
+$lang_settings_formphonename_tooltip   = 'Phone';
+
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Ustawienia haseł jednorazowych (administrator)';
 $lang_settings_otpactivate = 'Aktywuj jedno-czasowe hasło';

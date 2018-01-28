@@ -359,6 +359,11 @@ $lang_settings_formthanks = 'Enable automatic thank you reply after submission';
 $lang_settings_formredirect = 'Submission redirect';
 $lang_settings_formredirect_tooltip = 'http://yoursite.com/thanks';
 
+$lang_settings_formcomment             = 'Text/Label for comment';
+$lang_settings_formcommentname_tooltip = 'Comment';
+$lang_settings_formphone               = 'Text/Label for phone';
+$lang_settings_formphonename_tooltip   = 'Phone';
+
 //// Settings: OTP One-Time Password
 $lang_settings_title_otp = 'One Time Password settings (Admin)';
 $lang_settings_otpactivate = 'Activate One Time Password';

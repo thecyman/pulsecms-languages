@@ -346,6 +346,11 @@ $lang_settings_formthanks = '自動返信メールの送信を有効にする';
 $lang_settings_formredirect = '送信リダイレクト';
 $lang_settings_formredirect_tooltip = 'http://site.com/thanks';
 
+$lang_settings_formcomment             = 'コメントのテキスト';
+$lang_settings_formcommentname_tooltip = 'コメント';
+$lang_settings_formphone               = '電話のテキスト';
+$lang_settings_formphonename_tooltip   = '電話';
+
 //// Settings: OTP One-Time Password
 $lang_settings_title_otp = 'ワンタイムパスワードの設定 (アドミン)';
 $lang_settings_otpactivate = 'ワンタイムパスワードを有効にする';

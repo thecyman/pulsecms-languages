@@ -349,6 +349,11 @@ $lang_settings_formthanks = 'Po odeslání povolte automatickou odpověď díky'
 $lang_settings_formredirect = 'Přesměrování poděkování';
 $lang_settings_formredirect_tooltip = 'http://muj_web.cs/diky';
 
+$lang_settings_formcomment             = 'Text/Label for comment';
+$lang_settings_formcommentname_tooltip = 'Comment';
+$lang_settings_formphone               = 'Text/Label for phone';
+$lang_settings_formphonename_tooltip   = 'Phone';
+
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Nastavení jednorázového hesla (Správce)';
 $lang_settings_otpactivate = 'Aktivujte jednoúčelové heslo';
