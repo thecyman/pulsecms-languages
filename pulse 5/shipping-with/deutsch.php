@@ -68,7 +68,7 @@ $lang_gal_dimensions = "Dimensionen";
 $lang_gal_size = "Größe";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
-$lang_gallery_tool_tip = "Um eine Lightbox Galerie zu erstellen, müsst Du hier einen neuen Ordner mit Bildern erstellen. Zum einfügen der Galerie nutze die Embed Tags.";
+$lang_gallery_tool_tip = "Um eine Lightbox Galerie zu erstellen, musst Du hier einen neuen Ordner mit Bildern erstellen. Zum einfügen der Galerie nutze die Embed Tags.";
 $lang_crop = 'Zuschneiden';
 $lang_media_order = 'Reihenfolge';
 $lang_media_replace = 'Austauschen';
@@ -132,7 +132,7 @@ $lang_blog_read_more = 'Weiterlesen';
 $lang_blog_back_button = 'Zurück';
 $lang_blog_older = 'ältere Beiträge';
 $lang_blog_newer = 'Neuere Beiträge';
-$lang_blog_error_folder = "Sie können keine Ordner im $lang_nav_blog erstellen.";
+$lang_blog_error_folder = "DU kannst keine Ordner im $lang_nav_blog erstellen.";
 $lang_blog_tool_tip = "Blogbeiträge sind numerisch geordnet, die höhste Nummer ist der neuste Beitrag.";
 $lang_blog_import = 'Importieren';
 $lang_blog_import_tool_tip = 'Importiere Blog Einträge aus RSS. Der Importer importiert RSS und Atom Formate.';
@@ -152,9 +152,9 @@ $lang_form_error1 = 'Bitte füllen Sie das Feld aus: ';
 $lang_form_error2a = 'Das Feld ';
 $lang_form_error2b = ' ist zu lang.';
 $lang_form_subject_line = 'Kontakt';
-$lang_form_email_sent = 'Ihre E-Mail wurde gesendet.';
+$lang_form_email_sent = 'Deine E-Mail wurde gesendet.';
 $lang_form_sent_button = 'Abschicken';
-$lang_auto_thank_contact = 'Danke für Ihre E-Mail - Wir haben diese empfangen und werden Ihnen bald antworten.';
+$lang_auto_thank_contact = 'Danke für Deine E-Mail - Wir haben diese empfangen und werden Dir bald antworten.';
 
 //Newsletter Form
 $lang_newsletter_thanks ='Danke!';
@@ -255,14 +255,14 @@ $lang_settings_title_made_in_pulse = 'Made in Pulse';
 $lang_settings_made_in_pulse       = 'Made in Pulse Badge hinzugefügt';
 $lang_settings_made_in_pulse_label = 'Aktiviere made-in-pulse Inhalt für Template';
 
-$lang_settings_theme_meta_author_show       = 'Show author meta in theme';
-$lang_settings_theme_meta_author_show_label = 'Show author meta in theme';
+$lang_settings_theme_meta_author_show       = 'Author Metadaten in Theme anzeigen';
+$lang_settings_theme_meta_author_show_label = 'Author Metadaten in Theme anzeigen';
 
 //// Settings: Media
 $lang_settings_title_media = 'Media';
 $lang_settings_jpeg = 'JPEG Qualität';
 $lang_settings_jpeg_tooltip = 'Benutze 100 für volle JPEG Qualität (größere Dateien)';
-$lang_settings_jpegresample = 'JPEG überarbeitung "aus"';
+$lang_settings_jpegresample = 'JPEG Überarbeitung "aus"';
 $lang_settings_jpegsize = 'JPEG Qualität';
 $lang_settings_jpegsize_tooltip = 'Skaliere JPEGs zu einer maximalen Bildgröße (Höhe)';
 $lang_settings_thumbheight = 'Höhe des Vorschaubildes';
@@ -325,11 +325,11 @@ $lang_settings_smtpport = 'SMTP Port';
 $lang_settings_smtpport_tooltip = '465';
 
 //// Settings: SweetAlert
-$lang_settings_title_sweetalert = 'SweetAlert Settings';
-$lang_settings_sweetalert_active_tooltip  = 'Activate alerts';
-$lang_settings_sweetalert_active          = 'Activate';
-$lang_settings_sweetalert_timeout_tooltip = 'Timeout delay (milliseconds)';
-$lang_settings_sweetalert_timeout         = 'Timeout';
+$lang_settings_title_sweetalert = 'SweetAlert Einstellungen';
+$lang_settings_sweetalert_active_tooltip  = 'Benachrichtungen aktivieren';
+$lang_settings_sweetalert_active          = 'Aktivieren';
+$lang_settings_sweetalert_timeout_tooltip = 'Zeitverzögerung (Millisekunden)';
+$lang_settings_sweetalert_timeout         = 'Zeitverzögerung';
 
 //// Settings: Pagination
 $lang_settings_title_pagination = 'Seitenumbruch';
@@ -360,10 +360,10 @@ $lang_settings_formthanks = 'Automatische Bestätigung nach Absendung einschalte
 $lang_settings_formredirect = 'Weiterleitung nach Absendung';
 $lang_settings_formredirect_tooltip = 'http://deineseite.de/danke';
 
-$lang_settings_formcomment             = 'Text/Label for comment';
-$lang_settings_formcommentname_tooltip = 'Comment';
-$lang_settings_formphone               = 'Text/Label for phone';
-$lang_settings_formphonename_tooltip   = 'Phone';
+$lang_settings_formcomment             = 'Text/Label für Kommentare';
+$lang_settings_formcommentname_tooltip = 'Komment';
+$lang_settings_formphone               = 'Text/Label für Telefon';
+$lang_settings_formphonename_tooltip   = 'Telefon';
 
 //// Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Einmal Passwort Einstellungen (Admin)';
@@ -416,11 +416,11 @@ $lang_settings_navigationtitle = 'Die Navigationslinks bearbeiten';
 $lang_settings_navigationsubtitle = 'Ziehen und verschieben, um die Liste neu zu ordnen.';
 $lang_settings_navigationsubmenu = 'Untermenüpunkt anlegen';
 
-$lang_settings_navigation_non_pulse_page = 'Add non Pulse item';
+$lang_settings_navigation_non_pulse_page = 'Nicht-Pulse Punkt hinzufügen';
 $lang_settings_navigation_non_pulse_name = 'Name';
 $lang_settings_navigation_non_pulse_url  = 'URL';
 
-$lang_settings_navigation_activate = 'Activate';
+$lang_settings_navigation_activate = 'Aktivieren';
 
 //// Settings: Custom Post Type
 $lang_settings_custompostentries = 'Eigener Post Typ für:';
