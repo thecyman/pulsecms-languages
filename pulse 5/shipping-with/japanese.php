@@ -436,14 +436,14 @@ $lang_settings_custompostdeffield = 'フィールド';
 $lang_settings_custompostcontent = 'コンテンツ';
 
 // Tags
-$lang_settings_title_tags = 'Tags';
-$lang_settings_manage_tags = 'Manage Tags';
+$lang_settings_title_tags = 'ブログタグ';
+$lang_settings_manage_tags = 'タグを管理';
 
-$lang_settings_tags_title = 'Manage the tags';
-$lang_settings_tags_subtitle = 'Add / Delete tags and descriptions.';
+$lang_settings_tags_title = 'タグを管理';
+$lang_settings_tags_subtitle = 'タグと説明を追加または削除';
 
-$lang_settings_tags_name = 'Name';
-$lang_settings_tags_description = 'Description';
+$lang_settings_tags_name = '名前';
+$lang_settings_tags_description = 'ブログタグの説明';
 
 // Search
 $lang_search_title = '検索';
