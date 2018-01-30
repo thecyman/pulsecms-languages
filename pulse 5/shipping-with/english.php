@@ -448,6 +448,16 @@ $lang_settings_custompostdeftype = 'Type';
 $lang_settings_custompostdeffield = 'Field';
 $lang_settings_custompostcontent = 'Content';
 
+// Tags
+$lang_settings_title_tags = 'Tags';
+$lang_settings_manage_tags = 'Manage Tags';
+
+$lang_settings_tags_title = 'Manage the tags';
+$lang_settings_tags_subtitle = 'Add / Delete tags and descriptions.';
+
+$lang_settings_tags_name = 'Name';
+$lang_settings_tags_description = 'Description';
+
 // Search
 $lang_search_title = 'Search';
 $lang_search_placeholder = 'Search Term';

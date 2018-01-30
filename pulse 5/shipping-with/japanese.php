@@ -435,6 +435,16 @@ $lang_settings_custompostdeftype = 'タイプ';
 $lang_settings_custompostdeffield = 'フィールド';
 $lang_settings_custompostcontent = 'コンテンツ';
 
+// Tags
+$lang_settings_title_tags = 'Tags';
+$lang_settings_manage_tags = 'Manage Tags';
+
+$lang_settings_tags_title = 'Manage the tags';
+$lang_settings_tags_subtitle = 'Add / Delete tags and descriptions.';
+
+$lang_settings_tags_name = 'Name';
+$lang_settings_tags_description = 'Description';
+
 // Search
 $lang_search_title = '検索';
 $lang_search_placeholder = '検索語句';
