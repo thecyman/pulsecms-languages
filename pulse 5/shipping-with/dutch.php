@@ -60,7 +60,7 @@ $lang_nav_logged_in_add_page      = 'Voeg een nieuwe pagina toe';
 
 // Gallery
 $lang_gal_alt_gallery = "alt tag";
-$lang_gal_caption_gallery = "Ruimte voor bijschrift";
+$lang_gal_caption_gallery = "Ruimte voor omschrijving. Dit verschijnt onder de uitvergrote afbeelding van de lightbox gallery.";
 $lang_gal_filename = "Bestandsnaam";
 $lang_gal_dimensions = "Dimensies";
 $lang_gal_size = "Afmeting";
@@ -158,8 +158,8 @@ $lang_newsletter_placeholder = 'Je Email-adres';
 $lang_newsletter_send = 'Inschrijven';
 
 // Redactor
-$lang_redactor_mail_button     = 'Fügt eine E-Mail in einen Text';
-$lang_redactor_mail_link_title = 'E-Mail an mich senden';
+$lang_redactor_mail_button     = 'Voegt een e-mail toe in een tekst';
+$lang_redactor_mail_link_title = 'E-Mail naar mij verzenden';
 
 // Stats
 $lang_stats_today = "Bezoekers";
@@ -185,7 +185,7 @@ $lang_sweetalert_saved = "Opgeslagen";
 // Custom post-types
 $lang_custom_post_type_error_illegal_characters = 'Custom post-type naam bevat ongeldige karakters';
 $lang_custom_post_type_error_illegal_name = 'Custom post-type naam heeft een ongeldige naam';
-$lang_custom_post_type_error_unknown_entry = 'Dit custom post-type entry is onbekend';
+$lang_custom_post_type_error_unknown_entry = 'Dit Custom post-type entry is onbekend';
 
 // Status messages
 $lang_status_ok = 'Data opgeslagen';
@@ -213,7 +213,7 @@ $lang_settings_extend = 'Uitbreiden';
 
 // Settings: General
 $lang_settings_path = 'Pad';
-$lang_settings_path_tooltip = 'Laat leeg als je het ge&iuml;nstalleerd hebt in de root map';
+$lang_settings_path_tooltip = 'Laat leeg als je Pulse CMS ge&iuml;nstalleerd hebt in de root map';
 $lang_settings_admin = 'Admin';
 $lang_settings_admin_tooltip = 'Admin map naam';
 $lang_settings_password = 'Wachtwoord';
@@ -301,7 +301,7 @@ $lang_settings_rsstitle_tooltip = 'Mijn Blog';
 $lang_settings_rssdescription = 'RSS blog omschrijving';
 $lang_settings_rssdescription_tooltip = 'Dit is mijn blog.';
 $lang_settings_rssurl = 'Blog URL';
-$lang_settings_rssurl_tooltip = 'http://example.com/blog';
+$lang_settings_rssurl_tooltip = 'https://example.com/blog';
 $lang_settings_rsslang = 'Datum notatie';
 $lang_settings_rsslang_tooltip = 'nl';
 $lang_settings_rssurlprefix = 'Blog URL prefix';
@@ -378,9 +378,9 @@ $lang_settings_editorpass = 'Editor password';
 $lang_settings_editorpass_tooltip = 'Iets wat moeilijk te raden is';
 $lang_settings_editoruser = 'Editor username';
 $lang_settings_editoruser_tooltip = 'Wordt gebruikt om een naam te tonen voor Blog posts';
-$lang_settings_title_editorotp = 'One Time Password settings (Editor)';
-$lang_settings_editorotpactivate = 'Activeer One Time Password';
-$lang_settings_editorotpsecret = 'One Time Password secret';
+$lang_settings_title_editorotp = 'Eenmalige wachtwoord settings (Editor)';
+$lang_settings_editorotpactivate = 'Activeer Eenmalige Wachtwoord';
+$lang_settings_editorotpsecret = 'Geheim Eenmalig Wachtwoord';
 $lang_settings_editorotpsecret_tooltip = 'Haal op van OTP mobile app, zoals Google Authenticator';
 $lang_settings_title_editoraccess = 'Geef de Editor toegang tot deze (of alle) blocks:';
 $lang_settings_title_editorpagesaccess = "Geef de Editor toegang tot deze (of alle) pagina's:";
@@ -404,11 +404,11 @@ $lang_settings_navigationtitle = 'Beheer navigatie links';
 $lang_settings_navigationsubtitle = 'Sleep de menu-items om te herordenen.';
 $lang_settings_navigationsubmenu = 'Voeg sub-menu toe';
 
-$lang_settings_navigation_non_pulse_page = 'Add non Pulse item';
-$lang_settings_navigation_non_pulse_name = 'Name';
+$lang_settings_navigation_non_pulse_page = 'Voeg niet-Pulse item toe.';
+$lang_settings_navigation_non_pulse_name = 'Naam';
 $lang_settings_navigation_non_pulse_url  = 'URL';
 
-$lang_settings_navigation_activate = 'Activate';
+$lang_settings_navigation_activate = 'Activeer';
 
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Custom post-type entries voor:';
@@ -433,13 +433,13 @@ $lang_settings_custompostcontent = 'Content';
 
 // Tags
 $lang_settings_title_tags = 'Tags';
-$lang_settings_manage_tags = 'Manage Tags';
+$lang_settings_manage_tags = 'Beheer Tags';
 
-$lang_settings_tags_title = 'Manage the tags';
-$lang_settings_tags_subtitle = 'Add / Delete tags and descriptions.';
+$lang_settings_tags_title = 'Beheer tags';
+$lang_settings_tags_subtitle = 'Voeg toe of verwijder tags en omschrijvingen.';
 
-$lang_settings_tags_name = 'Name';
-$lang_settings_tags_description = 'Description';
+$lang_settings_tags_name = 'Naam';
+$lang_settings_tags_description = 'Omschrijving';
 
 // Search
 $lang_search_title = 'Zoek';
