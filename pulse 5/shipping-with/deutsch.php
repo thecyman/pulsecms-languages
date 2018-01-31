@@ -451,13 +451,13 @@ $lang_settings_custompostcontent = 'Inhalt';
 
 // Tags
 $lang_settings_title_tags = 'Tags';
-$lang_settings_manage_tags = 'Manage Tags';
+$lang_settings_manage_tags = 'Tags bearbeiten';
 
-$lang_settings_tags_title = 'Manage the tags';
-$lang_settings_tags_subtitle = 'Add / Delete tags and descriptions.';
+$lang_settings_tags_title = 'Bearbeitung der Tags';
+$lang_settings_tags_subtitle = 'Hinzufügen / Entfernen von Tags und Beschreibungen.';
 
 $lang_settings_tags_name = 'Name';
-$lang_settings_tags_description = 'Description';
+$lang_settings_tags_description = 'Beschreibungen';
 
 // Search
 $lang_search_title = 'Suche';
