@@ -1,5 +1,5 @@
 <?php
-
+// Lang "HU"
 // Global - Globális
 $lang_cancel = "Mégse";
 $lang_duplicate = "Duplikálás";
@@ -92,7 +92,6 @@ $lang_create_item_blog = 'Blog létrehozása';
 $lang_create_item_page = 'Oldal létrehozása';
 $lang_create_item_media = 'Média létrehozása';
 $lang_create_item_folder = 'Mappa';
-
 $lang_create_button = "Létrehozása";
 $lang_create_tool_tip = "Az oldalak, blokkok és blogbejegyzéseknek '.txt'-el kell végződniük. Ahhoz, hogy hozzon létre egy mappát, ne adjon hozzá '.txt'";
 $lang_create_embed = "Beágyaz";
@@ -244,9 +243,8 @@ $lang_settings_wysiwygpages = 'Engedélyezze a WYSIWYG szerkesztőt a lapokon (e
 $lang_settings_title_made_in_pulse = 'Készült a Pulseba';
 $lang_settings_made_in_pulse = 'Made in Pulse kitűzőt adunk';
 $lang_settings_made_in_pulse_label = 'Engedélyezze a sablonhoz a Made in Pulse jelvényt';
-
-$lang_settings_theme_meta_author_show       = 'Show author meta in theme';
-$lang_settings_theme_meta_author_show_label = 'Show author meta in theme';
+$lang_settings_theme_meta_author_show = 'Helyezze be a téma szerzője';
+$lang_settings_theme_meta_author_show_label = 'Téma szerzőjének megjelenítése a meta tag címkéjén';
 
 // Settings: Media - Média
 $lang_settings_title_media = 'Média';
@@ -314,12 +312,12 @@ $lang_settings_smtphost_tooltip = 'mail.server.com';
 $lang_settings_smtpport = 'SMTP port';
 $lang_settings_smtpport_tooltip = '465';
 
-//// Settings: SweetAlert
-$lang_settings_title_sweetalert = 'SweetAlert Settings';
-$lang_settings_sweetalert_active_tooltip  = 'Activate alerts';
-$lang_settings_sweetalert_active          = 'Activate';
-$lang_settings_sweetalert_timeout_tooltip = 'Timeout delay (milliseconds)';
-$lang_settings_sweetalert_timeout         = 'Timeout';
+// Settings: SweetAlert
+$lang_settings_title_sweetalert = 'Figyelmeztetések Beállítások';
+$lang_settings_sweetalert_active_tooltip  = 'Figyelmeztetések aktiválása';
+$lang_settings_sweetalert_active = 'Aktív';
+$lang_settings_sweetalert_timeout_tooltip = 'Időzítés késleltetése (milliszekundum)';
+$lang_settings_sweetalert_timeout = 'Határidő';
 
 // Settings: Pagination
 $lang_settings_title_pagination = 'Lapszámozás';
@@ -348,11 +346,10 @@ $lang_settings_formsubject_tooltip = 'E-mailt kapott';
 $lang_settings_formthanks = 'Engedélyezze az automatikus köszönetet a válasz elküldése után';
 $lang_settings_formredirect = 'Átirányítani a köszönetet';
 $lang_settings_formredirect_tooltip = 'http://sajatwebhely.hu/kosz';
-
-$lang_settings_formcomment             = 'Text/Label for comment';
-$lang_settings_formcommentname_tooltip = 'Comment';
-$lang_settings_formphone               = 'Text/Label for phone';
-$lang_settings_formphonename_tooltip   = 'Phone';
+$lang_settings_formcomment = 'Szöveg/Címke megjegyzésekhez';
+$lang_settings_formcommentname_tooltip = 'Megjegyzés';
+$lang_settings_formphone = 'Szöveg/Címke telefonhoz';
+$lang_settings_formphonename_tooltip = 'Telefon';
 
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Egyszeri jelszó beállítása (Adminisztrátor)';
@@ -385,7 +382,7 @@ $lang_settings_title_editorpagesaccess = 'Engedélyezze a szerkesztőnek, hogy h
 $lang_settings_title_themes = 'Témák';
 $lang_settings_themeselect = 'Téma kiválasztva';
 $lang_settings_themeupload = 'Téma ZIP feltöltése';
-$lang_settings_title_plugins = 'Plugins';
+$lang_settings_title_plugins = 'Bővítmények';
 $lang_settings_pluginupload = 'Feltöltés plugin ZIP';
 $lang_settings_title_customposts = 'Saját bejegyzések';
 $lang_settings_managecustomposts = 'Egyéni bejegyzések kezelése';
@@ -399,12 +396,10 @@ $lang_settings_mediaupload = 'Médiafájl feltöltése';
 $lang_settings_navigationtitle = 'A navigációs hivatkozások kezelése';
 $lang_settings_navigationsubtitle = 'A lista átrendezéséhez húzza és vidd.';
 $lang_settings_navigationsubmenu = 'Adja hozzá az almenüt';
-
-$lang_settings_navigation_non_pulse_page = 'Add non Pulse item';
-$lang_settings_navigation_non_pulse_name = 'Name';
+$lang_settings_navigation_non_pulse_page = 'Adjon hozzá egy külső bejegyzést a navigációhoz';
+$lang_settings_navigation_non_pulse_name = 'Név';
 $lang_settings_navigation_non_pulse_url  = 'URL';
-
-$lang_settings_navigation_activate = 'Activate';
+$lang_settings_navigation_activate = 'Aktiválja';
 
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Egyéni bejegyzéstípus bejegyzések:';
@@ -419,7 +414,7 @@ $lang_settings_custompostmanage = 'kezelése bejegyzés';
 $lang_settings_custompostmanageedit = 'szerkesztés';
 $lang_settings_custompostmanageadd = 'Adjon hozzá egy új egyéni bejegyzést';
 $lang_settings_title_custompostedit_title = 'A hozzájárulások egyedi kiigazítása';
-$lang_settings_title_custompostedit_titlein = 'Egyéni bejegyzéstípushoz tartozó bejegyzés szerkesztése:';
+$lang_settings_title_custompostedit_titlein = 'Egyéni bejegyzés típushoz tartozó bejegyzés szerkesztése:';
 $lang_settings_custompostdefadd = 'Adjon meg egyéni bejegyzési típust';
 $lang_settings_custompostdeftypename = 'Hozzászólás típus neve';
 $lang_settings_custompostdefname = 'Név';
@@ -428,14 +423,12 @@ $lang_settings_custompostdeffield = 'Terület';
 $lang_settings_custompostcontent = 'Tartalom';
 
 // Tags
-$lang_settings_title_tags = 'Tags';
-$lang_settings_manage_tags = 'Manage Tags';
-
-$lang_settings_tags_title = 'Manage the tags';
-$lang_settings_tags_subtitle = 'Add / Delete tags and descriptions.';
-
-$lang_settings_tags_name = 'Name';
-$lang_settings_tags_description = 'Description';
+$lang_settings_title_tags = 'Címkék';
+$lang_settings_manage_tags = 'Címkék kezelése';
+$lang_settings_tags_title = 'A címkék kezelése';
+$lang_settings_tags_subtitle = 'Címkék és leírások hozzáadása / törlése.';
+$lang_settings_tags_name = 'Név';
+$lang_settings_tags_description = 'Leírás';
 
 // Search
 $lang_search_title = 'Keresés';

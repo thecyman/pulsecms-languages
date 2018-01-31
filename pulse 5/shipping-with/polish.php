@@ -1,5 +1,5 @@
 <?php
-
+// lang "PL"
 // Global - Globalne
 $lang_cancel = "Anuluj";
 $lang_duplicate = "Duplikat";
@@ -92,7 +92,6 @@ $lang_create_item_blog  = 'Utwórz Blog';
 $lang_create_item_page  = 'Stwórz stronę';
 $lang_create_item_media = 'Tworzyć Media';
 $lang_create_item_folder = 'Folder';
-
 $lang_create_button = "Utwórz";
 $lang_create_tool_tip = "Nowa strona, blog i blok musi kończyć się „.txt”. Aby utworzyć folder, nie należy dodawać żadnego przyrostka.";
 $lang_create_embed = "Osadzać";
@@ -244,9 +243,8 @@ $lang_settings_wysiwygpages = 'Włącz edytor WYSIWYG na stronach (inaczej HTML 
 $lang_settings_title_made_in_pulse = 'Wykonane w Pulse';
 $lang_settings_made_in_pulse = 'Made in Pulse odznaki dodał';
 $lang_settings_made_in_pulse_label = 'Włącz oznaczenie Made in Pulse dla szablonu';
-
-$lang_settings_theme_meta_author_show       = 'Show author meta in theme';
-$lang_settings_theme_meta_author_show_label = 'Show author meta in theme';
+$lang_settings_theme_meta_author_show = 'Wstaw autora motywu';
+$lang_settings_theme_meta_author_show_label = 'Wstaw metatag autora dla tego motywu';
 
 // Settings: Media
 $lang_settings_title_media = 'Mediów';
@@ -314,12 +312,12 @@ $lang_settings_smtphost_tooltip = 'mail.server.com';
 $lang_settings_smtpport = 'SMTP port';
 $lang_settings_smtpport_tooltip = '465';
 
-//// Settings: SweetAlert
-$lang_settings_title_sweetalert = 'SweetAlert Settings';
-$lang_settings_sweetalert_active_tooltip  = 'Activate alerts';
-$lang_settings_sweetalert_active          = 'Activate';
-$lang_settings_sweetalert_timeout_tooltip = 'Timeout delay (milliseconds)';
-$lang_settings_sweetalert_timeout         = 'Timeout';
+// Settings: SweetAlert
+$lang_settings_title_sweetalert = 'Ustawienia Alert';
+$lang_settings_sweetalert_active_tooltip  = 'Włącz alerty';
+$lang_settings_sweetalert_active = 'Aktywuj';
+$lang_settings_sweetalert_timeout_tooltip = 'Opóźnienie limitu czasu (milisekundy)';
+$lang_settings_sweetalert_timeout= 'Limit czasu';
 
 // Settings: Pagination
 $lang_settings_title_pagination = 'Paginacja';
@@ -348,11 +346,10 @@ $lang_settings_formsubject_tooltip = 'Otrzymałeś e-maila';
 $lang_settings_formthanks = 'Włącz automatyczną odpowiedź dziękuję po wysłaniu';
 $lang_settings_formredirect = 'Dzięki przekierowania';
 $lang_settings_formredirect_tooltip = 'http://twoj_portal.pl/dzięki';
-
-$lang_settings_formcomment             = 'Text/Label for comment';
-$lang_settings_formcommentname_tooltip = 'Comment';
-$lang_settings_formphone               = 'Text/Label for phone';
-$lang_settings_formphonename_tooltip   = 'Phone';
+$lang_settings_formcomment = 'Tekst/Etykieta do komentarza';
+$lang_settings_formcommentname_tooltip = 'Komentarz';
+$lang_settings_formphone = 'Tekst/Etykieta na telefon';
+$lang_settings_formphonename_tooltip = 'Telefon';
 
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Ustawienia haseł jednorazowych (administrator)';
@@ -385,7 +382,7 @@ $lang_settings_title_editorpagesaccess = 'Zezwalaj Edytorowi na dostęp do dowol
 $lang_settings_title_themes = 'Motywy';
 $lang_settings_themeselect = 'Wybrany motyw';
 $lang_settings_themeupload = 'Prześlij motyw ZIP';
-$lang_settings_title_plugins = 'Plugins';
+$lang_settings_title_plugins = 'Pluginów';
 $lang_settings_pluginupload = 'Prześlij wtyczkę ZIP';
 $lang_settings_title_customposts = 'Własne posty';
 $lang_settings_managecustomposts = 'Zarządzaj własnymi wpisami';
@@ -399,12 +396,10 @@ $lang_settings_mediaupload = 'Prześlij plik medialny';
 $lang_settings_navigationtitle = 'Zarządzaj linków nawigacyjnych';
 $lang_settings_navigationsubtitle = 'Przeciągnij i upuść, aby zmienić kolejność listy.';
 $lang_settings_navigationsubmenu = 'Dodaj podmenu';
-
-$lang_settings_navigation_non_pulse_page = 'Add non Pulse item';
-$lang_settings_navigation_non_pulse_name = 'Name';
+$lang_settings_navigation_non_pulse_page = 'Dodaj zewnętrzny wpis do nawigacji';
+$lang_settings_navigation_non_pulse_name = 'Nazwa';
 $lang_settings_navigation_non_pulse_url  = 'URL';
-
-$lang_settings_navigation_activate = 'Activate';
+$lang_settings_navigation_activate = 'Aktywuj';
 
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Własne wpisy pocztowe dla:';
@@ -427,15 +422,12 @@ $lang_settings_custompostdeftype = 'Typ';
 $lang_settings_custompostdeffield = 'Obszar';
 $lang_settings_custompostcontent = 'Treść';
 
-// Tags
-$lang_settings_title_tags = 'Tags';
-$lang_settings_manage_tags = 'Manage Tags';
-
-$lang_settings_tags_title = 'Manage the tags';
-$lang_settings_tags_subtitle = 'Add / Delete tags and descriptions.';
-
-$lang_settings_tags_name = 'Name';
-$lang_settings_tags_description = 'Description';
+$lang_settings_title_tags = 'Tagi';
+$lang_settings_manage_tags = 'Zarządzaj tagi';
+$lang_settings_tags_title = 'Zarządzaj tagów';
+$lang_settings_tags_subtitle = 'Dodaj / Usuń tagi i opisy.';
+$lang_settings_tags_name = 'Nazwa';
+$lang_settings_tags_description = 'Opisanie';
 
 // Search - Szukanie
 $lang_search_title = 'Szukanie';

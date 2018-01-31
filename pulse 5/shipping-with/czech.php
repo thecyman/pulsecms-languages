@@ -1,5 +1,5 @@
 <?php
-
+// Lang "CZ"
 //Global - Globální
 $lang_cancel = "Zrušit";
 $lang_duplicate = "Duplikát";
@@ -92,7 +92,6 @@ $lang_create_item_blog  = 'Vytvořit Blog';
 $lang_create_item_page  = 'Vytvoření stránky';
 $lang_create_item_media = 'Vytvořte položku Média';
 $lang_create_item_folder = 'Složka';
-
 $lang_create_button = "Vytvořit"; 
 $lang_create_tool_tip = "Stránky, bloky a příspěvky na blogu musí končit příponou '.txt'. Chcete-li vytvořit složku, neuvadejte příponou '.txt'.";
 $lang_create_embed = "Odkaz";
@@ -244,9 +243,8 @@ $lang_settings_wysiwygpages = 'Povolit editor WYSIWYG na stránkách (jinak HTML
 $lang_settings_title_made_in_pulse = 'Vyrobeno v Pulse';
 $lang_settings_made_in_pulse = 'Made in Pulse odznak přidáno';
 $lang_settings_made_in_pulse_label = 'Povolit odznak Made in Pulse pro šablonu';
-
-$lang_settings_theme_meta_author_show       = 'Show author meta in theme';
-$lang_settings_theme_meta_author_show_label = 'Show author meta in theme';
+$lang_settings_theme_meta_author_show = 'Vložte autora témata';
+$lang_settings_theme_meta_author_show_label = 'Vložit autora téma do popisu meta';
 
 // Settings: Media
 $lang_settings_title_media = 'Media';
@@ -314,12 +312,12 @@ $lang_settings_smtphost_tooltip = 'mail.server.com';
 $lang_settings_smtpport = 'SMTP port';
 $lang_settings_smtpport_tooltip = '465';
 
-//// Settings: SweetAlert
-$lang_settings_title_sweetalert = 'SweetAlert Settings';
-$lang_settings_sweetalert_active_tooltip  = 'Activate alerts';
-$lang_settings_sweetalert_active          = 'Activate';
-$lang_settings_sweetalert_timeout_tooltip = 'Timeout delay (milliseconds)';
-$lang_settings_sweetalert_timeout         = 'Timeout';
+// Settings: SweetAlert
+$lang_settings_title_sweetalert = 'Nastavení upozornění';
+$lang_settings_sweetalert_active_tooltip  = 'Aktivovat upozornění';
+$lang_settings_sweetalert_active = 'Aktivace';
+$lang_settings_sweetalert_timeout_tooltip = 'Časový limit (milisekundy)';
+$lang_settings_sweetalert_timeout = 'Časový limit';
 
 // Settings: Pagination
 $lang_settings_title_pagination = 'Stránkování';
@@ -348,11 +346,10 @@ $lang_settings_formsubject_tooltip = 'Dostali jste e-mail';
 $lang_settings_formthanks = 'Po odeslání povolte automatickou odpověď díky';
 $lang_settings_formredirect = 'Přesměrování poděkování';
 $lang_settings_formredirect_tooltip = 'http://muj_web.cs/diky';
-
-$lang_settings_formcomment             = 'Text/Label for comment';
-$lang_settings_formcommentname_tooltip = 'Comment';
-$lang_settings_formphone               = 'Text/Label for phone';
-$lang_settings_formphonename_tooltip   = 'Phone';
+$lang_settings_formcomment = 'Text/Štítek pro komentáře';
+$lang_settings_formcommentname_tooltip = 'Komentáře';
+$lang_settings_formphone = 'Text/Štítek pro telefon';
+$lang_settings_formphonename_tooltip = 'Telefon';
 
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Nastavení jednorázového hesla (Správce)';
@@ -385,7 +382,7 @@ $lang_settings_title_editorpagesaccess = 'Povolit Editor pro přístup k libovol
 $lang_settings_title_themes = 'Motivy (motivy stránek)';
 $lang_settings_themeselect = 'Motiv vybrán';
 $lang_settings_themeupload = 'Nahrát motiv ZIP';
-$lang_settings_title_plugins = 'Plugins';
+$lang_settings_title_plugins = 'Pluginy';
 $lang_settings_pluginupload = 'Nahrát plugin ZIP';
 $lang_settings_title_customposts = 'Vlastní typy příspěvků';
 $lang_settings_managecustomposts = 'Spravujte vlastní příspěvek';
@@ -399,12 +396,10 @@ $lang_settings_mediaupload = 'Nahrát mediální soubor';
 $lang_settings_navigationtitle = 'Spravovat navigační odkazy';
 $lang_settings_navigationsubtitle = 'Přetáhněte a přesunte, chcete-li změnit pořadí seznamu.';
 $lang_settings_navigationsubmenu = 'Přidat podnabídku';
-
-$lang_settings_navigation_non_pulse_page = 'Add non Pulse item';
-$lang_settings_navigation_non_pulse_name = 'Name';
+$lang_settings_navigation_non_pulse_page = 'Přidat externí položku do navigace';
+$lang_settings_navigation_non_pulse_name = 'Název';
 $lang_settings_navigation_non_pulse_url  = 'URL';
-
-$lang_settings_navigation_activate = 'Activate';
+$lang_settings_navigation_activate = 'Aktivovat';
 
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Vlastní položky příspěvku pro:';
@@ -428,14 +423,12 @@ $lang_settings_custompostdeffield = 'Pole';
 $lang_settings_custompostcontent = 'Obsah';
 
 // Tags
-$lang_settings_title_tags = 'Tags';
-$lang_settings_manage_tags = 'Manage Tags';
-
-$lang_settings_tags_title = 'Manage the tags';
-$lang_settings_tags_subtitle = 'Add / Delete tags and descriptions.';
-
-$lang_settings_tags_name = 'Name';
-$lang_settings_tags_description = 'Description';
+$lang_settings_title_tags = 'Značky (Tagy)';
+$lang_settings_manage_tags = 'Spravovat značky';
+$lang_settings_tags_title = 'Spravujte značky';
+$lang_settings_tags_subtitle = 'Přidat / Smazat značky a popisy.';
+$lang_settings_tags_name = 'Název';
+$lang_settings_tags_description = 'Popis';
 
 // Search
 $lang_search_title = 'Vyhledávání';
