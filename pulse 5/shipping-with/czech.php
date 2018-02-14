@@ -4,7 +4,7 @@
 $lang_cancel = "Zrušit";
 $lang_duplicate = "Duplikát";
 $lang_help = "Nápověda";
-$lang_help_url ="http://help.pulsecms.com/";
+$lang_help_url ="https://help.pulsecms.com/";
 $lang_settings = "Nastavení";
 $lang_account = "Účet";
 $lang_save = "Uložit";
