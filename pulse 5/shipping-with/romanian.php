@@ -1,4 +1,5 @@
 <?php
+
 // Lang "RO"
 $lang_cancel = "Anulare";
 $lang_duplicate = "Duplicare";
