@@ -132,6 +132,7 @@ $lang_blog_import_page_var = 'Název proměnné stránkováni';
 $lang_blog_import_url = 'URL';
 $lang_blog_description = 'Popis Blogu';
 $lang_blog_tags = 'Tagy blogu (oddělené čárkami)';
+$lang_blog_tags_short = 'Tagy blogu';
 $lang_blog_url = 'URL Blogu';
 $lang_blog_index = 'Chcete indexovat?';
 $lang_blog_nofollow = 'Přejete si "nesledovat?"';

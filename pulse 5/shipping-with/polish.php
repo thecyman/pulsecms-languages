@@ -132,6 +132,7 @@ $lang_blog_import_page_var = 'Nazwa zmiennej paginacja';
 $lang_blog_import_url = 'URL';
 $lang_blog_description = 'Opis Blogu';
 $lang_blog_tags = 'Tagi Blogów (oddzielone przecinkami)';
+$lang_blog_tags_short = 'Tagi Blogów';
 $lang_blog_url = 'URL Bloga';
 $lang_blog_index = 'Czy chcesz to indeksować?';
 $lang_blog_nofollow = 'Chcesz tego „nie stosować?”';

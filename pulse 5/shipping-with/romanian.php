@@ -132,6 +132,7 @@ $lang_blog_import_page_var = 'Numele variabilei de paginare';
 $lang_blog_import_url = 'URL';
 $lang_blog_description = 'Descrierea blogului';
 $lang_blog_tags = 'Etichetele Blogului (tags,separate prin virgula)';
+$lang_blog_tags_short = 'Etichetele Blogului';
 $lang_blog_url = 'URL-ul Blogului';
 $lang_blog_index = 'Doriti sa fie indexat?';
 $lang_blog_nofollow = 'Doriti ca acesta sa fie "nu urmariti?"';

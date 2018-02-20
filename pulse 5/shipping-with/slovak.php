@@ -132,6 +132,7 @@ $lang_blog_import_page_var = 'Názov premennej stránkovania';
 $lang_blog_import_url = 'URL';
 $lang_blog_description = 'Blog Popis';
 $lang_blog_tags = 'Blog Tagy (Oddelené čiarkou)';
+$lang_blog_tags_short = 'Blog Tagy';
 $lang_blog_url = 'URL Blogu';
 $lang_blog_index = 'Chcete to indexované?';
 $lang_blog_nofollow = 'Prajete si to "nie nasledovať?"';

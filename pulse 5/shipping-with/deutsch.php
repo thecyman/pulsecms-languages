@@ -142,6 +142,7 @@ $lang_blog_import_url = 'URL';
 
 $lang_blog_description = 'Blog Beschreibung';
 $lang_blog_tags = 'Blog Tags (mit Komma getrennt)';
+$lang_blog_tags_short = 'Blog Tags';
 $lang_blog_url = 'Blog URL';
 $lang_blog_index = 'Möchtest Du dies indizieren?';
 $lang_blog_nofollow = 'Möchtest Du dies als "no follow?" kennzeichnen?';

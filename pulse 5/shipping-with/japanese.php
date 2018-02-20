@@ -139,6 +139,7 @@ $lang_blog_import_url = 'URL';
 
 $lang_blog_description = 'ブログの説明';
 $lang_blog_tags = 'ブログタグ (カンマ区切り)';
+$lang_blog_tags_short = 'ブログタグ';
 $lang_blog_url = 'ブログURL';
 $lang_blog_index = 'インデックスに登録しますか？';
 $lang_blog_nofollow = 'フォローを解除しますか？';
