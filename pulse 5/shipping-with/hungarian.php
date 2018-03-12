@@ -4,7 +4,7 @@
 $lang_cancel = "Mégse";
 $lang_duplicate = "Duplikálás";
 $lang_help = "Súgó";
-$lang_help_url = "http://help.pulsecms.com/";
+$lang_help_url = "https://help.pulsecms.com/";
 $lang_settings = "Beállítások";
 $lang_account = "Fiók";
 $lang_save = "Mentés";
@@ -132,6 +132,7 @@ $lang_blog_import_page_var = 'Paging változó neve';
 $lang_blog_import_url = 'URL';
 $lang_blog_description = 'Blog Leírás';
 $lang_blog_tags = 'Blogcímkék (vesszővel elválasztva)';
+$lang_blog_tags_short = 'Blogcímkék';
 $lang_blog_url = 'Blog URL';
 $lang_blog_index = 'Szeretné ezt indexelni?';
 $lang_blog_nofollow = 'Szeretne "nem követni?"';
@@ -400,6 +401,15 @@ $lang_settings_navigation_non_pulse_page = 'Adjon hozzá egy külső bejegyzést
 $lang_settings_navigation_non_pulse_name = 'Név';
 $lang_settings_navigation_non_pulse_url  = 'URL';
 $lang_settings_navigation_activate = 'Aktiválja';
+
+$lang_settings_navigation_add_menu = "Menü hozzáadása";
+$lang_settings_navigation_menus = "Menük";
+
+$lang_settings_title_debug_info  = 'Hibakeresés';
+$lang_settings_manage_debug_info = 'Hibakeresés';
+
+$lang_settings_title_update  = 'Frissítés';
+$lang_settings_manage_update = 'Frissítés';
 
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Egyéni bejegyzéstípus bejegyzések:';

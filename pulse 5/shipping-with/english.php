@@ -4,7 +4,7 @@
 $lang_cancel = "Cancel";
 $lang_duplicate = "Duplicate";
 $lang_help = "Help";
-$lang_help_url ="http://help.pulsecms.com/";
+$lang_help_url ="https://help.pulsecms.com/";
 $lang_settings = "Settings";
 $lang_account = "Account";
 $lang_save = "Save";
@@ -141,6 +141,7 @@ $lang_blog_import_url = 'URL';
 
 $lang_blog_description = 'Blog Description';
 $lang_blog_tags = 'Blog Tags (Comma separated)';
+$lang_blog_tags_short = 'Blog Tags';
 $lang_blog_url = 'Blog URL';
 $lang_blog_index = 'Do you want this indexed?';
 $lang_blog_nofollow = 'Do you want this "no follow?"';
@@ -407,6 +408,12 @@ $lang_settings_managecustomposts = 'Manage custom post types';
 $lang_settings_themeuploader = 'Upload a new theme ZIP file';
 $lang_settings_pluginuploader = 'Upload a new plugin ZIP file';
 
+$lang_settings_title_debug_info  = 'Debug Info';
+$lang_settings_manage_debug_info = 'Debug Info';
+
+$lang_settings_title_update  = 'Update';
+$lang_settings_manage_update = 'Update';
+
 //// Settings: Media
 $lang_settings_mediaupload = 'Upload a media file';
 
@@ -420,6 +427,9 @@ $lang_settings_navigation_non_pulse_name = 'Name';
 $lang_settings_navigation_non_pulse_url  = 'URL';
 
 $lang_settings_navigation_activate = 'Activate';
+
+$lang_settings_navigation_add_menu = "Add menu";
+$lang_settings_navigation_menus = "Menus";
 
 //// Settings: Custom Post Type
 $lang_settings_custompostentries = 'Custom post type entries for:';

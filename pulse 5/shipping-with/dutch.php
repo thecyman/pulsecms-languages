@@ -3,7 +3,7 @@
 $lang_cancel = "Annuleren";
 $lang_duplicate = "Dupliceer";
 $lang_help = "Help";
-$lang_help_url = "http://help.pulsecms.com/";
+$lang_help_url = "https://help.pulsecms.com/";
 $lang_settings = "Instellingen";
 $lang_account = "Account";
 $lang_save = "Opslaan";
@@ -137,6 +137,7 @@ $lang_blog_import_page_var = 'Paginatie variabele naam';
 $lang_blog_import_url = 'URL';
 $lang_blog_description = 'Blog Omschrijving';
 $lang_blog_tags = 'Blog Tags (scheid de tags met een komma)';
+$lang_blog_tags_short = 'Blog Tags';
 $lang_blog_url = 'Blog URL';
 $lang_blog_index = 'Wil je dit ge&iuml;ndexeerd hebben?';
 $lang_blog_nofollow = 'Wil je dit "no follow?"';
@@ -409,6 +410,15 @@ $lang_settings_navigation_non_pulse_name = 'Naam';
 $lang_settings_navigation_non_pulse_url  = 'URL';
 
 $lang_settings_navigation_activate = 'Activeer';
+
+$lang_settings_navigation_add_menu = "Menu toevoegen";
+$lang_settings_navigation_menus = "Menus";
+
+$lang_settings_title_debug_info  = 'Debug';
+$lang_settings_manage_debug_info = 'Debug';
+
+$lang_settings_title_update  = 'Bijwerken';
+$lang_settings_manage_update = 'Bijwerken';
 
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Custom post-type entries voor:';

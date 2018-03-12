@@ -4,7 +4,7 @@
 $lang_cancel = "キャンセル";
 $lang_duplicate = "重複";
 $lang_help = "ヘルプ";
-$lang_help_url ="http://help.pulsecms.com/";
+$lang_help_url ="https://help.pulsecms.com/";
 $lang_settings = "設定";
 $lang_account = "アカウント";
 $lang_save = "保存";
@@ -139,6 +139,7 @@ $lang_blog_import_url = 'URL';
 
 $lang_blog_description = 'ブログの説明';
 $lang_blog_tags = 'ブログタグ (カンマ区切り)';
+$lang_blog_tags_short = 'ブログタグ';
 $lang_blog_url = 'ブログURL';
 $lang_blog_index = 'インデックスに登録しますか？';
 $lang_blog_nofollow = 'フォローを解除しますか？';
@@ -407,6 +408,15 @@ $lang_settings_navigation_non_pulse_name = '表示名';
 $lang_settings_navigation_non_pulse_url  = 'URL';
 
 $lang_settings_navigation_activate = 'アクティベート';
+
+$lang_settings_navigation_add_menu = "メニューを追加する";
+$lang_settings_navigation_menus = "メニュー";
+
+$lang_settings_title_debug_info  = 'デバッグ';
+$lang_settings_manage_debug_info = 'デバッグ';
+
+$lang_settings_title_update  = 'アップデート';
+$lang_settings_manage_update = 'アップデート';
 
 //// Settings: Custom Post Type
 $lang_settings_custompostentries = 'カスタム投稿タイプのエントリ:';
