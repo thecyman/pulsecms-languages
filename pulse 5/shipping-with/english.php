@@ -478,3 +478,15 @@ $lang_search_links = 'Link to';
 
 // Page List
 $lang_pagelist = 'Page List';
+
+# admin - debug info
+$lang_debug_info_title     = 'Debug info';
+$lang_debug_info_path      = 'Path';
+$lang_debug_info_title_sub = 'File/Directory permissions';
+$lang_debug_info_button    = 'Download';
+$lang_debug_info_text      = 'Download the zip file';
+
+# admin - update
+$lang_update_title     = 'Update a Pulse CMS install';
+$lang_update_title_sub = 'Upload the new PulseCMS zip file';
+$lang_update_button    = 'Update';

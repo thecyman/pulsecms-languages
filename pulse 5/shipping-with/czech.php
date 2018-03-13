@@ -450,3 +450,15 @@ $lang_search_links = 'Odkaz na';
 
 // Page List
 $lang_pagelist = 'Seznam stránek';
+
+// Admin: Debug Info
+$lang_debug_info_title     = 'Ladit';
+$lang_debug_info_path      = 'Cesta';
+$lang_debug_info_title_sub = 'Soubor Oprávnění';
+$lang_debug_info_button    = 'Zavést';
+$lang_debug_info_text      = 'Zavést zip soubor';
+
+// Admin: Update
+$lang_update_title     = 'Aktualizujte instalaci Pulse';
+$lang_update_title_sub = 'Nahrát nový soubor Pulse zip';
+$lang_update_button    = 'Aktualizovat';

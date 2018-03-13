@@ -479,3 +479,15 @@ $lang_search_links = 'Link zu';
 
 // Page List
 $lang_pagelist = 'Seitenliste';
+
+// Admin: Debug Info
+$lang_debug_info_title     = 'Debuggen';
+$lang_debug_info_path      = 'Pfad';
+$lang_debug_info_title_sub = 'Dateiberechtigungen';
+$lang_debug_info_button    = 'Herunterladen';
+$lang_debug_info_text      = 'Zip-Datei herunterladen';
+
+// Admin: Update
+$lang_update_title     = 'Aktualisieren sie eine Pulse-Installation';
+$lang_update_title_sub = 'Laden sie die neue Pulse-Zip-Datei hoch';
+$lang_update_button    = 'Aktualisieren';

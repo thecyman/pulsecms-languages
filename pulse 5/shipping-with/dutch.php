@@ -461,3 +461,15 @@ $lang_search_links = 'Link naar';
 
 // Page List
 $lang_pagelist = 'Pagina Lijst';
+
+# admin - debug info
+$lang_debug_info_title     = 'Debug';
+$lang_debug_info_path      = 'Pad';
+$lang_debug_info_title_sub = 'Bestandsrechten';
+$lang_debug_info_button    = 'Downloaden';
+$lang_debug_info_text      = 'Download het zipbestand';
+
+# admin - update
+$lang_update_title     = 'Update een pulse cms installatie';
+$lang_update_title_sub = 'Upload het nieuwe Pulse zipbestand';
+$lang_update_button    = 'Bijwerken';

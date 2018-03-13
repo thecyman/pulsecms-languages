@@ -450,3 +450,15 @@ $lang_search_links = 'Link catre';
 
 // Page List
 $lang_pagelist = 'Lista paginilor';
+
+# admin - debug info
+$lang_debug_info_title     = 'Depanare';
+$lang_debug_info_path      = 'Cale';
+$lang_debug_info_title_sub = 'Permisiuni de fișiere';
+$lang_debug_info_button    = 'Descarca';
+$lang_debug_info_text      = 'Descărcați fișierul zip';
+
+# admin - update
+$lang_update_title     = 'Actualizare Pulse install';
+$lang_update_title_sub = 'Încărcați fișierul Pulse zip nou';
+$lang_update_button    = 'Actualizați';

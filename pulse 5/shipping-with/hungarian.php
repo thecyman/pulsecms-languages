@@ -450,3 +450,15 @@ $lang_search_links = 'Link ehhez';
 
 // Page List
 $lang_pagelist = 'Webhelylista';
+
+# admin - debug info
+$lang_debug_info_title     = 'Hibakeresés';
+$lang_debug_info_path      = 'Pálya';
+$lang_debug_info_title_sub = 'Fájlengedélyek';
+$lang_debug_info_button    = 'Letöltés';
+$lang_debug_info_text      = 'Töltse le a zip fájlt';
+
+# admin - update
+$lang_update_title     = 'Frissítse az impulzus-telepítést';
+$lang_update_title_sub = 'Töltse fel az új Pulse zip fájlt';
+$lang_update_button    = 'Frissítés';

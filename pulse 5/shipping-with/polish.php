@@ -449,3 +449,15 @@ $lang_search_links = 'Link do';
 
 // Page List
 $lang_pagelist = 'Lista stron';
+
+# admin - debug info
+$lang_debug_info_title     = 'Odpluskwić';
+$lang_debug_info_path      = 'Ścieżka';
+$lang_debug_info_title_sub = 'Uprawnienia do plików';
+$lang_debug_info_button    = 'Pobieranie';
+$lang_debug_info_text      = 'Pobierz plik zip';
+
+# admin - update
+$lang_update_title     = 'Zaktualizuj instalację Pulse';
+$lang_update_title_sub = 'Prześlij nowy plik zip Pulse';
+$lang_update_button    = 'Aktualizacja';
