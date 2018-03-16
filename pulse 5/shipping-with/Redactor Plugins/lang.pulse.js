@@ -149,65 +149,65 @@
 		 */
 		const DE = { /// ADD GERMAN VARIATIONS HERE
 			// alignment
-			"align": "Align",
-			"align-left": "Align Left",
-			"align-center": "Align Center",
-			"align-right": "Align Right",
-			"align-justify": "Align Justify",
+			"align": "Ausrichten",
+			"align-left": "Linksbündig ausrichten",
+			"align-center": "Zentriert ausrichten",
+			"align-right": "Rechtsbündig ausrichten",
+			"align-justify": "Blocksatz",
 			
 			// clips
 			clips:"Clips",
-			"clips-select":"Please, select a clip",
+			"clips-select":"Bitte einen Clip auswählen",
 			
 			// file manager
-			choose: "Choose",
+			choose: "Auswählen",
 			
 			// font color
-			fontcolor:"Text Color",
+			fontcolor:"Textfarbe",
 			text:"Text",
-			highlight:"Highlight",
+			highlight:"Hervorheben",
 			
 			// font family
-			fontfamily:"Font",
-			"remove-font-family":"Remove Font Family",
+			fontfamily:"Schriftart",
+			"remove-font-family":"Schriftart entfernen",
 			
 			// font size
-			size:"Size",
-			"remove-size":"Remove Font Size",
+			size:"Größe",
+			"remove-size":"Schriftgröße entfernen",
 			
 			// full screen
-			fullscreen:"Fullscreen",
+			fullscreen:"Vollbild",
 			
 			// image manager
-			choose:"Choose",
+			choose:"Auswählen",
 			
 			// inline
-			style:"Style",
+			style:"Stil",
 			
 			// properties
-			properties:"Properties",
+			properties:"Eigenschaften",
 			
 			// table
-			table:"Table",
-			"insert-table":"Insert table",
-			"insert-row-above":"Insert row above",
-			"insert-row-below":"Insert row below",
-			"insert-column-left":"Insert column left",
-			"insert-column-right":"Insert column right",
-			"add-head":"Add head",
-			"delete-head":"Delete head",
-			"delete-column":"Delete column",
-			"delete-row":"Delete row",
-			"delete-table":"Delete table",
+			table:"Tabelle",
+			"insert-table":"Tabelle einfügen",
+			"insert-row-above":"Reihe darüber einfügen",
+			"insert-row-below":"Reihe danach einfügen",
+			"insert-column-left":"Spalte links einfügen",
+			"insert-column-right":"Spalte rechts einfügen",
+			"add-head":"Tabellenkopf hinzufügen",
+			"delete-head":"Tabellenkopf löschen",
+			"delete-column":"Spalte löschen",
+			"delete-row":"Reihe löschen",
+			"delete-table":"Tabelle löschen",
 			
 			// text direction
 			"change-text-direction":"RTL-LTR",
-			"left-to-right":"Left to Right",
-			"right-to-left":"Right to Left",
+			"left-to-right":"Links nach Rechts",
+			"right-to-left":"Rechts nach Links",
 			
 			// video
 			video:"Video",
-			"video-html-code":"Video Embed Code or Youtube/Vimeo Link",
+			"video-html-code":"Video Einbettungscode oder Youtube/Vimeo Link",
 			
 			// widget
 			widget:"Widget",
