@@ -79,69 +79,69 @@
 		 */
 		const JA = { /// ADD JAPANESE VARIATIONS HERE
 			// alignment
-			"align": "Align",
-			"align-left": "Align Left",
-			"align-center": "Align Center",
-			"align-right": "Align Right",
-			"align-justify": "Align Justify",
+			"align": "配置",
+			"align-left": "左揃え",
+			"align-center": "中央揃え",
+			"align-right": "右揃え",
+			"align-justify": "均等分布",
 			
 			// clips
-			clips:"Clips",
-			"clips-select":"Please, select a clip",
+			clips:"クリップ",
+			"clips-select":"クリップを選択して下さい。",
 			
 			// file manager
-			choose: "Choose",
+			choose: "選択する",
 			
 			// font color
-			fontcolor:"Text Color",
-			text:"Text",
-			highlight:"Highlight",
+			fontcolor:"テキストカラー",
+			text:"テキスト",
+			highlight:"ハイライト",
 			
 			// font family
-			fontfamily:"Font",
-			"remove-font-family":"Remove Font Family",
+			fontfamily:"フォント",
+			"remove-font-family":"フォントを元に戻す",
 			
 			// font size
-			size:"Size",
-			"remove-size":"Remove Font Size",
+			size:"サイズ",
+			"remove-size":"フォントサイズを元に戻す",
 			
 			// full screen
-			fullscreen:"Fullscreen",
+			fullscreen:"フルスクリーン",
 			
 			// image manager
-			choose:"Choose",
+			choose:"選択する",
 			
 			// inline
-			style:"Style",
+			style:"スタイル",
 			
 			// properties
-			properties:"Properties",
+			properties:"プロパティ",
 			
 			// table
-			table:"Table",
-			"insert-table":"Insert table",
-			"insert-row-above":"Insert row above",
-			"insert-row-below":"Insert row below",
-			"insert-column-left":"Insert column left",
-			"insert-column-right":"Insert column right",
-			"add-head":"Add head",
-			"delete-head":"Delete head",
-			"delete-column":"Delete column",
-			"delete-row":"Delete row",
-			"delete-table":"Delete table",
+			table:"テーブル",
+			"insert-table":"テーブルを挿入",
+			"insert-row-above":"行の上に挿入",
+			"insert-row-below":"行の下に挿入",
+			"insert-column-left":"左カラムに挿入",
+			"insert-column-right":"右カラムに挿入",
+			"add-head":"ヘッド",
+			"delete-head":"ヘッドを削除",
+			"delete-column":"カラムを削除",
+			"delete-row":"行を削除",
+			"delete-table":"テーブルを削除",
 			
 			// text direction
 			"change-text-direction":"RTL-LTR",
-			"left-to-right":"Left to Right",
-			"right-to-left":"Right to Left",
+			"left-to-right":"左から右へ",
+			"right-to-left":"右から左へ",
 			
 			// video
-			video:"Video",
-			"video-html-code":"Video Embed Code or Youtube/Vimeo Link",
+			video:"ビデオ",
+			"video-html-code":"エンベットコードまたはYoutube/Vimeoをリンク",
 			
 			// widget
-			widget:"Widget",
-			"widget-html-code":"Widget HTML Code"
+			widget:"ウィジェット",
+			"widget-html-code":"ウィジェットのHTML"
 		};
 		
 		/**
