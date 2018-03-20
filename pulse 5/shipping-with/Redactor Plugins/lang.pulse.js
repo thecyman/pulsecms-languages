@@ -220,10 +220,10 @@
 		const CS = { /// ADD CZECH VARIATIONS HERE
 			// alignment
 			"align": "Zarovnat",
-	                "align-left": "Zarovnat vlevo",
-	                "align-center": "Zarovnat na střed",
-	                "align-right": "Zarovnat vpravo",
-	                "align-justify": "Zarovnat do bloku",
+	        "align-left": "Zarovnat vlevo",
+	        "align-center": "Zarovnat na střed",
+	        "align-right": "Zarovnat vpravo",
+	        "align-justify": "Zarovnat do bloku",
 			
 			// clips
 			clips:"Klipy",
@@ -258,7 +258,7 @@
 			properties:"Vlastnosti",
 			
 			// specialchars
-	               "specialchars": "peciální znaky",
+	        "specialchars": "peciální znaky",
 			
 			// table
 			table:"Tabulka",
@@ -279,9 +279,9 @@
 			"right-to-left":"Zprava doleva",
 			
 			// variable
-	                "change": "Přeměna",
-                        "variable": "Proměnná",
-                        "variable-select": "Prosím, vyberte proměnnou",
+	        "change": "Přeměna",
+            "variable": "Proměnná",
+            "variable-select": "Prosím, vyberte proměnnou",
 			
 			// video
 			video:"Video",
@@ -367,62 +367,62 @@
 		 */
 		const HU = { /// ADD HUNGARIAN VARIATIONS HERE
 			// alignment
-	               "align": "Igazítsa",
-	               "align-left": "Balra igazítás",
-	               "align-center": "Középre igazítás",
-	               "align-right": "Jobbra igazítás",
-	               "align-justify": "Sorkizárt",
-                       // clips
-	               "clips": "Klipek",
-	               "clips-select": "Kérjük, válasszon ki egy klipet",
-                      // filemanager
-	               "choose": "Válassz",
-                      // fontcolor
-	               "fontcolor": "Szöveg szine",
-                       "text": "Szöveg",
-                       "highlight": "Szöveg hátterének szine",
-                      // fontfamily
-	               "fontfamily": "Betűtípusok",
-                       "remove-font-family":  "Betűtípusok eltávolítása",
-                      // fontsize
-	               "size": "Betűméret",
-                       "remove-size":  "A betűméret eltávolítása",
-                      // fullscreen
-	                 "fullscreen": "Teljes képernyős",
-                        // imagemanager
-	                 "choose": "Válassz",
-                       // inlinestyle
-	                 "style": "Stílus",
-                         // properties
-	                  "properties": "Tulajdonságok",
-                         // specialchars
-	                  "specialchars": "Speciális karakterek",
-                         // table
-	                  "table": "Tábla",
-	                  "insert-table": "Táblázat beszúrása",
-	                  "insert-row-above": "Sor beszúrása az aktuális sor fölé",
-	                  "insert-row-below": "Sor beszúrása ez alá",
-	                  "insert-column-left": "Oszlop beszúrása ettöl balra",
-	                  "insert-column-right": "Oszlop hozzáadása ettöl jobbra",
-	                  "add-head": "Fejrész hozzáadása",
-	                  "delete-head": "Fejrész törlése",
-	                  "delete-column": "Oszlop törlése",
-	                  "delete-row": "Sor törlése",
-	                  "delete-table": "Táblázat törlése",
-                       // textdirection
-	                  "change-text-direction": "RTL-LTR",
-	                  "left-to-right": "Balról jobbra",
-	                  "right-to-left": "Jobbról balra",
-                       // variable
-	                  "change": "Változás",
-                          "variable": "Változó",
-                          "variable-select": "Kérjük, válasszon ki egy változót",	
-                      // video	
-	                  "video": "Videó",
-                          "video-html-code": "Video kód beillesztése vagy Youtube/Vimeo link",
-                      // widget
-	                "widget": "Widget",
-                        "widget-html-code": "Widget HTML kód"
+	        "align": "Igazítsa",
+	        "align-left": "Balra igazítás",
+	        "align-center": "Középre igazítás",
+	        "align-right": "Jobbra igazítás",
+	        "align-justify": "Sorkizárt",
+	            // clips
+	        clips: "Klipek",
+	        "clips-select": "Kérjük, válasszon ki egy klipet",
+	           // filemanager
+	        choose: "Válassz",
+	           // fontcolor
+	        fontcolor: "Szöveg szine",
+	        text: "Szöveg",
+	        highlight: "Szöveg hátterének szine",
+	           // fontfamily
+	        fontfamily: "Betűtípusok",
+	         "remove-font-family":  "Betűtípusok eltávolítása",
+	           // fontsize
+		     size: "Betűméret",
+	         "remove-size":  "A betűméret eltávolítása",
+	           // fullscreen
+	         fullscreen: "Teljes képernyős",
+	             // imagemanager
+	         choose: "Válassz",
+	            // inlinestyle
+	         style: "Stílus",
+	              // properties
+	          properties: "Tulajdonságok",
+	              // specialchars
+	           "specialchars": "Speciális karakterek",
+	              // table
+	           table: "Tábla",
+	           "insert-table": "Táblázat beszúrása",
+	           "insert-row-above": "Sor beszúrása az aktuális sor fölé",
+	           "insert-row-below": "Sor beszúrása ez alá",
+	           "insert-column-left": "Oszlop beszúrása ettöl balra",
+	           "insert-column-right": "Oszlop hozzáadása ettöl jobbra",
+	           "add-head": "Fejrész hozzáadása",
+	           "delete-head": "Fejrész törlése",
+	           "delete-column": "Oszlop törlése",
+	           "delete-row": "Sor törlése",
+	           "delete-table": "Táblázat törlése",
+	            // textdirection
+	           "change-text-direction": "RTL-LTR",
+	           "left-to-right": "Balról jobbra",
+	           "right-to-left": "Jobbról balra",
+	            // variable
+	           "change": "Változás",
+	               "variable": "Változó",
+	               "variable-select": "Kérjük, válasszon ki egy változót",	
+	           // video	
+	           video: "Videó",
+	               "video-html-code": "Video kód beillesztése vagy Youtube/Vimeo link",
+	           // widget
+	         widget: "Widget",
+	             "widget-html-code": "Widget HTML kód"
 
 		};
 		
@@ -431,49 +431,49 @@
 		 */
 		const PL = { /// ADD POLISH VARIATIONS HERE
 			// alignment
-	                 "align": "Wyrównać",
-	                 "align-left": "Tekst do lewej",
-	                 "align-center": "Wyśrodkuj",
-	                 "align-right": "Tekst do prawej",
-	                 "align-justify": "Wyjustuj",
+	           "align": "Wyrównać",
+	           "align-left": "Tekst do lewej",
+	           "align-center": "Wyśrodkuj",
+	           "align-right": "Tekst do prawej",
+	           "align-justify": "Wyjustuj",
 			
 			// clips
-	                 "clips": "Klipy",
+	                 clips: "Klipy",
 	                 "clips-select": "Proszę wybrać klip",
 			
 			// file manager
-	                 "choose": "Wybierz",
+	                 choose: "Wybierz",
 			
 			// font color
-	                "fontcolor": "Kolor tekstu",
-                        "text": "Tekst",
-                        "highlight": "Kolor tła",
+	                fontcolor: "Kolor tekstu",
+                        text: "Tekst",
+                        highlight: "Kolor tła",
 			
 			// font family
-	                "fontfamily": "Czcionki",
+	                fontfamily: "Czcionki",
                         "remove-font-family":  "Usuń rodzinę czcionek",
 			
 			// font size
-	                "size": "Rozmiar",
+	                size: "Rozmiar",
                         "remove-size":  "Usuń rozmiar czcionki",
 			
 			// full screen
-	                  "fullscreen": "Pełny ekran",
+	                  fullscreen: "Pełny ekran",
 			
 			// image manager
-	                "choose": "Wybierz",
+	                choose: "Wybierz",
 			
 			// inline
-	                "style": "Styl",
+	                style: "Styl",
 			
 			// properties
-	                "properties": "Właściwości",
+	                properties: "Właściwości",
 			
 			// specialchars
 	                "specialchars": "Znaki specjalne",
 			
 			// table
-	                "table": "Tabela",
+	                table: "Tabela",
 	                "insert-table": "Wstaw tabele",
 	                "insert-row-above": "Dodaj wiersz na górze",
 	                "insert-row-below": "Dodaj wiersz na dole",
@@ -507,71 +507,71 @@
 		/**
 		 * romanian
 		 */
-		const RO = { /// ADD ROMANIAN VARIATIONS HERE
+		const RO = {
 			// alignment
-			"align": "Align",
-			"align-left": "Align Left",
-			"align-center": "Align Center",
-			"align-right": "Align Right",
-			"align-justify": "Align Justify",
+			"align": "Aliniere",
+			"align-left": "Aliniere Stânga",
+			"align-center": "Aliniere Centru",
+			"align-right": "Aliniere Dreapta",
+			"align-justify": "Aliniere Justify",
 			
 			// clips
 			clips:"Clips",
-			"clips-select":"Please, select a clip",
+			"clips-select":"Selectează un clip",
 			
 			// file manager
-			choose: "Choose",
+			choose: "Selectează",
 			
 			// font color
-			fontcolor:"Text Color",
+			fontcolor:"Culoare Text",
 			text:"Text",
 			highlight:"Highlight",
 			
 			// font family
 			fontfamily:"Font",
-			"remove-font-family":"Remove Font Family",
+			"remove-font-family":"Înlătură Familia de Fonturi",
 			
 			// font size
-			size:"Size",
-			"remove-size":"Remove Font Size",
+			size:"Dimensiune",
+			"remove-size":"Înlătură Dimensiunea Fontului",
 			
 			// full screen
-			fullscreen:"Fullscreen",
+			fullscreen:"Ecran Complet",
 			
 			// image manager
-			choose:"Choose",
+			choose:"Selectează",
 			
 			// inline
-			style:"Style",
+			style:"Stil",
 			
 			// properties
-			properties:"Properties",
+			properties:"Proprietăți",
 			
 			// table
-			table:"Table",
-			"insert-table":"Insert table",
-			"insert-row-above":"Insert row above",
-			"insert-row-below":"Insert row below",
-			"insert-column-left":"Insert column left",
-			"insert-column-right":"Insert column right",
-			"add-head":"Add head",
-			"delete-head":"Delete head",
-			"delete-column":"Delete column",
-			"delete-row":"Delete row",
-			"delete-table":"Delete table",
+			table:"Tabel",
+			"insert-table":"Inserează tabel",
+			"insert-row-above":"Inserează rând deasupra",
+			"insert-row-below":"Inserează rând dedesubt",
+			"insert-column-left":"Inserează coloană în stânga",
+			"insert-column-right":"Inserează coloană în dreapta",
+			"add-head":"Adaugă antet",
+			"delete-head":"Șterge antet",
+			"delete-column":"Șterge coloană",
+			"delete-row":"Șterge rând",
+			"delete-table":"Șterge tabel",
 			
 			// text direction
-			"change-text-direction":"RTL-LTR",
-			"left-to-right":"Left to Right",
-			"right-to-left":"Right to Left",
+			"change-text-direction":"DlS-SlD",
+			"left-to-right":"Stânga spre Dreapta",
+			"right-to-left":"Dreapta spre Stânga",
 			
 			// video
 			video:"Video",
-			"video-html-code":"Video Embed Code or Youtube/Vimeo Link",
+			"video-html-code":"Codul de embed pt video sau link Youtube/Vimeo",
 			
 			// widget
 			widget:"Widget",
-			"widget-html-code":"Widget HTML Code"
+			"widget-html-code":"Codul HTML pt Widget"
 		};
 		
 		/**
@@ -585,32 +585,32 @@
 	               "align-right": "Zarovnať vpravo",
 	               "align-justify": "Zarovnať do bloku",
                        // clips
-	               "clips": "Klipy",
-	               "clips-select": "Vyberte klip",
+	               clips: "Klipy",
+	               clips-select: "Vyberte klip",
                       // filemanager
-	              "choose": "Vybrať",
+	              choose: "Vybrať",
                       // fontcolor
-	              "fontcolor": "Farba písma",
-                      "text": "Text",
-                      "highlight": "Farba pozadia",
+	              fontcolor: "Farba písma",
+                      text: "Text",
+                      highlight: "Farba pozadia",
                      // fontfamily
-	              "fontfamily": "Písma",
+	              fontfamily: "Písma",
                       "remove-font-family":  "Odstrániť formátovanie písma",
                     // fontsize
-	               "size": "Veľkosť",
+	               size: "Veľkosť",
                       "remove-size":  "Odstrániť veľkosť písma",
                      // fullscreen
-	              "fullscreen": "Celá obrazovka",
+	              fullscreen: "Celá obrazovka",
                      // imagemanager
-	              "choose": "Vybrať",
+	              choose: "Vybrať",
                      // inlinestyle
-	              "style": "Štýl",
+	              style: "Štýl",
                     // properties
-	              "properties": "Vlastnosti",
+	              properties: "Vlastnosti",
                      // specialchars
 	              "specialchars": "Špeciálne znaky",
                        // table
-	              "table": "Tabulka",
+	              table: "Tabulka",
 	               "insert-table": "Vložiť tabulku",
 	               "insert-row-above": "Pridať riadok hore",
 	               "insert-row-below": "Pridať riadok dole",
@@ -630,10 +630,10 @@
                         "variable": "Premenné",
                         "variable-select": "Vyberte premennú",	
                         // video	
-	                "video": "Video",
+	                video: "Video",
                         "video-html-code": "Kód vloženia videa alebo odkaz Youtube/Vimeo",
                        // widget
-	                "widget": "Widget",
+	                widget: "Widget",
                          "widget-html-code": "Widget kód HTML"
 		};
 		
