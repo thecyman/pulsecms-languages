@@ -46,7 +46,7 @@ $lang_home_preview = "Vorschau";
 
 // Navigation
 $lang_nav_title = "Navigation";
-$lang_nav_home = "Home";
+$lang_nav_home = "Dashboard";
 $lang_nav_blocks = "Blöcke";
 $lang_nav_img = "Medien";
 $lang_nav_blog = "Blog";
@@ -105,7 +105,7 @@ $lang_create_embed_url = "Embed URL:";
 $lang_create_embed_html = "Embed HTML:";
 $lang_create_embed_php = "Embed PHP:";
 
-$lang_create_block_move = "Block hochschieben";
+$lang_create_block_move = "Block verschieben";
 
 $lang_create_media_move = "Verschiebe Medien nach";
 
@@ -130,7 +130,7 @@ $lang_blog_title = 'Blog Titel';
 $lang_blog_date = 'Datum';
 $lang_blog_read_more = 'Weiterlesen';
 $lang_blog_back_button = 'Zurück';
-$lang_blog_older = 'ältere Beiträge';
+$lang_blog_older = 'Ältere Beiträge';
 $lang_blog_newer = 'Neuere Beiträge';
 $lang_blog_error_folder = "Du kannst keine Ordner im $lang_nav_blog erstellen.";
 $lang_blog_tool_tip = "Blogbeiträge sind numerisch geordnet, die höhste Nummer ist der neuste Beitrag.";
@@ -362,7 +362,7 @@ $lang_settings_formredirect = 'Weiterleitung nach Absendung';
 $lang_settings_formredirect_tooltip = 'http://deineseite.de/danke';
 
 $lang_settings_formcomment             = 'Text/Label für Kommentare';
-$lang_settings_formcommentname_tooltip = 'Komment';
+$lang_settings_formcommentname_tooltip = 'Kommentar';
 $lang_settings_formphone               = 'Text/Label für Telefon';
 $lang_settings_formphonename_tooltip   = 'Telefon';
 
@@ -488,6 +488,6 @@ $lang_debug_info_button    = 'Herunterladen';
 $lang_debug_info_text      = 'Zip-Datei herunterladen';
 
 // Admin: Update
-$lang_update_title     = 'Aktualisieren sie eine Pulse-Installation';
-$lang_update_title_sub = 'Laden sie die neue Pulse-Zip-Datei hoch';
+$lang_update_title     = 'Aktualisiere Deine Pulse-Installation';
+$lang_update_title_sub = 'Lade die neue Pulse-Zip-Datei hoch';
 $lang_update_button    = 'Aktualisieren';
