@@ -297,62 +297,70 @@
 		 */
 		const NL = { /// ADD DUTCH VARIATIONS HERE
 			// alignment
-			"align": "Align",
-			"align-left": "Align Left",
-			"align-center": "Align Center",
-			"align-right": "Align Right",
-			"align-justify": "Align Justify",
+			"align": "Uitlijnen",
+			"align-left": "Links uitlijnen",
+			"align-center": "Centreren",
+			"align-right": "Rechts uitlijnen",
+			"align-justify": "Uitvullen",
 			
 			// clips
 			clips:"Clips",
-			"clips-select":"Please, select a clip",
+			"clips-select": "Alstublieft, selecteer een clip",
 			
 			// file manager
-			choose: "Choose",
+			choose: "Kies",
 			
 			// font color
-			fontcolor:"Text Color",
-			text:"Text",
-			highlight:"Highlight",
+			fontcolor:"Tekstkleur",
+			text:"Tekst",
+			highlight:"Achtergrondkleur",
 			
 			// font family
-			fontfamily:"Font",
-			"remove-font-family":"Remove Font Family",
+			fontfamily:"Doopvont",
+			"remove-font-family":"Verwijder lettertypefamilie",
 			
 			// font size
-			size:"Size",
-			"remove-size":"Remove Font Size",
+			size:"Grootte",
+			"remove-size":"Verwijder lettergrootte",
 			
 			// full screen
-			fullscreen:"Fullscreen",
+			fullscreen:"Volledig scherm",
 			
 			// image manager
-			choose:"Choose",
+			choose:"Kies",
 			
 			// inline
-			style:"Style",
+			style:"Stijl",
 			
 			// properties
-			properties:"Properties",
+			properties:"Eigenschappen",
+			
+			// specialchars
+			"specialchars": "Speciale tekens",
 			
 			// table
-			table:"Table",
-			"insert-table":"Insert table",
-			"insert-row-above":"Insert row above",
-			"insert-row-below":"Insert row below",
-			"insert-column-left":"Insert column left",
-			"insert-column-right":"Insert column right",
-			"add-head":"Add head",
-			"delete-head":"Delete head",
-			"delete-column":"Delete column",
-			"delete-row":"Delete row",
-			"delete-table":"Delete table",
+			table:"Tabel",
+			"insert-table":"Tabel invoegen",
+			"insert-row-above":"Rij hierboven invoegen",
+			"insert-row-below":"Rij hieronder invoegen",
+			"insert-column-left":"Kolom links toevoegen",
+			"insert-column-right":"Kolom rechts toevoegen",
+			"add-head":"Titel toevoegen",
+			"delete-head":"Titel verwijderen",
+			"delete-column":"Verwijder kolom",
+			"delete-row":"Verwijder rij",
+			"delete-table":"Verwijder tabel",
 			
 			// text direction
 			"change-text-direction":"RTL-LTR",
-			"left-to-right":"Left to Right",
-			"right-to-left":"Right to Left",
+			"left-to-right":"Links naar rechts",
+			"right-to-left":"Rechts naar links",
 			
+			// variable
+			"change": "Veranderen",
+			"variable": "Variabele",
+			"variable-select": "Alstublieft, selecteer een variabele",	
+				
 			// video
 			video:"Video",
 			"video-html-code":"Video Embed Code or Youtube/Vimeo Link",
@@ -586,7 +594,7 @@
 	               "align-justify": "Zarovnať do bloku",
                        // clips
 	               clips: "Klipy",
-	               clips-select: "Vyberte klip",
+	               "clips-select": "Vyberte klip",
                       // filemanager
 	              choose: "Vybrať",
                       // fontcolor
