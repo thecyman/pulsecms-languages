@@ -649,26 +649,26 @@
 		 * add translations
 		 */
 		$R.addLang('ar',    EN);
-		$R.addLang('cs',    EN);
+		$R.addLang('cs',    CS);
 		$R.addLang('da',    EN);
-		$R.addLang('de',    EN);
+		$R.addLang('de',    DE);
 		$R.addLang('en',    EN);
 		$R.addLang('es',    EN);
 		$R.addLang('fa',    EN);
 		$R.addLang('fi',    EN);
 		$R.addLang('fr',    EN);
 		$R.addLang('he',    EN);
-		$R.addLang('hu',    EN);
+		$R.addLang('hu',    HU);
 		$R.addLang('it',    EN);
 		$R.addLang('ja',    JA);
 		$R.addLang('ko',    EN);
-		$R.addLang('nl',    EN);
+		$R.addLang('nl',    NL);
 		$R.addLang('no',    EN);
-		$R.addLang('pl',    EN);
+		$R.addLang('pl',    PL);
 		$R.addLang('pt_br', EN);
-		$R.addLang('ro',    EN);
+		$R.addLang('ro',    RO);
 		$R.addLang('ru',    EN);
-		$R.addLang('sk',    EN);
+		$R.addLang('sk',    SK);
 		$R.addLang('sl',    EN);
 		$R.addLang('sv',    EN);
 		$R.addLang('tr',    EN);
