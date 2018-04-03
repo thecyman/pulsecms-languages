@@ -301,23 +301,23 @@
 			"align-left": "Links uitlijnen",
 			"align-center": "Centreren",
 			"align-right": "Rechts uitlijnen",
-			"align-justify": "Uitvullen",
+			"align-justify": "Tekst uitvullen",
 			
 			// clips
 			clips:"Clips",
-			"clips-select": "Alstublieft, selecteer een clip",
+			"clips-select": "Selecteer een clip",
 			
 			// file manager
 			choose: "Kies",
 			
 			// font color
-			fontcolor:"Tekstkleur",
+			fontcolor:"Kleur tekst",
 			text:"Tekst",
-			highlight:"Achtergrondkleur",
+			highlight:"Markeren",
 			
 			// font family
-			fontfamily:"Doopvont",
-			"remove-font-family":"Verwijder lettertypefamilie",
+			fontfamily:"Lettertype",
+			"remove-font-family":"Verwijder lettertype",
 			
 			// font size
 			size:"Grootte",
@@ -340,13 +340,13 @@
 			
 			// table
 			table:"Tabel",
-			"insert-table":"Tabel invoegen",
-			"insert-row-above":"Rij hierboven invoegen",
-			"insert-row-below":"Rij hieronder invoegen",
-			"insert-column-left":"Kolom links toevoegen",
-			"insert-column-right":"Kolom rechts toevoegen",
-			"add-head":"Titel toevoegen",
-			"delete-head":"Titel verwijderen",
+			"insert-table":"Voeg tabel in",
+			"insert-row-above":"Voeg een rij aan de bovenkant toe",
+			"insert-row-below":"Voeg een rij aan de onderkant toe",
+			"insert-column-left":"Voeg links een kolom in",
+			"insert-column-right":"Voeg rechts een kolom in",
+			"add-head":"Voeg tabel-head toe",
+			"delete-head":"Verwijder tabel-head",
 			"delete-column":"Verwijder kolom",
 			"delete-row":"Verwijder rij",
 			"delete-table":"Verwijder tabel",
