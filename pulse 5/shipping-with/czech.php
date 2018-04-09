@@ -458,6 +458,9 @@ $lang_debug_info_title_sub = 'Soubor Oprávnění';
 $lang_debug_info_button    = 'Zavést';
 $lang_debug_info_text      = 'Zavést zip soubor';
 
+// Admin: Open
+$lang_open_meta_searchable = 'Zobrazit ve vyhledávání';
+
 // Admin: Update
 $lang_update_title     = 'Aktualizujte instalaci Pulse';
 $lang_update_title_sub = 'Nahrát nový soubor Pulse zip';

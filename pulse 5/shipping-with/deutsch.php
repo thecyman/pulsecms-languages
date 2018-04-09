@@ -487,6 +487,9 @@ $lang_debug_info_title_sub = 'Dateiberechtigungen';
 $lang_debug_info_button    = 'Herunterladen';
 $lang_debug_info_text      = 'Zip-Datei herunterladen';
 
+//Admin: Open
+$lang_open_meta_searchable = 'In Suche anzeigen';
+
 // Admin: Update
 $lang_update_title     = 'Aktualisiere Deine Pulse-Installation';
 $lang_update_title_sub = 'Lade die neue Pulse-Zip-Datei hoch';

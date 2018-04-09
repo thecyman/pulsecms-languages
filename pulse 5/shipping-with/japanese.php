@@ -466,14 +466,17 @@ $lang_search_links = 'リンク';
 // Page List
 $lang_pagelist = 'ページリスト';
 
-# admin - debug info
+// Admin - Debug info
 $lang_debug_info_title     = 'デバッグ';
 $lang_debug_info_path      = 'パス';
 $lang_debug_info_title_sub = 'ファイルのアクセス許可';
 $lang_debug_info_button    = 'ダウンロード';
 $lang_debug_info_text      = 'Zipファイルをダウンロードする';
 
-# admin - update
+// Admin - Open
+$lang_open_meta_searchable = '検索に表示する';
+
+// Admin - Update
 $lang_update_title     = 'Pulseを更新する';
 $lang_update_title_sub = '新しいPulse zipファイルをアップロードする';
 $lang_update_button    = 'アップデート';
