@@ -38,6 +38,8 @@ $lang_login_otp = "OTP Hasło"; /* = OTP jednorazowe hasło - generowane */
 $lang_login_welcome = "Hello!";
 $lang_login_name = "Pulse Użytkownik";
 
+$lang_login_forgot_password_message = 'Twoje hasło zostało zresetowane';
+
 // Home - Start
 $lang_home_emptyfold = "Ten folder jest pusty.";
 $lang_home_new = 'Nowy';

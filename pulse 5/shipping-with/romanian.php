@@ -38,6 +38,8 @@ $lang_login_otp = "Parola OTP";
 $lang_login_welcome = "Buna!";
 $lang_login_name = "Utilizator Pulse";
 
+$lang_login_forgot_password_message = 'Parola ta a fost resetata';
+
 // Home
 $lang_home_emptyfold = "Acest fisier este gol"; 
 $lang_home_new = "Nou";

@@ -38,6 +38,8 @@ $lang_login_otp = "OTP Passwort";
 $lang_login_welcome = "Hi!";
 $lang_login_name = "Pulse Benutzer";
 
+$lang_login_forgot_password_message = 'Dein Passwort wurde zurück gesetzt';
+
 // Home
 $lang_home_emptyfold = "Dieser Ordner ist leer.";
 $lang_home_new = "Neu";

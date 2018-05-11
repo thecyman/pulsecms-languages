@@ -37,6 +37,8 @@ $lang_login_otp = "OTP Wachtwoord";
 $lang_login_welcome = "Hallo!";
 $lang_login_name = "Pulse User";
 
+$lang_login_forgot_password_message = 'Je wachtwoord is gereset';
+
 // Home
 $lang_home_emptyfold = "Deze map is leeg."; 
 $lang_home_new = "Nieuw";

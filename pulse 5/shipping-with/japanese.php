@@ -36,6 +36,8 @@ $lang_login_otp = "OTP パスワード";
 $lang_login_welcome = "こんにちは!";
 $lang_login_name = "Pulseユーザーの皆様";
 
+$lang_login_forgot_password_message = 'あなたのパスワードはリセットされました';
+
 // Home
 $lang_home_emptyfold = "フォルダーは空です。"; 
 $lang_home_new = "新規";

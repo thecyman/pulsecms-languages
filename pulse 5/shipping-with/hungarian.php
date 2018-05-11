@@ -38,6 +38,8 @@ $lang_login_otp = "OTP jelszó";
 $lang_login_welcome = "Szia!";
 $lang_login_name = "Pulse Felhasználó";
 
+$lang_login_forgot_password_message = 'A jelszavad vissza lett állítva';
+
 // Home - Főoldal
 $lang_home_emptyfold = "Ez a mappa üres.";
 $lang_home_new = "Új";

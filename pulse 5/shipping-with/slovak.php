@@ -38,6 +38,8 @@ $lang_login_otp = "OTP Heslo"; /* OTP = jednorázové heslo - vygenerovane */
 $lang_login_welcome = "Ahoj!";
 $lang_login_name = "Užívateľ Pulse";
 
+$lang_login_forgot_password_message = 'Vaše heslo bolo obnovené';
+
 // Home - Úvod
 $lang_home_emptyfold = "Táto zložkak je prázdna."; 
 $lang_home_new = "Nový";
