@@ -1,18 +1,18 @@
 <?php
 
 //Global
-$lang_cancel = "Cancel";
-$lang_duplicate = "Duplicate";
-$lang_help = "Help";
+$lang_cancel = "Cancelar";
+$lang_duplicate = "Duplicar";
+$lang_help = "Ajuda";
 $lang_help_url ="https://help.pulsecms.com/";
-$lang_settings = "Settings";
-$lang_account = "Account";
-$lang_save = "Save";
-$lang_rename_btn = "Rename";
+$lang_settings = "Configurações";
+$lang_account = "Conta";
+$lang_save = "Salvar";
+$lang_rename_btn = "Renomear";
 $lang_title = "Pulse CMS";
 
 // Auto backup
-$lang_autobackup_email_subject_line = 'Pulse auto-backup reminder';
+$lang_autobackup_email_subject_line = 'Lembrete do auto-backup do Pulse';
 $lang_autobackup_email_text =<<<EOD
 Hi,
 
@@ -23,131 +23,131 @@ The Pulse CMS Team
 EOD;
 
 // Login
-$lang_login_forgot_password = "Forgot your password ?";
+$lang_login_forgot_password = "Esqueceu sua senha ?";
 $lang_login_forgot_password_email_body =<<<EOD
 	Hi,
 	
 	Your Pulse password is PASSWORD
 EOD;
-$lang_login_forgot_password_email_subject_line = "Forgot your Pulse password?"; 
-$lang_login_incorrect = "Your Password is Incorrect!";
-$lang_login_password = "Password";
+$lang_login_forgot_password_email_subject_line = "Esqueceu a senha do Pulse?"; 
+$lang_login_incorrect = "A senha está incorreta!";
+$lang_login_password = "Senha";
 $lang_login_button = "Login";
-$lang_nav_logout = "Logout";
-$lang_login_otp = "OTP Password";
-$lang_login_welcome = "Hi!";
-$lang_login_name = "Pulse User";
+$lang_nav_logout = "Sair";
+$lang_login_otp = "Senha OTP";
+$lang_login_welcome = "Oi!";
+$lang_login_name = "Usuário Pulse";
 
-$lang_login_forgot_password_message = 'Your password has been reset';
+$lang_login_forgot_password_message = 'Sua senha foi redefinida';
 
 // Home
-$lang_home_emptyfold = "This folder is empty."; 
-$lang_home_new = "New";
+$lang_home_emptyfold = "Esta pasta está vazia"; 
+$lang_home_new = "Novo";
 $lang_home_upload_button = "Upload";
 $lang_home_preview = "Preview";
 
 // Navigation
-$lang_nav_title = "Navigation";
-$lang_nav_home = "Dashboard";
-$lang_nav_blocks = "Blocks";
-$lang_nav_img = "Media";
+$lang_nav_title = "Navigação";
+$lang_nav_home = "Painel";
+$lang_nav_blocks = "Blocos";
+$lang_nav_img = "Mídia";
 $lang_nav_blog = "Blog";
-$lang_nav_pages = "Pages";
-$lang_nav_stats = "Stats";
+$lang_nav_pages = "Páginas";
+$lang_nav_stats = "Statísticas";
 
 // Navigation logged in bar
-$lang_nav_logged_in_add_block     = 'Add new block';
-$lang_nav_logged_in_add_blog_post = 'Add new blog post';
-$lang_nav_logged_in_add_media     = 'Add new media';
-$lang_nav_logged_in_add_page      = 'Add new page';
+$lang_nav_logged_in_add_block     = 'Adicionar novo bloco';
+$lang_nav_logged_in_add_blog_post = 'Adicionar novo post no blog';
+$lang_nav_logged_in_add_media     = 'Adicionar nova mídia';
+$lang_nav_logged_in_add_page      = 'Adicionar nova página';
 
 
 // Gallery
 $lang_gal_alt_gallery = "alt tag";
-$lang_gal_caption_gallery = "Insert caption here";
-$lang_gal_filename = "Filename";
-$lang_gal_dimensions = "Dimensions";
-$lang_gal_size = "Size";
+$lang_gal_caption_gallery = "Insira uma legenda aqui";
+$lang_gal_filename = "Nome do arquivo";
+$lang_gal_dimensions = "Dimensões";
+$lang_gal_size = "Tamanho";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
-$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
-$lang_crop = 'Crop';
-$lang_media_order = 'Order';
-$lang_media_replace = 'Replace';
+$lang_gallery_tool_tip = "Para criar uma galeria lightbox, crie uma pasta com imagens e use a tag embed.";
+$lang_crop = 'Cortar';
+$lang_media_order = 'Ordenar';
+$lang_media_replace = 'Substituir';
 
 // Pages
 $lang_pages_meta = "Meta";
-$lang_pages_title = "Page Title";
-$lang_pages_description = "Page Description";
+$lang_pages_title = "Título da página";
+$lang_pages_description = "Descrição da página";
 
-$lang_pages_css = 'Inline CSS';
-$lang_pages_js = 'Inline JS';
-$lang_pages_template = 'Page Template';
+$lang_pages_css = 'CSS Inline';
+$lang_pages_js = 'JS Inline';
+$lang_pages_template = 'Modelo de página';
 
 
 // Create
-$lang_create_file_or_folder = 'New page';
+$lang_create_file_or_folder = 'Nova página';
 
-$lang_create_file_or_folder_block = "New Block";
-$lang_create_file_or_folder_blog  = "New Blog";
-$lang_create_file_or_folder_page  = "New Page";
-$lang_create_file_or_folder_media = "New Media";
+$lang_create_file_or_folder_block = "Novo bloco";
+$lang_create_file_or_folder_blog  = "Novo blog";
+$lang_create_file_or_folder_page  = "Nova página";
+$lang_create_file_or_folder_media = "Nova mídia";
 
-$lang_create_item_block = 'Block Item';
-$lang_create_item_blog  = 'Blog Item';
-$lang_create_item_page  = 'Page';
-$lang_create_item_media = 'Media Item';
-$lang_create_item_folder = 'Folder';
+$lang_create_item_block = 'Item de bloco';
+$lang_create_item_blog  = 'Item de blog';
+$lang_create_item_page  = 'Página';
+$lang_create_item_media = 'Item de mídia';
+$lang_create_item_folder = 'Pasta';
 
-$lang_create_button = "Create"; 
-$lang_create_tool_tip = "Pages, blocks and blog posts must end with '.txt', which will be automatically added. To create a folder or new blog, select Folder or Blog and Create.";
+$lang_create_button = "Criar"; 
+$lang_create_tool_tip = "Páginas, blocos e posts de blog devem terminar com '.txt', que é adicionado automaticamente. Para crair uma pasta ou um blog novo, selecione Pasta ou Blog e Criar.";
 $lang_create_embed = "Embed";
-$lang_create_embed_tag = "Embed Tag";
-$lang_create_embed_url = "Embed URL:";
-$lang_create_embed_html = "Embed HTML:";
-$lang_create_embed_php = "Embed PHP:";
+$lang_create_embed_tag = "Tag embed";
+$lang_create_embed_url = "URL embed:";
+$lang_create_embed_html = "HTML embed:";
+$lang_create_embed_php = "PHP embed:";
 
-$lang_create_block_move = "Move block to";
-$lang_create_media_move = "Move media to";
+$lang_create_block_move = "Mover bloco para";
+$lang_create_media_move = "Mover mídia para";
 
-$lang_create_folder_error        = 'Unable to create new folder';
-$lang_create_folder_error_exists = 'New folder already exists';
+$lang_create_folder_error        = 'Não foi possível criar a pasta';
+$lang_create_folder_error_exists = 'Essa pasta já existe';
 
-$lang_create_folder_error_no_base   = 'No base folder found';
-$lang_create_folder_error_no_folder = 'No folder name entered';
+$lang_create_folder_error_no_base   = 'Nenhuma pasta base encontrada';
+$lang_create_folder_error_no_folder = 'Nome da pasta não foi preenchido';
 
 // Delete
-$lang_delete = 'Are you sure you want to delete ';
-$lang_del_button = "Delete";
+$lang_delete = 'Tem certeza que quer apagar ';
+$lang_del_button = "Apagar";
 
 // Errors
-$lang_error_create_ext = 'Invalid file extension.';
-$lang_error_file_exists = 'A file with this name in this folder already exists.';
-$lang_error_upload = 'You need to be in a Gallery to upload an image.';
-$lang_no_content = 'no content found';
+$lang_error_create_ext = 'Extensão de arquivo inválida.';
+$lang_error_file_exists = 'Já existe um arquivo com esse nome na pasta.';
+$lang_error_upload = 'Você precisa estar em Galeria para enviar uma imagem.';
+$lang_no_content = 'nenhum conteúdo encontrado';
 
 //Blog
-$lang_blog_title = 'Blog Title';
-$lang_blog_date = 'Date';
-$lang_blog_read_more = 'Read more';
-$lang_blog_back_button = 'Back';
-$lang_blog_older = 'Older';
-$lang_blog_newer = 'Newer';
-$lang_blog_error_folder = "You can't create a folder in Blog";
-$lang_blog_tool_tip = "Blog entries are ordered by number, the highest numbering being the newest post.";
-$lang_blog_import = 'Import';
-$lang_blog_import_tool_tip = 'Import blog entries from RSS. The importer will import from RSS and ATOM formats.';
-$lang_blog_import_page_max = 'Max number of pages';
-$lang_blog_import_page_var = 'Paging variable name';
+$lang_blog_title = 'Nome do Blog';
+$lang_blog_date = 'Data';
+$lang_blog_read_more = 'Ler mais';
+$lang_blog_back_button = 'Voltar';
+$lang_blog_older = 'Mais antigo';
+$lang_blog_newer = 'Mais novo';
+$lang_blog_error_folder = "Você não pode criar uma pasta em Blog";
+$lang_blog_tool_tip = "Entradas do Blog são ordenadas por número, sendo o maior correspondente ao post mais novo.";
+$lang_blog_import = 'Importar';
+$lang_blog_import_tool_tip = 'Importar entradas de blog de RSS. O importador vai importar formatos RSS e ATOM.';
+$lang_blog_import_page_max = 'Número máximo de páginas';
+$lang_blog_import_page_var = 'Nome variável de paginação';
 $lang_blog_import_url = 'URL';
 
-$lang_blog_description = 'Blog Description';
-$lang_blog_tags = 'Blog Tags (Comma separated)';
-$lang_blog_tags_short = 'Blog Tags';
-$lang_blog_url = 'Blog URL';
-$lang_blog_index = 'Do you want this indexed?';
-$lang_blog_nofollow = 'Do you want this "no follow?"';
-$lang_blog_custom = 'Custom META description';
+$lang_blog_description = 'Descrição do blog';
+$lang_blog_tags = 'Tags do blog (separadas por vírgula)';
+$lang_blog_tags_short = 'Tags do blog';
+$lang_blog_url = 'URL do blog';
+$lang_blog_index = 'Você quer indexar isso?';
+$lang_blog_nofollow = 'Você quer marcar como "no follow?"';
+$lang_blog_custom = 'Descrição META customizada';
 
 //Form
 $lang_form_error1 = 'Please fill out field ';
