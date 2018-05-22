@@ -14,20 +14,20 @@ $lang_title = "Pulse CMS";
 // Auto backup
 $lang_autobackup_email_subject_line = 'Lembrete do auto-backup do Pulse';
 $lang_autobackup_email_text =<<<EOD
-Hi,
+Oi,
 
-Your Pulse install has generated a backup zip file.
+O Pulse gerou backup em um arquivo zip.
 
-Regards,
-The Pulse CMS Team
+Atenciosamente,
+O time do Pulse CMS
 EOD;
 
 // Login
 $lang_login_forgot_password = "Esqueceu sua senha ?";
 $lang_login_forgot_password_email_body =<<<EOD
-	Hi,
+	Oi,
 	
-	Your Pulse password is PASSWORD
+	Sua senha do Pulse é PASSWORD
 EOD;
 $lang_login_forgot_password_email_subject_line = "Esqueceu a senha do Pulse?"; 
 $lang_login_incorrect = "A senha está incorreta!";
@@ -150,150 +150,150 @@ $lang_blog_nofollow = 'Você quer marcar como "no follow?"';
 $lang_blog_custom = 'Descrição META customizada';
 
 //Form
-$lang_form_error1 = 'Please fill out field ';
-$lang_form_error2a = 'Your field ';
-$lang_form_error2b = ' is too long.';
-$lang_form_subject_line = 'Contact';
-$lang_form_email_sent = 'Email was sent';
-$lang_form_sent_button = 'Send';
-$lang_auto_thank_contact = 'Thank you for sending me an email - we will reply soon and have received your email';
+$lang_form_error1 = 'Favor preencher o campo ';
+$lang_form_error2a = 'Seu campo ';
+$lang_form_error2b = ' é muito longo.';
+$lang_form_subject_line = 'Contato';
+$lang_form_email_sent = 'O email foi enviado';
+$lang_form_sent_button = 'Enviar';
+$lang_auto_thank_contact = 'Obrigado por me enviar um email - vamos responder em breve';
 
 //Newsletter Form
-$lang_newsletter_thanks ='Thanks!';
-$lang_newsletter_try_again ='Try again';
-$lang_newsletter_placeholder ='Enter Email';
-$lang_newsletter_send ='Sign Up';
+$lang_newsletter_thanks ='Obrigado!';
+$lang_newsletter_try_again ='Tente novamente';
+$lang_newsletter_placeholder ='Digite o email';
+$lang_newsletter_send ='Cadastrar';
 
 // Redactor
-$lang_redactor_mail_button     = 'Adds an Email address';
-$lang_redactor_mail_link_title = 'Send Email to me';
+$lang_redactor_mail_button     = 'Adicione um endereço de email';
+$lang_redactor_mail_link_title = 'Enviar email para mim';
 
 // Stats
-$lang_stats_today = "Visitors";
-$lang_stats_refers = "Top Referrers";
-$lang_stats_pages = "Top Pages";
-$lang_stats_refresh = "Refresh";
-$lang_stats_pageviews = "Pageviews";
-$lang_stats_per_visit = "Pages / Visit";
-$lang_stats_bounce_rate ="Bounce Rate";
+$lang_stats_today = "Visitantes";
+$lang_stats_refers = "Maiores referenciadores";
+$lang_stats_pages = "Maiores páginas";
+$lang_stats_refresh = "Recarregar";
+$lang_stats_pageviews = "Visualizações de página";
+$lang_stats_per_visit = "Páginas / Visitas";
+$lang_stats_bounce_rate ="Taxa de rejeição";
 $lang_stats_online = "Online";
-$lang_stats_thisweek = "This Week";
-$lang_stats_todays_stats = "Today";
-$lang_stats_nodata = "No Data";
+$lang_stats_thisweek = "Essa semana";
+$lang_stats_todays_stats = "Hoje";
+$lang_stats_nodata = "Sem dados";
 
-$lang_stats_browsers  = "browsers";
-$lang_stats_countries = "countries";
-$lang_stats_devices   = "devices";
-$lang_stats_systems   = "systems";
+$lang_stats_browsers  = "navegadores";
+$lang_stats_countries = "países";
+$lang_stats_devices   = "aparelhos";
+$lang_stats_systems   = "sistemas";
 
 // Sweet Alert
 $lang_sweetalert_ok    = "OK";
-$lang_sweetalert_saved = "Saved";
+$lang_sweetalert_saved = "Salvo";
 
 // Custom post types
-$lang_custom_post_type_error_illegal_characters = 'Custom post type name has illegal characters';
-$lang_custom_post_type_error_illegal_name       = 'Custom post type name has an illegal name';
-$lang_custom_post_type_error_unknown_entry      = 'This custom post type entry is unknown';
+$lang_custom_post_type_error_illegal_characters = 'O nome deste tipo de post customizado tem caracteres não permitidos';
+$lang_custom_post_type_error_illegal_name       = 'O nome deste tipo de post customizado tem um nome não permitido';
+$lang_custom_post_type_error_unknown_entry      = 'Esse tipo de post customizado é desconhecido';
 
 // Status messages
-$lang_status_ok = 'Data saved';
+$lang_status_ok = 'Dados salvos';
 
 // Dashboard
 $lang_dashboard_backups = 'Backups';
-$lang_dashboard_blocks = 'Blocks';
-$lang_dashboard_edit_blocks = 'Edit Blocks';
+$lang_dashboard_blocks = 'Blocos';
+$lang_dashboard_edit_blocks = 'Editar blocos';
 $lang_dashboard_blog = 'Blog';
-$lang_dashboard_edit_blog = 'Edit Blog';
-$lang_dashboard_notes = 'Dashboard notes';
-$lang_dashboard_file_storage = 'File Storage';
-$lang_dashboard_media = 'Media';
-$lang_dashboard_edit_media = 'Edit Media';
-$lang_dashboard_pages = 'Pages';
-$lang_dashboard_edit_page = 'Edit Page';
+$lang_dashboard_edit_blog = 'Editar blog';
+$lang_dashboard_notes = 'Notas do painel';
+$lang_dashboard_file_storage = 'Aramazenamento de arquivo';
+$lang_dashboard_media = 'Mídia';
+$lang_dashboard_edit_media = 'Editar mídia';
+$lang_dashboard_pages = 'Páginas';
+$lang_dashboard_edit_page = 'Editas página';
 
 // Settings
-$lang_settings_title = 'Pulse Settings';
-$lang_settings_general = 'General';
-$lang_settings_forms = 'Forms';
-$lang_settings_security = 'Security';
-$lang_settings_permissions = 'Permissions';
-$lang_settings_extend = 'Extend';
+$lang_settings_title = 'Configurações do Pulse';
+$lang_settings_general = 'Geral';
+$lang_settings_forms = 'Formulários';
+$lang_settings_security = 'Segurança';
+$lang_settings_permissions = 'Permissões';
+$lang_settings_extend = 'Estender';
 
 //// Settings: General
-$lang_settings_path = 'Path';
-$lang_settings_path_tooltip = 'Leave blank if installed in root folder';
-$lang_settings_admin = 'Admin';
-$lang_settings_admin_tooltip = 'Admin folder name';
-$lang_settings_password = 'Password';
-$lang_settings_password_tooltip = 'Something difficult to guess';
-$lang_settings_backup_tooltip = 'Automatic site backup';
-$lang_settings_backupemail = 'Backup email';
-$lang_settings_backupemail_tooltip = 'The place to send the ZIP backup';
-$lang_settings_time = 'Default timezone';
-$lang_settings_language = 'Language';
-$lang_settings_ip = 'Anonymize IP';
-$lang_settings_frontpage = 'Front page display';
-$lang_settings_adminfrontpage = 'Admin front page display';
-$lang_settings_adminname = 'Admin username';
+$lang_settings_path = 'Caminho';
+$lang_settings_path_tooltip = 'Deixe em branco se instalado na pasta raiz';
+$lang_settings_admin = 'Administrador';
+$lang_settings_admin_tooltip = 'Nome da pasta do administrador';
+$lang_settings_password = 'Senha';
+$lang_settings_password_tooltip = 'Algo difícil de adivinhar';
+$lang_settings_backup_tooltip = 'Backup automático do site';
+$lang_settings_backupemail = 'Email de backup';
+$lang_settings_backupemail_tooltip = 'Onde deve ser enviado o ZIP do backup';
+$lang_settings_time = 'Fuso horário padrão';
+$lang_settings_language = 'Idioma';
+$lang_settings_ip = 'Usar IP anônimo';
+$lang_settings_frontpage = 'Exibição da página frontal';
+$lang_settings_adminfrontpage = 'Administração da exibição da página frontal';
+$lang_settings_adminname = 'Nome de usuário do administrador';
 $lang_settings_adminname_tooltip = 'Used to display name for Blog posts';
-$lang_settings_css = 'CSS overwrite for whole site';
-$lang_settings_css_tooltip = 'Paste your CSS in here';
-$lang_settings_js = 'JS overwrite for whole site';
-$lang_settings_js_tooltip = 'Paste your JS in here';
+$lang_settings_css = 'Sobrescrever CSS de todo o site';
+$lang_settings_css_tooltip = 'Cole seu CSS aqui';
+$lang_settings_js = 'Sobrescrever JS de todo o site';
+$lang_settings_js_tooltip = 'Cole seu JS aqui';
 
 //// Settings: Cache
 $lang_settings_title_cache = 'Cache';
-$lang_settings_cache = 'Enable frontend cache';
+$lang_settings_cache = 'Habilitar o cache do frontend';
 
 //// Settings: Editor
 $lang_settings_title_editor = 'Editor';
-$lang_settings_wysiwyg = 'Enable WYSIWYG editor on Blocks (otherwise HTML and Markdown)';
-$lang_settings_upload = 'Allowed files to upload';
-$lang_settings_upload_tooltip = 'Use comma to separate file extensions';
-$lang_settings_wysiwygpages = 'Enable WYSIWYG editor on Pages (otherwise HTML and Markdown)';
+$lang_settings_wysiwyg = 'Habilitar o editor WYSIWYG nos blocos (se não usar HTML e Markdown)';
+$lang_settings_upload = 'Arquivos permitidos para upload';
+$lang_settings_upload_tooltip = 'Usar vírgula para separar extensões de arquivo';
+$lang_settings_wysiwygpages = 'Habilitar o editor WYSIWYG nas páginas (se não usar HTML e Markdown)';
 
 //// Settings: Made in Pulse
-$lang_settings_title_made_in_pulse = 'Made in Pulse';
-$lang_settings_made_in_pulse       = 'Made in Pulse badge added';
-$lang_settings_made_in_pulse_label = 'Enable made-in-pulse content for template';
+$lang_settings_title_made_in_pulse = 'Feito no Pulse';
+$lang_settings_made_in_pulse       = 'Emblema Feito no Pulse adicinado';
+$lang_settings_made_in_pulse_label = 'Habilitar conteúdo feito no pulse para o modelo';
 
-$lang_settings_theme_meta_author_show       = 'Show author meta in theme';
-$lang_settings_theme_meta_author_show_label = 'Show author meta in theme';
+$lang_settings_theme_meta_author_show       = 'Exibir o meta do autor no tema';
+$lang_settings_theme_meta_author_show_label = 'Exibir o meta do autor no tema';
 
 //// Settings: Media
-$lang_settings_title_media = 'Media';
-$lang_settings_jpeg = 'JPEG quality';
-$lang_settings_jpeg_tooltip = 'Use 100 for full JPEG quality (larger files)';
-$lang_settings_jpegresample = 'JPEG resampling "off"';
-$lang_settings_jpegsize = 'JPEG quality';
-$lang_settings_jpegsize_tooltip = 'Scale JPEGs to a max pixel size (height)';
-$lang_settings_thumbheight = 'Thumbnail height';
-$lang_settings_thumbheight_tooltip = 'Height in px';
-$lang_settings_thumb = 'Create thumbnails';
+$lang_settings_title_media = 'Mídia';
+$lang_settings_jpeg = 'Qualidade do JPEG';
+$lang_settings_jpeg_tooltip = 'Use 100 para qualidade máxima de JPEG (arquivos grandes)';
+$lang_settings_jpegresample = 'Reamostragem de JPEG "desligada"';
+$lang_settings_jpegsize = 'Qualidade do JPEG';
+$lang_settings_jpegsize_tooltip = 'Aumentar os JPEGs para a altura máxima';
+$lang_settings_thumbheight = 'Altura da miniatura';
+$lang_settings_thumbheight_tooltip = 'Altura em px';
+$lang_settings_thumb = 'Criar miniatura';
 
 //// Settings: Navigation
-$lang_settings_title_navigation = 'Navigation';
-$lang_settings_navigationmenu = 'Enable frontend editing';
-$lang_settings_title_managenavigation = 'Manage site navigation';
+$lang_settings_title_navigation = 'Navegação';
+$lang_settings_navigationmenu = 'Habilitar edição no frontend';
+$lang_settings_title_managenavigation = 'Gerenciar a navegação do site';
 
 /// Settings: Google Analytics
 $lang_settings_title_google = 'Google Analytics';
-$lang_settings_google = 'Analytics tracking code';
-$lang_settings_google_tooltip = 'Paste your Google Analytics tracking code snippet here';
+$lang_settings_google = 'Código de rasteamento do Analytics';
+$lang_settings_google_tooltip = 'Cole o snippet do código de rastreamento do Google Analytics aqui';
 
 //// Settings: GeoIP
 $lang_settings_title_geoip = 'GeoIP';
-$lang_settings_geoip       = 'GeoIP data for site stats';
-$lang_settings_geoip_label = 'Enable GeoIP for stats here';
+$lang_settings_geoip       = 'Dados GeoIP para estatísticas do site';
+$lang_settings_geoip_label = 'Habilitar GeoIP para estatísticas aqui';
 
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';
-$lang_settings_ogp = 'OGP default image';
-$lang_settings_ogp_tooltip = 'Relative or absolute link';
+$lang_settings_ogp = 'Imagem padrão OGP';
+$lang_settings_ogp_tooltip = 'Link absoluto ou relativo';
 
 //// Settings: Blog
 $lang_settings_title_blog = 'Blog';
-$lang_settings_blogresults = 'Results per page';
+$lang_settings_blogresults = 'Resultados por página';
 $lang_settings_blogresults_tooltip = 'Blog posts per page';
 $lang_settings_blogdisqus = 'Enable Disqus comments';
 $lang_settings_blogdisqususer = 'Disqus username';
