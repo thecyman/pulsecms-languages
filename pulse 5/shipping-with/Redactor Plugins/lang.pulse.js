@@ -715,6 +715,77 @@
 			"widget-html-code":"Widget HTML Code"
 		};
 		
+		
+		/**
+		 * portuguese brazilian
+		 */
+		const PT_BR = {
+			// alignment
+			"align": "Alinhar",
+			"align-left": "Alinhar à esquerda",
+			"align-center": "Alinhar centro",
+			"align-right": "Alinhar à direita",
+			"align-justify": "Alinhar justificar",
+			
+			// clips
+			clips:"Clips",
+			"clips-select":"Selecione um cli",
+			
+			// file manager
+			choose: "Escolher",
+			
+			// font color
+			fontcolor:"Cor do texto",
+			text:"Texto",
+			highlight:"Realçar",
+			
+			// font family
+			fontfamily:"Fonte",
+			"remove-font-family":"Remover família de fontes",
+			
+			// font size
+			size:"Tamanho",
+			"remove-size":"Remover tamanho da fonte",
+			
+			// full screen
+			fullscreen:"Tela cheia",
+			
+			// image Escolher
+			choose:"Choose",
+			
+			// inline
+			style:"Estilo",
+			
+			// properties
+			properties:"Propriedades",
+			
+			// table
+			table:"Tabela",
+			"insert-table":"Insira a tabela",
+			"insert-row-above":"Inserir linha acima",
+			"insert-row-below":"Inserir linha abaixo",
+			"insert-column-left":"Inserir coluna à esquerda",
+			"insert-column-right":"Inserir coluna à direita",
+			"add-head":"Adicionar cabeça",
+			"delete-head":"Excluir cabeça",
+			"delete-column":"Excluir coluna",
+			"delete-row":"Excluir linha",
+			"delete-table":"Excluir tabela",
+			
+			// text direction
+			"change-text-direction":"RTL-LTR",
+			"left-to-right":"Da esquerda para direita",
+			"right-to-left":"Direita para esquerda",
+			
+			// video
+			video:"Video",
+			"video-html-code":"Video Embed Code or Youtube/Vimeo Link",
+			
+			// widget
+			widget:"Widget",
+			"widget-html-code":"Widget HTML Code"
+		};
+		
 		/**
 		 * add translations
 		 */
@@ -735,7 +806,7 @@
 		$R.addLang('nl',    NL);
 		$R.addLang('no',    EN);
 		$R.addLang('pl',    PL);
-		$R.addLang('pt_br', EN);
+		$R.addLang('pt_br', PT_BR);
 		$R.addLang('ro',    RO);
 		$R.addLang('ru',    EN);
 		$R.addLang('sk',    SK);

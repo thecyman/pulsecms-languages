@@ -1,5 +1,5 @@
 <?php
-
+// lang "pt_br"
 //Global
 $lang_cancel = "Cancelar";
 $lang_duplicate = "Duplicar";
