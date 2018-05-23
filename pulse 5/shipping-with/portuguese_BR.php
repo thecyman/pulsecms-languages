@@ -294,91 +294,91 @@ $lang_settings_ogp_tooltip = 'Link absoluto ou relativo';
 //// Settings: Blog
 $lang_settings_title_blog = 'Blog';
 $lang_settings_blogresults = 'Resultados por página';
-$lang_settings_blogresults_tooltip = 'Blog posts per page';
-$lang_settings_blogdisqus = 'Enable Disqus comments';
-$lang_settings_blogdisqususer = 'Disqus username';
-$lang_settings_blogdisqususer_tooltip = 'Add your Disqus account shortname';
-$lang_settings_blogdate = 'Date format';
-$lang_settings_blogdate_tooltip = 'PHP date format. For more see: https://php.net/manual/en/function.date.php';
-$lang_settings_blogmasonry = 'Enable Blog masonry layout';
+$lang_settings_blogresults_tooltip = 'Posts do blog por página';
+$lang_settings_blogdisqus = 'Habilitar comentários do Disqus';
+$lang_settings_blogdisqususer = 'Usuário do Disqus';
+$lang_settings_blogdisqususer_tooltip = 'Adicionar o shortname da conta Disqus';
+$lang_settings_blogdate = 'Formato da data';
+$lang_settings_blogdate_tooltip = 'Formato da data em PHP. Saiba mais em: https://php.net/manual/en/function.date.php';
+$lang_settings_blogmasonry = 'Habilitar leiaute de alvenaria no blog';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';
-$lang_settings_rsstitle = 'RSS blog title';
-$lang_settings_rsstitle_tooltip = 'My Blog';
-$lang_settings_rssdescription = 'RSS blog description';
-$lang_settings_rssdescription_tooltip = 'This is my blog.';
-$lang_settings_rssurl = 'Blog URL';
+$lang_settings_rsstitle = 'nome do blog no RSS';
+$lang_settings_rsstitle_tooltip = 'Meu blog';
+$lang_settings_rssdescription = 'descrção do blog no RSS';
+$lang_settings_rssdescription_tooltip = 'Este é o meu blog.';
+$lang_settings_rssurl = 'URL do blog';
 $lang_settings_rssurl_tooltip = 'http://example.com/blog';
-$lang_settings_rsslang = 'Date format';
-$lang_settings_rsslang_tooltip = 'en-gb';
-$lang_settings_rssurlprefix = 'Blog URL prefix';
-$lang_settings_rssurlprefix_tooltip = '(blog) would be blog-1-post-title, also edit in htaccess';
+$lang_settings_rsslang = 'Formato de data';
+$lang_settings_rsslang_tooltip = 'pt-br';
+$lang_settings_rssurlprefix = 'prefixo da URL do blog';
+$lang_settings_rssurlprefix_tooltip = '(blog) deve ser blog-1-post-titulo, tambem editável no htaccess';
 
 //// Settings: SMTP Settings
-$lang_settings_title_smtp = 'SMTP Settings';
-$lang_settings_smtpusername = 'SMTP username';
-$lang_settings_smtpusername_tooltip = 'Only fill in if want to use SMTP';
-$lang_settings_smtppassword = 'SMTP password';
-$lang_settings_smtppassword_tooltip = 'Password';
-$lang_settings_smtphost = 'SMTP host';
-$lang_settings_smtphost_tooltip = 'mail.server.com';
-$lang_settings_smtpport = 'SMTP port';
+$lang_settings_title_smtp = 'Configurações do SMTP';
+$lang_settings_smtpusername = 'Usuário do SMTP';
+$lang_settings_smtpusername_tooltip = 'Apenas preencher se quiser usar SMTP';
+$lang_settings_smtppassword = 'Senha SMTP';
+$lang_settings_smtppassword_tooltip = 'Senha';
+$lang_settings_smtphost = 'Host SMTP';
+$lang_settings_smtphost_tooltip = 'correio.servidor.com';
+$lang_settings_smtpport = 'Porta SMTP';
 $lang_settings_smtpport_tooltip = '465';
 
 //// Settings: SweetAlert
-$lang_settings_title_sweetalert = 'SweetAlert Settings';
-$lang_settings_sweetalert_active_tooltip  = 'Activate alerts';
-$lang_settings_sweetalert_active          = 'Activate';
-$lang_settings_sweetalert_timeout_tooltip = 'Timeout delay (milliseconds)';
-$lang_settings_sweetalert_timeout         = 'Timeout';
+$lang_settings_title_sweetalert = 'Configurações do SweetAlert';
+$lang_settings_sweetalert_active_tooltip  = 'Ativar alertas';
+$lang_settings_sweetalert_active          = 'Ativatar';
+$lang_settings_sweetalert_timeout_tooltip = 'Demora de tempo esgotado (milisegundos)';
+$lang_settings_sweetalert_timeout         = 'Tempo esgotado';
 
 //// Settings: Pagination
-$lang_settings_title_pagination = 'Pagination';
-$lang_settings_paginationlinks = 'Page links to show';
-$lang_settings_paginationlinks_tooltip = 'Appears on Blocks and Pages navigation for example';
-$lang_settings_paginationpages = 'Results per page';
-$lang_settings_paginationpages_tooltip = 'How many pages to appear per link';
+$lang_settings_title_pagination = 'Paginação';
+$lang_settings_paginationlinks = 'Links de página a ser exibidos';
+$lang_settings_paginationlinks_tooltip = 'Aparece em blocos e na navegação de páginas, por exemplo';
+$lang_settings_paginationpages = 'Resulados por página';
+$lang_settings_paginationpages_tooltip = 'Quantas páginas aparecem por link';
 
 //// Settings: Forms
-$lang_settings_forminputname = 'Name input';
-$lang_settings_forminputname_tooltip = 'text';
-$lang_settings_forminputemail = 'Email input';
+$lang_settings_forminputname = 'Entrada do nome';
+$lang_settings_forminputname_tooltip = 'texto';
+$lang_settings_forminputemail = 'Entrada de email';
 $lang_settings_forminputemail_tooltip = 'email';
-$lang_settings_forminputtel = 'Tel input';
-$lang_settings_forminputtel_tooltip = 'text';
+$lang_settings_forminputtel = 'Entrada do telefone';
+$lang_settings_forminputtel_tooltip = 'texto';
 
-$lang_settings_formnamename = 'Text for Name';
-$lang_settings_formnamename_tooltip = 'Name';
-$lang_settings_formemailname = 'Text for Email';
+$lang_settings_formnamename = 'Texto para nome';
+$lang_settings_formnamename_tooltip = 'Nome';
+$lang_settings_formemailname = 'Texto para email';
 $lang_settings_formemailname_tooltip = 'Email';
-$lang_settings_formtextarea = 'Textarea size';
-$lang_settings_formtextarea_tooltip = 'Number of rows in comment textarea';
-$lang_settings_formemail = 'Form recipient';
-$lang_settings_formemail_tooltip = 'Separate multiple recipients by a comma';
-$lang_settings_formsubject = 'Form subject line';
-$lang_settings_formsubject_tooltip = 'You received an email';
-$lang_settings_formthanks = 'Enable automatic thank you reply after submission';
-$lang_settings_formredirect = 'Submission redirect';
-$lang_settings_formredirect_tooltip = 'http://yoursite.com/thanks';
+$lang_settings_formtextarea = 'Tamanho da área de texto';
+$lang_settings_formtextarea_tooltip = 'Número de colunas na área de texto para comentários';
+$lang_settings_formemail = 'Destinatário do formulário';
+$lang_settings_formemail_tooltip = 'Separar múltiplos destinatários por vírgula';
+$lang_settings_formsubject = 'Linha de assunto do formulário';
+$lang_settings_formsubject_tooltip = 'Você recebeu um email';
+$lang_settings_formthanks = 'Habilitar resposta automática de agradecimento depois de envio';
+$lang_settings_formredirect = 'Redirecionamtno de envio';
+$lang_settings_formredirect_tooltip = 'http://seusite.com/obrigado';
 
-$lang_settings_formcomment             = 'Text/Label for comment';
-$lang_settings_formcommentname_tooltip = 'Comment';
-$lang_settings_formphone               = 'Text/Label for phone';
-$lang_settings_formphonename_tooltip   = 'Phone';
+$lang_settings_formcomment             = 'Texto/rótulo para comentário';
+$lang_settings_formcommentname_tooltip = 'Commentário';
+$lang_settings_formphone               = 'Texto/rótulo para telefone';
+$lang_settings_formphonename_tooltip   = 'Telefone';
 
 //// Settings: OTP One-Time Password
-$lang_settings_title_otp = 'One Time Password settings (Admin)';
-$lang_settings_otpactivate = 'Activate One Time Password';
-$lang_settings_otpsecret = 'One Time Password secret';
-$lang_settings_otpsecret_tooltip = 'Get from OTP mobile app, such as Google Authenticator';
+$lang_settings_title_otp = 'Configurações para One Time Password (Administrador)';
+$lang_settings_otpactivate = 'Habilitar o One Time Password';
+$lang_settings_otpsecret = 'Segredo do One Time Password';
+$lang_settings_otpsecret_tooltip = 'Obtenha de um app de OTP, como o Google Authenticator';
 
 //// Settings: reCAPTCHA
 $lang_settings_title_recap = 'reCAPTCHA';
-$lang_settings_recapkey = 'reCAPTCHA Site Key';
-$lang_settings_recapkey_tooltip = 'Get from Google account: https://www.google.com/recaptcha';
-$lang_settings_recapkeysecret = 'reCAPTCHA Secret Key';
-$lang_settings_recapkeysecret_tooltip = 'Get from Google account: https://www.google.com/recaptcha';
+$lang_settings_recapkey = 'Chave reCAPTCHA do site';
+$lang_settings_recapkey_tooltip = 'Obtenha da conta Google: https://www.google.com/recaptcha';
+$lang_settings_recapkeysecret = 'Chave secreta do reCAPTCHA';
+$lang_settings_recapkeysecret_tooltip = 'Obtenha da conta Google: https://www.google.com/recaptcha';
 
 //// Settings: Permissions
 $lang_settings_title_editor = 'Editor User';
