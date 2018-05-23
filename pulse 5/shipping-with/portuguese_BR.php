@@ -381,117 +381,117 @@ $lang_settings_recapkeysecret = 'Chave secreta do reCAPTCHA';
 $lang_settings_recapkeysecret_tooltip = 'Obtenha da conta Google: https://www.google.com/recaptcha';
 
 //// Settings: Permissions
-$lang_settings_title_editor = 'Editor User';
-$lang_settings_editor = 'Enable Editor user';
-$lang_settings_editorpass = 'Editor password';
-$lang_settings_editorpass_tooltip = 'Something difficult to guess';
-$lang_settings_editoruser = 'Editor username';
-$lang_settings_editoruser_tooltip = 'Used to display name for Blog posts';
+$lang_settings_title_editor = 'Usuário editor';
+$lang_settings_editor = 'Habilitar usuário editor';
+$lang_settings_editorpass = 'Senha do editor';
+$lang_settings_editorpass_tooltip = 'Algo difícil de adivinhar';
+$lang_settings_editoruser = 'Nome de usuário do editor';
+$lang_settings_editoruser_tooltip = 'Usado apra exibir o nome de post do blog';
 
-$lang_settings_title_editorotp = 'One Time Password settings (Editor)';
-$lang_settings_editorotpactivate = 'Activate One Time Password';
-$lang_settings_editorotpsecret = 'One Time Password secret';
-$lang_settings_editorotpsecret_tooltip = 'Get from OTP mobile app, such as Google Authenticator';
+$lang_settings_title_editorotp = 'Configurações para One Time Password (editor)';
+$lang_settings_editorotpactivate = 'Ativar o One Time Password';
+$lang_settings_editorotpsecret = 'Segredo do One Time Password';
+$lang_settings_editorotpsecret_tooltip = 'Obtenha de um app de OTP, como o Google Authenticator';
 
-$lang_settings_title_editoraccess = 'Allow Editor to access any (or all) of these blocks:';
-$lang_settings_title_editorpagesaccess = 'Allow Editor to access any (or all) of these pages:';
+$lang_settings_title_editoraccess = 'Permitir ao editor acesso a todos os blocos:';
+$lang_settings_title_editorpagesaccess = 'Permitir ao editor acesso a todas as páginas:';
 
 //// Settings: Extend
-$lang_settings_title_themes = 'Themes';
-$lang_settings_themeselect = 'Theme selected';
-$lang_settings_themeupload = 'Upload theme ZIP';
+$lang_settings_title_themes = 'Temas';
+$lang_settings_themeselect = 'Tema selecionado';
+$lang_settings_themeupload = 'Subir ZIP do tema';
 
 $lang_settings_title_plugins = 'Plugins';
-$lang_settings_pluginupload = 'Upload plugin ZIP';
+$lang_settings_pluginupload = 'USubir ZIP do plugin';
 
-$lang_settings_title_customposts = 'Custom Post Types';
-$lang_settings_managecustomposts = 'Manage custom post types';
+$lang_settings_title_customposts = 'Tipo de post customizado';
+$lang_settings_managecustomposts = 'Gerenciar tipos de post customizado';
 
-$lang_settings_themeuploader = 'Upload a new theme ZIP file';
-$lang_settings_pluginuploader = 'Upload a new plugin ZIP file';
+$lang_settings_themeuploader = 'Subir arquivo ZIP de um novo tema';
+$lang_settings_pluginuploader = 'Subir arquivo ZIP de um novo plugin';
 
-$lang_settings_title_debug_info  = 'Debug Info';
-$lang_settings_manage_debug_info = 'Debug Info';
+$lang_settings_title_debug_info  = 'Informação para debug';
+$lang_settings_manage_debug_info = 'Informação para debug';
 
-$lang_settings_title_update  = 'Update';
-$lang_settings_manage_update = 'Update';
+$lang_settings_title_update  = 'Atualizar';
+$lang_settings_manage_update = 'Atualizar';
 
 //// Settings: Media
-$lang_settings_mediaupload = 'Upload a media file';
+$lang_settings_mediaupload = 'Subir arquivo de mídia';
 
 //// Settings: Navigation
-$lang_settings_navigationtitle = 'Manage the navigation links';
-$lang_settings_navigationsubtitle = 'Drag and drop to re-order the list.';
-$lang_settings_navigationsubmenu = 'Add sub-menu';
+$lang_settings_navigationtitle = 'Gerenciar lonks de navegação';
+$lang_settings_navigationsubtitle = 'Arraste e solte para reordenar itens da lista.';
+$lang_settings_navigationsubmenu = 'Adicionar submenu';
 
-$lang_settings_navigation_non_pulse_page = 'Add non Pulse item';
-$lang_settings_navigation_non_pulse_name = 'Name';
+$lang_settings_navigation_non_pulse_page = 'Adicionar um item não original do Pulse';
+$lang_settings_navigation_non_pulse_name = 'Nome';
 $lang_settings_navigation_non_pulse_url  = 'URL';
 
-$lang_settings_navigation_activate = 'Activate';
+$lang_settings_navigation_activate = 'Ativar';
 
-$lang_settings_navigation_add_menu = "Add menu";
+$lang_settings_navigation_add_menu = "Adicionar menu";
 $lang_settings_navigation_menus = "Menus";
 
 //// Settings: Custom Post Type
-$lang_settings_custompostentries = 'Custom post type entries for:';
-$lang_settings_custompostadd = 'Add a new entry';
+$lang_settings_custompostentries = 'Entradas de tipo de post customizadas para:';
+$lang_settings_custompostadd = 'Adicionar uma nova entrada';
 
-$lang_settings_title_custompostedit = 'Custom post type entries for:';
-$lang_settings_custompostback = '< Back to the list page';
-$lang_settings_custompostname = 'Post Name';
+$lang_settings_title_custompostedit = 'Entradas de tipo de post customizadas para:';
+$lang_settings_custompostback = '< Voltar para a página de lista';
+$lang_settings_custompostname = 'Nome do post';
 
-$lang_settings_custompostdelete = 'custom post type entry';
+$lang_settings_custompostdelete = 'Entradas de tipo de post customizadas para';
 
-$lang_settings_custompostaddentry = 'Add a custom post type entry for:';
+$lang_settings_custompostaddentry = 'Adicionar entradas de tipo de post customizadas para:';
 
-$lang_settings_customposttypes = 'Custom post types';
-$lang_settings_custompostmanage = 'manage entries';
-$lang_settings_custompostmanageedit = 'edit';
-$lang_settings_custompostmanageadd = 'Add a new custom post type';
+$lang_settings_customposttypes = 'Tipos de post customizadas';
+$lang_settings_custompostmanage = 'gerenciar entradas';
+$lang_settings_custompostmanageedit = 'editar';
+$lang_settings_custompostmanageadd = 'Adicionar um novo tipo de post customizado';
 
-$lang_settings_title_custompostedit_title = 'Edit a custom post type';
-$lang_settings_title_custompostedit_titlein = 'Edit a custom post type entry in:';
+$lang_settings_title_custompostedit_title = 'Editar um tipo de post customizado';
+$lang_settings_title_custompostedit_titlein = 'Editar um tipo de post customizado em:';
 
-$lang_settings_custompostdefadd = 'Add a custom post type';
-$lang_settings_custompostdeftypename = 'Post type name';
-$lang_settings_custompostdefname = 'Name';
-$lang_settings_custompostdeftype = 'Type';
-$lang_settings_custompostdeffield = 'Field';
-$lang_settings_custompostcontent = 'Content';
+$lang_settings_custompostdefadd = 'Adicionar um novo tipo de post customizado';
+$lang_settings_custompostdeftypename = 'Nome do tipo de post';
+$lang_settings_custompostdefname = 'Nome';
+$lang_settings_custompostdeftype = 'Tipo';
+$lang_settings_custompostdeffield = 'Campo';
+$lang_settings_custompostcontent = 'Conteúdo';
 
 // Tags
-$lang_settings_title_tags = 'Tags';
-$lang_settings_manage_tags = 'Manage Tags';
+$lang_settings_title_tags = 'Etiquetas';
+$lang_settings_manage_tags = 'Gerenciar etiquetas';
 
-$lang_settings_tags_title = 'Manage the tags';
-$lang_settings_tags_subtitle = 'Add / Delete tags and descriptions.';
+$lang_settings_tags_title = 'Gerenciar as etiquetas';
+$lang_settings_tags_subtitle = 'Adicionar / Apagar etiquetas e descrições.';
 
-$lang_settings_tags_name = 'Name';
-$lang_settings_tags_description = 'Description';
+$lang_settings_tags_name = 'Nome';
+$lang_settings_tags_description = 'Descrição';
 
 // Search
-$lang_search_title = 'Search';
-$lang_search_placeholder = 'Search Term';
-$lang_search_cta = 'Search';
-$lang_search_noresults = 'No results found';
-$lang_search_results = 'Search results';
-$lang_search_links = 'Link to';
+$lang_search_title = 'Buscar';
+$lang_search_placeholder = 'Buscar termo';
+$lang_search_cta = 'Buscar';
+$lang_search_noresults = 'Busca sem resultados';
+$lang_search_results = 'Resultados da busca';
+$lang_search_links = 'Link para';
 
 // Page List
-$lang_pagelist = 'Page List';
+$lang_pagelist = 'Lista de páginas';
 
 // Admin - Debug info
-$lang_debug_info_title     = 'Debug info';
-$lang_debug_info_path      = 'Path';
-$lang_debug_info_title_sub = 'File/Directory permissions';
-$lang_debug_info_button    = 'Download';
-$lang_debug_info_text      = 'Download the zip file';
+$lang_debug_info_title     = 'Informações para debug';
+$lang_debug_info_path      = 'Caminho';
+$lang_debug_info_title_sub = 'Permissões de arquivo/diretório';
+$lang_debug_info_button    = 'Baixar';
+$lang_debug_info_text      = 'Baixar o arquivo zip';
 
 // Admin - Open
-$lang_open_meta_searchable = 'Show in search';
+$lang_open_meta_searchable = 'Exibir na busca';
 
 // Admin - Update
-$lang_update_title     = 'Update a Pulse CMS install';
-$lang_update_title_sub = 'Upload the new PulseCMS zip file';
-$lang_update_button    = 'Update';
+$lang_update_title     = 'Atualizar a instalação do Pulse CMS';
+$lang_update_title_sub = 'Atualizar o arquivo zip do novo PulseCMS';
+$lang_update_button    = 'Atualizar';
