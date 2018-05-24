@@ -787,6 +787,76 @@
 		};
 		
 		/**
+		 * russian
+		 */
+		const RU = {
+			// alignment
+			"align": "выравнивать",
+			"align-left": "выровнять левому",
+			"align-center": "выравнивать центр",
+			"align-right": "выравнивать право",
+			"align-justify": "выравнивать выравнивание",
+			
+			// clips
+			clips:"Clips",
+			"clips-select":"выбрать клип",
+			
+			// file manager
+			choose: "выберите",
+			
+			// font color
+			fontcolor:"Цвет текста",
+			text:"Текст",
+			highlight:"Выделение текста",
+			
+			// font family
+			fontfamily:"Шрифт",
+			"remove-font-family":"Удалить шрифт",
+			
+			// font size
+			size:"Размер",
+			"remove-size":"Удалить размер шрифта",
+			
+			// full screen
+			fullscreen:"Полноэкранный",
+			
+			// image manager
+			choose:"выберите",
+			
+			// inline
+			style:"Стиль",
+			
+			// properties
+			properties:"свойства",
+			
+			// table
+			table:"Tаблицу",
+			"insert-table":"Вставить таблицу",
+			"insert-row-above":"Bставить строку выше",
+			"insert-row-below":"Bставить строку ниже",
+			"insert-column-left":"Вставить колонку влево",
+			"insert-column-right":"Вставить колонку вправо",
+			"add-head":"добавить голову",
+			"delete-head":"Удалить голову",
+			"delete-column":"Удалить столбец",
+			"delete-row":"Удалить строку",
+			"delete-table":"Удалить таблицу",
+			
+			// text direction
+			"change-text-direction":"RTL-LTR",
+			"left-to-right":"Слева направо",
+			"right-to-left":"Справа налево",
+			
+			// video
+			video:"Video",
+			"video-html-code":"Video Embed Code or Youtube/Vimeo Link",
+			
+			// widget
+			widget:"Widget",
+			"widget-html-code":"Widget HTML Code"
+		};
+		
+		/**
 		 * add translations
 		 */
 		$R.addLang('ar',    EN);
@@ -808,7 +878,7 @@
 		$R.addLang('pl',    PL);
 		$R.addLang('pt_br', PT_BR);
 		$R.addLang('ro',    RO);
-		$R.addLang('ru',    EN);
+		$R.addLang('ru',    RU);
 		$R.addLang('sk',    SK);
 		$R.addLang('sl',    EN);
 		$R.addLang('sv',    EN);
