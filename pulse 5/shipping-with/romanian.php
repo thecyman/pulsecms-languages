@@ -357,6 +357,8 @@ $lang_settings_formphonename_tooltip   = 'Telefon';
 //// Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Setari OTP-parola dinamica (Admin)';
 $lang_settings_otpactivate = 'Activeaza OTP (parola dinamica)';
+$lang_settings_form_gdpr = 'GDPR intrare';
+$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_otpsecret = 'Secretul OTP (parola dinamica)';
 $lang_settings_otpsecret_tooltip = 'Obtine de la o aplicatie OTP pt mobil, cum ar fi Google Authenticator';
 

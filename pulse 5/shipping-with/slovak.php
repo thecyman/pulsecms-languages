@@ -357,6 +357,8 @@ $lang_settings_formphonename_tooltip = 'Telefón';
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Nastavenia jednorazového hesla (Admin)';
 $lang_settings_otpactivate = 'Aktivovať jednorazové heslo';
+$lang_settings_form_gdpr = 'GDPR vstup';
+$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_otpsecret = 'Jednorázové tajné heslo (OTP)';
 $lang_settings_otpsecret_tooltip = 'OTP získajte z mobilnej aplikácie, napríklad z Google Autentizator';
 

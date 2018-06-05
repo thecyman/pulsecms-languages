@@ -351,6 +351,8 @@ $lang_settings_formredirect_tooltip = 'http://site.com/thanks';
 
 $lang_settings_formcomment             = 'コメントのテキスト';
 $lang_settings_formcommentname_tooltip = 'コメント';
+$lang_settings_form_gdpr = 'GDPRインプット';
+$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_formphone               = '電話のテキスト';
 $lang_settings_formphonename_tooltip   = '電話';
 

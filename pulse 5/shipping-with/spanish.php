@@ -38,6 +38,8 @@ $lang_login_otp = "Contraseña OTP";
 $lang_login_welcome = "¡Hola!";
 $lang_login_name = "Usuario de Pulse";
 
+$lang_login_forgot_password_message = 'Tu contraseña ha sido restablecida';
+
 // Home
 $lang_home_emptyfold = "Carpeta vacía"; 
 $lang_home_new = "Nuevo";
@@ -362,6 +364,8 @@ $lang_settings_formredirect_tooltip = 'http://yoursite.com/thanks';
 
 $lang_settings_formcomment             = 'Texto/etiqueta para comentario';
 $lang_settings_formcommentname_tooltip = 'Comentario';
+$lang_settings_form_gdpr = 'GDPR entrada';
+$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_formphone               = 'Texto/etiqueta para teléfono';
 $lang_settings_formphonename_tooltip   = 'Teléfono';
 

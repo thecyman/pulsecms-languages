@@ -365,6 +365,8 @@ $lang_settings_formredirect_tooltip = 'http://deineseite.de/danke';
 
 $lang_settings_formcomment             = 'Text/Label für Kommentare';
 $lang_settings_formcommentname_tooltip = 'Kommentar';
+$lang_settings_form_gdpr = 'GDPR eingang';
+$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_formphone               = 'Text/Label für Telefon';
 $lang_settings_formphonename_tooltip   = 'Telefon';
 

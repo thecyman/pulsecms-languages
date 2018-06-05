@@ -357,6 +357,8 @@ $lang_settings_formphonename_tooltip = 'Telefon';
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Egyszeri jelszó beállítása (Adminisztrátor)';
 $lang_settings_otpactivate = 'Az egyszeri jelszó aktiválása';
+$lang_settings_form_gdpr = 'GDPR bemenet';
+$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_otpsecret = 'Egyszeri titkos jelszó (OTP)';
 $lang_settings_otpsecret_tooltip = 'Kapjon OTP mobilalkalmazást, például a Google Hitelesítő';
 

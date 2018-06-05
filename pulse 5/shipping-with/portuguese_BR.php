@@ -364,6 +364,8 @@ $lang_settings_formredirect_tooltip = 'http://seusite.com/obrigado';
 
 $lang_settings_formcomment             = 'Texto/rótulo para comentário';
 $lang_settings_formcommentname_tooltip = 'Commentário';
+$lang_settings_form_gdpr = 'GDPR entrada';
+$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_formphone               = 'Texto/rótulo para telefone';
 $lang_settings_formphonename_tooltip   = 'Telefone';
 

@@ -357,6 +357,8 @@ $lang_settings_formphonename_tooltip = 'Telefon';
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Ustawienia haseł jednorazowych (administrator)';
 $lang_settings_otpactivate = 'Aktywuj jedno-czasowe hasło';
+$lang_settings_form_gdpr = 'GDPR wkład';
+$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_otpsecret = 'Hasło jednokrotne w tajemnicy';
 $lang_settings_otpsecret_tooltip = 'Uzyskaj z aplikacji mobilnej OTP, takiej jak Google Authenticator';
 
