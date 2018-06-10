@@ -420,6 +420,7 @@ $lang_settings_navigation_menus = "Menus";
 
 $lang_settings_title_debug_info  = 'Debug';
 $lang_settings_manage_debug_info = 'Debug';
+$lang_settings_manage_log_viewer = 'Log viewer';
 
 $lang_settings_title_update  = 'Bijwerken';
 $lang_settings_manage_update = 'Bijwerken';
@@ -444,6 +445,10 @@ $lang_settings_custompostdefname = 'Naam';
 $lang_settings_custompostdeftype = 'Type';
 $lang_settings_custompostdeffield = 'Field';
 $lang_settings_custompostcontent = 'Content';
+
+# log viewer
+$lang_settings_log_viewer_log_files   = 'Logboek bestanden';
+$lang_settings_log_viewer_log_content = 'Loginvoer'; 
 
 // Tags
 $lang_settings_title_tags = 'Tags';

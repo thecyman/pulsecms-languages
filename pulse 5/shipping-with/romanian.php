@@ -411,6 +411,7 @@ $lang_settings_navigation_menus = "Meniuri";
 
 $lang_settings_title_debug_info  = 'Depanare';
 $lang_settings_manage_debug_info = 'Depanare';
+$lang_settings_manage_log_viewer = 'Vizualizator de jurnale';
 
 $lang_settings_title_update  = 'Actualizați';
 $lang_settings_manage_update = 'Actualizați';
@@ -435,6 +436,10 @@ $lang_settings_custompostdefname = 'Nume';
 $lang_settings_custompostdeftype = 'Tip';
 $lang_settings_custompostdeffield = 'Camp';
 $lang_settings_custompostcontent = 'Continut';
+
+# log viewer
+$lang_settings_log_viewer_log_files   = 'Fișierele jurnal';
+$lang_settings_log_viewer_log_content = 'Intrările de jurnal'; 
 
 // Tags
 $lang_settings_title_tags = 'Etichete';

@@ -418,6 +418,7 @@ $lang_settings_navigation_menus = "メニュー";
 
 $lang_settings_title_debug_info  = 'デバッグ';
 $lang_settings_manage_debug_info = 'デバッグ';
+$lang_settings_manage_log_viewer = 'ログビューア';
 
 $lang_settings_title_update  = 'アップデート';
 $lang_settings_manage_update = 'アップデート';
@@ -448,6 +449,10 @@ $lang_settings_custompostdefname = '名前';
 $lang_settings_custompostdeftype = 'タイプ';
 $lang_settings_custompostdeffield = 'フィールド';
 $lang_settings_custompostcontent = 'コンテンツ';
+
+# log viewer
+$lang_settings_log_viewer_log_files   = 'ログファイル';
+$lang_settings_log_viewer_log_content = 'ログエントリ'; 
 
 // Tags
 $lang_settings_title_tags = 'ブログタグ';

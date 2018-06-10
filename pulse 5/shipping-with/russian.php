@@ -414,6 +414,7 @@ $lang_settings_pluginuploader = 'Загрузить новый плагин в Z
 
 $lang_settings_title_debug_info  = 'Отладочная информация';
 $lang_settings_manage_debug_info = 'Отладочная информация';
+$lang_settings_manage_log_viewer = 'Просмотр журнала';
 
 $lang_settings_title_update  = 'Обновить';
 $lang_settings_manage_update = 'Обновить';
@@ -461,6 +462,10 @@ $lang_settings_custompostdefname = 'Имя';
 $lang_settings_custompostdeftype = 'Тип';
 $lang_settings_custompostdeffield = 'Поле';
 $lang_settings_custompostcontent = 'Содержание';
+
+# log viewer
+$lang_settings_log_viewer_log_files   = 'Лог-файлы';
+$lang_settings_log_viewer_log_content = 'Вход в журнал'; 
 
 // Tags
 $lang_settings_title_tags = 'Теги';

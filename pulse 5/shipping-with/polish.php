@@ -411,6 +411,7 @@ $lang_settings_navigation_menus = "Menus";
 
 $lang_settings_title_debug_info  = 'Debugowanie';
 $lang_settings_manage_debug_info = 'Debugowanie menu';
+$lang_settings_manage_log_viewer = 'Przeglądarka dzienników';
 
 $lang_settings_title_update  = 'Aktualizacja menu';
 $lang_settings_manage_update = 'Aktualizacja';
@@ -435,6 +436,10 @@ $lang_settings_custompostdefname = 'Nazwisko';
 $lang_settings_custompostdeftype = 'Typ';
 $lang_settings_custompostdeffield = 'Obszar';
 $lang_settings_custompostcontent = 'Treść';
+
+# log viewer
+$lang_settings_log_viewer_log_files   = 'Pliki dziennika';
+$lang_settings_log_viewer_log_content = 'Wpisy do dziennika'; 
 
 $lang_settings_title_tags = 'Tagi';
 $lang_settings_manage_tags = 'Zarządzaj tagi';

@@ -411,6 +411,7 @@ $lang_settings_navigation_menus = "Menu";
 
 $lang_settings_title_debug_info  = 'Ladit';
 $lang_settings_manage_debug_info = 'Ladit';
+$lang_settings_manage_log_viewer = 'Prohlížeč protokolů';
 
 $lang_settings_title_update  = 'Aktualizovat';
 $lang_settings_manage_update = 'Aktualizovat';
@@ -435,6 +436,10 @@ $lang_settings_custompostdefname = 'Název';
 $lang_settings_custompostdeftype = 'Typ';
 $lang_settings_custompostdeffield = 'Pole';
 $lang_settings_custompostcontent = 'Obsah';
+
+# log viewer
+$lang_settings_log_viewer_log_files   = 'Záznam souborů';
+$lang_settings_log_viewer_log_content = 'Záznamy v protokolu'; 
 
 // Tags
 $lang_settings_title_tags = 'Značky (Tagy)';

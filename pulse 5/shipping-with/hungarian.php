@@ -411,6 +411,7 @@ $lang_settings_navigation_menus = "Menük";
 
 $lang_settings_title_debug_info  = 'Hibakeresés';
 $lang_settings_manage_debug_info = 'Hibakeresés';
+$lang_settings_manage_log_viewer = 'Napló megtekintése';
 
 $lang_settings_title_update  = 'Frissítés';
 $lang_settings_manage_update = 'Frissítés';
@@ -435,6 +436,10 @@ $lang_settings_custompostdefname = 'Név';
 $lang_settings_custompostdeftype = 'Típus';
 $lang_settings_custompostdeffield = 'Terület';
 $lang_settings_custompostcontent = 'Tartalom';
+
+# log viewer
+$lang_settings_log_viewer_log_files   = 'Naplófájlok';
+$lang_settings_log_viewer_log_content = 'Naplóbejegyzések'; 
 
 // Tags
 $lang_settings_title_tags = 'Címkék';

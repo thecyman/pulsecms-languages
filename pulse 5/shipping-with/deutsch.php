@@ -432,6 +432,7 @@ $lang_settings_navigation_menus = "Menüs";
 
 $lang_settings_title_debug_info  = 'Debuggen';
 $lang_settings_manage_debug_info = 'Debuggen';
+$lang_settings_manage_log_viewer = 'Eintrags Ansicht';
 
 $lang_settings_title_update  = 'Aktualisieren';
 $lang_settings_manage_update = 'Aktualisieren';
@@ -462,6 +463,10 @@ $lang_settings_custompostdefname = 'Name';
 $lang_settings_custompostdeftype = 'Typ';
 $lang_settings_custompostdeffield = 'Feld';
 $lang_settings_custompostcontent = 'Inhalt';
+
+# log viewer
+$lang_settings_log_viewer_log_files   = 'Protokolldateien';
+$lang_settings_log_viewer_log_content = 'Protokolleinträge'; 
 
 // Tags
 $lang_settings_title_tags = 'Tags';

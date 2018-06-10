@@ -414,6 +414,7 @@ $lang_settings_pluginuploader = 'Subir un nuevo plugin en ZIP';
 
 $lang_settings_title_debug_info  = 'Información de depuración';
 $lang_settings_manage_debug_info = 'Información de depuración';
+$lang_settings_manage_log_viewer = 'Visor de registro';
 
 $lang_settings_title_update  = 'Actualizar';
 $lang_settings_manage_update = 'Actualizar';
@@ -461,6 +462,10 @@ $lang_settings_custompostdefname = 'Nombre';
 $lang_settings_custompostdeftype = 'Tipo';
 $lang_settings_custompostdeffield = 'Campo';
 $lang_settings_custompostcontent = 'Contenido';
+
+# log viewer
+$lang_settings_log_viewer_log_files   = 'Archivos de registro';
+$lang_settings_log_viewer_log_content = 'Entradas de registro'; 
 
 // Tags
 $lang_settings_title_tags = 'Etiquetas';

@@ -411,6 +411,7 @@ $lang_settings_navigation_menus = "Ponuky";
 
 $lang_settings_title_debug_info  = 'Ladiť';
 $lang_settings_manage_debug_info = 'Ladiť';
+$lang_settings_manage_log_viewer = 'Prehliadač denníkov';
 
 $lang_settings_title_update  = 'Aktualizovať';
 $lang_settings_manage_update = 'Aktualizovať';
@@ -435,6 +436,10 @@ $lang_settings_custompostdefname = 'Názov';
 $lang_settings_custompostdeftype = 'Typ';
 $lang_settings_custompostdeffield = 'Pole';
 $lang_settings_custompostcontent = 'Obsah';
+
+# log viewer
+$lang_settings_log_viewer_log_files   = 'Súbory denníkov';
+$lang_settings_log_viewer_log_content = 'Záznamy denníka'; 
 
 // Tags
 $lang_settings_title_tags = 'Značky (Tagy)';
