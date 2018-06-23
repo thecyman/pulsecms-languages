@@ -125,6 +125,7 @@ $lang_blog_read_more = 'Čítajte ďalej';
 $lang_blog_back_button = 'Späť';
 $lang_blog_older = 'Staršie';
 $lang_blog_newer = 'Novšie';
+$lang_blog_posted_in = 'Publikované v:';
 $lang_blog_error_folder = "Nedá sa vytvoriť priečinok v Blogu";
 $lang_blog_tool_tip = "Blog položky sú zoradené podľa čísla, najvyššie číslovanie je najnovší príspevok.";
 $lang_blog_import = 'Importovať';

@@ -125,6 +125,7 @@ $lang_blog_read_more = 'További információ';
 $lang_blog_back_button = 'Vissza';
 $lang_blog_older = 'Régebbi';
 $lang_blog_newer = "Újabb";
+$lang_blog_posted_in = 'Kirakott:';
 $lang_blog_error_folder = "Nem hozhat létre mappát a Blogban";
 $lang_blog_tool_tip = "A blog bejegyzéseket szám szerint rendezi, a legmagasabb szám a legfrissebb bejegyzés.";
 $lang_blog_import = 'Importálás';

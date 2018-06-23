@@ -125,6 +125,7 @@ $lang_blog_read_more = 'Czytaj więcej';
 $lang_blog_back_button = 'Powrót';
 $lang_blog_older = 'Starsze';
 $lang_blog_newer = 'Nowszy';
+$lang_blog_posted_in = 'Opublikowany w:';
 $lang_blog_error_folder = "Nie możesz utworzyć folderu w Blogu";
 $lang_blog_tool_tip = "Wpisy w blogu są uporządkowane według liczby, najwyższa numeracja to najnowszy wpis.";
 $lang_blog_import = 'Importu';

@@ -133,6 +133,7 @@ $lang_blog_read_more = 'Leer más';
 $lang_blog_back_button = 'Atrás';
 $lang_blog_older = 'Anterior';
 $lang_blog_newer = 'Posterior';
+$lang_blog_posted_in = 'Publicado en:';
 $lang_blog_error_folder = "No puedes crear una carpeta en Blog";
 $lang_blog_tool_tip = "Las entradas del blog se ordenan por número, siendo la más alta la publicación más reciente.";
 $lang_blog_import = 'Importar';

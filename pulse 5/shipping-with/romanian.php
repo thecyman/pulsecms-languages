@@ -125,6 +125,7 @@ $lang_blog_read_more = 'Citeste mai mult';
 $lang_blog_back_button = 'Inapoi';
 $lang_blog_older = 'Mai vechi';
 $lang_blog_newer = 'Mai noi';
+$lang_blog_posted_in = 'Postat în:';
 $lang_blog_error_folder = "Nu poti crea un folder in Blog";
 $lang_blog_tool_tip = "Intrarile de blog sunt ordonate dupa numar, cel mai mare numar reprezentand postarea cea mai noua.";
 $lang_blog_import = 'Import';

@@ -134,6 +134,7 @@ $lang_blog_read_more = 'Weiterlesen';
 $lang_blog_back_button = 'Zurück';
 $lang_blog_older = 'Ältere Beiträge';
 $lang_blog_newer = 'Neuere Beiträge';
+$lang_blog_posted_in = 'Veröffentlicht in:';
 $lang_blog_error_folder = "Du kannst keine Ordner im $lang_nav_blog erstellen.";
 $lang_blog_tool_tip = "Blogbeiträge sind numerisch geordnet, die höhste Nummer ist der neuste Beitrag.";
 $lang_blog_import = 'Importieren';

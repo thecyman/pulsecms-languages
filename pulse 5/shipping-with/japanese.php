@@ -131,6 +131,7 @@ $lang_blog_read_more = 'もっと読む';
 $lang_blog_back_button = '戻る';
 $lang_blog_older = '前へ';
 $lang_blog_newer = '次へ';
+$lang_blog_posted_in = 'カテゴリで掲示される:';
 $lang_blog_error_folder = "ブログ内にファイルを作る事はできません";
 $lang_blog_tool_tip = "ブログエントリーは番号順に並んでいます。最も大きい番号が最新のエントリーです。";
 $lang_blog_import = 'インポート';

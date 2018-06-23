@@ -133,6 +133,7 @@ $lang_blog_read_more = 'Читать дальше';
 $lang_blog_back_button = 'Назад';
 $lang_blog_older = 'Предыдущий';
 $lang_blog_newer = 'Следующий';
+$lang_blog_posted_in = 'Опубликовано в:';
 $lang_blog_error_folder = "Вы не можете создать папку в Блогах";
 $lang_blog_tool_tip = "Посты в блогах сортируются по номеру, чем выше номер, тем новее пост.";
 $lang_blog_import = 'Импортировать';

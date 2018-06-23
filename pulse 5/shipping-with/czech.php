@@ -125,6 +125,7 @@ $lang_blog_read_more = 'Čtěte více';
 $lang_blog_back_button = 'Zpět';
 $lang_blog_older = 'Starší';
 $lang_blog_newer = 'Novější';
+$lang_blog_posted_in = 'Publikováno v:';
 $lang_blog_error_folder = "V Blogu nelze vytvořit složku";
 $lang_blog_tool_tip = "Položky blogu jsou řazeny podle čísla, nejvyšší číslování prozatím nejnovější příspěvek.";
 $lang_blog_import = 'Importovat';

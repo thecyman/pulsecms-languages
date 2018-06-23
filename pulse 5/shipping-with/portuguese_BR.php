@@ -133,6 +133,7 @@ $lang_blog_read_more = 'Ler mais';
 $lang_blog_back_button = 'Voltar';
 $lang_blog_older = 'Mais antigo';
 $lang_blog_newer = 'Mais novo';
+$lang_blog_posted_in = 'Postado em:';
 $lang_blog_error_folder = "Você não pode criar uma pasta em Blog";
 $lang_blog_tool_tip = "Entradas do Blog são ordenadas por número, sendo o maior correspondente ao post mais novo.";
 $lang_blog_import = 'Importar';

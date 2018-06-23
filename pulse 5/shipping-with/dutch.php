@@ -130,6 +130,7 @@ $lang_blog_read_more = 'Lees meer';
 $lang_blog_back_button = 'Terug';
 $lang_blog_older = 'Oudere';
 $lang_blog_newer = 'Nieuwere';
+$lang_blog_posted_in = 'Geplaatst in:';
 $lang_blog_error_folder = "Je kunt geen map aanmaken in Blog";
 $lang_blog_tool_tip = "Blog entries zijn gerangschikt naar nummer, het hoogste nummer is het nieuwste bericht.";
 $lang_blog_import = 'Importeer';
