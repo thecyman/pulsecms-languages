@@ -450,6 +450,12 @@ $lang_settings_tags_subtitle = 'Přidat / Smazat značky a popisy.';
 $lang_settings_tags_name = 'Název';
 $lang_settings_tags_description = 'Popis';
 
+// Template Strings
+$lang_settings_title_template_strings = 'Text šablony';
+
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Všechno v tagu rozpětí je zvýrazněno. Aktuální: Ahoj!! Uživatel Pulse';
+$lang_settings_template_string_admin_login_welcome         = 'Přihlásit se Vítejte text';
+
 // Search
 $lang_search_title = 'Vyhledávání';
 $lang_search_placeholder = 'Hledaný výraz';

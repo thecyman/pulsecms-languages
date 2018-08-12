@@ -478,6 +478,12 @@ $lang_settings_tags_subtitle = 'Añadir / Borrar etiquetas y descripciones.';
 $lang_settings_tags_name = 'Nombre';
 $lang_settings_tags_description = 'Descripción';
 
+// Template Strings
+$lang_settings_title_template_strings = 'Texto de plantilla';
+
+$lang_settings_template_string_admin_login_welcome_tooltip = 'La etiqueta de Span está resaltada. Corriente: ¡Hola! Usuario de Pulse';
+$lang_settings_template_string_admin_login_welcome         = 'Login Bienvenido Texto';
+
 // Search
 $lang_search_title = 'Buscar';
 $lang_search_placeholder = 'Buscar Término';

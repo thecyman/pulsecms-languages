@@ -478,6 +478,12 @@ $lang_settings_tags_subtitle = 'Add / Delete tags and descriptions.';
 $lang_settings_tags_name = 'Name';
 $lang_settings_tags_description = 'Description';
 
+// Template Strings
+$lang_settings_title_template_strings = 'Template Text';
+
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Anything in a span tag is highlighted. Current: Hi! Pulse User';
+$lang_settings_template_string_admin_login_welcome         = 'Login Welcome Text';
+
 // Search
 $lang_search_title = 'Search';
 $lang_search_placeholder = 'Search Term';

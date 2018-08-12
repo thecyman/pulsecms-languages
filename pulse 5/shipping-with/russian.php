@@ -478,6 +478,12 @@ $lang_settings_tags_subtitle = 'Добавить / Стереть теги и о
 $lang_settings_tags_name = 'Имя';
 $lang_settings_tags_description = 'Описание';
 
+// Template Strings
+$lang_settings_title_template_strings = 'Текст шаблона';
+
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Выделен тег Span. Текущий
+: Здравствуйте! Pulse пользователь';
+$lang_settings_template_string_admin_login_welcome         = 'Вход Приветствующий текст';
 // Search
 $lang_search_title = 'Поиск';
 $lang_search_placeholder = 'Искать текст';

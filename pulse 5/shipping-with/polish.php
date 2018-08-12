@@ -449,6 +449,12 @@ $lang_settings_tags_subtitle = 'Dodaj / Usuń tagi i opisy.';
 $lang_settings_tags_name = 'Nazwa';
 $lang_settings_tags_description = 'Opisanie';
 
+// Template Strings
+$lang_settings_title_template_strings = 'Tekst szablonu';
+
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Wszystko w znaczniku zakresu jest podświetlone. Obecny: Hello! Pulse Użytkownik';
+$lang_settings_template_string_admin_login_welcome         = 'Zaloguj się tekst powitalny';
+
 // Search - Szukanie
 $lang_search_title = 'Szukanie';
 $lang_search_placeholder = 'Szukany termin';

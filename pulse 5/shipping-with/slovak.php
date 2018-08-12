@@ -450,6 +450,12 @@ $lang_settings_tags_subtitle = 'Pridať / Odstrániť značky a popisy.';
 $lang_settings_tags_name = 'Meno';
 $lang_settings_tags_description = 'Popis';
 
+// Template Strings
+$lang_settings_title_template_strings = 'Text šablóny';
+
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Span tag je zvýraznená. Prúd: Ahoj! Užívateľ Pulse';
+$lang_settings_template_string_admin_login_welcome         = 'Prihlásiť sa uvítací text';
+
 // Search
 $lang_search_title = 'Vyhľadávanie';
 $lang_search_placeholder = 'Hľadaný výraz';

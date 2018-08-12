@@ -479,6 +479,12 @@ $lang_settings_tags_subtitle = 'Hinzufügen / Entfernen von Tags und Beschreibun
 $lang_settings_tags_name = 'Name';
 $lang_settings_tags_description = 'Beschreibungen';
 
+// Template Strings
+$lang_settings_title_template_strings = 'Vorlagentext';
+
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Alles in einem Span-Tag ist hervorgehoben. Strom: Hi! Pulse Benutzer';
+$lang_settings_template_string_admin_login_welcome         = 'Login Begrüßungstext';
+
 // Search
 $lang_search_title = 'Suche';
 $lang_search_placeholder = 'Suchbegriff';

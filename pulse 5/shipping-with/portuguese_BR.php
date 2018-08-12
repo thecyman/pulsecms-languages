@@ -478,6 +478,12 @@ $lang_settings_tags_subtitle = 'Adicionar / Apagar etiquetas e descrições.';
 $lang_settings_tags_name = 'Nome';
 $lang_settings_tags_description = 'Descrição';
 
+// Template Strings
+$lang_settings_title_template_strings = 'Texto do modelo';
+
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Qualquer coisa em uma tag span é destacada. Atual: Oi! Usuário Pulse';
+$lang_settings_template_string_admin_login_welcome         = 'Login Welcome Texto';
+
 // Search
 $lang_search_title = 'Buscar';
 $lang_search_placeholder = 'Buscar termo';

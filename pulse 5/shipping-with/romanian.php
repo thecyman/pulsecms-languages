@@ -450,6 +450,12 @@ $lang_settings_tags_subtitle = 'Adauga / Sterge etichete si descrieri.';
 $lang_settings_tags_name = 'Nume';
 $lang_settings_tags_description = 'Descriere';
 
+// Template Strings
+$lang_settings_title_template_strings = 'Textul șablonului';
+
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Eticheta Span este evidențiată. Actual: Buna! Utilizator Pulse';
+$lang_settings_template_string_admin_login_welcome         = 'Autentificare Bun venit pe text';
+
 // Search
 $lang_search_title = 'Cauta';
 $lang_search_placeholder = 'Termen de cautare';

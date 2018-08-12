@@ -450,6 +450,12 @@ $lang_settings_tags_subtitle = 'Címkék és leírások hozzáadása / törlése
 $lang_settings_tags_name = 'Név';
 $lang_settings_tags_description = 'Leírás';
 
+// Template Strings
+$lang_settings_title_template_strings = 'Sablon szöveg';
+
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Bármi, ami egy span tagben van, kiemel. Jelenlegi: Szia!! Pulse Felhasználó';
+$lang_settings_template_string_admin_login_welcome         = 'Bejelentkezés üdvözlő szöveg';
+
 // Search
 $lang_search_title = 'Keresés';
 $lang_search_placeholder = 'Keresési kifejezés';

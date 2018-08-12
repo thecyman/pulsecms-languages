@@ -451,7 +451,7 @@ $lang_settings_custompostdeftype = 'タイプ';
 $lang_settings_custompostdeffield = 'フィールド';
 $lang_settings_custompostcontent = 'コンテンツ';
 
-# log viewer
+// Log Viewer
 $lang_settings_log_viewer_log_files   = 'ログファイル';
 $lang_settings_log_viewer_log_content = 'ログエントリ'; 
 
@@ -464,6 +464,12 @@ $lang_settings_tags_subtitle = 'タグと説明を追加または削除';
 
 $lang_settings_tags_name = '名前';
 $lang_settings_tags_description = 'ブログタグの説明';
+
+// Template Strings
+$lang_settings_title_template_strings = 'テンプレートのテキスト';
+
+$lang_settings_template_string_admin_login_welcome_tooltip = 'スパンタグの全てがハイライトで表示されます。 現在: こんにちは! Pulseユーザーの皆様';
+$lang_settings_template_string_admin_login_welcome         = 'ログインのWelcomeテキスト';
 
 // Search
 $lang_search_title = '検索';

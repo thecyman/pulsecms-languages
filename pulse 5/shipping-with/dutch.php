@@ -461,6 +461,12 @@ $lang_settings_tags_subtitle = 'Voeg toe of verwijder tags en omschrijvingen.';
 $lang_settings_tags_name = 'Naam';
 $lang_settings_tags_description = 'Omschrijving';
 
+// Template Strings
+$lang_settings_title_template_strings = 'Sjabloontekst';
+
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Alles in een span-tag is gemarkeerd. Actueel: Hallo! Pulse User';
+$lang_settings_template_string_admin_login_welcome         = 'Login welkomsttekst';
+
 // Search
 $lang_search_title = 'Zoek';
 $lang_search_placeholder = 'Zoekterm';
