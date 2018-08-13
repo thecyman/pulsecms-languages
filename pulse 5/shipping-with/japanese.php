@@ -285,6 +285,11 @@ $lang_settings_title_geoip = 'GeoIP';
 $lang_settings_geoip       = 'サイトスタッツへのGeoIPデータ';
 $lang_settings_geoip_label = 'サイトスタッツへのGeoIPデータ';
 
+$lang_settings_geoip_api_key         = 'GeoIPのサービスのAPI KEY';
+$lang_settings_geoip_api_key_tooltip = 'GeoIPのサービスのAPI KEY';
+$lang_settings_geoip_service         = 'GeoIPのサービス';
+$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';
 $lang_settings_ogp = 'OGPデフォルトイメージ';

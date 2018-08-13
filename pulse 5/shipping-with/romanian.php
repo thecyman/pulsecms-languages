@@ -276,6 +276,11 @@ $lang_settings_title_geoip = 'GeoIP';
 $lang_settings_geoip       = 'Date GeoIP pentru statistici despre site';
 $lang_settings_geoip_label = 'Activeaza GeoIP pentru statistici aici';
 
+$lang_settings_geoip_api_key         = 'GeoIP serviciu API KEY';
+$lang_settings_geoip_api_key_tooltip = 'GeoIP serviciu API KEY';
+$lang_settings_geoip_service         = 'GeoIP serviciu';
+$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';
 $lang_settings_ogp = 'Imagine OGP implicita';

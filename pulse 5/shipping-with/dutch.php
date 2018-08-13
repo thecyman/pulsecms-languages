@@ -282,6 +282,11 @@ $lang_settings_title_geoip = 'GeoIP';
 $lang_settings_geoip       = 'GeoIP data for site stats';
 $lang_settings_geoip_label = 'Enable GeoIP for stats here';
 
+$lang_settings_geoip_api_key         = 'GeoIP service API KEY';
+$lang_settings_geoip_api_key_tooltip = 'GeoIP service API KEY';
+$lang_settings_geoip_service         = 'GeoIP service';
+$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+
 // Settings: OGP
 $lang_settings_title_ogp = 'OGP';
 $lang_settings_ogp = 'OGP standard afbeelding';

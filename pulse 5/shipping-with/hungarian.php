@@ -276,6 +276,11 @@ $lang_settings_title_geoip = 'GeoIP';
 $lang_settings_geoip = 'GeoIP adatok webhelystatisztika';
 $lang_settings_geoip_label = 'Engedélyezze GeoIP a statisztika itt';
 
+$lang_settings_geoip_api_key         = 'GeoIP szolgáltatás API KEY';
+$lang_settings_geoip_api_key_tooltip = 'GeoIP szolgáltatás API KEY';
+$lang_settings_geoip_service         = 'GeoIP szolgáltatás';
+$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+
 // Settings: OGP - Open Graph protocol >> http://ogp.me/
 $lang_settings_title_ogp = '(OGP) Nytot grafikus protokollok';
 $lang_settings_ogp = 'OGP eredeti kép';
