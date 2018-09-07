@@ -237,6 +237,10 @@ $lang_settings_css_tooltip = 'Kopieer je CSS hierin';
 $lang_settings_js = 'JS overschrijven voor de hele site';
 $lang_settings_js_tooltip = 'Kopieer je JS hierin';
 
+//// Settings: GDPR
+$lang_settings_title_gdpr = 'GDPR';
+$lang_settings_gdpr_enable_in_form = 'Schakel GDPR in form tag in';
+
 // Settings: Cache
 $lang_settings_title_cache = 'Cache';
 $lang_settings_cache = 'Sta frontend cache toe';
@@ -301,6 +305,7 @@ $lang_settings_blogdisqususer = 'Disqus username';
 $lang_settings_blogdisqususer_tooltip = 'De shortname van je Disqus account ';
 $lang_settings_blogdate = 'Datum notatie';
 $lang_settings_blogdate_tooltip = 'PHP datum notatie. Meer info hierover op: https://php.net/manual/en/function.date.php';
+$lang_settings_blog_flag_reverse = 'Omgekeerde volgorde van de bloglijst'; 
 $lang_settings_blogmasonry = 'Inschakelen Blog Masonry layout';
 
 // Settings: RSS

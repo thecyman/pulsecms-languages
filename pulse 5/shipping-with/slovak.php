@@ -232,6 +232,10 @@ $lang_settings_css_tooltip = 'Tu vložte svoje CSS';
 $lang_settings_js = 'Prepísanie JS pre celý web';
 $lang_settings_js_tooltip = 'Tu vložte svoje JS';
 
+//// Settings: GDPR
+$lang_settings_title_gdpr = 'GDPR';
+$lang_settings_gdpr_enable_in_form = 'Povoliť GDPR vo značke formulára';
+
 // Settings: Cache
 $lang_settings_title_cache = 'Cache (medzipamäte)';
 $lang_settings_cache = 'Povoliť vyrovnávaciu pamäť frontend';
@@ -295,6 +299,7 @@ $lang_settings_blogdisqususer = 'Disqus užívateľské meno';
 $lang_settings_blogdisqususer_tooltip = 'Pridajte krátke meno účtu Disqus';
 $lang_settings_blogdate = 'Formát dátumu';
 $lang_settings_blogdate_tooltip = 'PHP formát dátumu. Viac informácií nájdete: https://php.net/manual/en/function.date.php';
+$lang_settings_blog_flag_reverse = 'Reverzné poradie zoznamu blogov'; 
 $lang_settings_blogmasonry = 'V Blogu povoliť masonry rozloženie';
 
 // Settings: RSS
@@ -357,14 +362,14 @@ $lang_settings_formredirect = 'Presmerovanie na poďakovanie';
 $lang_settings_formredirect_tooltip = 'http://moj_web.sk/podakovanie';
 $lang_settings_formcomment = 'Text/Štítok pre komentáre';
 $lang_settings_formcommentname_tooltip = 'Komentáre';
+$lang_settings_form_gdpr = 'GDPR vstup';
+$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_formphone = 'Text/Štítok pre telefón';
 $lang_settings_formphonename_tooltip = 'Telefón';
 
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Nastavenia jednorazového hesla (Admin)';
 $lang_settings_otpactivate = 'Aktivovať jednorazové heslo';
-$lang_settings_form_gdpr = 'GDPR vstup';
-$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_otpsecret = 'Jednorázové tajné heslo (OTP)';
 $lang_settings_otpsecret_tooltip = 'OTP získajte z mobilnej aplikácie, napríklad z Google Autentizator';
 

@@ -240,6 +240,10 @@ $lang_settings_css_tooltip = 'CSSをここに貼り付け';
 $lang_settings_js = 'サイト全体のJS上書き';
 $lang_settings_js_tooltip = 'JSをここに貼り付け';
 
+//// Settings: GDPR
+$lang_settings_title_gdpr = 'GDPR';
+$lang_settings_gdpr_enable_in_form = 'フォームタグのGDPRを有効にする';
+
 //// Settings: Cache
 $lang_settings_title_cache = 'キャッシュ';
 $lang_settings_cache = 'フロントエンドキャッシュを有効にする';
@@ -294,6 +298,18 @@ $lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
 $lang_settings_title_ogp = 'OGP';
 $lang_settings_ogp = 'OGPデフォルトイメージ';
 $lang_settings_ogp_tooltip = '相対リンクまたは絶対リンク';
+
+//// Settings: Blog
+$lang_settings_title_blog = 'ブログ';
+$lang_settings_blogresults = 'ページごとの表示数';
+$lang_settings_blogresults_tooltip = 'ページごとのブログ表示数';
+$lang_settings_blogdisqus = 'Disqusのコメントを有効にする';
+$lang_settings_blogdisqususer = 'Disqusのユーザー名';
+$lang_settings_blogdisqususer_tooltip = 'Disqusのユーザーネームをここに挿入';
+$lang_settings_blogdate = '日付形式';
+$lang_settings_blogdate_tooltip = 'PHPの日付形式. 例えば: https://php.net/manual/en/function.date.php';
+$lang_settings_blog_flag_reverse = 'ブログリストの逆順'; 
+$lang_settings_blogmasonry = 'BlogのMasonryのレイアウトを有効にする';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';

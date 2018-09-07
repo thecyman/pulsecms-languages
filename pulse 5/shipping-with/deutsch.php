@@ -243,6 +243,10 @@ $lang_settings_css_tooltip = 'Füge den CSS Code hier ein';
 $lang_settings_js = 'JS Code für gesamte Seite';
 $lang_settings_js_tooltip = 'Füge den JS Code hier ein';
 
+//// Settings: GDPR
+$lang_settings_title_gdpr = 'GDPR';
+$lang_settings_gdpr_enable_in_form = 'Aktivieren Sie die GDPR im Formular-Tag';
+
 //// Settings: Cache
 $lang_settings_title_cache = 'Cache';
 $lang_settings_cache = 'Frontend Cache einschalten';
@@ -307,6 +311,7 @@ $lang_settings_blogdisqususer = 'Disqus Benutzername';
 $lang_settings_blogdisqususer_tooltip = 'Füge den Disqus Konto Kurznamen hier ein';
 $lang_settings_blogdate = 'Datumsformat';
 $lang_settings_blogdate_tooltip = 'PHP Datumsformat. Weitere Informationen: https://php.net/manual/en/function.date.php';
+$lang_settings_blog_flag_reverse = 'Reverse-Blog-Liste Reihenfolge'; 
 $lang_settings_blogmasonry = 'Blog Masonry Layout einschalten';
 
 //// Settings: RSS

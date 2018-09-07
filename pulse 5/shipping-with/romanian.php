@@ -232,6 +232,10 @@ $lang_settings_css_tooltip = 'Copiati CSS aici';
 $lang_settings_js = 'suprascriere JS pentru tot siteul';
 $lang_settings_js_tooltip = 'Copiati JS aici';
 
+//// Settings: GDPR
+$lang_settings_title_gdpr = 'GDPR';
+$lang_settings_gdpr_enable_in_form = 'Activați GDPR în eticheta de formular';
+
 //// Settings: Cache
 $lang_settings_title_cache = 'Cache';
 $lang_settings_cache = 'Activati cache-ul frontend';
@@ -295,6 +299,7 @@ $lang_settings_blogdisqususer = 'Nume utilizator Disqus';
 $lang_settings_blogdisqususer_tooltip = 'Adaugati numele scurt aferent contului Disqus';
 $lang_settings_blogdate = 'Fomatul datei';
 $lang_settings_blogdate_tooltip = 'Format PHP al datei. Pentru mai multe detalii vedeti: https://php.net/manual/en/function.date.php';
+$lang_settings_blog_flag_reverse = 'Inversă ordinea listei de bloguri'; 
 $lang_settings_blogmasonry = 'Activeaza schema pt Blog de tip zidarie(masonry layout)';
 
 //// Settings: RSS
@@ -357,14 +362,14 @@ $lang_settings_formredirect = 'Redirectionarea inregistrarii';
 $lang_settings_formredirect_tooltip = 'http://siteultau.com/multumiri';
 $lang_settings_formcomment             = 'Text/Denumire pentru comentariu';
 $lang_settings_formcommentname_tooltip = 'Comentariu';
+$lang_settings_form_gdpr = 'GDPR intrare';
+$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_formphone               = 'Text/Denumire pentru telefon';
 $lang_settings_formphonename_tooltip   = 'Telefon';
 
 //// Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Setari OTP-parola dinamica (Admin)';
 $lang_settings_otpactivate = 'Activeaza OTP (parola dinamica)';
-$lang_settings_form_gdpr = 'GDPR intrare';
-$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_otpsecret = 'Secretul OTP (parola dinamica)';
 $lang_settings_otpsecret_tooltip = 'Obtine de la o aplicatie OTP pt mobil, cum ar fi Google Authenticator';
 

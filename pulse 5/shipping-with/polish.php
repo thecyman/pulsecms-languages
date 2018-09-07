@@ -232,6 +232,10 @@ $lang_settings_css_tooltip = 'Wklej swój CSS tutaj';
 $lang_settings_js = 'Nadpisywanie JS dla całej witryny';
 $lang_settings_js_tooltip = 'Wklej tutaj JS';
 
+//// Settings: GDPR
+$lang_settings_title_gdpr = 'GDPR';
+$lang_settings_gdpr_enable_in_form = 'Włącz GDPR w tagu formularza';
+
 // Settings: Cache - Pamięć podręczna
 $lang_settings_title_cache = 'Pamięć podręczna';
 $lang_settings_cache = 'Włącz buforowanie frontonu';
@@ -295,6 +299,7 @@ $lang_settings_blogdisqususer = 'Disqus nazwa_użytkownika';
 $lang_settings_blogdisqususer_tooltip = 'Dodaj swoje konto skrócona Disqus';
 $lang_settings_blogdate = 'Format daty';
 $lang_settings_blogdate_tooltip = 'Format daty PHP. Więcej informacji: https://php.net/manual/en/function.date.php';
+$lang_settings_blog_flag_reverse = 'Odwróć kolejność listy blogów'; 
 $lang_settings_blogmasonry = 'Włącz Blog układ masonry';
 
 // Settings: RSS
@@ -357,14 +362,14 @@ $lang_settings_formredirect = 'Dzięki przekierowania';
 $lang_settings_formredirect_tooltip = 'http://twoj_portal.pl/dzięki';
 $lang_settings_formcomment = 'Tekst/Etykieta do komentarza';
 $lang_settings_formcommentname_tooltip = 'Komentarz';
+$lang_settings_form_gdpr = 'GDPR wkład';
+$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_formphone = 'Tekst/Etykieta na telefon';
 $lang_settings_formphonename_tooltip = 'Telefon';
 
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Ustawienia haseł jednorazowych (administrator)';
 $lang_settings_otpactivate = 'Aktywuj jedno-czasowe hasło';
-$lang_settings_form_gdpr = 'GDPR wkład';
-$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_otpsecret = 'Hasło jednokrotne w tajemnicy';
 $lang_settings_otpsecret_tooltip = 'Uzyskaj z aplikacji mobilnej OTP, takiej jak Google Authenticator';
 

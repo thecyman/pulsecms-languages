@@ -232,6 +232,10 @@ $lang_settings_css_tooltip = 'Illessze be ide a CSS-et';
 $lang_settings_js = 'A JS felülírja az egész webhelyet';
 $lang_settings_js_tooltip = 'Illessze be itt a JS-t';
 
+//// Settings: GDPR
+$lang_settings_title_gdpr = 'GDPR';
+$lang_settings_gdpr_enable_in_form = 'Engedélyezze a GDPR a formátumcímkében';
+
 // Settings: Cache - Gyorsítótár
 $lang_settings_title_cache = 'Gyorsítótár';
 $lang_settings_cache = 'Az elülső gyorsítótár engedélyezése';
@@ -295,6 +299,7 @@ $lang_settings_blogdisqususer = 'Disqus felhasználónév';
 $lang_settings_blogdisqususer_tooltip = 'Adja hozzá a Disqus fiók rövidnevét';
 $lang_settings_blogdate = 'Dátum formátum';
 $lang_settings_blogdate_tooltip = 'PHP dátumformátum. További információk: https://php.net/manual/en/function.date.php';
+$lang_settings_blog_flag_reverse = 'Fordított blog lista érdekében'; 
 $lang_settings_blogmasonry = 'Engedélyezze a blog masonry elrendezését';
 
 // Settings: RSS
@@ -357,14 +362,14 @@ $lang_settings_formredirect = 'Átirányítani a köszönetet';
 $lang_settings_formredirect_tooltip = 'http://sajatwebhely.hu/kosz';
 $lang_settings_formcomment = 'Szöveg/Címke megjegyzésekhez';
 $lang_settings_formcommentname_tooltip = 'Megjegyzés';
+$lang_settings_form_gdpr = 'GDPR bemenet';
+$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_formphone = 'Szöveg/Címke telefonhoz';
 $lang_settings_formphonename_tooltip = 'Telefon';
 
 // Settings: OTP One-Time Password
 $lang_settings_title_otp = 'Egyszeri jelszó beállítása (Adminisztrátor)';
 $lang_settings_otpactivate = 'Az egyszeri jelszó aktiválása';
-$lang_settings_form_gdpr = 'GDPR bemenet';
-$lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_otpsecret = 'Egyszeri titkos jelszó (OTP)';
 $lang_settings_otpsecret_tooltip = 'Kapjon OTP mobilalkalmazást, például a Google Hitelesítő';
 

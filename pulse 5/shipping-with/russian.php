@@ -242,6 +242,10 @@ $lang_settings_css_tooltip = 'Скопируйте ваш CSS сюда';
 $lang_settings_js = 'Перезапись JS для всего сайта';
 $lang_settings_js_tooltip = 'Скопируйте ваш JS сюда';
 
+//// Settings: GDPR
+$lang_settings_title_gdpr = 'GDPR';
+$lang_settings_gdpr_enable_in_form = 'Включить ВПР в теге формы';
+
 //// Settings: Cache
 $lang_settings_title_cache = 'Кэш';
 $lang_settings_cache = 'Включить внешний кэш';
@@ -306,6 +310,7 @@ $lang_settings_blogdisqususer = 'Дискуссионный ник';
 $lang_settings_blogdisqususer_tooltip = 'Добавить ваш дискуссионный ник';
 $lang_settings_blogdate = 'Формат даты';
 $lang_settings_blogdate_tooltip = 'PHP формат даты. Более подробно: https://php.net/manual/en/function.date.php';
+$lang_settings_blog_flag_reverse = 'обратный порядок в блоге'; 
 $lang_settings_blogmasonry = 'Включить masonry макет для Блога';
 
 //// Settings: RSS
@@ -367,7 +372,6 @@ $lang_settings_formsubject_tooltip = 'вы получили email';
 $lang_settings_formthanks = 'Включить автоматическую благодарность за ответ после отправки';
 $lang_settings_formredirect = 'Перенаправление отправки';
 $lang_settings_formredirect_tooltip = 'http://yoursite.com/thanks';
-
 $lang_settings_formcomment             = 'Текст/Ярлык для комментария';
 $lang_settings_formcommentname_tooltip = 'Комментарий';
 $lang_settings_form_gdpr = 'GDPR intrare';

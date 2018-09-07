@@ -242,6 +242,10 @@ $lang_settings_css_tooltip = 'Pegar su CSS aquí';
 $lang_settings_js = 'Sobrescritura del JS para todo el sitio';
 $lang_settings_js_tooltip = 'Pegar su JS aquí';
 
+//// Settings: GDPR
+$lang_settings_title_gdpr = 'GDPR';
+$lang_settings_gdpr_enable_in_form = 'Habilitar GDPR en la etiqueta de formulario';
+
 //// Settings: Cache
 $lang_settings_title_cache = 'Caché';
 $lang_settings_cache = 'Habilitar caché del frontend';
@@ -306,6 +310,7 @@ $lang_settings_blogdisqususer = 'Nombre de usuario en Disqus';
 $lang_settings_blogdisqususer_tooltip = 'Añadir su nombre corto de la cuenta Disqus';
 $lang_settings_blogdate = 'Formato de fecha';
 $lang_settings_blogdate_tooltip = 'Formato de fecha PHP. Para más información, consulte: https://php.net/manual/en/function.date.php';
+$lang_settings_blog_flag_reverse = 'Orden de lista de blog inversa'; 
 $lang_settings_blogmasonry = 'Habilitar libreria mansory en el blog';
 
 //// Settings: RSS
@@ -367,7 +372,6 @@ $lang_settings_formsubject_tooltip = 'Has recibido un correo electrónico';
 $lang_settings_formthanks = 'Habilitar la respuesta automática de agradecimientos después del envío';
 $lang_settings_formredirect = 'Redirección del envío';
 $lang_settings_formredirect_tooltip = 'http://yoursite.com/thanks';
-
 $lang_settings_formcomment             = 'Texto/etiqueta para comentario';
 $lang_settings_formcommentname_tooltip = 'Comentario';
 $lang_settings_form_gdpr = 'GDPR entrada';
