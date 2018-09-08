@@ -246,6 +246,10 @@ $lang_settings_js_tooltip = 'Скопируйте ваш JS сюда';
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'Включить ВПР в теге формы';
 
+$lang_settings_gdpr_enable_in_tag    = 'Включить показатель ВВП в теге';
+$lang_settings_gdpr_tag_text         = 'Всплывающий текст GDPR';
+$lang_settings_gdpr_tag_text_tooltip = 'Всплывающий текст GDPR (подсказка)';
+
 //// Settings: Cache
 $lang_settings_title_cache = 'Кэш';
 $lang_settings_cache = 'Включить внешний кэш';

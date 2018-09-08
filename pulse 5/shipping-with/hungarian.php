@@ -236,6 +236,10 @@ $lang_settings_js_tooltip = 'Illessze be itt a JS-t';
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'Engedélyezze a GDPR a formátumcímkében';
 
+$lang_settings_gdpr_enable_in_tag    = 'Engedélyezze a GDPR-t a címkén';
+$lang_settings_gdpr_tag_text         = 'GDPR felugró szöveg';
+$lang_settings_gdpr_tag_text_tooltip = 'GDPR felugró szöveg (tooltip)';
+
 // Settings: Cache - Gyorsítótár
 $lang_settings_title_cache = 'Gyorsítótár';
 $lang_settings_cache = 'Az elülső gyorsítótár engedélyezése';

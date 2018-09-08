@@ -236,6 +236,10 @@ $lang_settings_js_tooltip = 'Copiati JS aici';
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'Activați GDPR în eticheta de formular';
 
+$lang_settings_gdpr_enable_in_tag    = 'Activați GDPR în etichetă';
+$lang_settings_gdpr_tag_text         = 'GDPR popup text';
+$lang_settings_gdpr_tag_text_tooltip = 'GDPR popup text (tooltip)';
+
 //// Settings: Cache
 $lang_settings_title_cache = 'Cache';
 $lang_settings_cache = 'Activati cache-ul frontend';

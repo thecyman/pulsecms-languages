@@ -236,6 +236,10 @@ $lang_settings_js_tooltip = 'Wklej tutaj JS';
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'Włącz GDPR w tagu formularza';
 
+$lang_settings_gdpr_enable_in_tag    = 'Włącz GDPR w tagu';
+$lang_settings_gdpr_tag_text         = 'GDPR tekst wyskakujący';
+$lang_settings_gdpr_tag_text_tooltip = 'GDPR tekst wyskakujący (tooltip)';
+
 // Settings: Cache - Pamięć podręczna
 $lang_settings_title_cache = 'Pamięć podręczna';
 $lang_settings_cache = 'Włącz buforowanie frontonu';

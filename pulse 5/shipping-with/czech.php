@@ -236,6 +236,10 @@ $lang_settings_js_tooltip = 'Vložte JS sem';
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'Povolit GDPR ve značce formuláře';
 
+$lang_settings_gdpr_enable_in_tag    = 'Povolit GDPR v tagu';
+$lang_settings_gdpr_tag_text         = 'Vyskakovací text GDPR';
+$lang_settings_gdpr_tag_text_tooltip = 'Vyskakovací text GDPR (tooltip)';
+
 // Settings: Cache
 $lang_settings_title_cache = 'Mezipamět';
 $lang_settings_cache = 'Povolit mezipaměť frontendu';

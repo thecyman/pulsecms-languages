@@ -244,6 +244,10 @@ $lang_settings_js_tooltip = 'JSをここに貼り付け';
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'フォームタグのGDPRを有効にする';
 
+$lang_settings_gdpr_enable_in_tag    = 'タグのGDPRを有効にする';
+$lang_settings_gdpr_tag_text         = 'GDPRのポップアップテキスト';
+$lang_settings_gdpr_tag_text_tooltip = 'GDPRのポップアップテキスト (ツールチップ)';
+
 //// Settings: Cache
 $lang_settings_title_cache = 'キャッシュ';
 $lang_settings_cache = 'フロントエンドキャッシュを有効にする';

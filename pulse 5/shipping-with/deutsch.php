@@ -247,6 +247,10 @@ $lang_settings_js_tooltip = 'Füge den JS Code hier ein';
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'Aktivieren Sie die GDPR im Formular-Tag';
 
+$lang_settings_gdpr_enable_in_tag    = 'Aktivieren Sie GDPR in Tag';
+$lang_settings_gdpr_tag_text         = 'GDPR Popup-Text';
+$lang_settings_gdpr_tag_text_tooltip = 'GDPR Popup-Text (tooltip)';
+
 //// Settings: Cache
 $lang_settings_title_cache = 'Cache';
 $lang_settings_cache = 'Frontend Cache einschalten';

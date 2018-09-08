@@ -246,6 +246,10 @@ $lang_settings_js_tooltip = 'Pegar su JS aquí';
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'Habilitar GDPR en la etiqueta de formulario';
 
+$lang_settings_gdpr_enable_in_tag    = 'Habilitar GDPR en la etiqueta';
+$lang_settings_gdpr_tag_text         = 'Texto emergente GDPR';
+$lang_settings_gdpr_tag_text_tooltip = 'Texto emergente GDPR (tooltip)';
+
 //// Settings: Cache
 $lang_settings_title_cache = 'Caché';
 $lang_settings_cache = 'Habilitar caché del frontend';
