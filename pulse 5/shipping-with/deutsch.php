@@ -499,6 +499,18 @@ $lang_settings_title_template_strings = 'Vorlagentext';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Alles in einem Span-Tag ist hervorgehoben. Strom: Hi! Pulse Benutzer';
 $lang_settings_template_string_admin_login_welcome         = 'Login Begrüßungstext';
 
+// User List
+$lang_settings_title_user_list = 'Benutzerliste';
+$lang_settings_manage_user_list = 'Benutzerliste verwalten';
+
+$lang_settings_user_list_title = 'Benutzer verwalten';
+$lang_settings_user_list_subtitle = 'Benutzer hinzufügen / löschen';
+
+$lang_settings_user_list_acl_role = 'Benutzer-Rolle';
+$lang_settings_user_list_otp_activate = 'OTP aktivieren';
+$lang_settings_user_list_password = 'Passwort';
+$lang_settings_user_list_username = 'Nutzername';
+
 // Search
 $lang_search_title = 'Suche';
 $lang_search_placeholder = 'Suchbegriff';

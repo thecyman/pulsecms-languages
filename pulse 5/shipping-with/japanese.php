@@ -496,6 +496,18 @@ $lang_settings_title_template_strings = 'テンプレートのテキスト';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'スパンタグの全てがハイライトで表示されます。 現在: こんにちは! Pulseユーザーの皆様';
 $lang_settings_template_string_admin_login_welcome         = 'ログインのWelcomeテキスト';
 
+// User List
+$lang_settings_title_user_list = 'ユーザーリスト';
+$lang_settings_manage_user_list = 'ユーザーリストを管理する';
+
+$lang_settings_user_list_title = 'ユーザーを管理する';
+$lang_settings_user_list_subtitle = 'ユーザーの追加と削除';
+
+$lang_settings_user_list_acl_role = 'ユーザーの役割';
+$lang_settings_user_list_otp_activate = 'OTPを有効にする';
+$lang_settings_user_list_password = 'パスワード';
+$lang_settings_user_list_username = 'ユーザー名';
+
 // Search
 $lang_search_title = '検索';
 $lang_search_placeholder = '検索語句';

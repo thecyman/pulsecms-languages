@@ -497,6 +497,18 @@ $lang_settings_title_template_strings = 'Texto do modelo';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Qualquer coisa em uma tag span é destacada. Atual: Oi! Usuário Pulse';
 $lang_settings_template_string_admin_login_welcome         = 'Login Welcome Texto';
 
+// User List
+$lang_settings_title_user_list = 'Lista de usuários';
+$lang_settings_manage_user_list = 'Gerenciar lista de usuários';
+
+$lang_settings_user_list_title = 'Gerenciar usuários';
+$lang_settings_user_list_subtitle = 'Adicionar / Excluir usuários';
+
+$lang_settings_user_list_acl_role = 'Papel do usuário';
+$lang_settings_user_list_otp_activate = 'Ativar OTP';
+$lang_settings_user_list_password = 'Senha';
+$lang_settings_user_list_username = 'Username';
+
 // Search
 $lang_search_title = 'Buscar';
 $lang_search_placeholder = 'Buscar termo';

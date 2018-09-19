@@ -470,6 +470,18 @@ $lang_settings_title_template_strings = 'Textul șablonului';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Eticheta Span este evidențiată. Actual: Buna! Utilizator Pulse';
 $lang_settings_template_string_admin_login_welcome         = 'Autentificare Bun venit pe text';
 
+// User List
+$lang_settings_title_user_list = 'Lista de utilizatori';
+$lang_settings_manage_user_list = 'Gestionați lista de utilizatori';
+
+$lang_settings_user_list_title = 'Gestionare Utilizatori';
+$lang_settings_user_list_subtitle = 'Adăugați / ștergeți utilizatorii';
+
+$lang_settings_user_list_acl_role = 'Rolul utilizatorului';
+$lang_settings_user_list_otp_activate = 'Activați OTP';
+$lang_settings_user_list_password = 'Parola';
+$lang_settings_user_list_username = 'Nume de utilizator';
+
 // Search
 $lang_search_title = 'Cauta';
 $lang_search_placeholder = 'Termen de cautare';

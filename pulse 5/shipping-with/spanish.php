@@ -497,6 +497,18 @@ $lang_settings_title_template_strings = 'Texto de plantilla';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'La etiqueta de Span está resaltada. Corriente: ¡Hola! Usuario de Pulse';
 $lang_settings_template_string_admin_login_welcome         = 'Login Bienvenido Texto';
 
+// User List
+$lang_settings_title_user_list = 'Lista de usuarios';
+$lang_settings_manage_user_list = 'Administrar lista de usuarios';
+
+$lang_settings_user_list_title = 'Administrar usuarios';
+$lang_settings_user_list_subtitle = 'Agregar / Eliminar usuarios';
+
+$lang_settings_user_list_acl_role = 'Rol del usuario';
+$lang_settings_user_list_otp_activate = 'OTP activa';
+$lang_settings_user_list_password = 'Contraseña';
+$lang_settings_user_list_username = 'Nombre de usuario';
+
 // Search
 $lang_search_title = 'Buscar';
 $lang_search_placeholder = 'Buscar Término';

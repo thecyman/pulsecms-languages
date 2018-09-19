@@ -964,6 +964,18 @@ $lang_settings_title_template_strings = 'Text šablony';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Všechno v tagu rozpětí je zvýrazněno. Aktuální: Ahoj!! Uživatel Pulse';
 $lang_settings_template_string_admin_login_welcome         = 'Přihlásit se Vítejte text';
 
+// User List
+$lang_settings_title_user_list = 'Seznam uživatelů';
+$lang_settings_manage_user_list = 'Správa seznamu uživatelů';
+
+$lang_settings_user_list_title = 'Správa uživatelů';
+$lang_settings_user_list_subtitle = 'Přidat / Smazat uživatele';
+
+$lang_settings_user_list_acl_role = 'Role uživatele';
+$lang_settings_user_list_otp_activate = 'Aktivovat OTP';
+$lang_settings_user_list_password = 'Heslo';
+$lang_settings_user_list_username = 'Uživatelské jméno';
+
 // Search
 $lang_search_title = 'Vyhledávání';
 $lang_search_placeholder = 'Hledaný výraz';

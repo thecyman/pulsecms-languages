@@ -481,6 +481,18 @@ $lang_settings_title_template_strings = 'Sjabloontekst';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Alles in een span-tag is gemarkeerd. Actueel: Hallo! Pulse User';
 $lang_settings_template_string_admin_login_welcome         = 'Login welkomsttekst';
 
+// User List
+$lang_settings_title_user_list = 'Gebruikers lijst';
+$lang_settings_manage_user_list = 'Gebruikerslijst beheren';
+
+$lang_settings_user_list_title = 'Gebruikers beheren';
+$lang_settings_user_list_subtitle = 'Gebruikers toevoegen / verwijderen';
+
+$lang_settings_user_list_acl_role = 'Gebruikersrol';
+$lang_settings_user_list_otp_activate = 'OTP activeer';
+$lang_settings_user_list_password = 'Wachtwoord';
+$lang_settings_user_list_username = 'Gebruikersnaam';
+
 // Search
 $lang_search_title = 'Zoek';
 $lang_search_placeholder = 'Zoekterm';

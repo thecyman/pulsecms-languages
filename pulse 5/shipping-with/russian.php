@@ -497,6 +497,19 @@ $lang_settings_title_template_strings = 'Текст шаблона';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Выделен тег Span. Текущий
 : Здравствуйте! Pulse пользователь';
 $lang_settings_template_string_admin_login_welcome         = 'Вход Приветствующий текст';
+
+// User List
+$lang_settings_title_user_list = 'Список пользователей';
+$lang_settings_manage_user_list = 'Управление списком пользователей';
+
+$lang_settings_user_list_title = 'Управление пользователями';
+$lang_settings_user_list_subtitle = 'Добавить / удалить пользователей';
+
+$lang_settings_user_list_acl_role = 'Роль пользователя';
+$lang_settings_user_list_otp_activate = 'OTP активировать';
+$lang_settings_user_list_password = 'пароль';
+$lang_settings_user_list_username = 'имя пользователя';
+
 // Search
 $lang_search_title = 'Поиск';
 $lang_search_placeholder = 'Искать текст';

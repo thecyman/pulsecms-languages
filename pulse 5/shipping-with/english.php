@@ -498,6 +498,19 @@ $lang_settings_title_template_strings = 'Template Text';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Anything in a span tag is highlighted. Current: Hi! Pulse User';
 $lang_settings_template_string_admin_login_welcome         = 'Login Welcome Text';
 
+// User List
+$lang_settings_title_user_list = 'User List';
+$lang_settings_manage_user_list = 'Manage User List';
+
+$lang_settings_user_list_title = 'Manage Users';
+$lang_settings_user_list_subtitle = 'Add / Delete users';
+
+$lang_settings_user_list_acl_role = 'User Role';
+$lang_settings_user_list_otp_activate = 'Activate OTP';
+$lang_settings_user_list_password = 'Password';
+$lang_settings_user_list_username = 'Username';
+
+
 // Search
 $lang_search_title = 'Search';
 $lang_search_placeholder = 'Search Term';

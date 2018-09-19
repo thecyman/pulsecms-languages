@@ -470,6 +470,18 @@ $lang_settings_title_template_strings = 'Sablon szöveg';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Bármi, ami egy span tagben van, kiemel. Jelenlegi: Szia!! Pulse Felhasználó';
 $lang_settings_template_string_admin_login_welcome         = 'Bejelentkezés üdvözlő szöveg';
 
+// User List
+$lang_settings_title_user_list = 'Felhasználói lista';
+$lang_settings_manage_user_list = 'Felhasználói lista kezelése';
+
+$lang_settings_user_list_title = 'Felhasználók kezelése';
+$lang_settings_user_list_subtitle = 'Felhasználók hozzáadása / törlése';
+
+$lang_settings_user_list_acl_role = 'Felhasználói szerepkör';
+$lang_settings_user_list_otp_activate = 'OTP aktiválása';
+$lang_settings_user_list_password = 'Jelszó';
+$lang_settings_user_list_username = 'Felhasználónév';
+
 // Search
 $lang_search_title = 'Keresés';
 $lang_search_placeholder = 'Keresési kifejezés';

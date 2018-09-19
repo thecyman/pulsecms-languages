@@ -469,6 +469,18 @@ $lang_settings_title_template_strings = 'Tekst szablonu';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Wszystko w znaczniku zakresu jest podświetlone. Obecny: Hello! Pulse Użytkownik';
 $lang_settings_template_string_admin_login_welcome         = 'Zaloguj się tekst powitalny';
 
+// User List
+$lang_settings_title_user_list = 'Lista użytkowników';
+$lang_settings_manage_user_list = 'Zarządzaj listą użytkowników';
+
+$lang_settings_user_list_title = 'Zarządzaj użytkownikami';
+$lang_settings_user_list_subtitle = 'Dodaj / Usuń użytkowników';
+
+$lang_settings_user_list_acl_role = 'Rola użytkownika';
+$lang_settings_user_list_otp_activate = 'Włącz OTP';
+$lang_settings_user_list_password = 'Hasło';
+$lang_settings_user_list_username = 'Nazwa Użytkownika';
+
 // Search - Szukanie
 $lang_search_title = 'Szukanie';
 $lang_search_placeholder = 'Szukany termin';

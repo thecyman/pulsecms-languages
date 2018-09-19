@@ -470,6 +470,18 @@ $lang_settings_title_template_strings = 'Text šablóny';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Span tag je zvýraznená. Prúd: Ahoj! Užívateľ Pulse';
 $lang_settings_template_string_admin_login_welcome         = 'Prihlásiť sa uvítací text';
 
+// User List
+$lang_settings_title_user_list = 'Zoznam používateľov';
+$lang_settings_manage_user_list = 'Správa zoznamu používateľov';
+
+$lang_settings_user_list_title = 'Správa používateľov';
+$lang_settings_user_list_subtitle = 'Pridať / Odstrániť používateľov';
+
+$lang_settings_user_list_acl_role = 'Role používateľa';
+$lang_settings_user_list_otp_activate = 'Aktivovať OTP';
+$lang_settings_user_list_password = 'Heslo';
+$lang_settings_user_list_username = 'Užívateľské meno';
+
 // Search
 $lang_search_title = 'Vyhľadávanie';
 $lang_search_placeholder = 'Hľadaný výraz';
