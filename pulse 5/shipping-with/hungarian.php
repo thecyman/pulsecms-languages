@@ -486,6 +486,8 @@ $lang_settings_user_group_list_permissions = 'Hozzáférési jogosultságok';
 $lang_settings_user_group_list_read       = 'Olvas';
 $lang_settings_user_group_list_read_write = 'Ír olvas';
 
+$lang_settings_user_group_list_access_denied = 'Az elemhez való hozzáférés megtagadva';
+
 // User List
 $lang_settings_title_user_list = 'Felhasználói lista';
 $lang_settings_manage_user_list = 'Felhasználói lista kezelése';

@@ -513,6 +513,8 @@ $lang_settings_user_group_list_permissions = 'Permisos de acceso';
 $lang_settings_user_group_list_read       = 'Leer';
 $lang_settings_user_group_list_read_write = 'Leer escribir';
 
+$lang_settings_user_group_list_access_denied = 'El acceso a este artículo está denegado';
+
 // User List
 $lang_settings_title_user_list = 'Lista de usuarios';
 $lang_settings_manage_user_list = 'Administrar lista de usuarios';

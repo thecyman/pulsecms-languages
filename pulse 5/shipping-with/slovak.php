@@ -486,6 +486,8 @@ $lang_settings_user_group_list_permissions = 'Prístupové povolenia';
 $lang_settings_user_group_list_read       = 'Prečítať';
 $lang_settings_user_group_list_read_write = 'Čítaj píš';
 
+$lang_settings_user_group_list_access_denied = 'Prístup k tejto položke bol zamietnutý';
+
 // User List
 $lang_settings_title_user_list = 'Zoznam užívateľov';
 $lang_settings_manage_user_list = 'Správa zoznamu používateľov';

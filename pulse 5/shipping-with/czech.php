@@ -485,6 +485,8 @@ $lang_settings_user_group_list_permissions = 'Přístupová oprávnění';
 $lang_settings_user_group_list_read       = 'Číst';
 $lang_settings_user_group_list_read_write = 'Číst psát';
 
+$lang_settings_user_group_list_access_denied = 'Přístup k této položce byl zamítnut';
+
 // Search
 $lang_search_title = 'Vyhledávání';
 $lang_search_placeholder = 'Hledaný výraz';

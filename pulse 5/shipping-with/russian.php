@@ -514,6 +514,8 @@ $lang_settings_user_group_list_permissions = 'Разрешения доступ�
 $lang_settings_user_group_list_read       = 'Читать';
 $lang_settings_user_group_list_read_write = 'Читай пиши';
 
+$lang_settings_user_group_list_access_denied = 'Доступ к этому элементу отклонен';
+
 // User List
 $lang_settings_title_user_list = 'Список пользователей';
 $lang_settings_manage_user_list = 'Управление списком пользователей';

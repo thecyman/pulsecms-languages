@@ -512,6 +512,8 @@ $lang_settings_user_group_list_permissions = 'アクセス許可';
 $lang_settings_user_group_list_read       = '読む';
 $lang_settings_user_group_list_read_write = '読み書き';
 
+$lang_settings_user_group_list_access_denied = 'このアイテムへのアクセスは拒否されました';
+
 // User List
 $lang_settings_title_user_list = 'ユーザーリスト';
 $lang_settings_manage_user_list = 'ユーザーリストを管理する';

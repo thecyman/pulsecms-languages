@@ -485,6 +485,8 @@ $lang_settings_user_group_list_permissions = 'Uzyskaj uprawnienia';
 $lang_settings_user_group_list_read       = 'Czytać';
 $lang_settings_user_group_list_read_write = 'Odczyt / zapis';
 
+$lang_settings_user_group_list_access_denied = 'Dostęp do tego elementu jest zabroniony';
+
 // User List
 $lang_settings_title_user_list = 'Lista użytkowników';
 $lang_settings_manage_user_list = 'Zarządzaj listą użytkowników';

@@ -497,6 +497,8 @@ $lang_settings_user_group_list_permissions = 'Toegangsrechten';
 $lang_settings_user_group_list_read       = 'Lezen';
 $lang_settings_user_group_list_read_write = 'Lezen schrijven';
 
+$lang_settings_user_group_list_access_denied = 'Toegang tot dit item is geweigerd';
+
 // User List
 $lang_settings_title_user_list = 'Gebruikers lijst';
 $lang_settings_manage_user_list = 'Gebruikerslijst beheren';

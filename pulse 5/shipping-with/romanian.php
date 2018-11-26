@@ -486,6 +486,8 @@ $lang_settings_user_group_list_permissions = 'Permisiuni de acces';
 $lang_settings_user_group_list_read       = 'Citit';
 $lang_settings_user_group_list_read_write = 'Citeste, scrie';
 
+$lang_settings_user_group_list_access_denied = 'Accesul la acest element este interzis';
+
 // User List
 $lang_settings_title_user_list = 'Lista de utilizatori';
 $lang_settings_manage_user_list = 'Gestionați lista de utilizatori';

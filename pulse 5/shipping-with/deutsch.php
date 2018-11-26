@@ -515,6 +515,8 @@ $lang_settings_user_group_list_permissions = 'Zugriffsberechtigungen';
 $lang_settings_user_group_list_read       = 'Lesen';
 $lang_settings_user_group_list_read_write = 'Lesen Schreiben';
 
+$lang_settings_user_group_list_access_denied = 'Der Zugriff auf diesen Artikel wird verweigert';
+
 // User List
 $lang_settings_title_user_list = 'Benutzerliste';
 $lang_settings_manage_user_list = 'Benutzerliste verwalten';
