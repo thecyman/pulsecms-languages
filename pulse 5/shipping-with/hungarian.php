@@ -38,7 +38,7 @@ $lang_login_otp = "OTP jelszó";
 $lang_login_welcome = "Szia!";
 $lang_login_name = "Pulse Felhasználó";
 
-$lang_login_forgot_password_message = 'A jelszavad vissza lett állítva';
+$lang_login_forgot_password_message = 'A jelszó volt újítva';
 
 // Home - Főoldal
 $lang_home_emptyfold = "Ez a mappa üres.";
@@ -125,7 +125,7 @@ $lang_blog_read_more = 'További információ';
 $lang_blog_back_button = 'Vissza';
 $lang_blog_older = 'Régebbi';
 $lang_blog_newer = "Újabb";
-$lang_blog_posted_in = 'Kirakott:';
+$lang_blog_posted_in = 'Megjelent:';
 $lang_blog_error_folder = "Nem hozhat létre mappát a Blogban";
 $lang_blog_tool_tip = "A blog bejegyzéseket szám szerint rendezi, a legmagasabb szám a legfrissebb bejegyzés.";
 $lang_blog_import = 'Importálás';
@@ -232,13 +232,16 @@ $lang_settings_css_tooltip = 'Illessze be ide a CSS-et';
 $lang_settings_js = 'A JS felülírja az egész webhelyet';
 $lang_settings_js_tooltip = 'Illessze be itt a JS-t';
 
+//// Settings: Avatar
+$lang_settings_avatar_upload = 'Avatar feltöltése';
+
 //// Settings: GDPR
 $lang_settings_title_gdpr = 'GDPR';
-$lang_settings_gdpr_enable_in_form = 'Engedélyezze a GDPR a formátumcímkében';
+$lang_settings_gdpr_enable_in_form = 'Engedélyezze a GDPR-t az űrlapon';
 
-$lang_settings_gdpr_enable_in_tag    = 'Engedélyezze a GDPR-t a címkén';
-$lang_settings_gdpr_tag_text         = 'GDPR felugró szöveg';
-$lang_settings_gdpr_tag_text_tooltip = 'GDPR felugró szöveg (tooltip)';
+$lang_settings_gdpr_enable_in_tag = 'Engedélyezze a GDPR-t a címkén';
+$lang_settings_gdpr_tag_text = 'GDPR felugró szöveg';
+$lang_settings_gdpr_tag_text_tooltip = 'Testreszabhatja a GDPR szövegkörnyezetét';
 
 // Settings: Cache - Gyorsítótár
 $lang_settings_title_cache = 'Gyorsítótár';
@@ -284,10 +287,10 @@ $lang_settings_title_geoip = 'GeoIP';
 $lang_settings_geoip = 'GeoIP adatok webhelystatisztika';
 $lang_settings_geoip_label = 'Engedélyezze GeoIP a statisztika itt';
 
-$lang_settings_geoip_api_key         = 'GeoIP szolgáltatás API KEY';
-$lang_settings_geoip_api_key_tooltip = 'GeoIP szolgáltatás API KEY';
-$lang_settings_geoip_service         = 'GeoIP szolgáltatás';
-$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+$lang_settings_geoip_api_key = 'GeoIP szolgáltatás API KEY';
+$lang_settings_geoip_api_key_tooltip = 'Adja hozzá a GeoIP API kulcsot';
+$lang_settings_geoip_service = 'GeoIP szolgáltatás';
+$lang_settings_geoip_service_tooltip = 'Add freegeoip vagy ipstack';
 
 // Settings: OGP - Open Graph protocol >> http://ogp.me/
 $lang_settings_title_ogp = '(OGP) Nytot grafikus protokollok';
@@ -303,7 +306,7 @@ $lang_settings_blogdisqususer = 'Disqus felhasználónév';
 $lang_settings_blogdisqususer_tooltip = 'Adja hozzá a Disqus fiók rövidnevét';
 $lang_settings_blogdate = 'Dátum formátum';
 $lang_settings_blogdate_tooltip = 'PHP dátumformátum. További információk: https://php.net/manual/en/function.date.php';
-$lang_settings_blog_flag_reverse = 'Fordított blog lista érdekében'; 
+$lang_settings_blog_flag_reverse = 'Fordított blog lista sorrendje';
 $lang_settings_blogmasonry = 'Engedélyezze a blog masonry elrendezését';
 
 // Settings: RSS
@@ -467,8 +470,21 @@ $lang_settings_tags_description = 'Leírás';
 // Template Strings
 $lang_settings_title_template_strings = 'Sablon szöveg';
 
-$lang_settings_template_string_admin_login_welcome_tooltip = 'Bármi, ami egy span tagben van, kiemel. Jelenlegi: Szia!! Pulse Felhasználó';
-$lang_settings_template_string_admin_login_welcome         = 'Bejelentkezés üdvözlő szöveg';
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Rendszergazda bejelentkezés, üdvözlő szöveg. Jelenlegi: Hello! Felhasználó Pulse';
+$lang_settings_template_string_admin_login_welcome = 'Bejelentkezés üdvözlő szöveg';
+
+# User Group List
+$lang_settings_title_user_group_list  = 'Felhasználói csoportlista';
+$lang_settings_manage_user_group_list = 'Felhasználói csoportlista kezelése';
+
+$lang_settings_user_group_list_title    = 'Csoportok kezelése';
+$lang_settings_user_group_list_subtitle = 'Csoportok hozzáadása / törlése';
+
+$lang_settings_user_group_list_group_name  = 'Csoport név';
+$lang_settings_user_group_list_permissions = 'Hozzáférési jogosultságok';
+
+$lang_settings_user_group_list_read       = 'Olvas';
+$lang_settings_user_group_list_read_write = 'Ír olvas';
 
 // User List
 $lang_settings_title_user_list = 'Felhasználói lista';
@@ -478,7 +494,7 @@ $lang_settings_user_list_title = 'Felhasználók kezelése';
 $lang_settings_user_list_subtitle = 'Felhasználók hozzáadása / törlése';
 
 $lang_settings_user_list_acl_role = 'Felhasználói szerepkör';
-$lang_settings_user_list_otp_activate = 'OTP aktiválása';
+$lang_settings_user_list_otp_activate = 'Aktiválja az OTP-t';
 $lang_settings_user_list_password = 'Jelszó';
 $lang_settings_user_list_username = 'Felhasználónév';
 
@@ -494,16 +510,16 @@ $lang_search_links = 'Link ehhez';
 $lang_pagelist = 'Webhelylista';
 
 // Admin - Debug info
-$lang_debug_info_title     = 'Hibakeresés';
-$lang_debug_info_path      = 'Pálya';
+$lang_debug_info_title  = 'Hibakeresés';
+$lang_debug_info_path = 'Pálya';
 $lang_debug_info_title_sub = 'Fájlengedélyek';
-$lang_debug_info_button    = 'Letöltés';
-$lang_debug_info_text      = 'Töltse le a zip fájlt';
+$lang_debug_info_button = 'Letöltés';
+$lang_debug_info_text = 'Töltse le a zip fájlt';
 
 // Admin - Open
 $lang_open_meta_searchable = 'Mutassa be a keresést';
 
 // Admin - Update
-$lang_update_title     = 'Frissítse az impulzus-telepítést';
+$lang_update_title = 'Frissítse az impulzus-telepítést';
 $lang_update_title_sub = 'Töltse fel az új Pulse zip fájlt';
-$lang_update_button    = 'Frissítés';
+$lang_update_button = 'Frissítés';

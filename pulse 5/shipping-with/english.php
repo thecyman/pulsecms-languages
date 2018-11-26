@@ -242,6 +242,9 @@ $lang_settings_css_tooltip = 'Paste your CSS in here';
 $lang_settings_js = 'JS overwrite for whole site';
 $lang_settings_js_tooltip = 'Paste your JS in here';
 
+//// Settings: Avatar
+$lang_settings_avatar_upload = 'Avatar upload';
+
 //// Settings: GDPR
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'Enable GDPR in form tag';
@@ -298,7 +301,7 @@ $lang_settings_geoip_label = 'Enable GeoIP for stats here';
 $lang_settings_geoip_api_key         = 'GeoIP service API KEY';
 $lang_settings_geoip_api_key_tooltip = 'GeoIP service API KEY';
 $lang_settings_geoip_service         = 'GeoIP service';
-$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack';
 
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';
@@ -497,6 +500,19 @@ $lang_settings_title_template_strings = 'Template Text';
 
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Anything in a span tag is highlighted. Current: Hi! Pulse User';
 $lang_settings_template_string_admin_login_welcome         = 'Login Welcome Text';
+
+# User Group List
+$lang_settings_title_user_group_list  = 'User Group List';
+$lang_settings_manage_user_group_list = 'Manage User Group List';
+
+$lang_settings_user_group_list_title    = 'Manage Groups';
+$lang_settings_user_group_list_subtitle = 'Add / Delete groups';
+
+$lang_settings_user_group_list_group_name  = 'Group Name';
+$lang_settings_user_group_list_permissions = 'Access Permissions';
+
+$lang_settings_user_group_list_read       = 'Read';
+$lang_settings_user_group_list_read_write = 'Read/Write';
 
 // User List
 $lang_settings_title_user_list = 'User List';

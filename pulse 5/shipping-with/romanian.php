@@ -232,6 +232,9 @@ $lang_settings_css_tooltip = 'Copiati CSS aici';
 $lang_settings_js = 'suprascriere JS pentru tot siteul';
 $lang_settings_js_tooltip = 'Copiati JS aici';
 
+//// Settings: Avatar
+$lang_settings_avatar_upload = 'încărcare avatar';
+
 //// Settings: GDPR
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'Activați GDPR în eticheta de formular';
@@ -287,7 +290,7 @@ $lang_settings_geoip_label = 'Activeaza GeoIP pentru statistici aici';
 $lang_settings_geoip_api_key         = 'GeoIP serviciu API KEY';
 $lang_settings_geoip_api_key_tooltip = 'GeoIP serviciu API KEY';
 $lang_settings_geoip_service         = 'GeoIP serviciu';
-$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack';
 
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';
@@ -469,6 +472,19 @@ $lang_settings_title_template_strings = 'Textul șablonului';
 
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Eticheta Span este evidențiată. Actual: Buna! Utilizator Pulse';
 $lang_settings_template_string_admin_login_welcome         = 'Autentificare Bun venit pe text';
+
+# User Group List
+$lang_settings_title_user_group_list  = 'Listă grupuri de utilizatori';
+$lang_settings_manage_user_group_list = 'Gestionați lista de grupuri de utilizatori';
+
+$lang_settings_user_group_list_title    = 'Gestionați grupurile';
+$lang_settings_user_group_list_subtitle = 'Adăugați / ștergeți grupuri';
+
+$lang_settings_user_group_list_group_name  = 'Numele Grupului';
+$lang_settings_user_group_list_permissions = 'Permisiuni de acces';
+
+$lang_settings_user_group_list_read       = 'Citit';
+$lang_settings_user_group_list_read_write = 'Citeste, scrie';
 
 // User List
 $lang_settings_title_user_list = 'Lista de utilizatori';

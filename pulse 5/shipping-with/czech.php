@@ -37,8 +37,7 @@ $lang_nav_logout = "Odhlášení";
 $lang_login_otp = "OTP Heslo";   /* OTP = jednorázové heslo - vygenerovane */
 $lang_login_welcome = "Ahoj!";
 $lang_login_name = "Uživatel Pulse";
-
-$lang_login_forgot_password_message = 'Vaše heslo bylo resetováno';
+$lang_login_forgot_password_message = 'Vaše heslo bylo obnoveno';
 
 // Home - Domovská stránka
 $lang_home_emptyfold = "Tato složka je prázdná."; 
@@ -134,8 +133,8 @@ $lang_blog_import_page_max = 'Maximální počet stránek';
 $lang_blog_import_page_var = 'Název proměnné stránkováni';
 $lang_blog_import_url = 'URL';
 $lang_blog_description = 'Popis Blogu';
-$lang_blog_tags = 'Tagy Blogu(Oddelené čiarkou)';
-$lang_blog_tags_short = 'Tagy Blogu';
+$lang_blog_tags = 'Tagy blogu (oddělené čárkami)';
+$lang_blog_tags_short = 'Tagy blogu';
 $lang_blog_url = 'URL Blogu';
 $lang_blog_index = 'Chcete indexovat?';
 $lang_blog_nofollow = 'Přejete si "nesledovat?"';
@@ -232,13 +231,16 @@ $lang_settings_css_tooltip = 'Vložte svůj CSS zde';
 $lang_settings_js = 'Přepis JS pro celé stránky';
 $lang_settings_js_tooltip = 'Vložte JS sem';
 
+//// Settings: Avatar
+$lang_settings_avatar_upload = 'Avatar nahrát';
+
 //// Settings: GDPR
 $lang_settings_title_gdpr = 'GDPR';
-$lang_settings_gdpr_enable_in_form = 'Povolit GDPR ve značce formuláře';
+$lang_settings_gdpr_enable_in_form = 'Povolit GDPR ve formuláři';
 
-$lang_settings_gdpr_enable_in_tag    = 'Povolit GDPR v tagu';
-$lang_settings_gdpr_tag_text         = 'Vyskakovací text GDPR';
-$lang_settings_gdpr_tag_text_tooltip = 'Vyskakovací text GDPR (tooltip)';
+$lang_settings_gdpr_enable_in_tag = 'Povolit GDPR v tagu';
+$lang_settings_gdpr_tag_text = 'Kontextový text GDPR';
+$lang_settings_gdpr_tag_text_tooltip = 'Přizpůsobte kontextový text GDPR';
 
 // Settings: Cache
 $lang_settings_title_cache = 'Mezipamět';
@@ -284,10 +286,10 @@ $lang_settings_title_geoip = 'GeoIP';
 $lang_settings_geoip = 'GeoIP data pro statistiky webu';
 $lang_settings_geoip_label = 'Povolit GeoIP pro statistikách zde';
 
-$lang_settings_geoip_api_key         = 'GeoIP servis API KEY';
-$lang_settings_geoip_api_key_tooltip = 'GeoIP servis API KEY';
-$lang_settings_geoip_service         = 'GeoIP servis';
-$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+$lang_settings_geoip_api_key = 'API KEY služby GeoIP';
+$lang_settings_geoip_api_key_tooltip = 'Přidejte klíč API služby GeoIP';
+$lang_settings_geoip_service = 'Služba GeoIP';
+$lang_settings_geoip_service_tooltip = 'Přidejte služby freegeoip nebo ipstack';
 
 // Settings: OGP - Open Graph protocol >> http://ogp.me/
 $lang_settings_title_ogp = '(OGP) Otevřené protokoly grafika';
@@ -303,7 +305,7 @@ $lang_settings_blogdisqususer = 'Disqus uživatelské jméno';
 $lang_settings_blogdisqususer_tooltip = 'Přidejte krátké jméno účtu Disqus';
 $lang_settings_blogdate = 'Formát dátumu';
 $lang_settings_blogdate_tooltip = 'Formát dátumu v PHP. Více viz: https://php.net/manual/en/function.date.php';
-$lang_settings_blog_flag_reverse = 'Reverse blog list order'; 
+$lang_settings_blog_flag_reverse = 'Vzestupné pořadí seznamu blogů';
 $lang_settings_blogmasonry = 'Povolit rozvržení blogu masonry';
 
 // Settings: RSS
@@ -366,7 +368,7 @@ $lang_settings_formredirect = 'Přesměrování poděkování';
 $lang_settings_formredirect_tooltip = 'http://muj_web.cs/diky';
 $lang_settings_formcomment = 'Text/Štítek pro komentáře';
 $lang_settings_formcommentname_tooltip = 'Komentáře';
-$lang_settings_form_gdpr = 'GDPR vstup';
+$lang_settings_form_gdpr = 'Vložit GDPR';
 $lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_formphone = 'Text/Štítek pro telefon';
 $lang_settings_formphonename_tooltip = 'Telefon';
@@ -424,9 +426,9 @@ $lang_settings_navigation_activate = 'Aktivovat';
 $lang_settings_navigation_add_menu = "Přidat Menu";
 $lang_settings_navigation_menus = "Menu";
 
-$lang_settings_title_debug_info  = 'Ladit';
-$lang_settings_manage_debug_info = 'Ladit';
-$lang_settings_manage_log_viewer = 'Prohlížeč protokolů';
+$lang_settings_title_debug_info  = 'Ladění Informací';
+$lang_settings_manage_debug_info = 'Ladění Informací';
+$lang_settings_manage_log_viewer = 'Spravovat přihlašovací údaje';
 
 $lang_settings_title_update  = 'Aktualizovat';
 $lang_settings_manage_update = 'Aktualizovat';
@@ -469,6 +471,19 @@ $lang_settings_title_template_strings = 'Text šablony';
 
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Všechno v tagu rozpětí je zvýrazněno. Aktuální: Ahoj!! Uživatel Pulse';
 $lang_settings_template_string_admin_login_welcome         = 'Přihlásit se Vítejte text';
+
+# User Group List
+$lang_settings_title_user_group_list  = 'Seznam skupin uživatelů';
+$lang_settings_manage_user_group_list = 'Správa seznamu skupin uživatelů';
+
+$lang_settings_user_group_list_title    = 'Správa skupin';
+$lang_settings_user_group_list_subtitle = 'Přidat / Smazat skupiny';
+
+$lang_settings_user_group_list_group_name  = 'Skupinové jméno';
+$lang_settings_user_group_list_permissions = 'Přístupová oprávnění';
+
+$lang_settings_user_group_list_read       = 'Číst';
+$lang_settings_user_group_list_read_write = 'Číst psát';
 
 // Search
 $lang_search_title = 'Vyhledávání';
@@ -781,7 +796,7 @@ $lang_settings_geoip_label = 'Povolit GeoIP pro statistikách zde';
 $lang_settings_geoip_api_key         = 'GeoIP servis API KEY';
 $lang_settings_geoip_api_key_tooltip = 'GeoIP servis API KEY';
 $lang_settings_geoip_service         = 'GeoIP servis';
-$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack';
 
 // Settings: OGP - Open Graph protocol >> http://ogp.me/
 $lang_settings_title_ogp = '(OGP) Otevřené protokoly grafika';
@@ -951,7 +966,7 @@ $lang_settings_log_viewer_log_files   = 'Záznam souborů';
 $lang_settings_log_viewer_log_content = 'Záznamy v protokolu'; 
 
 // Tags
-$lang_settings_title_tags = 'Značky (Tagy)';
+$lang_settings_title_tags = 'Značky';
 $lang_settings_manage_tags = 'Spravovat značky';
 $lang_settings_tags_title = 'Spravujte značky';
 $lang_settings_tags_subtitle = 'Přidat / Smazat značky a popisy.';
@@ -959,20 +974,20 @@ $lang_settings_tags_name = 'Název';
 $lang_settings_tags_description = 'Popis';
 
 // Template Strings
-$lang_settings_title_template_strings = 'Text šablony';
+$lang_settings_title_template_strings = 'Název šablony';
 
-$lang_settings_template_string_admin_login_welcome_tooltip = 'Všechno v tagu rozpětí je zvýrazněno. Aktuální: Ahoj!! Uživatel Pulse';
-$lang_settings_template_string_admin_login_welcome         = 'Přihlásit se Vítejte text';
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Přihlašování správce, text přivítání. Aktuální: Dobrý den! Uživatel Pulse';
+$lang_settings_template_string_admin_login_welcome         = 'Dobrý den! Uživatel Pulse';
 
 // User List
 $lang_settings_title_user_list = 'Seznam uživatelů';
 $lang_settings_manage_user_list = 'Správa seznamu uživatelů';
 
 $lang_settings_user_list_title = 'Správa uživatelů';
-$lang_settings_user_list_subtitle = 'Přidat / Smazat uživatele';
+$lang_settings_user_list_subtitle = 'Přidat / Odstranit uživatele';
 
-$lang_settings_user_list_acl_role = 'Role uživatele';
-$lang_settings_user_list_otp_activate = 'Aktivovat OTP';
+$lang_settings_user_list_acl_role = 'Povolení uživatele';
+$lang_settings_user_list_otp_activate = 'Aktivace OTP';
 $lang_settings_user_list_password = 'Heslo';
 $lang_settings_user_list_username = 'Uživatelské jméno';
 
@@ -988,17 +1003,17 @@ $lang_search_links = 'Odkaz na';
 $lang_pagelist = 'Seznam stránek';
 
 // Admin: Debug Info
-$lang_debug_info_title     = 'Ladit';
-$lang_debug_info_path      = 'Cesta';
-$lang_debug_info_title_sub = 'Soubor Oprávnění';
-$lang_debug_info_button    = 'Zavést';
-$lang_debug_info_text      = 'Zavést zip soubor';
+$lang_debug_info_title = 'Informace o ladění';
+$lang_debug_info_path = 'Cesta';
+$lang_debug_info_title_sub = 'Soubor/Adresář oprávnění';
+$lang_debug_info_button = 'Stažení';
+$lang_debug_info_text = 'Stáhněte soubor ZIP';
 
 // Admin: Open
 $lang_open_meta_searchable = 'Zobrazit ve vyhledávání';
 
 // Admin: Update
-$lang_update_title     = 'Aktualizujte instalaci Pulse';
-$lang_update_title_sub = 'Nahrát nový soubor Pulse zip';
-$lang_update_button    = 'Aktualizovat';
+$lang_update_title = 'Aktualizujte instalaci Pulse CMS';
+$lang_update_title_sub = 'Nahrajte nový soubor zip PulseCMS';
+$lang_update_button = 'Aktualizace';
 

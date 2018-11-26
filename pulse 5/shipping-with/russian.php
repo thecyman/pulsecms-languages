@@ -242,6 +242,9 @@ $lang_settings_css_tooltip = 'Скопируйте ваш CSS сюда';
 $lang_settings_js = 'Перезапись JS для всего сайта';
 $lang_settings_js_tooltip = 'Скопируйте ваш JS сюда';
 
+//// Settings: Avatar
+$lang_settings_avatar_upload = 'Загрузка аватара';
+
 //// Settings: GDPR
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'Включить ВПР в теге формы';
@@ -298,7 +301,7 @@ $lang_settings_geoip_label = 'Включить GeoIP данные для ста�
 $lang_settings_geoip_api_key         = 'GeoIP оказание услуг API KEY';
 $lang_settings_geoip_api_key_tooltip = 'GeoIP оказание услуг API KEY';
 $lang_settings_geoip_service         = 'GeoIP оказание услуг';
-$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack';
 
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';
@@ -497,6 +500,19 @@ $lang_settings_title_template_strings = 'Текст шаблона';
 $lang_settings_template_string_admin_login_welcome_tooltip = 'Выделен тег Span. Текущий
 : Здравствуйте! Pulse пользователь';
 $lang_settings_template_string_admin_login_welcome         = 'Вход Приветствующий текст';
+
+# User Group List
+$lang_settings_title_user_group_list  = 'Список групп пользователей';
+$lang_settings_manage_user_group_list = 'Управление списком групп пользователей';
+
+$lang_settings_user_group_list_title    = 'Управление группами';
+$lang_settings_user_group_list_subtitle = 'Добавить / Удалить группы';
+
+$lang_settings_user_group_list_group_name  = 'Имя группы';
+$lang_settings_user_group_list_permissions = 'Разрешения доступа';
+
+$lang_settings_user_group_list_read       = 'Читать';
+$lang_settings_user_group_list_read_write = 'Читай пиши';
 
 // User List
 $lang_settings_title_user_list = 'Список пользователей';

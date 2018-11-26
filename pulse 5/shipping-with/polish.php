@@ -232,13 +232,16 @@ $lang_settings_css_tooltip = 'Wklej swój CSS tutaj';
 $lang_settings_js = 'Nadpisywanie JS dla całej witryny';
 $lang_settings_js_tooltip = 'Wklej tutaj JS';
 
+//// Settings: Avatar
+$lang_settings_avatar_upload = 'Przesyłanie avatara';
+
 //// Settings: GDPR
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'Włącz GDPR w tagu formularza';
 
-$lang_settings_gdpr_enable_in_tag    = 'Włącz GDPR w tagu';
-$lang_settings_gdpr_tag_text         = 'GDPR tekst wyskakujący';
-$lang_settings_gdpr_tag_text_tooltip = 'GDPR tekst wyskakujący (tooltip)';
+$lang_settings_gdpr_enable_in_tag = 'Włącz GDPR w tagu';
+$lang_settings_gdpr_tag_text = 'Tekst wyskakujący o GDPR';
+$lang_settings_gdpr_tag_text_tooltip = 'Dostosuj tekst kontekstowy GDPR';
 
 // Settings: Cache - Pamięć podręczna
 $lang_settings_title_cache = 'Pamięć podręczna';
@@ -284,10 +287,10 @@ $lang_settings_title_geoip = 'GeoIP';
 $lang_settings_geoip = 'Dane dla GeoIP statystyk witryny';
 $lang_settings_geoip_label = 'Włącz tutaj GeoIP dla statystyk';
 
-$lang_settings_geoip_api_key         = 'GeoIP usługa API KEY';
-$lang_settings_geoip_api_key_tooltip = 'GeoIP usługa API KEY';
-$lang_settings_geoip_service         = 'GeoIP usługa';
-$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+$lang_settings_geoip_api_key = 'Klucz API usługi GeoIP';
+$lang_settings_geoip_api_key_tooltip = 'Dodaj GeoIP klucz API';
+$lang_settings_geoip_service = 'Usługa GeoIP';
+$lang_settings_geoip_service_tooltip = 'Dodaj freegeoip lub ipstack';
 
 // Settings: OGP - Open Graph protocol >> http://ogp.me/
 $lang_settings_title_ogp = '(OGP) Otwórz protokół graficzny';
@@ -303,7 +306,7 @@ $lang_settings_blogdisqususer = 'Disqus nazwa_użytkownika';
 $lang_settings_blogdisqususer_tooltip = 'Dodaj swoje konto skrócona Disqus';
 $lang_settings_blogdate = 'Format daty';
 $lang_settings_blogdate_tooltip = 'Format daty PHP. Więcej informacji: https://php.net/manual/en/function.date.php';
-$lang_settings_blog_flag_reverse = 'Odwróć kolejność listy blogów'; 
+$lang_settings_blog_flag_reverse = 'Odwrócona kolejność lista blog';
 $lang_settings_blogmasonry = 'Włącz Blog układ masonry';
 
 // Settings: RSS
@@ -366,7 +369,7 @@ $lang_settings_formredirect = 'Dzięki przekierowania';
 $lang_settings_formredirect_tooltip = 'http://twoj_portal.pl/dzięki';
 $lang_settings_formcomment = 'Tekst/Etykieta do komentarza';
 $lang_settings_formcommentname_tooltip = 'Komentarz';
-$lang_settings_form_gdpr = 'GDPR wkład';
+$lang_settings_form_gdpr = 'Wkład GDPR';
 $lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_formphone = 'Tekst/Etykieta na telefon';
 $lang_settings_formphonename_tooltip = 'Telefon';
@@ -422,7 +425,7 @@ $lang_settings_navigation_non_pulse_url  = 'URL';
 $lang_settings_navigation_activate = 'Aktywuj';
 
 $lang_settings_navigation_add_menu = "Dodaj menu";
-$lang_settings_navigation_menus = "Menus";
+$lang_settings_navigation_menus = "Menu";
 
 $lang_settings_title_debug_info  = 'Debugowanie';
 $lang_settings_manage_debug_info = 'Debugowanie menu';
@@ -459,15 +462,28 @@ $lang_settings_log_viewer_log_content = 'Wpisy do dziennika';
 $lang_settings_title_tags = 'Tagi';
 $lang_settings_manage_tags = 'Zarządzaj tagi';
 $lang_settings_tags_title = 'Zarządzaj tagów';
-$lang_settings_tags_subtitle = 'Dodaj / Usuń tagi i opisy.';
+$lang_settings_tags_subtitle = 'Dodaj / Usuń znaczniki i opisy.';
 $lang_settings_tags_name = 'Nazwa';
-$lang_settings_tags_description = 'Opisanie';
+$lang_settings_tags_description = 'Opis';
 
 // Template Strings
 $lang_settings_title_template_strings = 'Tekst szablonu';
 
-$lang_settings_template_string_admin_login_welcome_tooltip = 'Wszystko w znaczniku zakresu jest podświetlone. Obecny: Hello! Pulse Użytkownik';
-$lang_settings_template_string_admin_login_welcome         = 'Zaloguj się tekst powitalny';
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Wszystko w znaczniku zakresu jest podświetlone. Bieżąca: Cześć! Użytkownik Pulse';
+$lang_settings_template_string_admin_login_welcome = 'Cześć! Użytkownik Pulse';
+
+# User Group List
+$lang_settings_title_user_group_list  = 'Lista grup użytkowników';
+$lang_settings_manage_user_group_list = 'Zarządzaj listą grup użytkowników';
+
+$lang_settings_user_group_list_title    = 'Zarządzaj grupami';
+$lang_settings_user_group_list_subtitle = 'Dodaj / usuń grupy';
+
+$lang_settings_user_group_list_group_name  = 'Nazwa grupy';
+$lang_settings_user_group_list_permissions = 'Uzyskaj uprawnienia';
+
+$lang_settings_user_group_list_read       = 'Czytać';
+$lang_settings_user_group_list_read_write = 'Odczyt / zapis';
 
 // User List
 $lang_settings_title_user_list = 'Lista użytkowników';
@@ -477,7 +493,7 @@ $lang_settings_user_list_title = 'Zarządzaj użytkownikami';
 $lang_settings_user_list_subtitle = 'Dodaj / Usuń użytkowników';
 
 $lang_settings_user_list_acl_role = 'Rola użytkownika';
-$lang_settings_user_list_otp_activate = 'Włącz OTP';
+$lang_settings_user_list_otp_activate = 'Aktywuj OTP';
 $lang_settings_user_list_password = 'Hasło';
 $lang_settings_user_list_username = 'Nazwa Użytkownika';
 
@@ -493,16 +509,16 @@ $lang_search_links = 'Link do';
 $lang_pagelist = 'Lista stron';
 
 // Admin - Debug info
-$lang_debug_info_title     = 'Odpluskwić';
-$lang_debug_info_path      = 'Ścieżka';
+$lang_debug_info_title = 'Odpluskwić';
+$lang_debug_info_path = 'Ścieżka';
 $lang_debug_info_title_sub = 'Uprawnienia do plików';
-$lang_debug_info_button    = 'Pobieranie';
-$lang_debug_info_text      = 'Pobierz plik zip';
+$lang_debug_info_button = 'Pobieranie';
+$lang_debug_info_text = 'Pobierz plik zip';
 
 // Admin - Open
 $lang_open_meta_searchable = 'Pokaż w wyszukiwarce';
 
 // Admin - Update
-$lang_update_title     = 'Zaktualizuj instalację Pulse';
-$lang_update_title_sub = 'Prześlij nowy plik zip Pulse';
-$lang_update_button    = 'Aktualizacja';
+$lang_update_title = 'Zaktualizuj instalację PulseCMS';
+$lang_update_title_sub = 'Prześlij nowy plik zip PulseCMS';
+$lang_update_button = 'Aktualizacja';

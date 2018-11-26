@@ -240,6 +240,9 @@ $lang_settings_css_tooltip = 'CSSをここに貼り付け';
 $lang_settings_js = 'サイト全体のJS上書き';
 $lang_settings_js_tooltip = 'JSをここに貼り付け';
 
+//// Settings: Avatar
+$lang_settings_avatar_upload = 'アバターアップロード';
+
 //// Settings: GDPR
 $lang_settings_title_gdpr = 'GDPR';
 $lang_settings_gdpr_enable_in_form = 'フォームタグのGDPRを有効にする';
@@ -296,7 +299,7 @@ $lang_settings_geoip_label = 'サイトスタッツへのGeoIPデータ';
 $lang_settings_geoip_api_key         = 'GeoIPのサービスのAPI KEY';
 $lang_settings_geoip_api_key_tooltip = 'GeoIPのサービスのAPI KEY';
 $lang_settings_geoip_service         = 'GeoIPのサービス';
-$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack';
 
 //// Settings: OGP
 $lang_settings_title_ogp = 'OGP';
@@ -495,6 +498,19 @@ $lang_settings_title_template_strings = 'テンプレートのテキスト';
 
 $lang_settings_template_string_admin_login_welcome_tooltip = 'スパンタグの全てがハイライトで表示されます。 現在: こんにちは! Pulseユーザーの皆様';
 $lang_settings_template_string_admin_login_welcome         = 'ログインのWelcomeテキスト';
+
+# User Group List
+$lang_settings_title_user_group_list  = 'ユーザグループリスト';
+$lang_settings_manage_user_group_list = 'ユーザーグループリストの管理';
+
+$lang_settings_user_group_list_title    = 'グループの管理';
+$lang_settings_user_group_list_subtitle = 'グループの追加/削除';
+
+$lang_settings_user_group_list_group_name  = 'グループ名';
+$lang_settings_user_group_list_permissions = 'アクセス許可';
+
+$lang_settings_user_group_list_read       = '読む';
+$lang_settings_user_group_list_read_write = '読み書き';
 
 // User List
 $lang_settings_title_user_list = 'ユーザーリスト';

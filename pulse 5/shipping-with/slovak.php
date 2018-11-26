@@ -62,7 +62,7 @@ $lang_nav_logged_in_add_media = 'Pridať nové média';
 $lang_nav_logged_in_add_page = 'Pridať novú stránku';
 
 // Gallery - Galéria
-$lang_gal_alt_gallery = "alt tag (popis)";
+$lang_gal_alt_gallery = "popis";
 $lang_gal_caption_gallery = "Tu vložte titulok"; 
 $lang_gal_filename = "Názov súboru";
 $lang_gal_dimensions = "Rozmery";
@@ -177,7 +177,7 @@ $lang_stats_countries = "Krajiny";
 $lang_stats_devices = "zariadenia";
 $lang_stats_systems = "systémy";
 
-// Sweet Alert  - Chybová správa
+// Sweet Alert  - Oznamovacia správa
 $lang_sweetalert_ok = "OK";
 $lang_sweetalert_saved = "Uložené";
 
@@ -232,13 +232,16 @@ $lang_settings_css_tooltip = 'Tu vložte svoje CSS';
 $lang_settings_js = 'Prepísanie JS pre celý web';
 $lang_settings_js_tooltip = 'Tu vložte svoje JS';
 
+//// Settings: Avatar
+$lang_settings_avatar_upload = 'Avatar nahrať';
+
 //// Settings: GDPR
 $lang_settings_title_gdpr = 'GDPR';
-$lang_settings_gdpr_enable_in_form = 'Povoliť GDPR vo značke formulára';
+$lang_settings_gdpr_enable_in_form = 'Povoliť GDPR vo formulári';
 
 $lang_settings_gdpr_enable_in_tag    = 'Povoliť GDPR v tagu';
-$lang_settings_gdpr_tag_text         = 'Popupný text GDPR';
-$lang_settings_gdpr_tag_text_tooltip = 'Popupný text GDPR (tooltip)';
+$lang_settings_gdpr_tag_text         = 'Kontextový text GDPR';
+$lang_settings_gdpr_tag_text_tooltip = 'Prispôsobte kontextový text GDPR';
 
 // Settings: Cache
 $lang_settings_title_cache = 'Cache (medzipamäte)';
@@ -284,10 +287,10 @@ $lang_settings_title_geoip = 'GeoIP';
 $lang_settings_geoip = 'Údaje GeoIP pre štatistiky webu';
 $lang_settings_geoip_label = 'Povoliť GeoIP pre štatistikách tu';
 
-$lang_settings_geoip_api_key         = 'GeoIP služba API KEY';
-$lang_settings_geoip_api_key_tooltip = 'GeoIP služba API KEY';
-$lang_settings_geoip_service         = 'GeoIP služba';
-$lang_settings_geoip_service_tooltip = 'freegeoip, ipstack, snoopi';
+$lang_settings_geoip_api_key = 'GeoIP služby API KEY';
+$lang_settings_geoip_api_key_tooltip = 'Pridajte kľúč API služby GeoIP';
+$lang_settings_geoip_service = 'Služba GeoIP';
+$lang_settings_geoip_service_tooltip = 'Pridajte služby freegeoip alebo ipstack';
 
 // Settings: OGP - Open Graph protocol >> http://ogp.me/
 $lang_settings_title_ogp = '(OGP) Otvorené grafické protokoly';
@@ -303,7 +306,7 @@ $lang_settings_blogdisqususer = 'Disqus užívateľské meno';
 $lang_settings_blogdisqususer_tooltip = 'Pridajte krátke meno účtu Disqus';
 $lang_settings_blogdate = 'Formát dátumu';
 $lang_settings_blogdate_tooltip = 'PHP formát dátumu. Viac informácií nájdete: https://php.net/manual/en/function.date.php';
-$lang_settings_blog_flag_reverse = 'Reverzné poradie zoznamu blogov'; 
+$lang_settings_blog_flag_reverse = 'Vzostupné poradie zoznamu blogov'; 
 $lang_settings_blogmasonry = 'V Blogu povoliť masonry rozloženie';
 
 // Settings: RSS
@@ -366,7 +369,7 @@ $lang_settings_formredirect = 'Presmerovanie na poďakovanie';
 $lang_settings_formredirect_tooltip = 'http://moj_web.sk/podakovanie';
 $lang_settings_formcomment = 'Text/Štítok pre komentáre';
 $lang_settings_formcommentname_tooltip = 'Komentáre';
-$lang_settings_form_gdpr = 'GDPR vstup';
+$lang_settings_form_gdpr = 'Vložiť GDPR';
 $lang_settings_form_gdpr_name_tooltip = 'GDPR';
 $lang_settings_formphone = 'Text/Štítok pre telefón';
 $lang_settings_formphonename_tooltip = 'Telefón';
@@ -424,9 +427,9 @@ $lang_settings_navigation_activate = 'Aktivovať';
 $lang_settings_navigation_add_menu = "Pridať ponuku";
 $lang_settings_navigation_menus = "Ponuky";
 
-$lang_settings_title_debug_info  = 'Ladiť';
-$lang_settings_manage_debug_info = 'Ladiť';
-$lang_settings_manage_log_viewer = 'Prehliadač denníkov';
+$lang_settings_title_debug_info  = 'Ladenie Informácií';
+$lang_settings_manage_debug_info = 'Ladenie Informácií';
+$lang_settings_manage_log_viewer = 'Správa prihlasovacich udajov';
 
 $lang_settings_title_update  = 'Aktualizovať';
 $lang_settings_manage_update = 'Aktualizovať';
@@ -457,7 +460,7 @@ $lang_settings_log_viewer_log_files   = 'Súbory denníkov';
 $lang_settings_log_viewer_log_content = 'Záznamy denníka'; 
 
 // Tags
-$lang_settings_title_tags = 'Značky (Tagy)';
+$lang_settings_title_tags = 'Značky';
 $lang_settings_manage_tags = 'Správa značiek';
 $lang_settings_tags_title = 'Spravovať značky';
 $lang_settings_tags_subtitle = 'Pridať / Odstrániť značky a popisy.';
@@ -465,22 +468,35 @@ $lang_settings_tags_name = 'Meno';
 $lang_settings_tags_description = 'Popis';
 
 // Template Strings
-$lang_settings_title_template_strings = 'Text šablóny';
+$lang_settings_title_template_strings = 'Názov šablóny';
 
-$lang_settings_template_string_admin_login_welcome_tooltip = 'Span tag je zvýraznená. Prúd: Ahoj! Užívateľ Pulse';
-$lang_settings_template_string_admin_login_welcome         = 'Prihlásiť sa uvítací text';
+$lang_settings_template_string_admin_login_welcome_tooltip = 'Prihlasovanie správcu, text privítanie. Aktuálne: Dobrý deň! Užívateľ Pulse';
+$lang_settings_template_string_admin_login_welcome         = 'Dobrý deň! Užívateľ Pulse';
+
+# User Group List
+$lang_settings_title_user_group_list  = 'Zoznam skupín používateľov';
+$lang_settings_manage_user_group_list = 'Správa zoznamu skupín používateľov';
+
+$lang_settings_user_group_list_title    = 'Správa skupín';
+$lang_settings_user_group_list_subtitle = 'Pridať / Odstrániť skupiny';
+
+$lang_settings_user_group_list_group_name  = 'Názov skupiny';
+$lang_settings_user_group_list_permissions = 'Prístupové povolenia';
+
+$lang_settings_user_group_list_read       = 'Prečítať';
+$lang_settings_user_group_list_read_write = 'Čítaj píš';
 
 // User List
-$lang_settings_title_user_list = 'Zoznam používateľov';
+$lang_settings_title_user_list = 'Zoznam užívateľov';
 $lang_settings_manage_user_list = 'Správa zoznamu používateľov';
 
 $lang_settings_user_list_title = 'Správa používateľov';
 $lang_settings_user_list_subtitle = 'Pridať / Odstrániť používateľov';
 
-$lang_settings_user_list_acl_role = 'Role používateľa';
-$lang_settings_user_list_otp_activate = 'Aktivovať OTP';
+$lang_settings_user_list_acl_role = 'Užívateľská úloha';
+$lang_settings_user_list_otp_activate = 'Aktivujte OTP';
 $lang_settings_user_list_password = 'Heslo';
-$lang_settings_user_list_username = 'Užívateľské meno';
+$lang_settings_user_list_username = 'Meno užívateľa';
 
 // Search
 $lang_search_title = 'Vyhľadávanie';
@@ -494,16 +510,16 @@ $lang_search_links = 'Odkaz na';
 $lang_pagelist = 'Zoznam stránok';
 
 // Admin - Debug info
-$lang_debug_info_title     = 'Ladiť';
-$lang_debug_info_path      = 'Cesta';
+$lang_debug_info_title = 'Ladiť';
+$lang_debug_info_path = 'Cesta';
 $lang_debug_info_title_sub = 'Súborové povolenia';
-$lang_debug_info_button    = 'Stiahnuť';
-$lang_debug_info_text      = 'Stiahnuť súbor zip';
+$lang_debug_info_button = 'Stiahnuť';
+$lang_debug_info_text = 'Stiahnuť súbor zip';
 
 // Admin - Open
 $lang_open_meta_searchable = 'Zobraziť vo vyhľadávaní';
 
 // Admin - Update
-$lang_update_title     = 'Aktualizujte inštaláciu Pulse';
-$lang_update_title_sub = 'Nahrať nový súbor Pulse zip';
-$lang_update_button    = 'Aktualizovať';
+$lang_update_title = 'Aktualizujte inštaláciu PulseCMS';
+$lang_update_title_sub = 'Nahrať nový súbor PulseCMS zip';
+$lang_update_button = 'Aktualizovať';
