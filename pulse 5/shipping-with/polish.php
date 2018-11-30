@@ -412,6 +412,12 @@ $lang_settings_managecustomposts = 'Zarządzaj własnymi wpisami';
 $lang_settings_themeuploader = 'Prześlij nowy motyw pliku ZIP';
 $lang_settings_pluginuploader = 'Prześlij nowy plik ZIP plugin';
 
+$lang_settings_title_debug_info  = 'Informacje debugowania';
+$lang_settings_manage_debug_info = 'Informacje debugowania';
+$lang_settings_manage_log_viewer = 'Przeglądarka dzienników';
+$lang_settings_title_update  = 'Aktualizacja';
+$lang_settings_manage_update = 'Aktualizacja';
+
 // Settings: Media
 $lang_settings_mediaupload = 'Prześlij plik medialny';
 
@@ -426,13 +432,6 @@ $lang_settings_navigation_activate = 'Aktywuj';
 
 $lang_settings_navigation_add_menu = "Dodaj menu";
 $lang_settings_navigation_menus = "Menu";
-
-$lang_settings_title_debug_info  = 'Debugowanie';
-$lang_settings_manage_debug_info = 'Debugowanie menu';
-$lang_settings_manage_log_viewer = 'Przeglądarka dzienników';
-
-$lang_settings_title_update  = 'Aktualizacja menu';
-$lang_settings_manage_update = 'Aktualizacja';
 
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Własne wpisy pocztowe dla:';

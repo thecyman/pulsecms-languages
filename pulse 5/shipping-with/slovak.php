@@ -233,7 +233,7 @@ $lang_settings_js = 'Prepísanie JS pre celý web';
 $lang_settings_js_tooltip = 'Tu vložte svoje JS';
 
 //// Settings: Avatar
-$lang_settings_avatar_upload = 'Avatar nahrať';
+$lang_settings_avatar_upload = 'Nahrať Avatar';
 
 //// Settings: GDPR
 $lang_settings_title_gdpr = 'GDPR';
@@ -412,6 +412,12 @@ $lang_settings_managecustomposts = 'Spravovať vlastné typy príspevkov';
 $lang_settings_themeuploader = 'Nahrajte nový súbor ZIP s motívom';
 $lang_settings_pluginuploader = 'Nahrať nový plugin, súbor ZIP';
 
+$lang_settings_title_debug_info  = 'Ladenie Informácií';
+$lang_settings_manage_debug_info = 'Ladenie Informácií';
+$lang_settings_manage_log_viewer = 'Správa prihlasovacich udajov';
+$lang_settings_title_update  = 'Aktualizovať';
+$lang_settings_manage_update = 'Aktualizovať';
+
 // Settings: Media
 $lang_settings_mediaupload = 'Nahrajte mediálny súbor';
 
@@ -426,13 +432,6 @@ $lang_settings_navigation_activate = 'Aktivovať';
 
 $lang_settings_navigation_add_menu = "Pridať ponuku";
 $lang_settings_navigation_menus = "Ponuky";
-
-$lang_settings_title_debug_info  = 'Ladenie Informácií';
-$lang_settings_manage_debug_info = 'Ladenie Informácií';
-$lang_settings_manage_log_viewer = 'Správa prihlasovacich udajov';
-
-$lang_settings_title_update  = 'Aktualizovať';
-$lang_settings_manage_update = 'Aktualizovať';
 
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Vlastné príspevky pre položky typu:';
@@ -483,8 +482,8 @@ $lang_settings_user_group_list_subtitle = 'Pridať / Odstrániť skupiny';
 $lang_settings_user_group_list_group_name  = 'Názov skupiny';
 $lang_settings_user_group_list_permissions = 'Prístupové povolenia';
 
-$lang_settings_user_group_list_read       = 'Prečítať';
-$lang_settings_user_group_list_read_write = 'Čítaj píš';
+$lang_settings_user_group_list_read       = 'Čítať';
+$lang_settings_user_group_list_read_write = 'Čítanie / zápis';
 
 $lang_settings_user_group_list_access_denied = 'Prístup k tejto položke bol zamietnutý';
 

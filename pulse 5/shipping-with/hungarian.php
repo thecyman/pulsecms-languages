@@ -412,6 +412,12 @@ $lang_settings_managecustomposts = 'Egyéni bejegyzések kezelése';
 $lang_settings_themeuploader = 'Tölts fel egy új témát ZIP fájl';
 $lang_settings_pluginuploader = 'Új plugin ZIP fájl feltöltése';
 
+$lang_settings_title_debug_info  = 'Információk kezelése';
+$lang_settings_manage_debug_info = 'Kezelje a információkat';
+$lang_settings_manage_log_viewer = 'Naplómegjelenítő';
+$lang_settings_title_update  = 'Frissítés';
+$lang_settings_manage_update = 'Frissítés';
+
 // Settings: Media
 $lang_settings_mediaupload = 'Médiafájl feltöltése';
 
@@ -426,13 +432,6 @@ $lang_settings_navigation_activate = 'Aktiválja';
 
 $lang_settings_navigation_add_menu = "Menü hozzáadása";
 $lang_settings_navigation_menus = "Menük";
-
-$lang_settings_title_debug_info  = 'Hibakeresés';
-$lang_settings_manage_debug_info = 'Hibakeresés';
-$lang_settings_manage_log_viewer = 'Napló megtekintése';
-
-$lang_settings_title_update  = 'Frissítés';
-$lang_settings_manage_update = 'Frissítés';
 
 // Settings: Custom Post Type
 $lang_settings_custompostentries = 'Egyéni bejegyzéstípus bejegyzések:';
@@ -483,8 +482,8 @@ $lang_settings_user_group_list_subtitle = 'Csoportok hozzáadása / törlése';
 $lang_settings_user_group_list_group_name  = 'Csoport név';
 $lang_settings_user_group_list_permissions = 'Hozzáférési jogosultságok';
 
-$lang_settings_user_group_list_read       = 'Olvas';
-$lang_settings_user_group_list_read_write = 'Ír olvas';
+$lang_settings_user_group_list_read       = 'Olvasás';
+$lang_settings_user_group_list_read_write = 'Olvasás/írás';
 
 $lang_settings_user_group_list_access_denied = 'Az elemhez való hozzáférés megtagadva';
 
