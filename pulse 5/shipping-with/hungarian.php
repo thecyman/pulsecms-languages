@@ -420,6 +420,8 @@ $lang_settings_manage_update = 'Frissítés';
 
 // Settings: Media
 $lang_settings_mediaupload = 'Médiafájl feltöltése';
+$lang_settings_upload_max_size = 'A feltöltés maximális mérete';
+$lang_settings_upload_size_error = 'A fájl meghaladja a maximális feltöltési méretet';
 
 // Settings: Navigation
 $lang_settings_navigationtitle = 'A navigációs hivatkozások kezelése';
@@ -498,6 +500,8 @@ $lang_settings_user_list_acl_role = 'Felhasználói szerepkör';
 $lang_settings_user_list_otp_activate = 'Aktiválja az OTP-t';
 $lang_settings_user_list_password = 'Jelszó';
 $lang_settings_user_list_username = 'Felhasználónév';
+
+$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
 
 // Search
 $lang_search_title = 'Keresés';

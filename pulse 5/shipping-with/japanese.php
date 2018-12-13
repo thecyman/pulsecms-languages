@@ -430,6 +430,8 @@ $lang_settings_pluginuploader = '新規プラグインのZIPファイルをア�
 
 //// Settings: Media
 $lang_settings_mediaupload = 'メディアファイルをアップロード';
+$lang_settings_upload_max_size = 'アップロードサイズの上限';
+$lang_settings_upload_size_error = 'ファイルが最大アップロードサイズを超えています';
 
 //// Settings: Navigation
 $lang_settings_navigationtitle = 'ナビゲーションリンクを管理';
@@ -525,6 +527,8 @@ $lang_settings_user_list_acl_role = 'ユーザーの役割';
 $lang_settings_user_list_otp_activate = 'OTPを有効にする';
 $lang_settings_user_list_password = 'パスワード';
 $lang_settings_user_list_username = 'ユーザー名';
+
+$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
 
 // Search
 $lang_search_title = '検索';

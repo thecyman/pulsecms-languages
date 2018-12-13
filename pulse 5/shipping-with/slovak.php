@@ -420,6 +420,8 @@ $lang_settings_manage_update = 'Aktualizovať';
 
 // Settings: Media
 $lang_settings_mediaupload = 'Nahrajte mediálny súbor';
+$lang_settings_upload_max_size = 'Maximálna veľkosť odovzdávania';
+$lang_settings_upload_size_error = 'Súbor prekračuje maximálnu veľkosť odovzdávania';
 
 // Settings: Navigation
 $lang_settings_navigationtitle = 'Správa navigačných odkazov';
@@ -498,6 +500,8 @@ $lang_settings_user_list_acl_role = 'Užívateľská úloha';
 $lang_settings_user_list_otp_activate = 'Aktivujte OTP';
 $lang_settings_user_list_password = 'Heslo';
 $lang_settings_user_list_username = 'Meno užívateľa';
+
+$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
 
 // Search
 $lang_search_title = 'Vyhľadávanie';

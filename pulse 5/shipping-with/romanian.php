@@ -414,6 +414,8 @@ $lang_settings_pluginuploader = 'Incarcati un nou plugin ca fisier ZIP';
 
 //// Settings: Media
 $lang_settings_mediaupload = 'Incarca un fisier media';
+$lang_settings_upload_max_size = 'Dimensiunea maximă de încărcare';
+$lang_settings_upload_size_error = 'Fișierul depășește dimensiunea maximă de încărcare';
 
 //// Settings: Navigation
 $lang_settings_navigationtitle = 'Gestioneaza linkurile de navigare';
@@ -499,6 +501,8 @@ $lang_settings_user_list_acl_role = 'Rolul utilizatorului';
 $lang_settings_user_list_otp_activate = 'Activați OTP';
 $lang_settings_user_list_password = 'Parola';
 $lang_settings_user_list_username = 'Nume de utilizator';
+
+$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
 
 // Search
 $lang_search_title = 'Cauta';

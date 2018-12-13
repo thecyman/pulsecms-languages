@@ -433,6 +433,8 @@ $lang_settings_pluginuploader = 'Eine neue Plugin ZIP Datei hochladen';
 
 //// Settings: Media
 $lang_settings_mediaupload = 'Eine Mediendatei hochladen';
+$lang_settings_upload_max_size = 'Maximale Uploadgröße';
+$lang_settings_upload_size_error = 'Datei überschreitet die maximale Uploadgröße';
 
 //// Settings: Navigation
 $lang_settings_navigationtitle = 'Die Navigationslinks bearbeiten';
@@ -528,6 +530,8 @@ $lang_settings_user_list_acl_role = 'Benutzer-Rolle';
 $lang_settings_user_list_otp_activate = 'OTP aktivieren';
 $lang_settings_user_list_password = 'Passwort';
 $lang_settings_user_list_username = 'Nutzername';
+
+$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
 
 // Search
 $lang_search_title = 'Suche';

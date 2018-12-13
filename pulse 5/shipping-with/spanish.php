@@ -438,6 +438,8 @@ $lang_settings_manage_update = 'Actualizar';
 
 //// Settings: Media
 $lang_settings_mediaupload = 'Subir un archivo multimedia';
+$lang_settings_upload_max_size = 'Tamaño máximo de carga';
+$lang_settings_upload_size_error = 'El archivo excede el tamaño máximo de carga';
 
 //// Settings: Navigation
 $lang_settings_navigationtitle = 'Administrar los enlaces de navegación';
@@ -526,6 +528,8 @@ $lang_settings_user_list_acl_role = 'Rol del usuario';
 $lang_settings_user_list_otp_activate = 'OTP activa';
 $lang_settings_user_list_password = 'Contraseña';
 $lang_settings_user_list_username = 'Nombre de usuario';
+
+$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
 
 // Search
 $lang_search_title = 'Buscar';

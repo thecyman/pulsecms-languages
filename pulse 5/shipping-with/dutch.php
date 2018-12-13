@@ -421,6 +421,8 @@ $lang_settings_pluginuploader = 'Upload nieuwe plugin-ZIP file';
 
 // Settings: Media
 $lang_settings_mediaupload = 'Upload een media bestand';
+$lang_settings_upload_max_size = 'Maximale uploadgrootte';
+$lang_settings_upload_size_error = 'Bestand overschrijdt de maximale uploadgrootte';
 
 // Settings: Navigation
 $lang_settings_navigationtitle = 'Beheer navigatie links';
@@ -510,6 +512,8 @@ $lang_settings_user_list_acl_role = 'Gebruikersrol';
 $lang_settings_user_list_otp_activate = 'OTP activeer';
 $lang_settings_user_list_password = 'Wachtwoord';
 $lang_settings_user_list_username = 'Gebruikersnaam';
+
+$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
 
 // Search
 $lang_search_title = 'Zoek';
