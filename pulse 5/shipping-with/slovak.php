@@ -501,7 +501,7 @@ $lang_settings_user_list_otp_activate = 'Aktivujte OTP';
 $lang_settings_user_list_password = 'Heslo';
 $lang_settings_user_list_username = 'Meno užívateľa';
 
-$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
+$lang_settings_user_list_error_no_group = 'Pridajte používateľskú skupinu k novému používateľovi';
 
 // Search
 $lang_search_title = 'Vyhľadávanie';

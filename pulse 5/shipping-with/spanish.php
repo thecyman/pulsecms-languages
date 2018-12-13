@@ -529,7 +529,7 @@ $lang_settings_user_list_otp_activate = 'OTP activa';
 $lang_settings_user_list_password = 'Contraseña';
 $lang_settings_user_list_username = 'Nombre de usuario';
 
-$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
+$lang_settings_user_list_error_no_group = 'Por favor agregue un grupo de usuarios al nuevo usuario';
 
 // Search
 $lang_search_title = 'Buscar';

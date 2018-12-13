@@ -530,7 +530,7 @@ $lang_settings_user_list_otp_activate = 'OTP активировать';
 $lang_settings_user_list_password = 'пароль';
 $lang_settings_user_list_username = 'имя пользователя';
 
-$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
+$lang_settings_user_list_error_no_group = 'Пожалуйста, добавьте группу пользователей к новому пользователю';
 
 // Search
 $lang_search_title = 'Поиск';

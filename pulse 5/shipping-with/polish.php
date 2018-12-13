@@ -500,7 +500,7 @@ $lang_settings_user_list_otp_activate = 'Aktywuj OTP';
 $lang_settings_user_list_password = 'Hasło';
 $lang_settings_user_list_username = 'Nazwa Użytkownika';
 
-$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
+$lang_settings_user_list_error_no_group = 'Dodaj grupę użytkowników do nowego użytkownika';
 
 // Search - Szukanie
 $lang_search_title = 'Szukanie';

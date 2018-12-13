@@ -528,7 +528,7 @@ $lang_settings_user_list_otp_activate = 'OTPを有効にする';
 $lang_settings_user_list_password = 'パスワード';
 $lang_settings_user_list_username = 'ユーザー名';
 
-$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
+$lang_settings_user_list_error_no_group = '新しいユーザーにユーザーグループを追加してください';
 
 // Search
 $lang_search_title = '検索';

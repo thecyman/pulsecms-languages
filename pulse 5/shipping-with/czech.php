@@ -498,7 +498,7 @@ $lang_settings_user_list_otp_activate = 'Aktivace OTP';
 $lang_settings_user_list_password = 'Heslo';
 $lang_settings_user_list_username = 'Uživatelské jméno';
 
-$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
+$lang_settings_user_list_error_no_group = 'Přidejte do nového uživatele skupinu uživatelů';
 
 // Search
 $lang_search_title = 'Vyhledávání';

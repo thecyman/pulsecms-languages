@@ -513,7 +513,7 @@ $lang_settings_user_list_otp_activate = 'OTP activeer';
 $lang_settings_user_list_password = 'Wachtwoord';
 $lang_settings_user_list_username = 'Gebruikersnaam';
 
-$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
+$lang_settings_user_list_error_no_group = 'Voeg een gebruikersgroep toe aan de nieuwe gebruiker';
 
 // Search
 $lang_search_title = 'Zoek';

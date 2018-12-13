@@ -501,7 +501,7 @@ $lang_settings_user_list_otp_activate = 'Aktiválja az OTP-t';
 $lang_settings_user_list_password = 'Jelszó';
 $lang_settings_user_list_username = 'Felhasználónév';
 
-$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
+$lang_settings_user_list_error_no_group = 'Adjon hozzá egy felhasználói csoportot az új felhasználóhoz';
 
 // Search
 $lang_search_title = 'Keresés';

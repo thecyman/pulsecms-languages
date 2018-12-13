@@ -502,7 +502,7 @@ $lang_settings_user_list_otp_activate = 'Activați OTP';
 $lang_settings_user_list_password = 'Parola';
 $lang_settings_user_list_username = 'Nume de utilizator';
 
-$lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
+$lang_settings_user_list_error_no_group = 'Adăugați un grup de utilizatori unui utilizator nou';
 
 // Search
 $lang_search_title = 'Cauta';
