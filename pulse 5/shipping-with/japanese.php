@@ -3,8 +3,8 @@
 //Global
 $lang_cancel = "キャンセル";
 $lang_duplicate = "重複";
-$lang_help = "ヘルプ";
-$lang_help_url ="https://help.pulsecms.com/";
+$lang_help = "コピー";
+$lang_help_url ="https://www.pulsecms.com/help";
 $lang_settings = "設定";
 $lang_account = "アカウント";
 $lang_save = "保存";
@@ -51,7 +51,7 @@ $lang_nav_blocks = "ブロック";
 $lang_nav_img = "メディア";
 $lang_nav_blog = "ブログ";
 $lang_nav_pages = "ページ";
-$lang_nav_stats = "スタッツ";
+$lang_nav_stats = "統計";
 
 // Navigation logged in bar
 $lang_nav_logged_in_add_block     = '新規ブロックを追加';
@@ -221,7 +221,7 @@ $lang_settings_extend = '拡張';
 //// Settings: General
 $lang_settings_path = 'パス';
 $lang_settings_path_tooltip = 'ルートフォルダにインストールされている場合は空白のままにしてください';
-$lang_settings_admin = 'アドミン';
+$lang_settings_admin = '管理者';
 $lang_settings_admin_tooltip = '管理者のフォルダ名';
 $lang_settings_password = 'パスワード';
 $lang_settings_password_tooltip = '他人から推測されにくい文字列を選んでください';
@@ -232,8 +232,8 @@ $lang_settings_time = 'デフォルトタイムゾーン';
 $lang_settings_language = '言語';
 $lang_settings_ip = 'IP匿名化';
 $lang_settings_frontpage = 'フロントページ表示';
-$lang_settings_adminfrontpage = 'アドミンフロントページ表示';
-$lang_settings_adminname = 'アドミンユーザー名';
+$lang_settings_adminfrontpage = '管理者フロントページ表示';
+$lang_settings_adminname = '管理者ユーザー名';
 $lang_settings_adminname_tooltip = 'この名前はブログ投稿時に表示されます';
 $lang_settings_css = 'サイト全体のCSS上書き';
 $lang_settings_css_tooltip = 'CSSをここに貼り付け';
@@ -399,20 +399,20 @@ $lang_settings_recapkeysecret = 'reCAPTCHAシークレットキー';
 $lang_settings_recapkeysecret_tooltip = 'Googleアカウントから取得: https://www.google.com/recaptcha';
 
 //// Settings: Permissions
-$lang_settings_title_editor = 'エディタユーザー';
-$lang_settings_editor = 'エディタユーザーを有効にする';
-$lang_settings_editorpass = 'エディタパスワード';
+$lang_settings_title_editor = '編集者ユーザー';
+$lang_settings_editor = '編集者ユーザーを有効にする';
+$lang_settings_editorpass = '編集者パスワード';
 $lang_settings_editorpass_tooltip = '他人から推測されにくい文字列を選んでください';
-$lang_settings_editoruser = 'エディタユーザー名';
+$lang_settings_editoruser = '編集者ユーザー名';
 $lang_settings_editoruser_tooltip = 'この名前はブログ投稿時に表示されます';
 
-$lang_settings_title_editorotp = 'ワンタイムパスワード設定 (エディタ)';
+$lang_settings_title_editorotp = 'ワンタイムパスワード設定 (編集者)';
 $lang_settings_editorotpactivate = 'ワンタイムパスワードを有効にする';
 $lang_settings_editorotpsecret = 'ワンタイムキー';
 $lang_settings_editorotpsecret_tooltip = 'Google認証システムなどのOTPモバイルアプリを取得';
 
-$lang_settings_title_editoraccess = 'エディタがブロックのいずれか（または全て）にアクセスできるようにする:';
-$lang_settings_title_editorpagesaccess = 'エディタがページのいずれか（または全て）にアクセスできるようにする:';
+$lang_settings_title_editoraccess = '編集者がブロックのいずれか（または全て）にアクセスできるようにする:';
+$lang_settings_title_editorpagesaccess = '編集者がページのいずれか（または全て）にアクセスできるようにする:';
 
 //// Settings: Extend
 $lang_settings_title_themes = 'テーマ';

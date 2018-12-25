@@ -4,7 +4,7 @@
 $lang_cancel = "Mégse";
 $lang_duplicate = "Duplikálás";
 $lang_help = "Súgó";
-$lang_help_url = "https://help.pulsecms.com/";
+$lang_help_url = "https://www.pulsecms.com/help";
 $lang_settings = "Beállítások";
 $lang_account = "Fiók";
 $lang_save = "Mentés";

@@ -4,7 +4,7 @@
 $lang_cancel = "Отмена";
 $lang_duplicate = "Дублировать";
 $lang_help = "Помощь";
-$lang_help_url ="https://help.pulsecms.com/";
+$lang_help_url ="https://www.pulsecms.com/help";
 $lang_settings = "Настройки";
 $lang_account = "Эккаунт";
 $lang_save = "Сохранить";

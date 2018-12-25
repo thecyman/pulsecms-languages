@@ -3,7 +3,7 @@
 $lang_cancel = "Annuleren";
 $lang_duplicate = "Dupliceer";
 $lang_help = "Help";
-$lang_help_url = "https://help.pulsecms.com/";
+$lang_help_url = "https://www.pulsecms.com/help";
 $lang_settings = "Instellingen";
 $lang_account = "Account";
 $lang_save = "Opslaan";
