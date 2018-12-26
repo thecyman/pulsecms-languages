@@ -2,8 +2,8 @@
 
 //Global
 $lang_cancel = "キャンセル";
-$lang_duplicate = "重複";
-$lang_help = "コピー";
+$lang_duplicate = "コピー";
+$lang_help = "ヘルプ";
 $lang_help_url ="https://www.pulsecms.com/help";
 $lang_settings = "設定";
 $lang_account = "アカウント";
