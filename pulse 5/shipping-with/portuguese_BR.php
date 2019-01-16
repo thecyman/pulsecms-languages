@@ -152,7 +152,7 @@ $lang_blog_url = 'URL do blog';
 $lang_blog_index = 'Você quer indexar isso?';
 $lang_blog_nofollow = 'Você quer marcar como "no follow?"';
 $lang_blog_custom = 'Descrição META customizada';
-$lang_blog_list = 'Blog List';
+$lang_blog_list = 'Lista de blogs';
 
 //Form
 $lang_form_error1 = 'Favor preencher o campo ';
@@ -164,9 +164,9 @@ $lang_form_sent_button = 'Enviar';
 $lang_auto_thank_contact = 'Obrigado por me enviar um email - vamos responder em breve';
 
 // Mailchimp
-$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
-$lang_mailchimp_email_address   = 'email address';
-$lang_mailchimp_subscribe       = 'Subscribe';
+$lang_mailchimp_subscribe_label = 'Assine nossa lista de discussão';
+$lang_mailchimp_email_address   = 'Endereço de e-mail';
+$lang_mailchimp_subscribe       = 'Se inscrever';
 
 //Newsletter Form
 $lang_newsletter_thanks ='Obrigado!';

@@ -150,7 +150,7 @@ $lang_blog_url = 'ブログURL';
 $lang_blog_index = 'インデックスに登録しますか？';
 $lang_blog_nofollow = 'フォローを解除しますか？';
 $lang_blog_custom = 'カスタムMETAの説明';
-$lang_blog_list = 'Blog List';
+$lang_blog_list = 'ブログリスト';
 
 //Form
 $lang_form_error1 = '項目を埋めて下さい';
@@ -162,9 +162,9 @@ $lang_form_sent_button = '送信';
 $lang_auto_thank_contact = 'お問い合わせを受け付けました。順番に確認し、折り返しご連絡を差し上げます。今暫くお待ち頂きますよう、よろしくお願い申し上げます。';
 
 // Mailchimp
-$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
-$lang_mailchimp_email_address   = 'email address';
-$lang_mailchimp_subscribe       = 'Subscribe';
+$lang_mailchimp_subscribe_label = '私たちのメーリングリストに登録する';
+$lang_mailchimp_email_address   = 'メールアドレス';
+$lang_mailchimp_subscribe       = '申し込む';
 
 //Newsletter Form
 $lang_newsletter_thanks ='ありがとうございます';

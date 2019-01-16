@@ -165,7 +165,7 @@ $lang_auto_thank_contact = 'Thank you for sending me an email - we will reply so
 
 // Mailchimp
 $lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
-$lang_mailchimp_email_address   = 'email address';
+$lang_mailchimp_email_address   = 'Email address';
 $lang_mailchimp_subscribe       = 'Subscribe';
 
 //Newsletter Form

@@ -148,7 +148,7 @@ $lang_blog_url = 'Blog URL';
 $lang_blog_index = 'Wil je dit ge&iuml;ndexeerd hebben?';
 $lang_blog_nofollow = 'Wil je dit "no follow?"';
 $lang_blog_custom = 'Aangepaste META description';
-$lang_blog_list = 'Blog List';
+$lang_blog_list = 'Blog lijst';
 
 //Form
 $lang_form_error1 = 'Vul aub dit veld in ';
@@ -160,9 +160,9 @@ $lang_form_sent_button = 'Verstuur';
 $lang_auto_thank_contact = 'Bedankt voor het versturen van je mail - we nemen zsm contact met je op.';
 
 // Mailchimp
-$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
-$lang_mailchimp_email_address   = 'email address';
-$lang_mailchimp_subscribe       = 'Subscribe';
+$lang_mailchimp_subscribe_label = 'Abonneer u op onze mailinglijst';
+$lang_mailchimp_email_address   = 'E-mailadres';
+$lang_mailchimp_subscribe       = 'Abonneren';
 
 //Newsletter Form
 $lang_newsletter_thanks = 'Bedankt!';

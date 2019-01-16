@@ -143,7 +143,7 @@ $lang_blog_url = 'URL Blogu';
 $lang_blog_index = 'Chcete to indexované?';
 $lang_blog_nofollow = 'Prajete si to "nie nasledovať?"';
 $lang_blog_custom = 'Vlastný popis META';
-$lang_blog_list = 'Blog List';
+$lang_blog_list = 'Zoznam blogov';
 
 // Form  - Formulár
 $lang_form_error1 = 'Prosim vyplnte údaje ';
@@ -155,9 +155,9 @@ $lang_form_sent_button = 'Odoslať';
 $lang_auto_thank_contact = 'Ďakujem za zaslanie e-mailu! Na Váš e-mail odpoviem hneď ako to bude možné.';
 
 // Mailchimp
-$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
-$lang_mailchimp_email_address   = 'email address';
-$lang_mailchimp_subscribe       = 'Subscribe';
+$lang_mailchimp_subscribe_label = 'Prihláste sa do nášho mailing listu';
+$lang_mailchimp_email_address   = 'Emailová adresa';
+$lang_mailchimp_subscribe       = 'Predplatiť';
 
 // Newsletter Form - Informačný Formulár
 $lang_newsletter_thanks = 'Vďaka!';

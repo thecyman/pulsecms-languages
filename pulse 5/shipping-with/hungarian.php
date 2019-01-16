@@ -143,7 +143,7 @@ $lang_blog_url = 'Blog URL';
 $lang_blog_index = 'Szeretné ezt indexelni?';
 $lang_blog_nofollow = 'Szeretne "nem követni?"';
 $lang_blog_custom = 'Egyéni META leírás';
-$lang_blog_list = 'Blog List';
+$lang_blog_list = 'Bloglista';
 
 // Form - Forma
 $lang_form_error1 = 'Kérjük töltse ki a mezőt';
@@ -155,9 +155,9 @@ $lang_form_sent_button = 'Küldés';
 $lang_auto_thank_contact = 'Köszönjük, hogy küldött nekem egy e-mailt - hamarosan válaszolunk.';
 
 // Mailchimp
-$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
-$lang_mailchimp_email_address   = 'email address';
-$lang_mailchimp_subscribe       = 'Subscribe';
+$lang_mailchimp_subscribe_label = 'Iratkozzon fel levelezőlistára';
+$lang_mailchimp_email_address   = 'Email cím';
+$lang_mailchimp_subscribe       = 'Iratkozz fel';
 
 // Newsletter Form - Hírlevél űrlap
 $lang_newsletter_thanks = "Köszönöm!";

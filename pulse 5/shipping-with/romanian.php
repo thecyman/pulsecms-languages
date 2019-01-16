@@ -143,7 +143,7 @@ $lang_blog_url = 'URL-ul Blogului';
 $lang_blog_index = 'Doriti sa fie indexat?';
 $lang_blog_nofollow = 'Doriti ca acesta sa fie "nu urmariti?"';
 $lang_blog_custom = 'Descriere META personalizata';
-$lang_blog_list = 'Blog List';
+$lang_blog_list = 'Lista de bloguri';
 
 // Form
 $lang_form_error1 = 'Va rugam completati campul ';
@@ -155,9 +155,9 @@ $lang_form_sent_button = 'Trimite';
 $lang_auto_thank_contact = 'Iti multumesc pentru email - acesta a fost primit si vom raspunde in curand';
 
 // Mailchimp
-$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
-$lang_mailchimp_email_address   = 'email address';
-$lang_mailchimp_subscribe       = 'Subscribe';
+$lang_mailchimp_subscribe_label = 'Abonați-vă la lista noastră de difuzare';
+$lang_mailchimp_email_address   = 'Adresa de email';
+$lang_mailchimp_subscribe       = 'Abonati-va';
 
 //Newsletter Form
 $lang_newsletter_thanks ='Multumim!';
