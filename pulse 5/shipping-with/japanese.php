@@ -21,6 +21,9 @@ $lang_autobackup_email_text =<<<EOD
 Pulse CMSチーム
 EOD;
 
+// Breadcrumb
+$lang_breadcrumb_home = 'ホーム';
+
 // Login
 $lang_login_forgot_password = "パスワードを忘れた";
 $lang_login_forgot_password_email_body =<<<EOD
@@ -147,6 +150,7 @@ $lang_blog_url = 'ブログURL';
 $lang_blog_index = 'インデックスに登録しますか？';
 $lang_blog_nofollow = 'フォローを解除しますか？';
 $lang_blog_custom = 'カスタムMETAの説明';
+$lang_blog_list = 'Blog List';
 
 //Form
 $lang_form_error1 = '項目を埋めて下さい';
@@ -156,6 +160,11 @@ $lang_form_subject_line = 'コンタクト';
 $lang_form_email_sent = '送信されました';
 $lang_form_sent_button = '送信';
 $lang_auto_thank_contact = 'お問い合わせを受け付けました。順番に確認し、折り返しご連絡を差し上げます。今暫くお待ち頂きますよう、よろしくお願い申し上げます。';
+
+// Mailchimp
+$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
+$lang_mailchimp_email_address   = 'email address';
+$lang_mailchimp_subscribe       = 'Subscribe';
 
 //Newsletter Form
 $lang_newsletter_thanks ='ありがとうございます';

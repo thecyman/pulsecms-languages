@@ -22,6 +22,9 @@ A Pulse telepíteni generált biztonsági zip fájlt.
 A Pulse CMS csapat
 EOD;
 
+// Breadcrumb
+$lang_breadcrumb_home = 'Kezdőlap';
+
 // Login - Bejelentkezés
 $lang_login_forgot_password = "Elfelejtette a jelszavát?";
 $lang_login_forgot_password_email_body =<<<EOD
@@ -140,6 +143,7 @@ $lang_blog_url = 'Blog URL';
 $lang_blog_index = 'Szeretné ezt indexelni?';
 $lang_blog_nofollow = 'Szeretne "nem követni?"';
 $lang_blog_custom = 'Egyéni META leírás';
+$lang_blog_list = 'Blog List';
 
 // Form - Forma
 $lang_form_error1 = 'Kérjük töltse ki a mezőt';
@@ -149,6 +153,11 @@ $lang_form_subject_line = 'Kapcsolat';
 $lang_form_email_sent = 'Az e-mail elküldése';
 $lang_form_sent_button = 'Küldés';
 $lang_auto_thank_contact = 'Köszönjük, hogy küldött nekem egy e-mailt - hamarosan válaszolunk.';
+
+// Mailchimp
+$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
+$lang_mailchimp_email_address   = 'email address';
+$lang_mailchimp_subscribe       = 'Subscribe';
 
 // Newsletter Form - Hírlevél űrlap
 $lang_newsletter_thanks = "Köszönöm!";

@@ -22,6 +22,9 @@ Pulse сгенерировал для вас backup zip файл.
 Команда Pulse CMS
 EOD;
 
+// Breadcrumb
+$lang_breadcrumb_home = 'Главная';
+
 // Login
 $lang_login_forgot_password = "Забыли ваш пароль?";
 $lang_login_forgot_password_email_body =<<<EOD
@@ -149,6 +152,7 @@ $lang_blog_url = 'URL Блога';
 $lang_blog_index = 'Хотите чтобы это было проиндексировано?';
 $lang_blog_nofollow = 'Хотите, чтобы эта ссылка не индексировалась поисковиком ("no follow?")';
 $lang_blog_custom = 'Пользовательское META описание';
+$lang_blog_list = 'Blog List';
 
 //Form
 $lang_form_error1 = 'Пожалуйста, заполните поле ';
@@ -158,6 +162,11 @@ $lang_form_subject_line = 'Контакты';
 $lang_form_email_sent = 'Email был отправлен';
 $lang_form_sent_button = 'Послать';
 $lang_auto_thank_contact = 'Спасибо, что послали мне Email - мы ответим в ближайшее время и получили ваш адрес электронной почты';
+
+// Mailchimp
+$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
+$lang_mailchimp_email_address   = 'email address';
+$lang_mailchimp_subscribe       = 'Subscribe';
 
 //Newsletter Form
 $lang_newsletter_thanks ='Спасибо!';

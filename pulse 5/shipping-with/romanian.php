@@ -22,6 +22,9 @@ Salutari,
 Echipa Pulse CMS
 EOD;
 
+// Breadcrumb
+$lang_breadcrumb_home = 'Pagină de start';
+
 // Login
 $lang_login_forgot_password = "Ti-ai uitat parola ?";
 $lang_login_forgot_password_email_body =<<<EOD
@@ -140,6 +143,7 @@ $lang_blog_url = 'URL-ul Blogului';
 $lang_blog_index = 'Doriti sa fie indexat?';
 $lang_blog_nofollow = 'Doriti ca acesta sa fie "nu urmariti?"';
 $lang_blog_custom = 'Descriere META personalizata';
+$lang_blog_list = 'Blog List';
 
 // Form
 $lang_form_error1 = 'Va rugam completati campul ';
@@ -149,6 +153,11 @@ $lang_form_subject_line = 'Contact';
 $lang_form_email_sent = 'Email-ul a fost trimis';
 $lang_form_sent_button = 'Trimite';
 $lang_auto_thank_contact = 'Iti multumesc pentru email - acesta a fost primit si vom raspunde in curand';
+
+// Mailchimp
+$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
+$lang_mailchimp_email_address   = 'email address';
+$lang_mailchimp_subscribe       = 'Subscribe';
 
 //Newsletter Form
 $lang_newsletter_thanks ='Multumim!';

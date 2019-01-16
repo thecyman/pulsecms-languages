@@ -21,6 +21,9 @@ Groet,
 Het Pulse CMS Team
 EOD;
 
+// Breadcrumb
+$lang_breadcrumb_home = 'Startpagina';
+
 // Login
 $lang_login_forgot_password = "Wachtwoord vergeten?";
 $lang_login_forgot_password_email_body =<<<EOD
@@ -145,6 +148,7 @@ $lang_blog_url = 'Blog URL';
 $lang_blog_index = 'Wil je dit ge&iuml;ndexeerd hebben?';
 $lang_blog_nofollow = 'Wil je dit "no follow?"';
 $lang_blog_custom = 'Aangepaste META description';
+$lang_blog_list = 'Blog List';
 
 //Form
 $lang_form_error1 = 'Vul aub dit veld in ';
@@ -154,6 +158,11 @@ $lang_form_subject_line = 'Contact';
 $lang_form_email_sent = 'Email verzonden';
 $lang_form_sent_button = 'Verstuur';
 $lang_auto_thank_contact = 'Bedankt voor het versturen van je mail - we nemen zsm contact met je op.';
+
+// Mailchimp
+$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
+$lang_mailchimp_email_address   = 'email address';
+$lang_mailchimp_subscribe       = 'Subscribe';
 
 //Newsletter Form
 $lang_newsletter_thanks = 'Bedankt!';

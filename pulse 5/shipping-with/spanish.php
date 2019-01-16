@@ -22,6 +22,9 @@ Saludos,
 El Equipo de Pulse CMS
 EOD;
 
+// Breadcrumb
+$lang_breadcrumb_home = 'Página de inicio';
+
 // Login
 $lang_login_forgot_password = "¿Olvidó su contraseña?";
 $lang_login_forgot_password_email_body =<<<EOD
@@ -149,6 +152,7 @@ $lang_blog_url = 'URL del Blog';
 $lang_blog_index = '¿Desea indexar esto?';
 $lang_blog_nofollow = '¿Desea "no seguir" esto?';
 $lang_blog_custom = 'Descripción META personalizada';
+$lang_blog_list = 'Blog List';
 
 //Form
 $lang_form_error1 = 'Por favor complete el campo';
@@ -158,6 +162,11 @@ $lang_form_subject_line = 'Contacto';
 $lang_form_email_sent = 'Correo electrónico enviado';
 $lang_form_sent_button = 'Enviar';
 $lang_auto_thank_contact = 'Gracias por enviar el correo electrónico - Te responderemos en cuanto lo recibamos';
+
+// Mailchimp
+$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
+$lang_mailchimp_email_address   = 'email address';
+$lang_mailchimp_subscribe       = 'Subscribe';
 
 //Newsletter Form
 $lang_newsletter_thanks ='¡Gracias!';

@@ -22,6 +22,9 @@ S pozdravem,
 Vaše Pulse CMS
 EOD;
 
+// Breadcrumb
+$lang_breadcrumb_home = 'Úvodní stránka';
+
 // Login - Přihlášení
 $lang_login_forgot_password = "Zapomněli jste heslo ?";
 $lang_login_forgot_password_email_body =<<<EOD
@@ -139,6 +142,7 @@ $lang_blog_url = 'URL Blogu';
 $lang_blog_index = 'Chcete indexovat?';
 $lang_blog_nofollow = 'Přejete si "nesledovat?"';
 $lang_blog_custom = 'Vlastní popis META';
+$lang_blog_list = 'Blog List';
 
 //Form - Formulář
 $lang_form_error1 = 'Prosím vyplňte pole ';
@@ -148,6 +152,11 @@ $lang_form_subject_line = 'Kontakt';
 $lang_form_email_sent = 'E-mail byl odeslán';
 $lang_form_sent_button = 'Odeslat';
 $lang_auto_thank_contact = 'Děkuji za zaslání e-mailu! Na Váš e-mail odpovím jakmile to bude možné.';
+
+// Mailchimp
+$lang_mailchimp_subscribe_label = 'Subscribe to our mailing list';
+$lang_mailchimp_email_address   = 'email address';
+$lang_mailchimp_subscribe       = 'Subscribe';
 
 //Newsletter Form - Formulář zpravodaje
 $lang_newsletter_thanks ='Díky!';
