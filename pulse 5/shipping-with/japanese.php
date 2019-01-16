@@ -326,6 +326,7 @@ $lang_settings_blogdate = '日付形式';
 $lang_settings_blogdate_tooltip = 'PHPの日付形式. 例えば: https://php.net/manual/en/function.date.php';
 $lang_settings_blog_flag_reverse = 'ブログリストの逆順'; 
 $lang_settings_blogmasonry = 'BlogのMasonryのレイアウトを有効にする';
+$lang_settings_blog_blog_flag_show_link = 'ブログ記事からのリンク';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';

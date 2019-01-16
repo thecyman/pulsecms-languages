@@ -328,6 +328,7 @@ $lang_settings_blogdate = 'Формат даты';
 $lang_settings_blogdate_tooltip = 'PHP формат даты. Более подробно: https://php.net/manual/en/function.date.php';
 $lang_settings_blog_flag_reverse = 'обратный порядок в блоге'; 
 $lang_settings_blogmasonry = 'Включить masonry макет для Блога';
+$lang_settings_blog_blog_flag_show_link = 'Показать ссылку на содержимое блога';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';

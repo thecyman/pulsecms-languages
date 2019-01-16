@@ -317,6 +317,7 @@ $lang_settings_blogdate = 'Dátum formátum';
 $lang_settings_blogdate_tooltip = 'PHP dátumformátum. További információk: https://php.net/manual/en/function.date.php';
 $lang_settings_blog_flag_reverse = 'Fordított blog lista sorrendje';
 $lang_settings_blogmasonry = 'Engedélyezze a blog masonry elrendezését';
+$lang_settings_blog_blog_flag_show_link = 'Link megjelenítése a blog tartalmához';
 
 // Settings: RSS
 $lang_settings_title_rss = 'RSS';

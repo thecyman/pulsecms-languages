@@ -317,6 +317,7 @@ $lang_settings_blogdate = 'Formát dátumu';
 $lang_settings_blogdate_tooltip = 'PHP formát dátumu. Viac informácií nájdete: https://php.net/manual/en/function.date.php';
 $lang_settings_blog_flag_reverse = 'Vzostupné poradie zoznamu blogov'; 
 $lang_settings_blogmasonry = 'V Blogu povoliť masonry rozloženie';
+$lang_settings_blog_blog_flag_show_link = 'Zobraziť odkaz na obsah blogu';
 
 // Settings: RSS
 $lang_settings_title_rss = 'RSS';

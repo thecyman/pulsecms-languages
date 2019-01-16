@@ -316,7 +316,8 @@ $lang_settings_blogdisqususer_tooltip = 'Adaugati numele scurt aferent contului 
 $lang_settings_blogdate = 'Fomatul datei';
 $lang_settings_blogdate_tooltip = 'Format PHP al datei. Pentru mai multe detalii vedeti: https://php.net/manual/en/function.date.php';
 $lang_settings_blog_flag_reverse = 'Inversă ordinea listei de bloguri'; 
-$lang_settings_blogmasonry = 'Activeaza schema pt Blog de tip zidarie(masonry layout)';
+$lang_settings_blogmasonry = 'Activeaza schema pt Blog de tip zidarie (masonry layout)';
+$lang_settings_blog_blog_flag_show_link = 'Afișați linkul către conținutul blogului';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';

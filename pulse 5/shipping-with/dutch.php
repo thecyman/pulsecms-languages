@@ -323,6 +323,7 @@ $lang_settings_blogdate = 'Datum notatie';
 $lang_settings_blogdate_tooltip = 'PHP datum notatie. Meer info hierover op: https://php.net/manual/en/function.date.php';
 $lang_settings_blog_flag_reverse = 'Omgekeerde volgorde van de bloglijst'; 
 $lang_settings_blogmasonry = 'Inschakelen Blog Masonry layout';
+$lang_settings_blog_blog_flag_show_link = 'Toon link naar bloginhoud';
 
 // Settings: RSS
 $lang_settings_title_rss = 'RSS';
