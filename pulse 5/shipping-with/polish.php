@@ -241,6 +241,8 @@ $lang_settings_css_tooltip = 'Wklej swój CSS tutaj';
 $lang_settings_js = 'Nadpisywanie JS dla całej witryny';
 $lang_settings_js_tooltip = 'Wklej tutaj JS';
 
+$lang_settings_home_page = 'Strona główna';
+
 //// Settings: Avatar
 $lang_settings_avatar_upload = 'Przesyłanie avatara';
 

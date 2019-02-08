@@ -249,6 +249,8 @@ $lang_settings_css_tooltip = 'CSSをここに貼り付け';
 $lang_settings_js = 'サイト全体のJS上書き';
 $lang_settings_js_tooltip = 'JSをここに貼り付け';
 
+$lang_settings_home_page = 'ホームページ';
+
 //// Settings: Avatar
 $lang_settings_avatar_upload = 'アバターアップロード';
 

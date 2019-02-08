@@ -251,6 +251,8 @@ $lang_settings_css_tooltip = 'Paste your CSS in here';
 $lang_settings_js = 'JS overwrite for whole site';
 $lang_settings_js_tooltip = 'Paste your JS in here';
 
+$lang_settings_home_page = 'Home page';
+
 //// Settings: Avatar
 $lang_settings_avatar_upload = 'Avatar upload';
 
@@ -541,6 +543,10 @@ $lang_settings_user_list_password = 'Password';
 $lang_settings_user_list_username = 'Username';
 
 $lang_settings_user_list_error_no_group = 'Please add a user group to the new user';
+
+// Unishop
+$lang_settings_unishop_title = 'Pulse Commerce';
+$lang_settings_unishop_update = 'Manage your store';
 
 // Search
 $lang_search_title = 'Search';

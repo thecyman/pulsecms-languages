@@ -252,6 +252,8 @@ $lang_settings_css_tooltip = 'Füge den CSS Code hier ein';
 $lang_settings_js = 'JS Code für gesamte Seite';
 $lang_settings_js_tooltip = 'Füge den JS Code hier ein';
 
+$lang_settings_home_page = 'Startseite';
+
 //// Settings: Avatar
 $lang_settings_avatar_upload = 'Avatar hochladen';
 

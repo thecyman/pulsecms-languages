@@ -251,6 +251,8 @@ $lang_settings_css_tooltip = 'Cole seu CSS aqui';
 $lang_settings_js = 'Sobrescrever JS de todo o site';
 $lang_settings_js_tooltip = 'Cole seu JS aqui';
 
+$lang_settings_home_page = 'Pagina inicial';
+
 //// Settings: Avatar
 $lang_settings_avatar_upload = 'Upload de avatar';
 

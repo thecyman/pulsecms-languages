@@ -241,6 +241,8 @@ $lang_settings_css_tooltip = 'Illessze be ide a CSS-et';
 $lang_settings_js = 'A JS felülírja az egész webhelyet';
 $lang_settings_js_tooltip = 'Illessze be itt a JS-t';
 
+$lang_settings_home_page = 'Kezdőlap';
+
 //// Settings: Avatar
 $lang_settings_avatar_upload = 'Avatar feltöltése';
 

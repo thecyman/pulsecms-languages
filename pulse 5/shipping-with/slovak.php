@@ -241,6 +241,8 @@ $lang_settings_css_tooltip = 'Tu vložte svoje CSS';
 $lang_settings_js = 'Prepísanie JS pre celý web';
 $lang_settings_js_tooltip = 'Tu vložte svoje JS';
 
+$lang_settings_home_page = 'Domovská stránka';
+
 //// Settings: Avatar
 $lang_settings_avatar_upload = 'Nahrať Avatar';
 

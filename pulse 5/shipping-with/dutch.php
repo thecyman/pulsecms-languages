@@ -246,6 +246,8 @@ $lang_settings_css_tooltip = 'Kopieer je CSS hierin';
 $lang_settings_js = 'JS overschrijven voor de hele site';
 $lang_settings_js_tooltip = 'Kopieer je JS hierin';
 
+$lang_settings_home_page = 'Startpagina';
+
 //// Settings: Avatar
 $lang_settings_avatar_upload = 'Avatar uploaden';
 

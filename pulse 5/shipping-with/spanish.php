@@ -251,6 +251,8 @@ $lang_settings_css_tooltip = 'Pegar su CSS aquí';
 $lang_settings_js = 'Sobrescritura del JS para todo el sitio';
 $lang_settings_js_tooltip = 'Pegar su JS aquí';
 
+$lang_settings_home_page = 'Página de inicio';
+
 //// Settings: Avatar
 $lang_settings_avatar_upload = 'Carga de avatar';
 

@@ -251,6 +251,8 @@ $lang_settings_css_tooltip = 'Скопируйте ваш CSS сюда';
 $lang_settings_js = 'Перезапись JS для всего сайта';
 $lang_settings_js_tooltip = 'Скопируйте ваш JS сюда';
 
+$lang_settings_home_page = 'Главная страница';
+
 //// Settings: Avatar
 $lang_settings_avatar_upload = 'Загрузка аватара';
 

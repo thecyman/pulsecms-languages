@@ -241,6 +241,8 @@ $lang_settings_css_tooltip = 'Copiati CSS aici';
 $lang_settings_js = 'suprascriere JS pentru tot siteul';
 $lang_settings_js_tooltip = 'Copiati JS aici';
 
+$lang_settings_home_page = 'Pagina principala';
+
 //// Settings: Avatar
 $lang_settings_avatar_upload = 'încărcare avatar';
 
