@@ -543,6 +543,10 @@ $lang_settings_user_list_username = 'Nombre de usuario';
 
 $lang_settings_user_list_error_no_group = 'Por favor agregue un grupo de usuarios al nuevo usuario';
 
+// Unishop
+$lang_settings_unishop_title = 'Pulse Comercio';
+$lang_settings_unishop_update = 'Gestiona tu tienda';
+
 // Search
 $lang_search_title = 'Buscar';
 $lang_search_placeholder = 'Buscar Término';

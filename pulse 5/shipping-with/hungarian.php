@@ -515,6 +515,10 @@ $lang_settings_user_list_username = 'Felhasználónév';
 
 $lang_settings_user_list_error_no_group = 'Adjon hozzá egy felhasználói csoportot az új felhasználóhoz';
 
+// Unishop
+$lang_settings_unishop_title = 'Pulse Kereskedelem';
+$lang_settings_unishop_update = 'Kezelje üzletét';
+
 // Search
 $lang_search_title = 'Keresés';
 $lang_search_placeholder = 'Keresési kifejezés';

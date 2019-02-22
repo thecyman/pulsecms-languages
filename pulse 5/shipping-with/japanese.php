@@ -542,6 +542,10 @@ $lang_settings_user_list_username = 'ユーザー名';
 
 $lang_settings_user_list_error_no_group = '新しいユーザーにユーザーグループを追加してください';
 
+// Unishop
+$lang_settings_unishop_title = 'Pulseのストアー';
+$lang_settings_unishop_update = 'あなたの店を管理する';
+
 // Search
 $lang_search_title = '検索';
 $lang_search_placeholder = '検索語句';

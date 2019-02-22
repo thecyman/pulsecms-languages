@@ -527,6 +527,10 @@ $lang_settings_user_list_username = 'Gebruikersnaam';
 
 $lang_settings_user_list_error_no_group = 'Voeg een gebruikersgroep toe aan de nieuwe gebruiker';
 
+// Unishop
+$lang_settings_unishop_title = 'Pulse Handel';
+$lang_settings_unishop_update = 'Beheer uw winkel';
+
 // Search
 $lang_search_title = 'Zoek';
 $lang_search_placeholder = 'Zoekterm';

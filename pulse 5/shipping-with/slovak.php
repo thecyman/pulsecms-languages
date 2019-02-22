@@ -515,6 +515,10 @@ $lang_settings_user_list_username = 'Meno užívateľa';
 
 $lang_settings_user_list_error_no_group = 'Pridajte používateľskú skupinu k novému používateľovi';
 
+// Unishop
+$lang_settings_unishop_title = 'Pulse Obchod';
+$lang_settings_unishop_update = 'Spravujte svoj obchod';
+
 // Search
 $lang_search_title = 'Vyhľadávanie';
 $lang_search_placeholder = 'Hľadaný výraz';

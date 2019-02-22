@@ -512,6 +512,10 @@ $lang_settings_user_list_username = 'Uživatelské jméno';
 
 $lang_settings_user_list_error_no_group = 'Přidejte do nového uživatele skupinu uživatelů';
 
+// Unishop
+$lang_settings_unishop_title = 'Pulse Komerce';
+$lang_settings_unishop_update = 'Spravujte svůj obchod';
+
 // Search
 $lang_search_title = 'Vyhledávání';
 $lang_search_placeholder = 'Hledaný výraz';

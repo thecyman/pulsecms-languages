@@ -514,6 +514,10 @@ $lang_settings_user_list_username = 'Nazwa Użytkownika';
 
 $lang_settings_user_list_error_no_group = 'Dodaj grupę użytkowników do nowego użytkownika';
 
+// Unishop
+$lang_settings_unishop_title = 'Pulse Handel';
+$lang_settings_unishop_update = 'Zarządzaj swoim sklepem';
+
 // Search - Szukanie
 $lang_search_title = 'Szukanie';
 $lang_search_placeholder = 'Szukany termin';

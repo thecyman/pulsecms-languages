@@ -516,6 +516,10 @@ $lang_settings_user_list_username = 'Nume de utilizator';
 
 $lang_settings_user_list_error_no_group = 'Adăugați un grup de utilizatori unui utilizator nou';
 
+// Unishop
+$lang_settings_unishop_title = 'Pulse Comerţ';
+$lang_settings_unishop_update = 'Gestionați-vă magazinul';
+
 // Search
 $lang_search_title = 'Cauta';
 $lang_search_placeholder = 'Termen de cautare';

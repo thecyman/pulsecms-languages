@@ -544,6 +544,10 @@ $lang_settings_user_list_username = 'имя пользователя';
 
 $lang_settings_user_list_error_no_group = 'Пожалуйста, добавьте группу пользователей к новому пользователю';
 
+// Unishop
+$lang_settings_unishop_title = 'Pulse коммерция';
+$lang_settings_unishop_update = 'Управляйте своим магазином';
+
 // Search
 $lang_search_title = 'Поиск';
 $lang_search_placeholder = 'Искать текст';
