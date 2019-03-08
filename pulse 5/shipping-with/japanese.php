@@ -83,6 +83,7 @@ $lang_pages_description = "説明";
 
 $lang_pages_css = 'インラインCSS';
 $lang_pages_js = 'インラインJS';
+$lang_pages_language = '言語';
 $lang_pages_template = 'ページテンプレート';
 
 // Create
@@ -316,6 +317,15 @@ $lang_settings_geoip_service_tooltip = 'freegeoip, ipstack';
 $lang_settings_title_ogp = 'OGP';
 $lang_settings_ogp = 'OGPデフォルトイメージ';
 $lang_settings_ogp_tooltip = '相対リンクまたは絶対リンク';
+
+$lang_settings_ogp_facebook_admin           = 'Facebook admins';
+$lang_settings_ogp_facebook_admin_tooltip   = 'Facebook admins';
+$lang_settings_ogp_facebook_id              = 'Facebook app ID';
+$lang_settings_ogp_facebook_id_tooltip      = 'Facebook app ID';
+$lang_settings_ogp_twitter_creator          = 'Twitterの個人アカウント';
+$lang_settings_ogp_twitter_creator_tooltip  = 'Twitterの個人アカウント';
+$lang_settings_ogp_twitter_username         = 'ウェブサイトのTwitterアカウント';
+$lang_settings_ogp_twitter_username_tooltip = 'ウェブサイトのTwitterアカウント';
 
 //// Settings: Blog
 $lang_settings_title_blog = 'ブログ';

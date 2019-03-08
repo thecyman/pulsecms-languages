@@ -83,6 +83,7 @@ $lang_pages_title = "Tytuł strony";
 $lang_pages_description = "Opis strony";
 $lang_pages_css = 'Strony CSS';
 $lang_pages_js = 'Strony JS';
+$lang_pages_language = 'Język';
 $lang_pages_template = 'Szablon Strony';
 
 // Create - Tworzenie
@@ -307,6 +308,15 @@ $lang_settings_geoip_service_tooltip = 'Dodaj freegeoip lub ipstack';
 $lang_settings_title_ogp = '(OGP) Otwórz protokół graficzny';
 $lang_settings_ogp = 'OGP domyślny obraz';
 $lang_settings_ogp_tooltip = 'Względne lub bezwzględne ogniwo';
+
+$lang_settings_ogp_facebook_admin           = 'Facebook admins';
+$lang_settings_ogp_facebook_admin_tooltip   = 'Facebook admins';
+$lang_settings_ogp_facebook_id              = 'Facebook app ID';
+$lang_settings_ogp_facebook_id_tooltip      = 'Facebook app ID';
+$lang_settings_ogp_twitter_creator          = 'Konto osobiste Twitter';
+$lang_settings_ogp_twitter_creator_tooltip  = 'Konto osobiste Twitter';
+$lang_settings_ogp_twitter_username         = 'Konto Twitter dla strony internetowej';
+$lang_settings_ogp_twitter_username_tooltip = 'Konto Twitter dla strony internetowej';
 
 // Settings: Blog
 $lang_settings_title_blog = 'Blog';

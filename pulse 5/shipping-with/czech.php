@@ -82,6 +82,7 @@ $lang_pages_title = "Název stránky";
 $lang_pages_description = "Popis stránky";
 $lang_pages_css = 'Stránky CSS';
 $lang_pages_js = 'Stránky JS';
+$lang_pages_language = 'Jazyk';
 $lang_pages_template = 'Šablona stránky';
 
 // Create - Vytvořit
@@ -306,6 +307,15 @@ $lang_settings_geoip_service_tooltip = 'Přidejte služby freegeoip nebo ipstack
 $lang_settings_title_ogp = '(OGP) Otevřené protokoly grafika';
 $lang_settings_ogp = 'OGP výchozí obrázek';
 $lang_settings_ogp_tooltip = 'Relativní nebo absolutní odkaz';
+
+$lang_settings_ogp_facebook_admin           = 'Facebook admins';
+$lang_settings_ogp_facebook_admin_tooltip   = 'Facebook admins';
+$lang_settings_ogp_facebook_id              = 'Facebook app ID';
+$lang_settings_ogp_facebook_id_tooltip      = 'Facebook app ID';
+$lang_settings_ogp_twitter_creator          = 'Twitter osobní účet';
+$lang_settings_ogp_twitter_creator_tooltip  = 'Twitter osobní účet';
+$lang_settings_ogp_twitter_username         = 'Twitter účet pro webové stránky';
+$lang_settings_ogp_twitter_username_tooltip = 'Twitter účet pro webové stránky';
 
 // Settings: Blog
 $lang_settings_title_blog = 'Blog';

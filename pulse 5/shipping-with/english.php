@@ -85,6 +85,7 @@ $lang_pages_description = "Page Description";
 
 $lang_pages_css = 'Inline CSS';
 $lang_pages_js = 'Inline JS';
+$lang_pages_language = 'Language';
 $lang_pages_template = 'Page Template';
 
 
@@ -318,6 +319,15 @@ $lang_settings_geoip_service_tooltip = 'freegeoip, ipstack';
 $lang_settings_title_ogp = 'OGP';
 $lang_settings_ogp = 'OGP default image';
 $lang_settings_ogp_tooltip = 'Relative or absolute link';
+
+$lang_settings_ogp_facebook_admin           = 'Facebook admins';
+$lang_settings_ogp_facebook_admin_tooltip   = 'Facebook admins';
+$lang_settings_ogp_facebook_id              = 'Facebook app ID';
+$lang_settings_ogp_facebook_id_tooltip      = 'Facebook app ID';
+$lang_settings_ogp_twitter_creator          = 'Twitter personal account';
+$lang_settings_ogp_twitter_creator_tooltip  = 'Twitter personal account';
+$lang_settings_ogp_twitter_username         = 'Twitter account for website';
+$lang_settings_ogp_twitter_username_tooltip = 'Twitter account for website';
 
 //// Settings: Blog
 $lang_settings_title_blog = 'Blog';

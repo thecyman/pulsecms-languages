@@ -83,6 +83,7 @@ $lang_pages_title = "Oldal címe";
 $lang_pages_description = "Oldalleírás";
 $lang_pages_css = 'Oldalak CSS';
 $lang_pages_js = 'Oldalak JS';
+$lang_pages_language = 'Nyelv';
 $lang_pages_template = 'Oldalsablon';
 
 // Create - Létrehozás
@@ -307,6 +308,15 @@ $lang_settings_geoip_service_tooltip = 'Add freegeoip vagy ipstack';
 $lang_settings_title_ogp = '(OGP) Nytot grafikus protokollok';
 $lang_settings_ogp = 'OGP eredeti kép';
 $lang_settings_ogp_tooltip = 'Relatív vagy abszolút kapcsolat';
+
+$lang_settings_ogp_facebook_admin           = 'Facebook admins';
+$lang_settings_ogp_facebook_admin_tooltip   = 'Facebook admins';
+$lang_settings_ogp_facebook_id              = 'Facebook app ID';
+$lang_settings_ogp_facebook_id_tooltip      = 'Facebook app ID';
+$lang_settings_ogp_twitter_creator          = 'Twitter személyes fiók';
+$lang_settings_ogp_twitter_creator_tooltip  = 'Twitter személyes fiók';
+$lang_settings_ogp_twitter_username         = 'Twitter fiók a webhelyhez';
+$lang_settings_ogp_twitter_username_tooltip = 'Twitter fiók a webhelyhez';
 
 // Settings: Blog
 $lang_settings_title_blog = 'Blog';

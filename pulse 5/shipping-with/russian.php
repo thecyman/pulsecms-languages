@@ -85,6 +85,7 @@ $lang_pages_description = "Описание страницы";
 
 $lang_pages_css = 'Встроенный CSS';
 $lang_pages_js = 'Встроенный JS';
+$lang_pages_language = 'язык';
 $lang_pages_template = 'Шаблон страницы';
 
 
@@ -318,6 +319,15 @@ $lang_settings_geoip_service_tooltip = 'freegeoip, ipstack';
 $lang_settings_title_ogp = 'OGP';
 $lang_settings_ogp = 'OGP изображение по умолчанию';
 $lang_settings_ogp_tooltip = 'Относительная или абсолютная ссылка';
+
+$lang_settings_ogp_facebook_admin           = 'Facebook admins';
+$lang_settings_ogp_facebook_admin_tooltip   = 'Facebook admins';
+$lang_settings_ogp_facebook_id              = 'Facebook app ID';
+$lang_settings_ogp_facebook_id_tooltip      = 'Facebook app ID';
+$lang_settings_ogp_twitter_creator          = 'личный кабинет в твиттере';
+$lang_settings_ogp_twitter_creator_tooltip  = 'личный кабинет в твиттере';
+$lang_settings_ogp_twitter_username         = 'Твиттер аккаунт для сайта';
+$lang_settings_ogp_twitter_username_tooltip = 'Твиттер аккаунт для сайта';
 
 //// Settings: Blog
 $lang_settings_title_blog = 'Блог';
