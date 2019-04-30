@@ -173,8 +173,8 @@ $lang_mailchimp_subscribe       = 'Abonnieren';
 //Newsletter Form
 $lang_newsletter_thanks ='Danke!';
 $lang_newsletter_try_again ='Erneut versuchen';
-$lang_newsletter_placeholder ='E-Mail eintragen';
-$lang_newsletter_send ='Einschreiben';
+$lang_newsletter_placeholder ='E-Mail Adresse';
+$lang_newsletter_send ='Anmelden';
 
 // Redactor
 $lang_redactor_mail_button     = 'Fügt eine E-Mail in einen Text';
