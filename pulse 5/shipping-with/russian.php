@@ -23,7 +23,7 @@ Pulse сгенерировал для вас backup zip файл.
 EOD;
 
 // Breadcrumb
-$lang_breadcrumb_home = 'Главная';
+$lang_breadcrumb_home = 'домашняя страница';
 
 // Login
 $lang_login_forgot_password = "Забыли ваш пароль?";

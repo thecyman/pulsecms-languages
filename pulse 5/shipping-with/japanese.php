@@ -22,7 +22,7 @@ Pulse CMSチーム
 EOD;
 
 // Breadcrumb
-$lang_breadcrumb_home = 'ホーム';
+$lang_breadcrumb_home = 'ホームページ';
 
 // Login
 $lang_login_forgot_password = "パスワードを忘れた";

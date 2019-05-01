@@ -23,7 +23,7 @@ Vaše Pulse CMS
 EOD;
 
 // Breadcrumb
-$lang_breadcrumb_home = 'Úvod'; #"Úvod" or "Domov"
+$lang_breadcrumb_home = 'Domovskú stránku'; #"Úvod" or "Domov"
 
 // Login - Prihlásenie
 $lang_login_forgot_password = "Zabudli ste heslo ?";

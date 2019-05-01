@@ -23,7 +23,7 @@ Echipa Pulse CMS
 EOD;
 
 // Breadcrumb
-$lang_breadcrumb_home = 'Pagină de start';
+$lang_breadcrumb_home = 'Pagina principala';
 
 // Login
 $lang_login_forgot_password = "Ti-ai uitat parola ?";

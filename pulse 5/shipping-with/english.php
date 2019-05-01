@@ -23,7 +23,7 @@ The Pulse CMS Team
 EOD;
 
 // Breadcrumb
-$lang_breadcrumb_home = 'Home';
+$lang_breadcrumb_home = 'Home page';
 
 // Login
 $lang_login_forgot_password = "Forgot your password ?";

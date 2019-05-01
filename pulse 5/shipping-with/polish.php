@@ -23,7 +23,7 @@ Twoje Pulse CMS
 EOD;
 
 // Breadcrumb
-$lang_breadcrumb_home = 'Strona startowa';
+$lang_breadcrumb_home = 'Strona główna';
 
 // Login - Logowanie
 $lang_login_forgot_password = "Zapomniałeś hasła ?";
