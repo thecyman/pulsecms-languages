@@ -148,6 +148,7 @@ $lang_blog_import_page_var = 'Variable für Paginierung';
 $lang_blog_import_url = 'URL';
 
 $lang_blog_description = 'Blog Beschreibung';
+$lang_blog_featured_image = 'Blog Ausgewähltes Bild';
 $lang_blog_tags = 'Blog Tags (mit Komma getrennt)';
 $lang_blog_tags_short = 'Blog Tags';
 $lang_blog_url = 'Blog URL';

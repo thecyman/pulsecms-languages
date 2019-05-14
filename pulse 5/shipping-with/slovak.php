@@ -137,7 +137,9 @@ $lang_blog_import_tool_tip = 'Importovať položky blogu z RSS. Importujú sa fo
 $lang_blog_import_page_max = 'Maximálny počet stránok';
 $lang_blog_import_page_var = 'Názov premennej stránkovania';
 $lang_blog_import_url = 'URL';
+
 $lang_blog_description = 'Blog Popis';
+$lang_blog_featured_image = 'Odporúčaný obrázok blogu';
 $lang_blog_tags = 'Tagy blogu (Oddelené čiarkou)';
 $lang_blog_tags_short = 'Tagy blogu';
 $lang_blog_url = 'URL Blogu';

@@ -136,7 +136,9 @@ $lang_blog_import_tool_tip = 'Položky blogu importovat z RSS. Importér bude im
 $lang_blog_import_page_max = 'Maximální počet stránek';
 $lang_blog_import_page_var = 'Název proměnné stránkováni';
 $lang_blog_import_url = 'URL';
+
 $lang_blog_description = 'Popis Blogu';
+$lang_blog_featured_image = 'Doporučený obrázek blogu';
 $lang_blog_tags = 'Tagy blogu (oddělené čárkami)';
 $lang_blog_tags_short = 'Tagy blogu';
 $lang_blog_url = 'URL Blogu';

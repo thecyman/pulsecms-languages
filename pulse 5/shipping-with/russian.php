@@ -147,6 +147,7 @@ $lang_blog_import_page_var = 'Имя переменной подкачки';
 $lang_blog_import_url = 'URL';
 
 $lang_blog_description = 'Описание блога';
+$lang_blog_featured_image = 'Блог Избранные изображения';
 $lang_blog_tags = 'Теги блога (разделенные запятой)';
 $lang_blog_tags_short = 'Теги блога';
 $lang_blog_url = 'URL Блога';

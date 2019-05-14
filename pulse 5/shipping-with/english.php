@@ -147,6 +147,7 @@ $lang_blog_import_page_var = 'Paging variable name';
 $lang_blog_import_url = 'URL';
 
 $lang_blog_description = 'Blog Description';
+$lang_blog_featured_image = 'Blog Featured Image';
 $lang_blog_tags = 'Blog Tags (Comma separated)';
 $lang_blog_tags_short = 'Blog Tags';
 $lang_blog_url = 'Blog URL';

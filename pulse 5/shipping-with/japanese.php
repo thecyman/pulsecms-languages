@@ -145,6 +145,7 @@ $lang_blog_import_page_var = 'ページ名';
 $lang_blog_import_url = 'URL';
 
 $lang_blog_description = 'ブログの説明';
+$lang_blog_featured_image = 'ブログの注目の画像';
 $lang_blog_tags = 'ブログタグ (カンマ区切り)';
 $lang_blog_tags_short = 'ブログタグ';
 $lang_blog_url = 'ブログURL';

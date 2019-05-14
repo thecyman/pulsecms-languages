@@ -147,6 +147,7 @@ $lang_blog_import_page_var = 'Nome variável de paginação';
 $lang_blog_import_url = 'URL';
 
 $lang_blog_description = 'Descrição do blog';
+$lang_blog_featured_image = 'Imagem em destaque do blog';
 $lang_blog_tags = 'Tags do blog (separadas por vírgula)';
 $lang_blog_tags_short = 'Tags do blog';
 $lang_blog_url = 'URL do blog';

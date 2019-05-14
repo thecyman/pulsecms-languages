@@ -142,7 +142,9 @@ $lang_blog_import_tool_tip = 'Importeer blog entries van RSS. De importer zal im
 $lang_blog_import_page_max = "Max aantal pagina's";
 $lang_blog_import_page_var = 'Paginatie variabele naam';
 $lang_blog_import_url = 'URL';
+
 $lang_blog_description = 'Blog Omschrijving';
+$lang_blog_featured_image = 'Blog Uitgelichte afbeelding';
 $lang_blog_tags = 'Blog Tags (scheid de tags met een komma)';
 $lang_blog_tags_short = 'Blog Tags';
 $lang_blog_url = 'Blog URL';

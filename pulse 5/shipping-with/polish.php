@@ -137,7 +137,9 @@ $lang_blog_import_tool_tip = "Import wpisów RSS. Importer będzie importować z
 $lang_blog_import_page_max = "Maksymalna liczba stron";
 $lang_blog_import_page_var = 'Nazwa zmiennej paginacja';
 $lang_blog_import_url = 'URL';
+
 $lang_blog_description = 'Opis Blogu';
+$lang_blog_featured_image = 'Blog wyróżniony obraz';
 $lang_blog_tags = 'Tagi Blogów (oddzielone przecinkami)';
 $lang_blog_tags_short = 'Tagi Blogów';
 $lang_blog_url = 'URL Bloga';

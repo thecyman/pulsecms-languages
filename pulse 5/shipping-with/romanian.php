@@ -137,7 +137,9 @@ $lang_blog_import_tool_tip = 'Importa intrari de blog din RSS. Importatorul va i
 $lang_blog_import_page_max = 'Numar maxi de pagini';
 $lang_blog_import_page_var = 'Numele variabilei de paginare';
 $lang_blog_import_url = 'URL';
+
 $lang_blog_description = 'Descrierea blogului';
+$lang_blog_featured_image = 'Blog Imagine recomandată';
 $lang_blog_tags = 'Etichetele Blogului (tags,separate prin virgula)';
 $lang_blog_tags_short = 'Etichetele Blogului';
 $lang_blog_url = 'URL-ul Blogului';

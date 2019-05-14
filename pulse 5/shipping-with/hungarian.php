@@ -137,7 +137,9 @@ $lang_blog_import_tool_tip = 'Blogbejegyzések importálása az RSS-ből. Az imp
 $lang_blog_import_page_max = 'Max oldalszám';
 $lang_blog_import_page_var = 'Paging változó neve';
 $lang_blog_import_url = 'URL';
+
 $lang_blog_description = 'Blog Leírás';
+$lang_blog_featured_image = 'Blog Kiemelt kép';
 $lang_blog_tags = 'Blogcímkék (vesszővel elválasztva)';
 $lang_blog_tags_short = 'Blogcímkék';
 $lang_blog_url = 'Blog URL';
