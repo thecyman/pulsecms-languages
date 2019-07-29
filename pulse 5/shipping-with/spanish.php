@@ -579,6 +579,7 @@ $lang_debug_info_button    = 'Descargar';
 $lang_debug_info_text      = 'Descargar el archivo zip';
 
 // Admin - Open
+$lang_open_meta_draft_mode = 'Modo borrador';
 $lang_open_meta_searchable = 'Mostrar en la búsqueda';
 
 // Admin - Update

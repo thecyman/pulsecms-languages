@@ -580,6 +580,7 @@ $lang_debug_info_button    = 'Download';
 $lang_debug_info_text      = 'Download the zip file';
 
 // Admin - Open
+$lang_open_meta_draft_mode = 'Draft mode';
 $lang_open_meta_searchable = 'Show in search';
 
 // Admin - Update

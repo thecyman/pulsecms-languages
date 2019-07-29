@@ -552,6 +552,7 @@ $lang_debug_info_button = 'Letöltés';
 $lang_debug_info_text = 'Töltse le a zip fájlt';
 
 // Admin - Open
+$lang_open_meta_draft_mode = 'Vázlat mód';
 $lang_open_meta_searchable = 'Mutassa be a keresést';
 
 // Admin - Update

@@ -553,6 +553,7 @@ $lang_debug_info_button    = 'Descarca';
 $lang_debug_info_text      = 'Descărcați fișierul zip';
 
 // Admin - Open
+$lang_open_meta_draft_mode = 'Mod de draft';
 $lang_open_meta_searchable = 'Afișați în căutare';
 
 // Admin - Update

@@ -581,6 +581,7 @@ $lang_debug_info_button    = 'Herunterladen';
 $lang_debug_info_text      = 'Zip-Datei herunterladen';
 
 //Admin: Open
+$lang_open_meta_draft_mode = 'Entwurfsmodus';
 $lang_open_meta_searchable = 'In Suche anzeigen';
 
 // Admin: Update

@@ -549,6 +549,7 @@ $lang_debug_info_button = 'Stažení';
 $lang_debug_info_text = 'Stáhněte soubor ZIP';
 
 // Admin: Open
+$lang_open_meta_draft_mode = 'Koncept';
 $lang_open_meta_searchable = 'Zobrazit ve vyhledávání';
 
 // Admin: Update

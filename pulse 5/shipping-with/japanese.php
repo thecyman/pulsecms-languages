@@ -578,6 +578,7 @@ $lang_debug_info_button    = 'ダウンロード';
 $lang_debug_info_text      = 'Zipファイルをダウンロードする';
 
 // Admin - Open
+$lang_open_meta_draft_mode = 'ドラフトモード';
 $lang_open_meta_searchable = '検索に表示する';
 
 // Admin - Update

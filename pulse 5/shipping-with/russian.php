@@ -580,6 +580,7 @@ $lang_debug_info_button    = 'Скачать';
 $lang_debug_info_text      = 'Скачать zip архив';
 
 // Admin - Open
+$lang_open_meta_draft_mode = 'Черновой режим';
 $lang_open_meta_searchable = 'Показывать в поиске';
 
 // Admin - Update

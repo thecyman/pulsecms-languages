@@ -564,6 +564,7 @@ $lang_debug_info_button    = 'Downloaden';
 $lang_debug_info_text      = 'Download het zipbestand';
 
 // Admin - Open
+$lang_open_meta_draft_mode = 'Conceptmodus';
 $lang_open_meta_searchable = 'Bekijk in zoekopdracht';
 
 // Admin - Update

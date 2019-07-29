@@ -552,6 +552,7 @@ $lang_debug_info_button = 'Stiahnuť';
 $lang_debug_info_text = 'Stiahnuť súbor zip';
 
 // Admin - Open
+$lang_open_meta_draft_mode = 'Koncept';
 $lang_open_meta_searchable = 'Zobraziť vo vyhľadávaní';
 
 // Admin - Update

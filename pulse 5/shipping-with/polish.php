@@ -551,6 +551,7 @@ $lang_debug_info_button = 'Pobieranie';
 $lang_debug_info_text = 'Pobierz plik zip';
 
 // Admin - Open
+$lang_open_meta_draft_mode = 'Tryb roboczy';
 $lang_open_meta_searchable = 'Pokaż w wyszukiwarce';
 
 // Admin - Update
