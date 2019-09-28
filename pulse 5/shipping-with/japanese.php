@@ -52,6 +52,8 @@ $lang_nav_title = "ナビゲーション";
 $lang_nav_home = "ホーム";
 $lang_nav_blocks = "ブロック";
 $lang_nav_img = "メディア";
+$lang_nav_users = "ユーザー";
+$lang_nav_store = "ストアー";
 $lang_nav_blog = "ブログ";
 $lang_nav_pages = "ページ";
 $lang_nav_stats = "統計";
@@ -276,6 +278,7 @@ $lang_settings_wysiwyg = 'ブロックでのWYSIWYG編集を有効にする（�
 $lang_settings_upload = '許可されたファイルをアップロード';
 $lang_settings_upload_tooltip = 'カンマを使用してファイル拡張子を区切る';
 $lang_settings_wysiwygpages = 'ページでのWYSIWYG編集を有効にする（それ以外の場合はHTMLとMarkdown）';
+$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
 
 //// Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Made in Pulse';

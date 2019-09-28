@@ -54,6 +54,8 @@ $lang_nav_title = "Nawigacja";
 $lang_nav_home = "Start";
 $lang_nav_blocks = "Bloki";
 $lang_nav_img = "Media";
+$lang_nav_users = "Użytkownicy";
+$lang_nav_store = "Ecommerce";
 $lang_nav_blog = "Blog";
 $lang_nav_pages = "Strony";
 $lang_nav_stats = "Statystyki";
@@ -269,6 +271,7 @@ $lang_settings_wysiwyg = 'Włącz edytor WYSIWYG na Blokach (inaczej HTML i Mark
 $lang_settings_upload = 'Dozwolone, aby przesłać pliki';
 $lang_settings_upload_tooltip = 'Użyj przecinków, aby rozdzielić rozszerzenia plików';
 $lang_settings_wysiwygpages = 'Włącz edytor WYSIWYG na stronach (inaczej HTML i Markdown)';
+$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
 
 // Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Wykonane w Pulse';

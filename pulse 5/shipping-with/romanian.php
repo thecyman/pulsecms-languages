@@ -54,6 +54,8 @@ $lang_nav_title = "Navigare";
 $lang_nav_home = "Panou principal";
 $lang_nav_blocks = "Blocuri";
 $lang_nav_img = "Media";
+$lang_nav_users = "Utilizatori";
+$lang_nav_store = "Magazin";
 $lang_nav_blog = "Blog";
 $lang_nav_pages = "Pagini";
 $lang_nav_stats = "Statistici";
@@ -269,6 +271,7 @@ $lang_settings_wysiwyg = 'Permite editorul WYSIWYG pe Blocuri (altfel HTML si Ma
 $lang_settings_upload = 'Fisierele permise pentru incarcare(upload)';
 $lang_settings_upload_tooltip = 'Foloseste virgula pentru a separa extensiile pentru fisier';
 $lang_settings_wysiwygpages = 'Permite editorul WYSIWYG pe Pagini (altfel HTML si Markdown)';
+$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
 
 //// Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Creat in Pulse';

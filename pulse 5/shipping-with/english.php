@@ -54,6 +54,8 @@ $lang_nav_title = "Navigation";
 $lang_nav_home = "Dashboard";
 $lang_nav_blocks = "Blocks";
 $lang_nav_img = "Media";
+$lang_nav_users = "Users";
+$lang_nav_store = "Ecommerce";
 $lang_nav_blog = "Blog";
 $lang_nav_pages = "Pages";
 $lang_nav_stats = "Stats";
@@ -278,6 +280,7 @@ $lang_settings_wysiwyg = 'Enable WYSIWYG editor on Blocks (otherwise HTML and Ma
 $lang_settings_upload = 'Allowed files to upload';
 $lang_settings_upload_tooltip = 'Use comma to separate file extensions';
 $lang_settings_wysiwygpages = 'Enable WYSIWYG editor on Pages (otherwise HTML and Markdown)';
+$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
 
 //// Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Made in Pulse';
@@ -514,7 +517,7 @@ $lang_settings_log_viewer_log_content = 'Log entries';
 
 // Tags
 $lang_settings_title_tags = 'Tags';
-$lang_settings_manage_tags = 'Manage Tags';
+$lang_settings_manage_tags = 'Manage Tags Description';
 
 $lang_settings_tags_title = 'Manage the tags';
 $lang_settings_tags_subtitle = 'Add / Delete tags and descriptions.';

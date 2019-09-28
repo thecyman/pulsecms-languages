@@ -53,6 +53,8 @@ $lang_nav_title = "Navigace";
 $lang_nav_home = "Domů";
 $lang_nav_blocks = "Blok";
 $lang_nav_img = "Média";
+$lang_nav_users = "Uživatelé";
+$lang_nav_store = "Obchod";
 $lang_nav_blog = "Blog";
 $lang_nav_pages = "Stránky";
 $lang_nav_stats = "Statistiky";
@@ -268,6 +270,7 @@ $lang_settings_wysiwyg = 'Povolit WYSIWYG editor na blocích (jinak HTML a Markd
 $lang_settings_upload = 'Povolit soubory nahrát';
 $lang_settings_upload_tooltip = 'Použijte čárku pro oddělené přípony souborů';
 $lang_settings_wysiwygpages = 'Povolit editor WYSIWYG na stránkách (jinak HTML a Markdown)';
+$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
 
 // Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Vyrobeno v Pulse';

@@ -54,6 +54,8 @@ $lang_nav_title = "Navigation";
 $lang_nav_home = "Dashboard";
 $lang_nav_blocks = "Blöcke";
 $lang_nav_img = "Medien";
+$lang_nav_users = "Benutzer";
+$lang_nav_store = "Ecommerce";
 $lang_nav_blog = "Blog";
 $lang_nav_pages = "Seiten";
 $lang_nav_stats = "Statistik";
@@ -279,6 +281,7 @@ $lang_settings_wysiwyg = 'WYSIWYG Editor in Blöcken einschalten (ansonsten HTML
 $lang_settings_upload = 'Erlaubte Dateien für den Upload';
 $lang_settings_upload_tooltip = 'Benutze Komma und die Dateiendungen zu separieren';
 $lang_settings_wysiwygpages = 'WYSIWYG Editor in Seiten einschalten (ansonsten HTML und Markdown)';
+$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
 
 //// Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Made in Pulse';

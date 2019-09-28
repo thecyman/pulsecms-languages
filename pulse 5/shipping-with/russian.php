@@ -54,6 +54,8 @@ $lang_nav_title = "Навигация";
 $lang_nav_home = "Панель управления";
 $lang_nav_blocks = "Блоки";
 $lang_nav_img = "Медиа";
+$lang_nav_users = "пользователей";
+$lang_nav_store = "хранить";
 $lang_nav_blog = "Блог";
 $lang_nav_pages = "Страницы";
 $lang_nav_stats = "Статистика";
@@ -278,6 +280,7 @@ $lang_settings_wysiwyg = 'Включить WYSIWYG редактор в Блок�
 $lang_settings_upload = 'Позволить загружать файлы';
 $lang_settings_upload_tooltip = 'Используйте запятую для разделения расширений файлов';
 $lang_settings_wysiwygpages = 'Включить WYSIWYG редактор в Страницах (в противном случае HTML and Markdown)';
+$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
 
 //// Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Сделано на Pulse';

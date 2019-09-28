@@ -54,6 +54,8 @@ $lang_nav_title = "Navigáció";
 $lang_nav_home = "Főoldal";
 $lang_nav_blocks = "Blokkok";
 $lang_nav_img = "Média";
+$lang_nav_users = "Felhasználók";
+$lang_nav_store = "E-kereskedelem";
 $lang_nav_blog = "Blog";
 $lang_nav_pages = "Oldalak";
 $lang_nav_stats = "Statisztikák";
@@ -269,6 +271,7 @@ $lang_settings_wysiwyg = 'Engedélyezze a WYSIWYG szerkesztőt blokkokra (egyéb
 $lang_settings_upload = 'Engedélyezett fájlok feltöltéséhez';
 $lang_settings_upload_tooltip = 'Használjon vesszőt a fájlkiterjesztések szétválasztásához';
 $lang_settings_wysiwygpages = 'Engedélyezze a WYSIWYG szerkesztőt a lapokon (egyébként HTML és Markdown)';
+$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
 
 // Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Készült a Pulseba';
