@@ -271,7 +271,7 @@ $lang_settings_wysiwyg = 'V Blokoch povoliť WYSIWYG editor (inak HTML a Markdow
 $lang_settings_upload = 'Povolené súbory na nahrávanie';
 $lang_settings_upload_tooltip = 'Použite čiarku na oddelenie prípony súborov';
 $lang_settings_wysiwygpages = 'V Stránkach povoliť WYSIWYG editor (inak HTML a Markdown)';
-$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
+$lang_settings_integrate_rapidweaver = 'Integrovať RapidWeaver';
 
 // Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Vyrobené v Pulse';
@@ -535,6 +535,7 @@ $lang_settings_user_list_error_no_group = 'Pridajte používateľskú skupinu k 
 // Unishop
 $lang_settings_unishop_title = 'Pulse Obchod';
 $lang_settings_unishop_update = 'Spravujte svoj obchod';
+$lang_settings_integrate_ecommerce = 'Integrovať obchod';
 
 // Search
 $lang_search_title = 'Vyhľadávanie';

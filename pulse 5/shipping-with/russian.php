@@ -280,7 +280,7 @@ $lang_settings_wysiwyg = 'Включить WYSIWYG редактор в Блок�
 $lang_settings_upload = 'Позволить загружать файлы';
 $lang_settings_upload_tooltip = 'Используйте запятую для разделения расширений файлов';
 $lang_settings_wysiwygpages = 'Включить WYSIWYG редактор в Страницах (в противном случае HTML and Markdown)';
-$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
+$lang_settings_integrate_rapidweaver = 'интегрировать RapidWeaver';
 
 //// Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Сделано на Pulse';
@@ -563,6 +563,7 @@ $lang_settings_user_list_error_no_group = 'Пожалуйста, добавьт�
 // Unishop
 $lang_settings_unishop_title = 'Pulse коммерция';
 $lang_settings_unishop_update = 'Управляйте своим магазином';
+$lang_settings_integrate_ecommerce = 'интегрировать коммерцию';
 
 // Search
 $lang_search_title = 'Поиск';

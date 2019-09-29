@@ -278,7 +278,7 @@ $lang_settings_wysiwyg = 'ブロックでのWYSIWYG編集を有効にする（�
 $lang_settings_upload = '許可されたファイルをアップロード';
 $lang_settings_upload_tooltip = 'カンマを使用してファイル拡張子を区切る';
 $lang_settings_wysiwygpages = 'ページでのWYSIWYG編集を有効にする（それ以外の場合はHTMLとMarkdown）';
-$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
+$lang_settings_integrate_rapidweaver = 'RapidWeaverを統合する';
 
 //// Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Made in Pulse';
@@ -561,6 +561,7 @@ $lang_settings_user_list_error_no_group = '新しいユーザーにユーザー�
 // Unishop
 $lang_settings_unishop_title = 'Pulseのストアー';
 $lang_settings_unishop_update = 'あなたの店を管理する';
+$lang_settings_integrate_ecommerce = 'ストアーを統合する';
 
 // Search
 $lang_search_title = '検索';

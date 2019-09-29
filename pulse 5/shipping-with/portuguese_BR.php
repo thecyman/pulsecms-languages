@@ -280,7 +280,7 @@ $lang_settings_wysiwyg = 'Habilitar o editor WYSIWYG nos blocos (se não usar HT
 $lang_settings_upload = 'Arquivos permitidos para upload';
 $lang_settings_upload_tooltip = 'Usar vírgula para separar extensões de arquivo';
 $lang_settings_wysiwygpages = 'Habilitar o editor WYSIWYG nas páginas (se não usar HTML e Markdown)';
-$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
+$lang_settings_integrate_rapidweaver = 'Integrar RapidWeaver';
 
 //// Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Feito no Pulse';
@@ -562,6 +562,7 @@ $lang_settings_user_list_error_no_group = 'Por favor, adicione um grupo de usuá
 // Unishop
 $lang_settings_unishop_title = 'Pulse Comércio';
 $lang_settings_unishop_update = 'Gerenciar sua loja';
+$lang_settings_integrate_ecommerce = 'Integrar comércio';
 
 // Search
 $lang_search_title = 'Buscar';

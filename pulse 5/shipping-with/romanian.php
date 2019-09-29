@@ -271,7 +271,7 @@ $lang_settings_wysiwyg = 'Permite editorul WYSIWYG pe Blocuri (altfel HTML si Ma
 $lang_settings_upload = 'Fisierele permise pentru incarcare(upload)';
 $lang_settings_upload_tooltip = 'Foloseste virgula pentru a separa extensiile pentru fisier';
 $lang_settings_wysiwygpages = 'Permite editorul WYSIWYG pe Pagini (altfel HTML si Markdown)';
-$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
+$lang_settings_integrate_rapidweaver = 'Integrează RapidWeaver';
 
 //// Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Creat in Pulse';
@@ -536,6 +536,7 @@ $lang_settings_user_list_error_no_group = 'Adăugați un grup de utilizatori unu
 // Unishop
 $lang_settings_unishop_title = 'Pulse Comerţ';
 $lang_settings_unishop_update = 'Gestionați-vă magazinul';
+$lang_settings_integrate_ecommerce = 'Integrează comerțul';
 
 // Search
 $lang_search_title = 'Cauta';

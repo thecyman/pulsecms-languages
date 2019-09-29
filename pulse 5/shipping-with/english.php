@@ -563,6 +563,7 @@ $lang_settings_user_list_error_no_group = 'Please add a user group to the new us
 // Unishop
 $lang_settings_unishop_title = 'Pulse Commerce';
 $lang_settings_unishop_update = 'Manage your store';
+$lang_settings_integrate_ecommerce = 'Integrate Commerce';
 
 // Search
 $lang_search_title = 'Search';

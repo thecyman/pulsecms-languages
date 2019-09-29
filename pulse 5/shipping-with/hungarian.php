@@ -271,7 +271,7 @@ $lang_settings_wysiwyg = 'Engedélyezze a WYSIWYG szerkesztőt blokkokra (egyéb
 $lang_settings_upload = 'Engedélyezett fájlok feltöltéséhez';
 $lang_settings_upload_tooltip = 'Használjon vesszőt a fájlkiterjesztések szétválasztásához';
 $lang_settings_wysiwygpages = 'Engedélyezze a WYSIWYG szerkesztőt a lapokon (egyébként HTML és Markdown)';
-$lang_settings_integrate_rapidweaver = 'Integrate RapidWeaver';
+$lang_settings_integrate_rapidweaver = 'Integrálja a RapidWeaver';
 
 // Settings: Made in Pulse
 $lang_settings_title_made_in_pulse = 'Készült a Pulseba';
@@ -535,6 +535,7 @@ $lang_settings_user_list_error_no_group = 'Adjon hozzá egy felhasználói csopo
 // Unishop
 $lang_settings_unishop_title = 'Pulse Kereskedelem';
 $lang_settings_unishop_update = 'Kezelje üzletét';
+$lang_settings_integrate_ecommerce = 'Integrálja a kereskedelmet';
 
 // Search
 $lang_search_title = 'Keresés';
