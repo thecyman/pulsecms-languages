@@ -197,10 +197,10 @@ $lang_stats_thisweek = "This Week";
 $lang_stats_todays_stats = "Today";
 $lang_stats_nodata = "No Data";
 
-$lang_stats_browsers  = "browsers";
-$lang_stats_countries = "countries";
-$lang_stats_devices   = "devices";
-$lang_stats_systems   = "systems";
+$lang_stats_browsers  = "Browsers";
+$lang_stats_countries = "Countries";
+$lang_stats_devices   = "Devices";
+$lang_stats_systems   = "Systems";
 
 // Sweet Alert
 $lang_sweetalert_ok    = "OK";
