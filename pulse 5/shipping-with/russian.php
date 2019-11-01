@@ -169,6 +169,14 @@ $lang_form_email_sent = 'Email был отправлен';
 $lang_form_sent_button = 'Послать';
 $lang_auto_thank_contact = 'Спасибо, что послали мне Email - мы ответим в ближайшее время и получили ваш адрес электронной почты';
 
+$lang_form_error_recapcha = 'ReCAPTCHA не удалось';
+
+$lang_form_comment = 'Комментарий';
+$lang_form_gdpr    = 'GDPR';
+$lang_form_phone   = 'Телефон';
+$lang_form_name    = 'имя';
+$lang_form_email   = 'Электронное письмо';
+
 // Mailchimp
 $lang_mailchimp_subscribe_label = 'Подпишитесь на нашу почтовую рассылку';
 $lang_mailchimp_email_address   = 'Адрес электронной почты';

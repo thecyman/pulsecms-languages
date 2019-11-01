@@ -167,6 +167,14 @@ $lang_form_email_sent = '送信されました';
 $lang_form_sent_button = '送信';
 $lang_auto_thank_contact = 'お問い合わせを受け付けました。順番に確認し、折り返しご連絡を差し上げます。今暫くお待ち頂きますよう、よろしくお願い申し上げます。';
 
+$lang_form_error_recapcha = 'reCAPTCHAが失敗しました';
+
+$lang_form_comment = 'コメント';
+$lang_form_gdpr    = 'GDPR';
+$lang_form_phone   = '電話';
+$lang_form_name    = '名前';
+$lang_form_email   = 'Eメール';
+
 // Mailchimp
 $lang_mailchimp_subscribe_label = '私たちのメーリングリストに登録する';
 $lang_mailchimp_email_address   = 'メールアドレス';

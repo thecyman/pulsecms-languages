@@ -165,24 +165,32 @@ $lang_form_error1 = 'Por favor complete el campo';
 $lang_form_error2a = 'Su campo ';
 $lang_form_error2b = ' es demasiado largo.';
 $lang_form_subject_line = 'Contacto';
-$lang_form_email_sent = 'Correo electrónico enviado';
+$lang_form_email_sent = 'Email enviado';
 $lang_form_sent_button = 'Enviar';
-$lang_auto_thank_contact = 'Gracias por enviar el correo electrónico - Te responderemos en cuanto lo recibamos';
+$lang_auto_thank_contact = 'Gracias por enviar el Email - Te responderemos en cuanto lo recibamos';
+
+$lang_form_error_recapcha = 'reCAPTCHA falló';
+
+$lang_form_comment = 'Comentario';
+$lang_form_gdpr    = 'GDPR';
+$lang_form_phone   = 'Teléfono';
+$lang_form_name    = 'Nombre';
+$lang_form_email   = 'Email';
 
 // Mailchimp
 $lang_mailchimp_subscribe_label = 'Suscríbase a nuestra lista de correo';
-$lang_mailchimp_email_address   = 'Dirección de correo electrónico';
+$lang_mailchimp_email_address   = 'Dirección de Email';
 $lang_mailchimp_subscribe       = 'Suscribir';
 
 //Newsletter Form
 $lang_newsletter_thanks ='¡Gracias!';
 $lang_newsletter_try_again ='Inténtalo de nuevo';
-$lang_newsletter_placeholder ='Ingresar correo electrónico';
+$lang_newsletter_placeholder ='Ingresar Email';
 $lang_newsletter_send ='Registrarse';
 
 // Redactor
-$lang_redactor_mail_button     = 'Añadir una dirección de correo electrónico';
-$lang_redactor_mail_link_title = 'Enviarme un correo electrónico';
+$lang_redactor_mail_button     = 'Añadir una dirección de Email';
+$lang_redactor_mail_link_title = 'Enviarme un Email';
 
 // Stats
 $lang_stats_today = "Visitantes";
@@ -243,7 +251,7 @@ $lang_settings_admin_tooltip = 'Nombre de la carpeta de administración';
 $lang_settings_password = 'Contraseña';
 $lang_settings_password_tooltip = 'Algo difícil de adivinar';
 $lang_settings_backup_tooltip = 'Copia de seguridad automática del sitio';
-$lang_settings_backupemail = 'Correo electrónico de respaldo';
+$lang_settings_backupemail = 'Email de respaldo';
 $lang_settings_backupemail_tooltip = 'Lugar para enviar la copia de seguridad';
 $lang_settings_time = 'Zona horaria predeterminada';
 $lang_settings_language = 'Idioma';
@@ -403,7 +411,7 @@ $lang_settings_formtextarea_tooltip = 'Número de filas en el comentario del Ár
 $lang_settings_formemail = 'Destinatario del formulario';
 $lang_settings_formemail_tooltip = 'Separa múltiples destinatarios por una coma';
 $lang_settings_formsubject = 'Asunto del formulario';
-$lang_settings_formsubject_tooltip = 'Has recibido un correo electrónico';
+$lang_settings_formsubject_tooltip = 'Has recibido un Email';
 $lang_settings_formthanks = 'Habilitar la respuesta automática de agradecimientos después del envío';
 $lang_settings_formredirect = 'Redirección del envío';
 $lang_settings_formredirect_tooltip = 'http://yoursite.com/thanks';

@@ -160,6 +160,14 @@ $lang_form_email_sent = 'E-mail byl odeslán';
 $lang_form_sent_button = 'Odeslat';
 $lang_auto_thank_contact = 'Děkuji za zaslání e-mailu! Na Váš e-mail odpovím jakmile to bude možné.';
 
+$lang_form_error_recapcha = 'reCAPCHA selhal';
+
+$lang_form_comment = 'Komentáře';
+$lang_form_gdpr    = 'GDPR';
+$lang_form_phone   = 'Telefon';
+$lang_form_name    = 'Název';
+$lang_form_email   = 'E-mailem';
+
 // Mailchimp
 $lang_mailchimp_subscribe_label = 'Přihlaste se k našemu mailing listu';
 $lang_mailchimp_email_address   = 'Emailová adresa';

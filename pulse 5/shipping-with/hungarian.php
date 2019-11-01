@@ -161,9 +161,17 @@ $lang_form_email_sent = 'Az e-mail elküldése';
 $lang_form_sent_button = 'Küldés';
 $lang_auto_thank_contact = 'Köszönjük, hogy küldött nekem egy e-mailt - hamarosan válaszolunk.';
 
+$lang_form_error_recapcha = 'A reCAPTCHA sikertelen';
+
+$lang_form_comment = 'Megjegyzés';
+$lang_form_gdpr    = 'GDPR';
+$lang_form_phone   = 'Telefon';
+$lang_form_name    = 'Név';
+$lang_form_email   = 'E-mail';
+
 // Mailchimp
 $lang_mailchimp_subscribe_label = 'Iratkozzon fel levelezőlistára';
-$lang_mailchimp_email_address   = 'Email cím';
+$lang_mailchimp_email_address   = 'E-mail cím';
 $lang_mailchimp_subscribe       = 'Iratkozz fel';
 
 // Newsletter Form - Hírlevél űrlap

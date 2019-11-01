@@ -169,6 +169,14 @@ $lang_form_email_sent = 'O email foi enviado';
 $lang_form_sent_button = 'Enviar';
 $lang_auto_thank_contact = 'Obrigado por me enviar um email - vamos responder em breve';
 
+$lang_form_error_recapcha = 'reCAPTCHA falhou';
+
+$lang_form_comment = 'Comente';
+$lang_form_gdpr    = 'GDPR';
+$lang_form_phone   = 'Telefone';
+$lang_form_name    = 'Nome';
+$lang_form_email   = 'O email';
+
 // Mailchimp
 $lang_mailchimp_subscribe_label = 'Assine nossa lista de discussão';
 $lang_mailchimp_email_address   = 'Endereço de e-mail';

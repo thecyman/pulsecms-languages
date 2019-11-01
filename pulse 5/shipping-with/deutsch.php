@@ -170,6 +170,14 @@ $lang_form_email_sent = 'Deine E-Mail wurde gesendet.';
 $lang_form_sent_button = 'Abschicken';
 $lang_auto_thank_contact = 'Danke für Deine E-Mail - Wir haben diese empfangen und werden Dir bald antworten.';
 
+$lang_form_error_recapcha = 'reCAPCHA gescheitert';
+
+$lang_form_comment = 'Kommentar';
+$lang_form_gdpr    = 'GDPR';
+$lang_form_phone   = 'Telefon';
+$lang_form_name    = 'Name';
+$lang_form_email   = 'E-Mail';
+
 // Mailchimp
 $lang_mailchimp_subscribe_label = 'Abonnieren Sie unsere Mailing-Liste';
 $lang_mailchimp_email_address   = 'E-Mail-Addresse';
@@ -493,7 +501,7 @@ $lang_settings_title_custompostedit = 'Eigener Post Typ für:';
 $lang_settings_custompostback = '< Zurück zur Liste';
 $lang_settings_custompostname = 'Name des Post';
 
-$lang_settings_custompostdelete = 'eigener Post Typ';
+$lang_settings_custompostdelete = 'Eigener Post Typ';
 
 $lang_settings_custompostaddentry = 'Eigener Post Typ anlegen für:';
 

@@ -162,9 +162,17 @@ $lang_form_error1 = 'Vul aub dit veld in ';
 $lang_form_error2a = 'Je tekstveld ';
 $lang_form_error2b = ' is te lang.';
 $lang_form_subject_line = 'Contact';
-$lang_form_email_sent = 'Email verzonden';
+$lang_form_email_sent = 'E-Mail verzonden';
 $lang_form_sent_button = 'Verstuur';
 $lang_auto_thank_contact = 'Bedankt voor het versturen van je mail - we nemen zsm contact met je op.';
+
+$lang_form_error_recapcha = 'reCAPCHA is mislukt';
+
+$lang_form_comment = 'Commentaar';
+$lang_form_gdpr    = 'GDPR';
+$lang_form_phone   = 'Telefoon';
+$lang_form_name    = 'Naam';
+$lang_form_email   = 'E-Mail';
 
 // Mailchimp
 $lang_mailchimp_subscribe_label = 'Abonneer u op onze mailinglijst';

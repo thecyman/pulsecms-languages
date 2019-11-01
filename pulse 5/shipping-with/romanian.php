@@ -161,6 +161,14 @@ $lang_form_email_sent = 'Email-ul a fost trimis';
 $lang_form_sent_button = 'Trimite';
 $lang_auto_thank_contact = 'Iti multumesc pentru email - acesta a fost primit si vom raspunde in curand';
 
+$lang_form_error_recapcha = 'reCAPTCHA a eșuat';
+
+$lang_form_comment = 'Cometariu';
+$lang_form_gdpr    = 'GDPR';
+$lang_form_phone   = 'Telefon';
+$lang_form_name    = 'Nume';
+$lang_form_email   = 'E-mail';
+
 // Mailchimp
 $lang_mailchimp_subscribe_label = 'Abonați-vă la lista noastră de difuzare';
 $lang_mailchimp_email_address   = 'Adresa de email';
