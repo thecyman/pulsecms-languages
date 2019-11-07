@@ -345,6 +345,7 @@ $lang_settings_blogdate_tooltip = 'Format PHP al datei. Pentru mai multe detalii
 $lang_settings_blog_flag_reverse = 'Inversă ordinea listei de bloguri'; 
 $lang_settings_blogmasonry = 'Activeaza schema pt Blog de tip zidarie (masonry layout)';
 $lang_settings_blog_blog_flag_show_link = 'Afișați linkul către conținutul blogului';
+$lang_settings_blog_blog_flag_show_teaser_image = 'Afișează imaginea de previzualizare';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';

@@ -345,6 +345,7 @@ $lang_settings_blogdate_tooltip = 'PHP dátumformátum. További információk: 
 $lang_settings_blog_flag_reverse = 'Fordított blog lista sorrendje';
 $lang_settings_blogmasonry = 'Engedélyezze a blog masonry elrendezését';
 $lang_settings_blog_blog_flag_show_link = 'Link megjelenítése a blog tartalmához';
+$lang_settings_blog_blog_flag_show_teaser_image = 'Az előnézeti kép megjelenítése';
 
 // Settings: RSS
 $lang_settings_title_rss = 'RSS';

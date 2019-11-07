@@ -345,6 +345,7 @@ $lang_settings_blogdate_tooltip = 'PHP formát dátumu. Viac informácií nájde
 $lang_settings_blog_flag_reverse = 'Vzostupné poradie zoznamu blogov'; 
 $lang_settings_blogmasonry = 'V Blogu povoliť masonry rozloženie';
 $lang_settings_blog_blog_flag_show_link = 'Zobraziť odkaz na obsah blogu';
+$lang_settings_blog_blog_flag_show_teaser_image = 'Zobraziť ukážku obrázka';
 
 // Settings: RSS
 $lang_settings_title_rss = 'RSS';

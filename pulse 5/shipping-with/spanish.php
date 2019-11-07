@@ -355,6 +355,7 @@ $lang_settings_blogdate_tooltip = 'Formato de fecha PHP. Para más información,
 $lang_settings_blog_flag_reverse = 'Orden de lista de blog inversa'; 
 $lang_settings_blogmasonry = 'Habilitar libreria mansory en el blog';
 $lang_settings_blog_blog_flag_show_link = 'Mostrar enlace al contenido del blog';
+$lang_settings_blog_blog_flag_show_teaser_image = 'Mostrar imagen de vista previa';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';

@@ -355,6 +355,7 @@ $lang_settings_blogdate_tooltip = 'PHP формат даты. Более под�
 $lang_settings_blog_flag_reverse = 'обратный порядок в блоге'; 
 $lang_settings_blogmasonry = 'Включить masonry макет для Блога';
 $lang_settings_blog_blog_flag_show_link = 'Показать ссылку на содержимое блога';
+$lang_settings_blog_blog_flag_show_teaser_image = 'Показать изображение предварительного просмотра';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';

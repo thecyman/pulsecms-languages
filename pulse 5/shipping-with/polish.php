@@ -345,6 +345,7 @@ $lang_settings_blogdate_tooltip = 'Format daty PHP. Więcej informacji: https://
 $lang_settings_blog_flag_reverse = 'Odwrócona kolejność lista blog';
 $lang_settings_blogmasonry = 'Włącz Blog układ masonry';
 $lang_settings_blog_blog_flag_show_link = 'Pokaż link do treści bloga';
+$lang_settings_blog_blog_flag_show_teaser_image = 'Wyświetl podgląd obrazu';
 
 // Settings: RSS
 $lang_settings_title_rss = 'RSS';

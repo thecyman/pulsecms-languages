@@ -355,6 +355,7 @@ $lang_settings_blogdate_tooltip = 'PHP date format. For more see: https://php.ne
 $lang_settings_blog_flag_reverse = 'Reverse blog list order'; 
 $lang_settings_blogmasonry = 'Enable Blog masonry layout';
 $lang_settings_blog_blog_flag_show_link = 'Show link to blog content';
+$lang_settings_blog_blog_flag_show_teaser_image = 'Show the teaser image';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';

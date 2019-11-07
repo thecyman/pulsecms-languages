@@ -353,6 +353,7 @@ $lang_settings_blogdate_tooltip = 'PHPの日付形式. 例えば: https://php.ne
 $lang_settings_blog_flag_reverse = 'ブログリストの逆順'; 
 $lang_settings_blogmasonry = 'BlogのMasonryのレイアウトを有効にする';
 $lang_settings_blog_blog_flag_show_link = 'ブログ記事からのリンク';
+$lang_settings_blog_blog_flag_show_teaser_image = 'プレビュー画像を表示する';
 
 //// Settings: RSS
 $lang_settings_title_rss = 'RSS';
