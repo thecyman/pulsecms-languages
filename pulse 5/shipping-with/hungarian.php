@@ -572,3 +572,82 @@ $lang_open_meta_searchable = 'Mutassa be a keresést';
 $lang_update_title = 'Frissítse az impulzus-telepítést';
 $lang_update_title_sub = 'Töltse fel az új Pulse zip fájlt';
 $lang_update_button = 'Frissítés';
+
+# Plugin & Tags Page
+$lang_plugins_tags = (object)[
+	'menu' => 'Plugins segítenek',
+	'page' => (object)[
+		'title' => 'Telepített plug-inek',
+		'plugin_title' => 'Dugó',
+		'tag_title' => 'Címkék',
+		'default_description' => 'No information available for this item',
+		'plugins' => (object)[
+			'drop'           => 'Drag and drop plugin',
+			'unishop'        => 'Store',
+			'unishop_editor' => 'Edit Store data',
+			'disqus'         => 'Commenting',
+			'ogp'            => 'Social META Data',
+			'parsedown'      => 'Markdown parser'
+		],
+		
+		'tags' => (object)[
+			'at' => 'Hide mail addresses (Redactor)',
+			'block' => 'Show a block - {{block}}',
+			'block_loop' => 'Show all blocks in a folder',
+			'blog' => 'Show a blog - {{blog}}',
+			'blog-content-loop' => 'Create your Blog layout - {{blog}} {{featured-image}} {{blog-content-loop}} {{blog-item-author}} {{blog-item-date}} {{blog-item-featured-image}} {{blog-item-title}} {{blog-item-content}} {{/blog-content-loop}} {{/blog}}',
+			'blog-item-author' => 'Blog item author block',
+			'blog-item-content' => 'Blog item content block',
+			'blog-item-date' => 'Blog item date block',
+			'blog-item-featured_image' => 'Blog item featured image',
+			'blog-item-tag' => 'Blog item tags',
+			'blog-item-title' => 'Blog item title block',
+			'blog-list' => 'List Blog posts - {{blog-list}}',
+			'blog-show' => 'Arrange Blog items in detail - {{blog-show}}',
+			'blog-tags' => 'Show blog tags - {{blog-tags}}',
+			'breadcrumb' => 'Show site breadcrumbs - {{breadcrumb}}',
+			'cookieconsent' => 'Show consent to track cookies - {{cookieconsent:#000:#f1d600:edgeless:bottom:www.pulsecms.com}}',
+			'custom_post_type' => 'Show a custom post type object - {{custom_post_type:book/hercules}}',
+			'domain' => 'Show the current domain. Useful for links - {{domain}}',
+			'dropzone' => 'Add a dropzone upload handler area - {{dropzone:media/gallery1}}',
+			'email-list' => 'Collect emails - {{email-list}}',
+			'endpoint' => 'Create a link to a block (Block embed option)',
+			'featured-image' => 'Show featured image for a blog post',
+			'form' => 'Contact form - {{form}}',
+			'gal' => 'Gallery tag - {{gal:galname}} or {{gal:gallery1:5:yes}}',
+			'gdpr' => 'Show GDPR tracking consent - {{gdpr:additional text}}',
+			'googlemaps' => 'Google maps tag - {{googlemaps:address=brooklyn children museum-new york-usa,width=600,height=300,zoom=12}}',
+			'justforms' => 'Just forms - {{justforms:formid:height}}',
+			'link' => 'Directly lnk to a blog/page - {{link:page/animal/hippo}}    {{link:blog/1}}',
+			'localizer' => 'Locale (translation) aware Blocks - {{localizer:block}}',
+			'localizer_init' => 'Save locale in session',
+			'mailchimp' => 'Email form via MailChimp API - {{mailchimp:user:formid}}',
+			'masonry' => 'Gallery tag using masonry layout - {{masonry:galname}}',
+			'media_player' => 'Show a media player for audio/video media - {{media_player://domain.com/content/media/CheersThemeTune.mp3:audio/mp3:audio}}    {{media_player://domain.com/content/media/rotate_set.mov:video/mp4:video:400:300}}',
+			'navigation' => 'Navigation bar (Settings)',
+			'navigation_logged_in' => 'Navigation bar for logged in users (Settings)',
+			'ogp' => 'OGP - make sure to add the tag in the Template file',
+			'page_list' => 'Show a list of pages - {{page_list}}',
+			'paypal' => 'Paypal integration - {{paypal:email@domain.com:USD:site.com/success:site.com/cancel:Buy with:20:Polo Shirt}}',
+			'picture' => 'Show an image from the media folder',
+			'policy' => 'Show the privacy policy - {{policy:company:location:date}}',
+			'recentposts' => 'Show blog recent posts - {{recentposts:"10":"blog/another"}}',
+			'recentposts_visual' => 'Show blog recent posts with embedded images - {{recentposts_visual:"limit":"location":"no_date":"limit text"}}',
+			'sb_block' => 'Allow code in a Block -  {{sb_block:name}}',
+			'sb_localizer' => 'Locale specific SuperBlock - {{sb_localizer}}',
+			'sb_login' => 'Control access to a page - {{sb_login:password:sharedsecret:blockname:errormessage}}',
+			'search' => 'Show search form and data - {{search}}',
+			'show_var' => 'Show a link path - {{show_var:path}} e.g. {{show_var:path}}/privacy as the link to your Privacy page',
+			'slide' => 'Show a gallery as a slide show - {{slide:galname}}',
+			'social' => 'Social share buttons - {{social}}',
+			'stripe' => 'Stripe API integration - {{stripe:pk_live123456789:sku_123456789:site.com/success:site.com/cancel:Buy Now}} ',
+			'social_exposure' => 'Show social media META images - place in media/opengraph directory',
+			'teaser_image' => 'Show a blog teaser image - option in Settings',
+			'theme_css' => 'Show page CSS - option in Settings',
+			'theme_js' => 'Show page JS - option in Settings',
+			'theme_js_body' => 'Show page JS (in body) - option in Settings',
+			'thumbs' => 'Show media thumbnails - {{thumbs:galname}}',
+			'unishop' => 'Display Store info - {{unishop:"test@this.that":"USD":"$":"US":"0":"/paypal_ok":"/paypal_cancel"}}'
+		]
+	]
+];
